@@ -1,0 +1,37 @@
+
+[sugar_cane]
+	#If set to FALSE, the sugar cane will use the vanilla behaviour.
+	Enable = true
+	#Sets the maximum height the sugar cane can grow to.
+	#Range: 0 ~ 255
+	MaxHeight = 3
+	#Sets the maximum age value the sugar cane will grow to.
+	#Range: 0 ~ 15
+	MaxAge = 15
+	#If set to TRUE, the growth system will behave similar to kelp, instead of behaving similar to vanilla sugar cane.
+	KelpLikeGrowth = false
+	#If KelpLikeGrowth is TRUE, this value indicates the chance the sugar cane will grow.
+	#Range: 0.0 ~ 1.0
+	KelpLikeGrowthChance = 0.075
+	#If KelpLikeGrowth is TRUE, this value indicates the chance the top sugar cane age will increase when growing.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	KelpLikeAgeChance = 0.75
+
+[cactus]
+	#If set to FALSE, the cactus will use the vanilla behaviour.
+	Enable = true
+	#Sets the maximum height the cactus can grow to.
+	#Range: 0 ~ 255
+	MaxHeight = 3
+	#Sets the maximum age value the cactus will grow to.
+	#Range: 0 ~ 15
+	MaxAge = 15
+	#If set to TRUE, the growth system will behave similar to kelp, instead of behaving similar to vanilla cactus.
+	KelpLikeGrowth = false
+	#If KelpLikeGrowth is TRUE, this value indicates the chance the cactus will grow.
+	#Range: 0.0 ~ 1.0
+	KelpLikeGrowthChance = 0.075
+	#If KelpLikeGrowth is TRUE, this value indicates the chance the top cactus age will increase when growing.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	KelpLikeAgeChance = 0.75
+
