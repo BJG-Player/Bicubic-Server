@@ -1,1317 +1,1031 @@
 {
-  "ars_nouveau:recipes/ars_nouveau/alchemical_sourcelink": {
+  "cfm:recipes/cfm/spruce_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/red_archwood_wood": {
+  "cfm:recipes/cfm/stripped_oak_kitchen_sink_light": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_elemental:recipes/ars_nouveau/tablet_ritual_tesla_coil": {
+  "cfm:recipes/cfm/white_kitchen_sink": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_9": {
+  "cfm:recipes/cfm/lime_cooler": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_8": {
+  "create:wrench_goggles": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "0": "2024-05-19 14:57:17 +0200",
+      "1": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/source_berry_roll": {
+  "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_light": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_7": {
+  "minecraft:recipes/redstone/lever": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_cobblestone": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_6": {
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_cobblestone": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooking/beetroot_soup": {
+  "cfm:recipes/cfm/white_cooler": {
     "criteria": {
-      "has_beetroot": "2024-05-19 12:15:57 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_5": {
+  "cfm:recipes/cfm/acacia_mail_box": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_20": {
+  "cfm:recipes/cfm/warped_mail_box": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/ritual_conjure_island_plains": {
+  "cfm:recipes/cfm/yellow_cooler": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/stripped_red_archwood_wood": {
+  "cfm:recipes/cfm/stripped_crimson_mail_box": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_21": {
+  "cfm:recipes/cfm/stripped_crimson_kitchen_sink_light": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_4": {
+  "cfm:recipes/cfm/birch_kitchen_sink_light": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_3": {
+  "cfm:recipes/cfm/stripped_mangrove_kitchen_sink_light": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_2": {
+  "cfm:recipes/cfm/red_kitchen_sink": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_1": {
+  "cfm:recipes/cfm/stripped_warped_kitchen_sink_dark": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/ritual_disintegration": {
+  "cfm:recipes/cfm/stripped_oak_kitchen_sink_dark": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_17": {
+  "cfm:recipes/cfm/crimson_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/sky_block": {
+  "cfm:recipes/cfm/stripped_warped_mail_box": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_18": {
+  "cfm:recipes/cfm/stripped_birch_kitchen_sink_light": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_19": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_planks": "2024-05-19 15:09:12 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/building_blocks/manipulation_essence_to_calcite": {
+  "cfm:recipes/cfm/stripped_spruce_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/ritual_challenge": {
+  "cfm:recipes/cfm/pink_cooler": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/lava_lily": {
+  "cfm:recipes/cfm/magenta_kitchen_sink": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/sourceberry_to_purple": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_lots_of_items": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/allow_scroll": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "diamond_helmet": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/stripped_purple_archwood_wood": {
+  "cfm:recipes/cfm/stripped_birch_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/falseweave": {
+  "cfm:recipes/cfm/cyan_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/mundane_belt": {
+  "cfm:recipes/cfm/crimson_kitchen_sink_dark": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/green_sbed": {
+  "cfm:recipes/cfm/fridge_dark": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/archwood_fence_gate": {
+  "cfm:recipes/cfm/stripped_jungle_mail_box": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/sunrise_2": {
+  "cfm:recipes/cfm/blue_cooler": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
+  "byg:recipes/byg.byg/cherry_slab": {
     "criteria": {
-      "has_any_ingredient": "2024-05-19 12:15:57 +0000"
+      "has_planks": "2024-05-19 15:09:12 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/volcanic_sourcelink": {
+  "minecraft:recipes/misc/stick": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_planks": "2024-05-19 15:09:12 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/ritual_cloudshaping": {
+  "cfm:recipes/cfm/mangrove_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
+  "byg:recipes/byg.byg/cherry_bookshelf": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_planks": "2024-05-19 15:09:12 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/blue_sbed": {
+  "cfm:recipes/cfm/acacia_kitchen_sink_light": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_basketweave_to_sourcestone": {
+  "byg:recipes/byg.byg/cherry_boat": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_planks": "2024-05-19 15:09:12 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/scribes_table": {
+  "cfm:recipes/cfm/mangrove_mail_box": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/ring_of_potential": {
+  "cfm:recipes/cfm/blue_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
+  "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
-      "has_beetroot": "2024-05-19 12:15:57 +0000"
+      "has_cobblestone": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/building_blocks/conjuration_essence_to_soul_sand": {
+  "cfm:recipes/cfm/cyan_kitchen_sink": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/archwood_fence": {
+  "cfm:recipes/cfm/green_cooler": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/ritual_containment": {
+  "cfm:recipes/cfm/pink_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/arcane_core": {
+  "cfm:recipes/cfm/lime_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/water_essence_to_bucket": {
+  "cfm:recipes/cfm/crimson_kitchen_sink_light": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "cfm:recipes/cfm/dark_oak_kitchen_drawer": {
     "criteria": {
-      "beetroot": "2024-05-19 12:16:00 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
-    "done": false
-  },
-  "ars_nouveau:recipes/ars_nouveau/stripped_blue_archwood_wood": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/starbuncle_shades": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/purple_archwood_wood": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/manipulation_essence_to_blazin_sapling": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/dull_trinket": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/manipulation_essence_to_andesite": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_10": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/manipulation_essence_to_mycelium": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_11": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_12": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_13": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_14": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_15": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_16": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/archwood_planks": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/orange_sbed": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/repository": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/potion_diffuser": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/ritual_flowering": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/mycelial_sourcelink": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/ritual_fertility": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/yellow_sbed": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/platform_to_pedestal": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_instrumentum:recipes/ars_nouveau/scroll_of_save_starbuncle": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/item_detector": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-05-18 16:12:40 +0000",
-      "blocked_false": "2024-05-18 16:12:40 +0000"
-    },
-    "done": false
-  },
-  "ars_nouveau:recipes/ars_nouveau/sconce": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2024-05-19 12:15:57 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/magebloom_block_to_magebloom": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/manipulation_essence_to_diorite": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_elemental:recipes/ars_nouveau/tablet_ritual_attraction": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/ritual_wilden_summon": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:root": {
-    "criteria": {
-      "ars_nouveau:worn_notebook": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_instrumentum:recipes/ars_nouveau/copy_paste_spell_scroll": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-05-19 12:16:00 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/blue_archwood_wood": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/greater_experience_gem": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/end_fiber": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/deny_scroll": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/ritual_sunrise": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/ritual_restoration": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/blank_parchment": {
+  "cfm:recipes/cfm/oak_mail_box": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "cfm:recipes/cfm/stripped_jungle_kitchen_sink_dark": {
     "criteria": {
-      "killed_by_something": "2024-05-18 16:12:04 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/warp_scroll": {
+  "cfm:recipes/cfm/red_cooler": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/decorations/manipulation_essence_to_moss_block": {
+  "cfm:recipes/cfm/light_gray_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_instrumentum:recipes/ars_nouveau/runic_storage_stone": {
+  "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/agronomic_sourcelink": {
+  "cfm:recipes/cfm/white_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/annotated_codex": {
+  "cfm:recipes/cfm/spruce_mail_box": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_large_bricks_to_sourcestone": {
+  "cfm:recipes/cfm/stripped_spruce_mail_box": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "farmersdelight:main/root": {
+  "cfm:recipes/cfm/green_kitchen_sink": {
     "criteria": {
-      "seeds": "2024-05-18 16:06:08 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/archwood_chest": {
+  "cfm:recipes/cfm/gray_kitchen_sink": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/fire_essence_to_charge": {
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_cobblestone": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_basketweave_to_sourcestone": {
+  "cfm:recipes/cfm/gray_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "cfm:recipes/cfm/purple_kitchen_drawer": {
     "criteria": {
-      "minecraft:zombie": "2024-05-18 16:16:54 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
-    "done": false
-  },
-  "ars_nouveau:recipes/ars_nouveau/ritual_awakening": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/spike_to_dye": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/ghostweave": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_mosaic_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/manipulation_essence_to_vexing_sapling": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_elemental:recipes/ars_nouveau/tablet_ritual_squirrels": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/wixie_hat": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/void_prism": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "create:root": {
-    "criteria": {
-      "0": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_elemental:recipes/ars_nouveau/flight_alt": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/ritual_binding": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_mosaic_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/red_sbed": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/magebloom_to_pink": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/worn_notebook": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/archwood_stairs": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/ritual_animal_summon": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/archwood_button": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_alternating_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_basketweave_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/wing_to_leather": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/source_jar": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/archwood_pressure_plate": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_small_bricks_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/blank_thread": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/challenge_2": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/dowsing_rod": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/imbuement_chamber": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/runic_chalk": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/conjuration_essence_to_end_stone": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_instrumentum:recipes/ars_nouveau/runic_storage_stone_alternate": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/source_berry_pie": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/magebloom_block": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/air_essence_to_snow_bucket": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/ritual_brazier": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/enchanting_apparatus": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2024-05-19 12:15:57 +0000"
-    },
     "done": true
   },
-  "ars_instrumentum:recipes/ars_nouveau/arcane_applicator": {
+  "cfm:recipes/cfm/mangrove_kitchen_sink_dark": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_elemental:recipes/ars_elemental/spore_blossom_up": {
+  "byg:recipes/byg.byg/cherry_fence": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_planks": "2024-05-19 15:09:12 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_alternating_to_sourcestone": {
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_cobblestone": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/purple_sbed": {
+  "cfm:recipes/cfm/oak_kitchen_sink_dark": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/ritual_warping": {
+  "cfm:recipes/cfm/stripped_acacia_kitchen_sink_dark": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_elemental:recipes/ars_elemental/advanced_prism": {
+  "cfm:recipes/cfm/orange_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/combat/spike_to_arrow": {
+  "byg:recipes/byg.byg/cherry_button": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_planks": "2024-05-19 15:09:12 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/wilden_summon_alt": {
+  "cfm:recipes/cfm/lime_kitchen_sink": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/archwood_slab": {
+  "cfm:recipes/cfm/warped_kitchen_sink_dark": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/ritual_scrying": {
+  "byg:recipes/byg.byg/cherry_fence_gate": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_planks": "2024-05-19 15:09:12 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/ritual_forestation": {
+  "cfm:recipes/cfm/magenta_cooler": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/building_blocks/water_essence_to_obsidian": {
+  "artifacts:amateur_archaeologist": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "find_artifact": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/ritual_burrowing": {
+  "cfm:recipes/cfm/stripped_birch_mail_box": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/ritual_moonfall": {
+  "cfm:recipes/cfm/gray_cooler": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_elemental:recipes/ars_elemental/yellow_archwood": {
+  "byg:recipes/byg.byg/cherry_crafting_table": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_planks": "2024-05-19 15:09:12 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/relay": {
+  "cfm:recipes/cfm/orange_cooler": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/blaze_fiber": {
+  "cfm:recipes/cfm/cyan_cooler": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_elemental:recipes/ars_nouveau/tablet_ritual_repulsion": {
+  "cfm:recipes/cfm/black_kitchen_sink": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/ritual_flight": {
+  "cfm:recipes/cfm/jungle_kitchen_sink_light": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/ritual_overgrowth": {
+  "byg:recipes/byg.byg/cherry_wood": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_log": "2024-05-19 15:09:07 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/building_blocks/manipulation_essence_to_granite": {
+  "cfm:recipes/cfm/stripped_oak_mail_box": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/decorations/archwood_to_chest": {
+  "byg:recipes/byg.byg/cherry_stairs": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_planks": "2024-05-19 15:09:12 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/stripped_green_archwood_wood": {
+  "byg:recipes/byg.byg/cherry_door": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_planks": "2024-05-19 15:09:12 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/ritual_conjure_island_desert": {
+  "cfm:recipes/cfm/spruce_kitchen_sink_dark": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_elemental:recipes/ars_elemental/stripped_yellow_archwood": {
+  "cfm:recipes/cfm/dark_oak_kitchen_sink_dark": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/mob_jar": {
+  "cfm:recipes/cfm/brown_cooler": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_small_bricks_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_large_bricks_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
-    },
-    "done": true
-  },
-  "dnl:entity/guardian_ghast/hurt": {
-    "criteria": {
-      "not_projectile": "2024-05-18 16:11:57 +0000"
-    },
-    "done": false
   },
-  "ars_nouveau:recipes/building_blocks/fire_essence_to_magma_block": {
+  "cfm:recipes/cfm/purple_kitchen_sink": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "cfm:recipes/cfm/light_gray_kitchen_sink": {
     "criteria": {
-      "minecraft:zombie": "2024-05-18 16:16:54 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/building_blocks/manipulation_essence_to_grass_block": {
+  "cfm:recipes/cfm/dark_oak_mail_box": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/alteration_table": {
+  "cfm:recipes/cfm/acacia_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/ritual_harvest": {
+  "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
   "byg:root": {
     "criteria": {
-      "tick": "2024-05-18 16:06:09 +0000"
+      "tick": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
-      "byg:rainbow_beach": "2024-05-18 16:07:09 +0000",
-      "byg:cherry_blossom_forest": "2024-05-18 16:07:01 +0000"
+      "byg:rainbow_beach": "2024-05-19 15:01:13 +0200",
+      "byg:cherry_blossom_forest": "2024-05-19 14:57:18 +0200"
     },
     "done": false
   },
-  "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_small_bricks_to_sourcestone": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "get_stone": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/archwood_trapdoor": {
+  "minecraft:recipes/building_blocks/stone": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_cobblestone": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/clear_allow": {
+  "cfm:recipes/cfm/magenta_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_basketweave_to_sourcestone": {
+  "cfm:recipes/cfm/brown_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/arcane_pedestal": {
+  "minecraft:recipes/decorations/furnace": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_cobblestone": "2024-05-19 14:57:17 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/mangrove_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-05-19 14:57:17 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-05-19 15:09:17 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-05-19 14:57:17 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/brown_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-05-19 14:57:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:savanna": "2024-05-18 16:06:44 +0000"
+      "minecraft:beach": "2024-05-19 15:01:24 +0200",
+      "minecraft:lukewarm_ocean": "2024-05-19 15:02:06 +0200",
+      "minecraft:river": "2024-05-19 15:01:35 +0200"
     },
     "done": false
   },
-  "byg:husbandry/root": {
+  "byg:recipes/byg.byg/cherry_pressure_plate": {
     "criteria": {
-      "consumed_item": "2024-05-19 12:16:00 +0000"
+      "has_planks": "2024-05-19 15:09:12 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_large_bricks_to_sourcestone": {
+  "minecraft:recipes/misc/charcoal": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_log": "2024-05-19 15:09:07 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/arcane_platform": {
+  "cfm:recipes/cfm/stripped_crimson_kitchen_sink_dark": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/spell_prism": {
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_cobblestone": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/building_blocks/manipulation_essence_to_deepslate": {
+  "cfm:recipes/cfm/orange_kitchen_sink": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/scry_to_blank_parchment": {
+  "cfm:recipes/cfm/green_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_elemental:recipes/ars_nouveau/tablet_ritual_detection": {
+  "minecraft:recipes/combat/stone_sword": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_cobblestone": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/potion_jar": {
+  "cfm:recipes/cfm/birch_mail_box": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/green_archwood_wood": {
+  "cfm:recipes/cfm/oak_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/magebloom_fiber": {
+  "minecraft:recipes/decorations/barrel": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_planks": "2024-05-19 15:09:12 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/source_gem_block": {
+  "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_cobblestone": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/building_blocks/manipulation_essence_to_tuff": {
+  "cfm:recipes/cfm/stripped_crimson_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/experience_gem": {
+  "cfm:recipes/cfm/stripped_acacia_kitchen_sink_light": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_small_bricks_to_sourcestone": {
+  "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_cobblestone": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/source_gem_block_2": {
+  "cfm:recipes/cfm/stripped_warped_kitchen_sink_light": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/moonfall_2": {
+  "botania:recipes/botania/red_string_container": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_base_block": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/archwood_door": {
+  "minecraft:recipes/building_blocks/ice_from_freezing": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_water": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_elemental:recipes/decorations/alt_blossom": {
+  "cfm:recipes/cfm/spruce_kitchen_sink_light": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_mangrove_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-05-19 14:57:17 +0200"
+    },
+    "done": true
+  },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2024-05-19 14:57:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-05-19 14:57:17 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-05-19 15:09:17 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-05-19 14:57:17 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_cooler": {
+    "criteria": {
+      "has_chest": "2024-05-19 15:09:17 +0200"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-05-19 15:09:12 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-05-19 14:57:17 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2024-05-19 15:09:17 +0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lexicon": {
+    "criteria": {
+      "has_item": "2024-05-19 15:08:32 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/red_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-05-19 15:09:17 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-05-19 15:09:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-05-19 14:57:17 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-05-19 15:09:17 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-05-19 14:57:17 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-05-19 14:57:17 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
   "dungeons_arise:wda_root": {
     "criteria": {
-      "WDA": "2024-05-18 16:06:09 +0000"
+      "WDA": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_alternating_to_sourcestone": {
+  "cfm:recipes/cfm/stripped_dark_oak_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/basic_spell_turret": {
+  "cfm:recipes/cfm/crimson_mail_box": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/vitalic_sourcelink": {
+  "cfm:recipes/cfm/jungle_mail_box": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/mirrorweave": {
+  "cfm:recipes/cfm/yellow_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/manipulation_essence_to_cascading_sapling": {
+  "cfm:recipes/cfm/light_blue_cooler": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_alternating_to_sourcestone": {
+  "ars_elemental:curio_bag": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_curio_bag": "2024-05-19 15:05:53 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_to_sourcestone": {
+  "cfm:recipes/cfm/stripped_acacia_mail_box": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/scryers_crystal": {
+  "cfm:recipes/cfm/blue_kitchen_sink": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/manipulation_essence_to_flourishing_sapling": {
+  "cfm:recipes/cfm/stripped_acacia_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-05-19 14:57:17 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/purple_cooler": {
+    "criteria": {
+      "has_chest": "2024-05-19 15:09:17 +0200"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-05-19 14:57:17 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_mangrove_mail_box": {
+    "criteria": {
+      "has_chest": "2024-05-19 15:09:17 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-05-19 15:09:17 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-05-19 15:09:17 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-05-19 14:57:17 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-05-19 15:09:17 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-05-19 14:57:17 +0200"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/cherry_planks": {
+    "criteria": {
+      "has_logs": "2024-05-19 15:09:07 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_cooler": {
+    "criteria": {
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
   "byg:biomepedia_gift": {
     "criteria": {
-      "tick": "2024-05-18 16:06:09 +0000"
+      "tick": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/mimic_scroll": {
+  "cfm:recipes/cfm/stripped_warped_kitchen_drawer": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_large_bricks_to_sourcestone": {
+  "minecraft:recipes/tools/stone_axe": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_cobblestone": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/horn_to_bonemeal": {
+  "cfm:recipes/cfm/stripped_jungle_kitchen_sink_light": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_mosaic_to_sourcestone": {
+  "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/wipe_spell_parchment": {
+  "cfm:recipes/cfm/oak_kitchen_sink_light": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/clear_deny": {
+  "cfm:recipes/cfm/yellow_kitchen_sink": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/magelight_torch": {
+  "cfm:recipes/cfm/birch_kitchen_sink_dark": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_bucket": "2024-05-19 14:57:17 +0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/fridge_light": {
+    "criteria": {
+      "has_chest": "2024-05-19 15:09:17 +0200"
     },
     "done": true
   },
