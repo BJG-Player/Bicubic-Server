@@ -23,15 +23,15 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/source_berry_roll": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_8": {
     "criteria": {
       "has_journal": "2024-05-18 16:06:08 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/source_berry_roll": {
+    "criteria": {
+      "has_journal": "2024-05-18 16:06:09 +0000"
     },
     "done": true
   },
@@ -47,9 +47,9 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_20": {
+  "farmersdelight:recipes/food/cooking/beetroot_soup": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_beetroot": "2024-05-19 12:15:57 +0000"
     },
     "done": true
   },
@@ -59,7 +59,19 @@
     },
     "done": true
   },
+  "ars_nouveau:recipes/ars_nouveau/sourcestone_20": {
+    "criteria": {
+      "has_journal": "2024-05-18 16:06:09 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_conjure_island_plains": {
+    "criteria": {
+      "has_journal": "2024-05-18 16:06:08 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/stripped_red_archwood_wood": {
     "criteria": {
       "has_journal": "2024-05-18 16:06:08 +0000"
     },
@@ -68,12 +80,6 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_21": {
     "criteria": {
       "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/stripped_red_archwood_wood": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
     },
     "done": true
   },
@@ -197,6 +203,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-19 12:15:57 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/volcanic_sourcelink": {
     "criteria": {
       "has_journal": "2024-05-18 16:06:08 +0000"
@@ -227,15 +239,21 @@
     },
     "done": true
   },
+  "ars_nouveau:recipes/ars_nouveau/scribes_table": {
+    "criteria": {
+      "has_journal": "2024-05-18 16:06:08 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ring_of_potential": {
     "criteria": {
       "has_journal": "2024-05-18 16:06:09 +0000"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/scribes_table": {
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:08 +0000"
+      "has_beetroot": "2024-05-19 12:15:57 +0000"
     },
     "done": true
   },
@@ -245,15 +263,15 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/ritual_containment": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/archwood_fence": {
     "criteria": {
       "has_journal": "2024-05-18 16:06:08 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/ritual_containment": {
+    "criteria": {
+      "has_journal": "2024-05-18 16:06:09 +0000"
     },
     "done": true
   },
@@ -268,6 +286,12 @@
       "has_journal": "2024-05-18 16:06:09 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "beetroot": "2024-05-19 12:16:00 +0000"
+    },
+    "done": false
   },
   "ars_nouveau:recipes/ars_nouveau/stripped_blue_archwood_wood": {
     "criteria": {
@@ -432,6 +456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-05-19 12:15:57 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/magebloom_block_to_magebloom": {
     "criteria": {
       "has_journal": "2024-05-18 16:06:09 +0000"
@@ -468,6 +498,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-05-19 12:16:00 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/blue_archwood_wood": {
     "criteria": {
       "has_journal": "2024-05-18 16:06:08 +0000"
@@ -486,15 +522,15 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/ritual_sunrise": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/deny_scroll": {
     "criteria": {
       "has_journal": "2024-05-18 16:06:08 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/ritual_sunrise": {
+    "criteria": {
+      "has_journal": "2024-05-18 16:06:09 +0000"
     },
     "done": true
   },
@@ -702,15 +738,15 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/wing_to_leather": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-05-18 16:06:08 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/wing_to_leather": {
+    "criteria": {
+      "has_journal": "2024-05-18 16:06:09 +0000"
     },
     "done": true
   },
@@ -804,13 +840,13 @@
     },
     "done": true
   },
-  "ars_instrumentum:recipes/ars_nouveau/arcane_applicator": {
+  "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
     "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
+      "has_any_ingredient": "2024-05-19 12:15:57 +0000"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_alternating_to_sourcestone": {
+  "ars_instrumentum:recipes/ars_nouveau/arcane_applicator": {
     "criteria": {
       "has_journal": "2024-05-18 16:06:09 +0000"
     },
@@ -819,6 +855,12 @@
   "ars_elemental:recipes/ars_elemental/spore_blossom_up": {
     "criteria": {
       "has_journal": "2024-05-18 16:06:08 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_alternating_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2024-05-18 16:06:09 +0000"
     },
     "done": true
   },
@@ -858,15 +900,15 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/ritual_forestation": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/ritual_scrying": {
     "criteria": {
       "has_journal": "2024-05-18 16:06:08 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/ritual_forestation": {
+    "criteria": {
+      "has_journal": "2024-05-18 16:06:09 +0000"
     },
     "done": true
   },
@@ -936,15 +978,15 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/ritual_conjure_island_desert": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/stripped_green_archwood_wood": {
     "criteria": {
       "has_journal": "2024-05-18 16:06:08 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/ritual_conjure_island_desert": {
+    "criteria": {
+      "has_journal": "2024-05-18 16:06:09 +0000"
     },
     "done": true
   },
@@ -1057,6 +1099,12 @@
     },
     "done": false
   },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-05-19 12:16:00 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-05-18 16:06:09 +0000"
@@ -1087,15 +1135,15 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/potion_jar": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
   "ars_elemental:recipes/ars_nouveau/tablet_ritual_detection": {
     "criteria": {
       "has_journal": "2024-05-18 16:06:08 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/potion_jar": {
+    "criteria": {
+      "has_journal": "2024-05-18 16:06:09 +0000"
     },
     "done": true
   },
@@ -1129,15 +1177,15 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/source_gem_block_2": {
-    "criteria": {
-      "has_journal": "2024-05-18 16:06:09 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-05-18 16:06:08 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/source_gem_block_2": {
+    "criteria": {
+      "has_journal": "2024-05-18 16:06:09 +0000"
     },
     "done": true
   },
