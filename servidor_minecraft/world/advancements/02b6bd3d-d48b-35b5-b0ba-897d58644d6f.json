@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/bat_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/source_berry_roll": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
@@ -26,6 +32,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-05-20 17:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/enderman_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
     },
     "done": true
   },
@@ -50,6 +62,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-05-20 19:00:32 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/write_cassette_tape": {
+    "criteria": {
+      "write_cassette_tape": "2024-05-21 18:56:47 +0000"
     },
     "done": true
   },
@@ -95,9 +113,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-05-21 18:00:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_blue_picket_gate": {
+    "criteria": {
+      "has_dye": "2024-05-21 19:33:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-05-20 20:57:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/redstone_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
     },
     "done": true
   },
@@ -116,6 +152,12 @@
   "refinedstorage:wireless_items": {
     "criteria": {
       "wireless_grid_in_inventory": "2024-05-20 16:04:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-05-21 18:08:58 +0000"
     },
     "done": true
   },
@@ -155,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-05-21 17:08:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_veridium_brick_slab_from_veridium_stonecutting": {
     "criteria": {
       "has_veridium": "2024-05-20 18:00:43 +0000"
@@ -167,9 +215,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-05-20 16:15:39 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/witch_hazel_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
     },
     "done": true
   },
@@ -194,6 +254,12 @@
   "create:recipes/create.palettes/cut_deepslate_wall_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-05-20 19:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/sheep_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
     },
     "done": true
   },
@@ -239,6 +305,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/end_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/ghast_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/horse_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/nether_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2024-05-21 19:33:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/blue_grill": {
     "criteria": {
       "has_iron": "2024-05-20 16:15:39 +0000"
@@ -257,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/sandstone_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2024-05-20 17:02:13 +0000"
@@ -266,6 +368,12 @@
   "create:recipes/create.palettes/small_andesite_brick_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-05-20 18:00:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
     },
     "done": true
   },
@@ -299,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/villager_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/magenta_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-20 16:16:41 +0000"
@@ -311,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/iron_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-05-20 19:00:32 +0000"
@@ -320,6 +440,30 @@
   "create:recipes/create.base/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2024-05-20 20:45:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-05-21 17:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-05-21 17:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-05-21 16:57:47 +0000"
     },
     "done": true
   },
@@ -350,6 +494,18 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2024-05-20 17:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/add_music": {
+    "criteria": {
+      "add_music": "2024-05-21 18:56:33 +0000"
     },
     "done": true
   },
@@ -401,6 +557,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/ocelot_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/creeper_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_brick_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-05-20 18:00:35 +0000"
@@ -419,6 +593,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2024-05-20 17:45:48 +0000"
@@ -431,9 +611,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/chicken_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-05-20 16:51:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_yellow_picket_gate": {
+    "criteria": {
+      "has_dye": "2024-05-21 19:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/melon_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
     },
     "done": true
   },
@@ -443,9 +641,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/emerald_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/wixie_hat": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/gold_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
     },
     "done": true
   },
@@ -458,6 +668,12 @@
   "create:recipes/create.palettes/cut_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-05-20 18:00:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/cake_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
     },
     "done": true
   },
@@ -485,6 +701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-05-21 19:33:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/magenta_grill": {
     "criteria": {
       "has_iron": "2024-05-20 16:15:39 +0000"
@@ -503,9 +725,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2024-05-21 17:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-05-21 17:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2024-05-20 17:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-05-21 17:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-05-21 16:59:06 +0000"
     },
     "done": true
   },
@@ -515,9 +761,21 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-05-20 16:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/nether_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
     },
     "done": true
   },
@@ -530,6 +788,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2024-05-20 20:57:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-05-21 19:33:17 +0000"
     },
     "done": true
   },
@@ -551,9 +815,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/lapis_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/wither_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2024-05-20 18:35:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2024-05-21 17:08:31 +0000"
     },
     "done": true
   },
@@ -593,6 +881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-05-21 16:22:04 +0000"
+    },
+    "done": true
+  },
   "ars_instrumentum:recipes/ars_nouveau/arcane_applicator": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
@@ -617,6 +911,18 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-05-21 17:08:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2024-05-20 16:15:39 +0000"
@@ -629,6 +935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-05-21 16:22:04 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/combat/spike_to_arrow": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
@@ -638,6 +950,12 @@
   "create:recipes/create.palettes/tuff_pillar_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-05-20 19:08:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/cyan_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
     },
     "done": true
   },
@@ -665,9 +983,27 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_mail_box": {
     "criteria": {
       "has_chest": "2024-05-20 16:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/wither_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/green_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
     },
     "done": true
   },
@@ -695,9 +1031,33 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/cactus_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2024-05-20 16:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-05-21 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/cow_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
     },
     "done": true
   },
@@ -710,6 +1070,18 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-05-20 16:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-05-21 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/coal_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
     },
     "done": true
   },
@@ -749,15 +1121,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-05-21 16:59:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_deepslate_slab_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-05-20 19:07:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-05-21 16:59:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-05-20 20:57:52 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/green_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
     },
     "done": true
   },
@@ -770,6 +1160,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2024-05-20 17:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-05-21 16:53:46 +0000"
     },
     "done": true
   },
@@ -797,9 +1193,27 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/iron_golem_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2024-05-20 17:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/lapis_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
     },
     "done": true
   },
@@ -818,6 +1232,24 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-05-20 18:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-05-21 16:53:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/pumpkin_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
     },
     "done": true
   },
@@ -851,6 +1283,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_purple_picket_gate": {
+    "criteria": {
+      "has_dye": "2024-05-21 19:00:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-05-20 17:12:26 +0000"
@@ -860,6 +1298,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-05-20 17:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/spider_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
     },
     "done": true
   },
@@ -881,6 +1325,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-05-21 17:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2024-05-21 19:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-05-21 19:33:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2024-05-20 16:04:28 +0000"
@@ -890,6 +1352,12 @@
   "cfm:recipes/cfm/light_gray_cooler": {
     "criteria": {
       "has_chest": "2024-05-20 16:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-05-21 17:08:31 +0000"
     },
     "done": true
   },
@@ -905,6 +1373,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-05-20 18:14:39 +0000"
@@ -914,6 +1388,18 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-05-20 15:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/sponge_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/holly_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
     },
     "done": true
   },
@@ -941,9 +1427,22 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2024-05-21 18:05:33 +0000",
+      "minecraft:basalt_deltas": "2024-05-21 20:57:17 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/small_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-05-20 19:08:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
     },
     "done": true
   },
@@ -953,15 +1452,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/blaze_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-20 16:16:41 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2024-05-21 17:57:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-20 16:16:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
     },
     "done": true
   },
@@ -1007,6 +1524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2024-05-21 19:33:21 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/mimic_scroll": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
@@ -1031,9 +1554,39 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/white_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2024-05-21 19:33:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2024-05-20 16:51:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/bee_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-21 17:07:30 +0000"
     },
     "done": true
   },
@@ -1061,9 +1614,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-05-21 17:08:31 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_disintegration": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
     },
     "done": true
   },
@@ -1085,6 +1650,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-05-21 17:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-05-21 17:55:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_coal": "2024-05-20 17:40:01 +0000"
@@ -1100,6 +1677,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-05-20 16:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-05-21 17:09:38 +0000"
     },
     "done": true
   },
@@ -1133,9 +1716,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/magma_cube_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2024-05-21 19:33:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_purple_dye": "2024-05-21 19:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-05-21 17:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2024-05-20 16:51:11 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
     },
     "done": true
   },
@@ -1178,6 +1791,18 @@
   "create:recipes/create.palettes/cut_deepslate_slab_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-05-20 19:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/melon_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-05-21 16:59:06 +0000"
     },
     "done": true
   },
@@ -1247,9 +1872,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/snow_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/stripped_blue_archwood_wood": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/blaze_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
     },
     "done": true
   },
@@ -1259,9 +1896,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/diamond_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/veridium_pillar_from_veridium_stonecutting": {
     "criteria": {
       "has_veridium": "2024-05-20 18:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-05-21 16:53:46 +0000"
     },
     "done": true
   },
@@ -1283,9 +1932,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/pig_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/netherite_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-05-20 16:51:11 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/blue_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
     },
     "done": true
   },
@@ -1355,6 +2022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-05-21 16:59:06 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_sofa": {
     "criteria": {
       "has_wool": "2024-05-20 16:51:11 +0000"
@@ -1385,6 +2058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-05-21 16:53:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_deepslate_stairs_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-05-20 19:07:58 +0000"
@@ -1406,6 +2085,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-05-20 17:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/fox_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
     },
     "done": true
   },
@@ -1499,6 +2184,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-05-21 17:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/lapis_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-05-21 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-05-21 16:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/coal_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/decorations/manipulation_essence_to_moss_block": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
@@ -1517,9 +2232,21 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/mushroom_14": {
     "criteria": {
       "has_alt_item": "2024-05-20 17:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/cake_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
     },
     "done": true
   },
@@ -1559,9 +2286,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-05-21 16:53:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-05-20 20:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-05-21 17:15:49 +0000"
     },
     "done": true
   },
@@ -1577,15 +2316,33 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-05-21 17:55:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_upgraded_gate": {
     "criteria": {
       "has_log": "2024-05-20 16:52:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-05-21 16:53:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2024-05-20 17:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-05-21 17:15:49 +0000"
     },
     "done": true
   },
@@ -1631,9 +2388,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/standard_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-05-20 17:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2024-05-21 19:33:21 +0000"
     },
     "done": true
   },
@@ -1643,9 +2412,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_green_dye": "2024-05-21 19:33:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-20 16:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-05-21 16:53:46 +0000"
     },
     "done": true
   },
@@ -1711,14 +2492,25 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-05-20 20:56:28 +0000",
-      "not_magic": "2024-05-20 20:56:28 +0000"
+      "is_projectile": "2024-05-21 21:35:58 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-21 17:07:30 +0000"
     },
     "done": true
   },
@@ -1731,6 +2523,18 @@
   "create:recipes/create.palettes/polished_cut_deepslate_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-05-20 19:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/sheep_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/skyris_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
     },
     "done": true
   },
@@ -1764,9 +2568,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/bookshelf_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-05-20 16:51:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/quartz_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_red_picket_fence": {
+    "criteria": {
+      "has_dye": "2024-05-21 19:33:21 +0000"
     },
     "done": true
   },
@@ -1800,9 +2622,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2024-05-21 17:57:55 +0000"
+    },
+    "done": true
+  },
   "rechiseled:recipes/rechiseled/chisel": {
     "criteria": {
       "recipe_condition": "2024-05-20 16:15:39 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/iammusicplayer.iammusicplayer/cassette_deck": {
+    "criteria": {
+      "has_jukebox": "2024-05-21 18:36:29 +0000"
     },
     "done": true
   },
@@ -1824,6 +2658,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/cactus_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-05-21 17:08:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_mail_box": {
     "criteria": {
       "has_chest": "2024-05-20 16:16:41 +0000"
@@ -1833,6 +2679,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-05-20 20:57:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/bat_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
     },
     "done": true
   },
@@ -1848,9 +2700,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/squid_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2024-05-20 16:51:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/pool_minecart": {
+    "criteria": {
+      "has_item": "2024-05-21 17:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-05-21 16:59:06 +0000"
     },
     "done": true
   },
@@ -1866,6 +2736,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-05-21 16:22:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-05-20 19:08:00 +0000"
@@ -1878,9 +2754,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-05-21 16:22:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-05-20 20:45:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/lime_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2024-05-21 19:00:37 +0000"
     },
     "done": true
   },
@@ -1890,15 +2790,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/dragon_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-05-20 18:00:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/standard_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/skeleton_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/cherry_crafting_table": {
     "criteria": {
       "has_planks": "2024-05-20 18:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/ocelot_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_blue_picket_fence": {
+    "criteria": {
+      "has_dye": "2024-05-21 19:33:17 +0000"
     },
     "done": true
   },
@@ -1914,15 +2850,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/wolf_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/sandstone_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_grass_block": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
     },
     "done": true
   },
+  "cfm:recipes/cfm/light_gray_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2024-05-21 19:33:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-20 16:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2024-05-21 19:33:29 +0000"
     },
     "done": true
   },
@@ -1935,9 +2901,15 @@
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:rainbow_beach": "2024-05-20 16:03:54 +0000",
+      "byg:allium_fields": "2024-05-21 18:26:39 +0000",
+      "byg:prairie": "2024-05-21 18:26:27 +0000",
+      "byg:orchard": "2024-05-21 18:26:44 +0000",
+      "byg:quartz_desert": "2024-05-21 17:55:55 +0000",
       "byg:firecracker_shrubland": "2024-05-20 16:45:11 +0000",
+      "byg:magma_wastes": "2024-05-21 18:05:54 +0000",
       "byg:araucaria_savanna": "2024-05-20 16:42:31 +0000",
       "byg:cherry_blossom_forest": "2024-05-20 16:03:22 +0000",
+      "byg:crimson_gardens": "2024-05-21 18:05:27 +0000",
       "byg:baobab_savanna": "2024-05-20 16:46:29 +0000"
     },
     "done": false
@@ -1945,6 +2917,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_blue_dye": "2024-05-21 19:33:17 +0000"
     },
     "done": true
   },
@@ -1969,6 +2947,12 @@
   "create:recipes/create.palettes/cut_calcite_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-05-20 19:03:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/brown_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
     },
     "done": true
   },
@@ -2002,6 +2986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/hay_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/red_string_dispenser": {
     "criteria": {
       "has_base_block": "2024-05-20 17:10:58 +0000"
@@ -2026,6 +3016,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-05-21 16:59:06 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/black_sofa": {
     "criteria": {
       "has_wool": "2024-05-20 17:45:41 +0000"
@@ -2035,6 +3031,12 @@
   "ars_nouveau:recipes/ars_nouveau/source_gem_block": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-05-21 17:34:24 +0000"
     },
     "done": true
   },
@@ -2071,6 +3073,12 @@
   "create:recipes/create.palettes/small_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-05-20 18:00:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-05-21 17:07:30 +0000"
     },
     "done": true
   },
@@ -2128,9 +3136,21 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/yellow_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-20 16:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-05-21 16:22:04 +0000"
     },
     "done": true
   },
@@ -2188,6 +3208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/emerald_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/scryers_crystal": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
@@ -2212,6 +3238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/creeper_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:recipes/iammusicplayer.iammusicplayer/radio_antenna": {
     "criteria": {
       "has_ender_pearl": "2024-05-20 16:04:25 +0000"
@@ -2221,6 +3253,18 @@
   "ars_nouveau:recipes/misc/horn_to_bonemeal": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-05-21 17:08:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
     },
     "done": true
   },
@@ -2239,6 +3283,18 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-05-20 16:51:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/cake_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-05-21 17:08:31 +0000"
     },
     "done": true
   },
@@ -2278,6 +3334,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_yellow_picket_fence": {
+    "criteria": {
+      "has_dye": "2024-05-21 19:33:29 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_18": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
@@ -2308,9 +3370,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2024-05-21 19:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-05-21 17:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2024-05-20 17:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/end_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
     },
     "done": true
   },
@@ -2320,9 +3406,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-05-20 19:03:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-05-21 17:08:31 +0000"
     },
     "done": true
   },
@@ -2344,9 +3442,21 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cacophonium": {
+    "criteria": {
+      "has_item": "2024-05-21 18:36:24 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:earth_focus": {
     "criteria": {
       "has_earth_focus": "2024-05-20 16:04:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-21 17:07:30 +0000"
     },
     "done": true
   },
@@ -2368,9 +3478,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/blaze_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-05-20 20:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/villager_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
     },
     "done": true
   },
@@ -2422,9 +3544,27 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/melon_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_containment": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/redstone_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
     },
     "done": true
   },
@@ -2446,6 +3586,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/bookshelf_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/enderman_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-05-20 17:03:26 +0000"
@@ -2455,6 +3607,12 @@
   "create:recipes/create.palettes/polished_cut_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-05-20 18:00:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
     },
     "done": true
   },
@@ -2476,6 +3634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-05-21 16:22:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_bedside_cabinet": {
     "criteria": {
       "has_log": "2024-05-20 16:52:19 +0000"
@@ -2485,6 +3649,24 @@
   "ars_nouveau:recipes/ars_nouveau/purple_archwood_wood": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/white_mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_green_picket_fence": {
+    "criteria": {
+      "has_dye": "2024-05-21 19:33:46 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/ebony_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
     },
     "done": true
   },
@@ -2527,6 +3709,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_11": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
     },
     "done": true
   },
@@ -2578,6 +3766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/ghast_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-05-20 20:57:52 +0000"
@@ -2587,6 +3781,18 @@
   "ars_nouveau:recipes/ars_nouveau/potion_diffuser": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
     },
     "done": true
   },
@@ -2608,6 +3814,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/gold_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-05-21 17:08:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_calcite_bricks_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-05-20 19:03:51 +0000"
@@ -2626,15 +3844,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-05-21 16:53:46 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/item_detector": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/purple_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2024-05-21 19:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/iron_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2024-05-20 19:17:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/mangrove_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
     },
     "done": true
   },
@@ -2647,6 +3907,12 @@
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_diorite": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-05-21 17:30:45 +0000"
     },
     "done": true
   },
@@ -2668,6 +3934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/ocelot_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-05-20 17:10:33 +0000"
@@ -2683,6 +3955,18 @@
   "ars_nouveau:recipes/ars_nouveau/blue_archwood_wood": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-05-21 16:59:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2024-05-21 17:08:49 +0000"
     },
     "done": true
   },
@@ -2728,6 +4012,18 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_purple_picket_fence": {
+    "criteria": {
+      "has_dye": "2024-05-21 19:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ice_from_freezing": {
+    "criteria": {
+      "has_water": "2024-05-21 17:30:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-05-20 16:21:23 +0000"
@@ -2746,6 +4042,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_mangrove_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/agronomic_sourcelink": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
@@ -2755,6 +4057,12 @@
   "ars_nouveau:recipes/ars_nouveau/annotated_codex": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-05-21 16:53:46 +0000"
     },
     "done": true
   },
@@ -2770,12 +4078,24 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-05-21 18:06:32 +0000",
       "minecraft:skeleton": "2024-05-20 17:18:54 +0000",
+      "minecraft:ghast": "2024-05-21 17:58:51 +0000",
+      "minecraft:magma_cube": "2024-05-21 18:00:04 +0000",
       "minecraft:spider": "2024-05-20 16:21:23 +0000",
+      "minecraft:creeper": "2024-05-21 17:34:24 +0000",
       "minecraft:phantom": "2024-05-20 19:44:15 +0000",
       "minecraft:zombified_piglin": "2024-05-20 17:03:26 +0000",
+      "minecraft:wither_skeleton": "2024-05-21 18:07:01 +0000",
+      "minecraft:piglin": "2024-05-21 17:58:43 +0000",
       "minecraft:enderman": "2024-05-20 16:45:32 +0000",
       "minecraft:zombie": "2024-05-20 17:18:51 +0000"
     },
@@ -2784,6 +4104,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2024-05-20 17:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-05-21 18:14:15 +0000"
     },
     "done": true
   },
@@ -2817,6 +4143,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-05-21 16:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-05-21 17:08:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_deepslate_bricks_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-05-20 19:07:58 +0000"
@@ -2847,9 +4185,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/dragon_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/blue_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/red_string_interceptor": {
+    "criteria": {
+      "has_base_block": "2024-05-21 17:10:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-05-20 20:57:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-05-21 16:22:04 +0000"
     },
     "done": true
   },
@@ -2871,9 +4233,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/wolf_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/nether_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-05-21 16:59:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2024-05-21 19:33:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2024-05-20 16:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-05-21 16:22:04 +0000"
     },
     "done": true
   },
@@ -2919,6 +4311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2024-05-21 19:33:21 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/archwood_pressure_plate": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
@@ -2934,6 +4332,18 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-05-20 16:51:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_mangrove_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
     },
     "done": true
   },
@@ -2964,6 +4374,24 @@
   "ars_nouveau:recipes/building_blocks/conjuration_essence_to_end_stone": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/azulejo_0": {
+    "criteria": {
+      "has_item": "2024-05-21 19:33:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/iron_golem_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/iron_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
     },
     "done": true
   },
@@ -3003,15 +4431,45 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/bee_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_chair": {
     "criteria": {
       "has_log": "2024-05-20 16:52:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-05-21 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/cow_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-05-20 18:06:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-05-21 17:08:31 +0000"
     },
     "done": true
   },
@@ -3075,6 +4533,18 @@
     },
     "done": true
   },
+  "botania:recipes/botania/ghost_rail": {
+    "criteria": {
+      "has_item": "2024-05-21 17:08:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/wither_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/blue_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-20 16:16:41 +0000"
@@ -3105,9 +4575,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/chicken_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/aspen_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/sponge_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2024-05-20 16:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/sponge_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
     },
     "done": true
   },
@@ -3129,6 +4623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/purple_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-20 16:16:41 +0000"
@@ -3141,9 +4641,21 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/rainbow_eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2024-05-20 17:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/pumpkin_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
     },
     "done": true
   },
@@ -3174,6 +4686,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2024-05-20 17:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/snow_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
     },
     "done": true
   },
@@ -3243,6 +4761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/standard_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2024-05-20 16:15:39 +0000"
@@ -3279,6 +4803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/fox_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_deepslate_wall_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-05-20 19:07:58 +0000"
@@ -3311,9 +4841,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-05-21 18:25:39 +0000",
+      "minecraft:sunflower_plains": "2024-05-21 18:25:51 +0000",
       "minecraft:beach": "2024-05-20 16:04:01 +0000",
       "minecraft:lukewarm_ocean": "2024-05-20 16:08:58 +0000",
       "minecraft:river": "2024-05-20 16:20:13 +0000",
+      "minecraft:ocean": "2024-05-21 18:25:40 +0000",
+      "minecraft:windswept_savanna": "2024-05-21 18:25:54 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-05-20 16:42:47 +0000",
       "minecraft:savanna": "2024-05-20 17:10:23 +0000",
       "minecraft:plains": "2024-05-20 16:46:28 +0000"
@@ -3356,6 +4890,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-05-20 16:15:39 +0000"
@@ -3389,6 +4929,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-05-21 16:58:50 +0000"
     },
     "done": true
   },
@@ -3440,9 +4986,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/gold_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2024-05-20 16:51:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/ghast_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
     },
     "done": true
   },
@@ -3461,6 +5019,12 @@
   "botania:recipes/botania/mushroom_8": {
     "criteria": {
       "has_alt_item": "2024-05-20 17:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-05-21 17:09:38 +0000"
     },
     "done": true
   },
@@ -3488,6 +5052,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/spider_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/mirrorweave": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
@@ -3512,9 +5082,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/redstone_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2024-05-20 18:00:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/skeleton_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
     },
     "done": true
   },
@@ -3524,9 +5112,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-05-21 16:53:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/black_cooler": {
     "criteria": {
       "has_chest": "2024-05-20 16:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/hay_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
     },
     "done": true
   },
@@ -3542,6 +5142,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
     "criteria": {
       "has_cod": "2024-05-20 18:35:46 +0000"
@@ -3551,6 +5157,36 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/iron_golem_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/diamond_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/villager_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/yellow_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
     },
     "done": true
   },
@@ -3620,6 +5256,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/red_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-05-20 16:51:11 +0000"
@@ -3635,6 +5277,12 @@
   "ars_nouveau:recipes/ars_nouveau/ritual_challenge": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
     },
     "done": true
   },
@@ -3659,6 +5307,12 @@
   "ars_nouveau:recipes/ars_nouveau/allow_scroll": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/creeper_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
     },
     "done": true
   },
@@ -3704,9 +5358,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/fox_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-05-21 16:53:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_veridium_brick_wall_from_veridium_stonecutting": {
     "criteria": {
       "has_veridium": "2024-05-20 18:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/coal_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/wolf_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
     },
     "done": true
   },
@@ -3722,6 +5400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2024-05-21 19:33:21 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_cloudshaping": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
@@ -3731,6 +5415,12 @@
   "byg:recipes/byg.byg/cherry_bookshelf": {
     "criteria": {
       "has_planks": "2024-05-20 18:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/pumpkin_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
     },
     "done": true
   },
@@ -3770,6 +5460,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/animated_torch": {
+    "criteria": {
+      "has_item": "2024-05-21 17:09:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2024-05-20 17:13:18 +0000"
@@ -3794,9 +5490,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-05-21 17:08:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_mail_box": {
     "criteria": {
       "has_chest": "2024-05-20 16:16:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/mangrove_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
     },
     "done": true
   },
@@ -3815,6 +5523,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-05-20 17:10:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
     },
     "done": true
   },
@@ -3848,6 +5562,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-05-21 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2024-05-21 19:33:46 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/orange_sbed": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
@@ -3875,6 +5601,12 @@
   "cfm:recipes/cfm/gray_cooler": {
     "criteria": {
       "has_chest": "2024-05-20 16:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/magma_cube_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
     },
     "done": true
   },
@@ -3920,6 +5652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-05-21 19:33:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-05-20 16:46:01 +0000"
@@ -3932,16 +5670,21 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hurt": {
+  "minecraft:recipes/travelersbackpack/spider_smithing_diamond": {
     "criteria": {
-      "not_projectile": "2024-05-20 20:56:40 +0000",
-      "blocked_false": "2024-05-20 20:56:40 +0000"
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/create.palettes/polished_cut_granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-05-20 20:57:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
     },
     "done": true
   },
@@ -3975,6 +5718,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/orange_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-05-20 16:09:10 +0000"
@@ -4005,6 +5754,24 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/cow_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/bee_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
   "ars_instrumentum:recipes/ars_nouveau/runic_storage_stone": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
@@ -4017,9 +5784,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/sandstone_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/black_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-20 16:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/pig_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
     },
     "done": true
   },
@@ -4044,6 +5823,18 @@
   "cfm:recipes/cfm/stripped_mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-20 16:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-05-21 17:08:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/diamond_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
     },
     "done": true
   },
@@ -4083,9 +5874,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/bat_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-05-20 16:51:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_red_picket_gate": {
+    "criteria": {
+      "has_dye": "2024-05-21 19:33:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
     },
     "done": true
   },
@@ -4095,9 +5904,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2024-05-21 17:08:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_mangrove_mail_box": {
     "criteria": {
       "has_chest": "2024-05-20 16:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/pig_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
     },
     "done": true
   },
@@ -4113,15 +5934,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-05-21 17:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/squid_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-05-20 20:57:52 +0000"
     },
     "done": true
   },
+  "byg:recipes/byg.byg/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-05-20 16:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/sheep_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
     },
     "done": true
   },
@@ -4149,6 +5994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/horse_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_animal_summon": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
@@ -4164,6 +6015,18 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/snow_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
     },
     "done": true
   },
@@ -4184,6 +6047,12 @@
       "has_journal": "2024-05-20 15:58:58 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2024-05-21 18:15:32 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/warped_mail_box": {
     "criteria": {
@@ -4233,6 +6102,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/zelkova_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
+    },
+    "done": true
+  },
   "ars_instrumentum:recipes/ars_nouveau/runic_storage_stone_alternate": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
@@ -4257,9 +6132,21 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-05-21 18:04:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2024-05-20 16:51:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/magenta_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
     },
     "done": true
   },
@@ -4281,6 +6168,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_green_picket_gate": {
+    "criteria": {
+      "has_dye": "2024-05-21 19:33:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-05-20 19:08:00 +0000"
@@ -4290,6 +6183,12 @@
   "cfm:recipes/cfm/stripped_jungle_mail_box": {
     "criteria": {
       "has_chest": "2024-05-20 16:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-05-21 17:08:31 +0000"
     },
     "done": true
   },
@@ -4383,6 +6282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-05-21 16:22:04 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_burrowing": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
@@ -4395,9 +6300,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2024-05-21 19:33:46 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/cika_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/ars_nouveau/tablet_ritual_repulsion": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
     },
     "done": true
   },
@@ -4410,6 +6333,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-05-20 19:00:32 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/iammusicplayer.iammusicplayer/boombox": {
+    "criteria": {
+      "has_jukebox": "2024-05-21 18:36:29 +0000"
     },
     "done": true
   },
@@ -4475,9 +6404,16 @@
   },
   "dnl:entity/guardian_ghast/hurt": {
     "criteria": {
-      "not_projectile": "2024-05-20 15:59:24 +0000"
+      "not_projectile": "2024-05-20 15:59:24 +0000",
+      "by_arrow": "2024-05-21 17:34:24 +0000"
     },
     "done": false
+  },
+  "byg:recipes/byg.byg/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-05-21 16:54:17 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/compass": {
     "criteria": {
@@ -4485,9 +6421,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-05-21 17:09:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-05-21 16:59:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_veridium_from_veridium_stonecutting": {
     "criteria": {
       "has_veridium": "2024-05-20 18:00:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-05-21 17:08:31 +0000"
     },
     "done": true
   },
@@ -4500,6 +6454,24 @@
   "byg:root": {
     "criteria": {
       "tick": "2024-05-20 15:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/end_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/emerald_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/magma_cube_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
     },
     "done": true
   },
@@ -4539,15 +6511,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/horse_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2024-05-20 19:17:08 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/dragon_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_deepslate": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-05-21 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/quartz_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-05-21 17:08:54 +0000"
     },
     "done": true
   },
@@ -4569,9 +6571,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-05-21 16:22:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/lime_grill": {
     "criteria": {
       "has_iron": "2024-05-20 16:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/quartz_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
     },
     "done": true
   },
@@ -4599,9 +6619,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/cactus_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/skeleton_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/hay_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
     },
     "done": true
   },
@@ -4641,6 +6685,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/chicken_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/squid_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-05-21 16:53:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2024-05-20 16:51:11 +0000"
@@ -4662,6 +6724,12 @@
   "create:recipes/create.palettes/layered_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-05-20 19:03:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/netherite_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
     },
     "done": true
   },
@@ -4689,9 +6757,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/bookshelf_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-05-21 17:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/netherite_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_yellow_dye": "2024-05-21 19:33:29 +0000"
     },
     "done": true
   },
@@ -4713,6 +6805,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2024-05-20 20:44:14 +0000"
@@ -4728,6 +6826,18 @@
   "ars_nouveau:recipes/ars_nouveau/wipe_spell_parchment": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-05-21 16:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/enderman_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
     },
     "done": true
   },
