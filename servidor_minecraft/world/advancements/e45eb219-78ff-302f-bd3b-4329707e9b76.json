@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-05-22 21:13:06 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_cabinet": {
     "criteria": {
       "has_log": "2024-05-19 18:20:09 +0000"
@@ -2057,15 +2063,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-05-22 21:24:41 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/fir_chest_boat": {
     "criteria": {
       "has_boat": "2024-05-19 18:33:54 +0000"
     },
     "done": true
   },
+  "botania:recipes/botania/mushroom_14": {
+    "criteria": {
+      "has_alt_item": "2024-05-22 21:24:41 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-05-19 18:02:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_13": {
+    "criteria": {
+      "has_alt_item": "2024-05-22 21:24:41 +0000"
     },
     "done": true
   },
@@ -2090,6 +2114,12 @@
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-05-22 19:49:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_15": {
+    "criteria": {
+      "has_alt_item": "2024-05-22 21:24:41 +0000"
     },
     "done": true
   },
@@ -2153,6 +2183,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mushroom_10": {
+    "criteria": {
+      "has_alt_item": "2024-05-22 21:24:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_cabinet": {
     "criteria": {
       "has_log": "2024-05-19 18:20:09 +0000"
@@ -2162,6 +2198,18 @@
   "create:recipes/create.palettes/cut_veridium_brick_stairs_from_veridium_stonecutting": {
     "criteria": {
       "has_veridium": "2024-05-20 18:23:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_12": {
+    "criteria": {
+      "has_alt_item": "2024-05-22 21:24:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_11": {
+    "criteria": {
+      "has_alt_item": "2024-05-22 21:24:41 +0000"
     },
     "done": true
   },
@@ -2192,6 +2240,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-05-21 18:29:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-05-22 20:59:03 +0000"
     },
     "done": true
   },
@@ -2444,6 +2498,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-05-20 18:23:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-22 21:24:41 +0000"
     },
     "done": true
   },
@@ -3164,6 +3224,12 @@
   "cfm:recipes/cfm/crimson_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-05-21 10:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-05-22 21:01:49 +0000"
     },
     "done": true
   },
@@ -4468,6 +4534,42 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mushroom_5": {
+    "criteria": {
+      "has_alt_item": "2024-05-22 21:24:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_4": {
+    "criteria": {
+      "has_alt_item": "2024-05-22 21:24:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_3": {
+    "criteria": {
+      "has_alt_item": "2024-05-22 21:24:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_2": {
+    "criteria": {
+      "has_alt_item": "2024-05-22 21:24:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_1": {
+    "criteria": {
+      "has_alt_item": "2024-05-22 21:24:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_0": {
+    "criteria": {
+      "has_alt_item": "2024-05-22 21:24:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2024-05-21 15:53:01 +0000"
@@ -4483,6 +4585,30 @@
   "create:recipes/create.base/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2024-05-21 09:10:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_9": {
+    "criteria": {
+      "has_alt_item": "2024-05-22 21:24:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_8": {
+    "criteria": {
+      "has_alt_item": "2024-05-22 21:24:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_7": {
+    "criteria": {
+      "has_alt_item": "2024-05-22 21:24:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_6": {
+    "criteria": {
+      "has_alt_item": "2024-05-22 21:24:41 +0000"
     },
     "done": true
   },
@@ -4876,6 +5002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-05-22 21:24:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/warped_crate": {
     "criteria": {
       "has_log": "2024-05-21 18:28:22 +0000"
@@ -4999,6 +5131,12 @@
     },
     "done": true
   },
+  "ars_nouveau:magebloom_crop": {
+    "criteria": {
+      "has_magebloom_crop": "2024-05-22 20:31:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-05-21 19:59:07 +0000"
@@ -5049,8 +5187,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-05-22 19:44:25 +0000",
-      "blocked_false": "2024-05-22 19:44:25 +0000"
+      "not_projectile": "2024-05-22 21:51:40 +0000",
+      "blocked_false": "2024-05-22 21:51:40 +0000"
     },
     "done": false
   },
@@ -5374,6 +5512,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "brown_mushroom": "2024-05-22 21:24:43 +0000",
       "sugar_cane": "2024-05-21 10:16:26 +0000",
       "wheat": "2024-05-21 15:54:23 +0000",
       "carrot": "2024-05-22 20:06:45 +0000"
@@ -5521,6 +5660,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-05-20 18:23:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-22 21:24:41 +0000"
     },
     "done": true
   },
