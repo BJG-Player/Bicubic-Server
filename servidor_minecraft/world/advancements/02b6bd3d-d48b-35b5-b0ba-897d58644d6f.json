@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-05-22 22:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/redstone_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
@@ -146,6 +152,12 @@
   "create:recipes/create.palettes/polished_cut_veridium_wall_from_veridium_stonecutting": {
     "criteria": {
       "has_veridium": "2024-05-20 18:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-05-22 23:23:24 +0000"
     },
     "done": true
   },
@@ -515,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-05-22 23:23:24 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/blank_parchment": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
@@ -638,6 +656,12 @@
   "iammusicplayer:recipes/iammusicplayer.iammusicplayer/music_manager": {
     "criteria": {
       "has_diamond": "2024-05-22 19:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-05-22 23:23:24 +0000"
     },
     "done": true
   },
@@ -1103,6 +1127,12 @@
     },
     "done": true
   },
+  "create:track_0": {
+    "criteria": {
+      "0": "2024-05-22 22:22:40 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/decorations/archwood_to_chest": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
@@ -1220,6 +1250,12 @@
   "botania:recipes/misc/conversions/blazeblock_deconstruct": {
     "criteria": {
       "has_item": "2024-05-20 17:15:02 +0000"
+    },
+    "done": true
+  },
+  "naturesaura:positive_imbalance": {
+    "criteria": {
+      "triggered_in_code": "2024-05-22 23:21:05 +0000"
     },
     "done": true
   },
@@ -1920,6 +1956,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-05-22 22:22:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_blinds": {
     "criteria": {
       "has_log": "2024-05-20 16:52:19 +0000"
@@ -2202,6 +2244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-05-22 22:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2024-05-20 19:00:32 +0000"
@@ -2418,6 +2466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-05-22 23:23:24 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/mushroom_10": {
     "criteria": {
       "has_alt_item": "2024-05-20 17:13:18 +0000"
@@ -2556,6 +2610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-05-22 22:22:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_calcite_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-05-20 19:03:51 +0000"
@@ -2573,6 +2633,14 @@
       "has_chest": "2024-05-20 16:16:41 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-05-22 23:35:58 +0000",
+      "is_projectile": "2024-05-22 23:36:01 +0000",
+      "not_magic": "2024-05-22 23:36:01 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -2808,6 +2876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-05-22 23:23:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-05-20 20:57:52 +0000"
@@ -3009,6 +3083,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_blue_dye": "2024-05-21 19:33:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/flint_knife": {
+    "criteria": {
+      "has_stick": "2024-05-22 22:22:45 +0000"
     },
     "done": true
   },
@@ -3318,9 +3398,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-05-22 23:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2024-05-22 22:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-05-20 16:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-05-22 23:23:24 +0000"
     },
     "done": true
   },
@@ -3531,6 +3629,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2024-05-20 19:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-05-22 22:22:45 +0000"
     },
     "done": true
   },
@@ -4122,6 +4226,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cutting_board": {
+    "criteria": {
+      "has_stick": "2024-05-22 22:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/ice_from_freezing": {
     "criteria": {
       "has_water": "2024-05-21 17:30:45 +0000"
@@ -4197,6 +4307,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-05-21 18:06:32 +0000",
+      "minecraft:pillager": "2024-05-22 23:01:32 +0000",
       "minecraft:skeleton": "2024-05-20 17:18:54 +0000",
       "minecraft:ghast": "2024-05-21 17:58:51 +0000",
       "minecraft:magma_cube": "2024-05-21 18:00:04 +0000",
@@ -4307,6 +4418,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-05-22 23:01:34 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/red_string_interceptor": {
     "criteria": {
       "has_base_block": "2024-05-21 17:10:22 +0000"
@@ -4382,6 +4499,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2024-05-20 18:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-05-22 23:23:24 +0000"
     },
     "done": true
   },
@@ -4508,6 +4631,12 @@
   "cfm:recipes/cfm/stripped_spruce_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-20 16:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-05-22 23:00:50 +0000"
     },
     "done": true
   },
@@ -4679,6 +4808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-05-22 22:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-05-20 16:52:19 +0000"
@@ -4832,6 +4967,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-05-20 18:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-05-22 23:23:24 +0000"
     },
     "done": true
   },
@@ -5830,6 +5971,13 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-05-22 23:35:58 +0000",
+      "blocked_false": "2024-05-22 23:35:58 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/polished_cut_granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-05-20 20:57:52 +0000"
@@ -5845,6 +5993,12 @@
   "ars_nouveau:recipes/ars_nouveau/sconce": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-05-22 23:23:24 +0000"
     },
     "done": true
   },
@@ -6049,6 +6203,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-05-20 16:51:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-05-22 23:19:03 +0000"
     },
     "done": true
   },
@@ -6376,6 +6536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-05-22 23:00:50 +0000"
+    },
+    "done": true
+  },
   "landmines:recipes/landmines/launch_landmine": {
     "criteria": {
       "recipe_condition": "2024-05-20 20:45:08 +0000"
@@ -6511,6 +6677,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-05-20 19:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-05-22 23:00:50 +0000"
     },
     "done": true
   },
