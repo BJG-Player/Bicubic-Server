@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-05-23 18:05:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2024-05-22 17:06:23 +0000"
@@ -101,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-05-23 18:23:29 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_table": {
     "criteria": {
       "has_planks": "2024-05-22 16:37:53 +0000"
@@ -134,6 +146,12 @@
   "cfm:recipes/cfm/acacia_cabinet": {
     "criteria": {
       "has_log": "2024-05-22 16:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-05-23 18:05:13 +0000"
     },
     "done": true
   },
@@ -206,6 +224,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-05-22 17:27:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-05-23 18:14:40 +0000"
     },
     "done": true
   },
@@ -371,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-05-23 18:05:13 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/fire_essence_to_charge": {
     "criteria": {
       "has_journal": "2024-05-22 16:28:58 +0000"
@@ -413,9 +443,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-05-23 18:14:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-05-22 16:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-05-23 18:23:29 +0000"
     },
     "done": true
   },
@@ -1115,6 +1157,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/coarse_lunar_dirt": {
+    "criteria": {
+      "has_item": "2024-05-23 18:14:40 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sky_block": {
     "criteria": {
       "has_journal": "2024-05-22 16:28:58 +0000"
@@ -1169,6 +1217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-05-23 18:05:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2024-05-22 17:28:06 +0000"
@@ -1217,9 +1271,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/rock_path": {
+    "criteria": {
+      "has_stone": "2024-05-23 18:05:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/oak_window": {
     "criteria": {
       "has_ingredient": "2024-05-22 17:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-05-23 18:14:39 +0000"
     },
     "done": true
   },
@@ -1703,6 +1769,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-05-23 18:03:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/lime_cooler": {
     "criteria": {
       "has_chest": "2024-05-22 16:42:48 +0000"
@@ -1736,6 +1808,12 @@
   "cfm:recipes/cfm/stripped_crimson_mail_box": {
     "criteria": {
       "has_chest": "2024-05-22 16:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-05-23 18:05:13 +0000"
     },
     "done": true
   },
@@ -1808,6 +1886,18 @@
   "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2024-05-22 16:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-05-23 18:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-05-23 18:14:39 +0000"
     },
     "done": true
   },
@@ -1983,6 +2073,7 @@
     "criteria": {
       "byg:rainbow_beach": "2024-05-22 16:32:41 +0000",
       "byg:prairie": "2024-05-22 16:52:54 +0000",
+      "byg:allium_fields": "2024-05-23 18:25:43 +0000",
       "byg:temperate_grove": "2024-05-22 16:47:02 +0000",
       "byg:orchard": "2024-05-22 16:47:44 +0000",
       "byg:firecracker_shrubland": "2024-05-22 16:46:13 +0000",
@@ -1990,7 +2081,9 @@
       "byg:aspen_forest": "2024-05-22 17:33:46 +0000",
       "byg:cherry_blossom_forest": "2024-05-22 16:31:12 +0000",
       "byg:baobab_savanna": "2024-05-22 16:42:36 +0000",
-      "byg:basalt_barrera": "2024-05-22 18:28:21 +0000"
+      "byg:basalt_barrera": "2024-05-22 18:28:21 +0000",
+      "byg:lush_stacks": "2024-05-23 18:27:17 +0000",
+      "byg:dacite_shore": "2024-05-23 17:50:00 +0000"
     },
     "done": false
   },
@@ -2162,6 +2255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-05-23 18:23:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2024-05-22 16:47:29 +0000"
@@ -2297,6 +2396,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-05-22 16:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-05-23 18:05:13 +0000"
     },
     "done": true
   },
@@ -2564,6 +2669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-05-23 18:05:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_blinds": {
     "criteria": {
       "has_log": "2024-05-22 16:49:37 +0000"
@@ -2774,6 +2885,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-05-23 18:03:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-05-22 19:11:29 +0000"
@@ -2789,6 +2906,12 @@
   "cfm:recipes/cfm/acacia_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2024-05-22 16:38:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2024-05-23 18:23:29 +0000"
     },
     "done": true
   },
@@ -2811,6 +2934,12 @@
   "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2024-05-22 17:27:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/coarse_turquoise_dirt": {
+    "criteria": {
+      "has_item": "2024-05-23 18:14:40 +0000"
     },
     "done": true
   },
@@ -3174,6 +3303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-05-23 18:05:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_blinds": {
     "criteria": {
       "has_log": "2024-05-22 16:37:53 +0000"
@@ -3270,6 +3405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-05-23 18:05:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2024-05-22 16:47:16 +0000",
@@ -3342,6 +3483,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-05-22 17:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-05-23 18:05:13 +0000"
     },
     "done": true
   },
@@ -3645,6 +3792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-05-23 18:05:13 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/green_sbed": {
     "criteria": {
       "has_journal": "2024-05-22 16:28:58 +0000"
@@ -3717,7 +3870,9 @@
       "cooked_mutton": "2024-05-22 17:16:43 +0000",
       "cooked_beef": "2024-05-22 16:34:10 +0000",
       "apple": "2024-05-22 18:35:23 +0000",
-      "rotten_flesh": "2024-05-22 16:32:55 +0000"
+      "bread": "2024-05-23 17:45:25 +0000",
+      "rotten_flesh": "2024-05-22 16:32:55 +0000",
+      "cooked_chicken": "2024-05-23 18:12:37 +0000"
     },
     "done": false
   },
@@ -3840,6 +3995,13 @@
       "has_ochrum": "2024-05-22 19:13:11 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-05-23 18:02:48 +0000",
+      "blocked_false": "2024-05-23 18:02:48 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
@@ -4455,6 +4617,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2024-05-23 18:23:29 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/clear_allow": {
     "criteria": {
       "has_journal": "2024-05-22 16:28:58 +0000"
@@ -4557,6 +4725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-05-23 18:05:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2024-05-22 16:47:29 +0000"
@@ -4614,6 +4788,12 @@
   "ars_nouveau:recipes/ars_nouveau/vitalic_sourcelink": {
     "criteria": {
       "has_journal": "2024-05-22 16:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-05-23 18:05:13 +0000"
     },
     "done": true
   },
