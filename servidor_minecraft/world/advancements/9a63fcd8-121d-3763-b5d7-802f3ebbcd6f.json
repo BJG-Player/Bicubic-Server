@@ -2245,8 +2245,7 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-05-23 00:40:04 +0000",
-      "not_magic": "2024-05-23 00:40:04 +0000"
+      "is_projectile": "2024-05-23 11:43:29 +0000"
     },
     "done": false
   },
@@ -3331,6 +3330,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2024-05-23 11:35:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-05-19 18:52:37 +0000"
@@ -3501,6 +3506,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-05-23 11:19:15 +0000",
       "minecraft:skeleton": "2024-05-19 18:20:16 +0000",
       "minecraft:spider": "2024-05-19 18:21:13 +0000",
       "minecraft:creeper": "2024-05-19 18:37:54 +0000",
@@ -3580,6 +3586,12 @@
   "cfm:recipes/cfm/blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-05-19 12:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-05-23 11:19:15 +0000"
     },
     "done": true
   },
@@ -4542,6 +4554,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-05-23 11:19:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-05-20 16:15:13 +0000"
@@ -4608,6 +4626,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/smelting/glass_from_framed_glass": {
+    "criteria": {
+      "has_item": "2024-05-23 11:35:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/pumpkin_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-05-20 16:12:39 +0000"
@@ -4629,6 +4653,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2024-05-21 18:12:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/framed_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2024-05-23 11:35:54 +0000"
     },
     "done": true
   },
@@ -4844,8 +4874,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-05-23 00:40:04 +0000",
-      "blocked_false": "2024-05-23 00:40:04 +0000"
+      "not_projectile": "2024-05-23 11:43:46 +0000",
+      "blocked_false": "2024-05-23 11:43:46 +0000"
     },
     "done": false
   },
@@ -5350,6 +5380,12 @@
   "create:recipes/create.palettes/small_dripstone_brick_stairs": {
     "criteria": {
       "has_small_dripstone_bricks": "2024-05-22 17:26:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/framed_glass_door": {
+    "criteria": {
+      "has_item": "2024-05-23 11:35:54 +0000"
     },
     "done": true
   },
