@@ -1235,6 +1235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-05-24 15:55:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/black_grill": {
     "criteria": {
       "has_iron": "2024-05-20 16:18:24 +0000"
@@ -3221,6 +3227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-05-24 15:52:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/crimson_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-05-21 10:13:15 +0000"
@@ -5187,8 +5199,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-05-22 21:51:40 +0000",
-      "blocked_false": "2024-05-22 21:51:40 +0000"
+      "not_projectile": "2024-05-24 15:50:12 +0000",
+      "blocked_false": "2024-05-24 15:50:12 +0000"
     },
     "done": false
   },
@@ -6255,6 +6267,12 @@
   "create:recipes/create.palettes/polished_cut_veridium_slab_from_veridium_stonecutting": {
     "criteria": {
       "has_veridium": "2024-05-20 18:23:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-24 15:55:38 +0000"
     },
     "done": true
   },
