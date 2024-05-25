@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_dripstone_slab_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2024-05-25 17:09:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-05-24 14:25:59 +0000"
@@ -302,6 +308,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-05-22 17:27:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_dripstone_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2024-05-25 17:09:02 +0000"
     },
     "done": true
   },
@@ -764,6 +776,12 @@
   "cfm:recipes/cfm/spruce_park_bench": {
     "criteria": {
       "has_planks": "2024-05-24 14:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_dripstone_stairs_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2024-05-25 17:09:02 +0000"
     },
     "done": true
   },
@@ -2171,6 +2189,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_dripstone_bricks_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2024-05-25 17:09:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_ochrum_bricks_from_ochrum_stonecutting": {
     "criteria": {
       "has_ochrum": "2024-05-22 19:13:11 +0000"
@@ -2711,6 +2735,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_dripstone_wall_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2024-05-25 17:09:02 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-22 16:42:48 +0000"
@@ -2824,6 +2854,13 @@
       "has_asurine": "2024-05-23 21:01:14 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-05-25 17:30:29 +0000",
+      "not_magic": "2024-05-25 17:30:29 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -3050,6 +3087,12 @@
   "cfm:recipes/cfm/oak_desk": {
     "criteria": {
       "has_log": "2024-05-22 16:42:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_dripstone_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2024-05-25 17:09:02 +0000"
     },
     "done": true
   },
@@ -3728,6 +3771,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_dripstone_slab_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2024-05-25 17:09:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-05-22 16:39:10 +0000"
@@ -3773,6 +3822,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2024-05-24 16:41:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_dripstone_brick_wall_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2024-05-25 17:09:02 +0000"
     },
     "done": true
   },
@@ -3839,6 +3894,12 @@
   "ars_nouveau:recipes/ars_nouveau/scribes_table": {
     "criteria": {
       "has_journal": "2024-05-22 16:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-05-25 17:07:05 +0000"
     },
     "done": true
   },
@@ -5029,6 +5090,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_dripstone_wall_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2024-05-25 17:09:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-05-22 19:11:29 +0000"
@@ -5038,6 +5105,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-05-22 17:16:35 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2024-05-25 17:03:40 +0000"
     },
     "done": true
   },
@@ -5367,6 +5440,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-05-22 16:28:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_dripstone_brick_stairs_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2024-05-25 17:09:02 +0000"
     },
     "done": true
   },
@@ -5730,6 +5809,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_dripstone_bricks_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2024-05-25 17:09:02 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourceberry_to_purple": {
     "criteria": {
       "has_journal": "2024-05-22 16:28:58 +0000"
@@ -5922,6 +6007,18 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_dripstone_stairs_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2024-05-25 17:09:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_dripstone_brick_slab_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2024-05-25 17:09:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles": {
     "criteria": {
       "has_deepslate_bricks": "2024-05-25 14:58:43 +0000"
@@ -5940,7 +6037,8 @@
       "suspicious_stew": "2024-05-24 16:46:41 +0000",
       "melon_slice": "2024-05-23 19:55:32 +0000",
       "cooked_chicken": "2024-05-23 18:12:37 +0000",
-      "cooked_salmon": "2024-05-23 19:39:34 +0000"
+      "cooked_salmon": "2024-05-23 19:39:34 +0000",
+      "carrot": "2024-05-25 17:07:23 +0000"
     },
     "done": false
   },
@@ -6148,6 +6246,13 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-05-25 17:30:35 +0000",
+      "blocked_false": "2024-05-25 17:30:35 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/polished_cut_granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-05-23 19:46:10 +0000"
@@ -6193,6 +6298,12 @@
   "ars_instrumentum:recipes/ars_nouveau/copy_paste_spell_scroll": {
     "criteria": {
       "has_journal": "2024-05-22 16:28:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/dripstone_pillar_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2024-05-25 17:09:02 +0000"
     },
     "done": true
   },
@@ -6355,6 +6466,12 @@
   "ars_nouveau:recipes/ars_nouveau/ritual_awakening": {
     "criteria": {
       "has_journal": "2024-05-22 16:28:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_dripstone_brick_slab_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2024-05-25 17:09:02 +0000"
     },
     "done": true
   },
@@ -6976,6 +7093,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_dripstone_brick_wall_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2024-05-25 17:09:02 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_crate": {
     "criteria": {
       "has_planks": "2024-05-22 16:49:37 +0000"
@@ -7120,6 +7243,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_dripstone_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2024-05-25 17:09:02 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/clear_allow": {
     "criteria": {
       "has_journal": "2024-05-22 16:28:58 +0000"
@@ -7189,6 +7318,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-05-25 16:19:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_dripstone_brick_stairs_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2024-05-25 17:09:02 +0000"
     },
     "done": true
   },
