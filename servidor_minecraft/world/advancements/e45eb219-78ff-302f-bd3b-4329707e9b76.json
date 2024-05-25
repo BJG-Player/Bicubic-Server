@@ -449,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-05-25 14:48:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-05-20 18:23:30 +0000"
@@ -1529,6 +1535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-05-25 14:48:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-05-21 18:23:32 +0000"
@@ -1550,6 +1562,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-05-20 16:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-05-25 14:48:55 +0000"
     },
     "done": true
   },
@@ -2543,6 +2561,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/pool_minecart": {
+    "criteria": {
+      "has_item": "2024-05-25 14:48:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-05-20 17:34:31 +0000"
@@ -2677,7 +2701,8 @@
       "byg:araucaria_savanna": "2024-05-19 18:19:31 +0000",
       "byg:cherry_blossom_forest": "2024-05-19 18:04:24 +0000",
       "byg:crimson_gardens": "2024-05-21 18:24:48 +0000",
-      "byg:baobab_savanna": "2024-05-19 18:04:27 +0000"
+      "byg:baobab_savanna": "2024-05-19 18:04:27 +0000",
+      "byg:lush_stacks": "2024-05-25 14:54:49 +0000"
     },
     "done": false
   },
@@ -4432,6 +4457,7 @@
       "minecraft:beach": "2024-05-19 18:17:46 +0000",
       "minecraft:lukewarm_ocean": "2024-05-19 18:18:28 +0000",
       "minecraft:river": "2024-05-19 18:17:57 +0000",
+      "minecraft:stony_shore": "2024-05-25 14:53:21 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-05-19 18:34:52 +0000",
       "minecraft:savanna": "2024-05-19 18:04:21 +0000",
       "minecraft:plains": "2024-05-19 18:38:45 +0000"
@@ -4609,6 +4635,12 @@
   "botania:recipes/botania/mushroom_8": {
     "criteria": {
       "has_alt_item": "2024-05-22 21:24:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-05-25 14:48:55 +0000"
     },
     "done": true
   },
@@ -5196,13 +5228,6 @@
       "has_gravel": "2024-05-20 18:23:30 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-05-24 15:50:12 +0000",
-      "blocked_false": "2024-05-24 15:50:12 +0000"
-    },
-    "done": false
   },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
@@ -6243,6 +6268,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-05-19 18:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-05-25 14:48:55 +0000"
     },
     "done": true
   },

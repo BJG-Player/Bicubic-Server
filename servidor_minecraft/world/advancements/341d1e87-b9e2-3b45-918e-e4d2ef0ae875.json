@@ -251,6 +251,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-05-25 15:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-05-25 16:19:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-05-22 17:36:17 +0000"
@@ -338,6 +350,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-05-22 17:06:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_sword": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:20 +0000"
     },
     "done": true
   },
@@ -431,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-05-25 14:58:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-05-22 17:42:16 +0000"
@@ -446,6 +470,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-05-24 17:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2024-05-25 15:06:10 +0000"
     },
     "done": true
   },
@@ -530,6 +560,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-05-22 17:06:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/ice_pendant": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:20 +0000"
     },
     "done": true
   },
@@ -626,6 +662,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-05-23 19:52:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_block": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:21 +0000"
     },
     "done": true
   },
@@ -740,6 +782,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-05-23 20:00:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-05-25 15:50:31 +0000"
     },
     "done": true
   },
@@ -905,6 +953,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mana_fluxfield": {
+    "criteria": {
+      "has_alt_item": "2024-05-25 16:08:21 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/source_berry_pie": {
     "criteria": {
       "has_journal": "2024-05-22 16:28:58 +0000"
@@ -938,6 +992,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2024-05-22 16:44:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_chestplate": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:20 +0000"
     },
     "done": true
   },
@@ -992,6 +1052,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-05-22 19:15:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-05-25 15:50:31 +0000"
     },
     "done": true
   },
@@ -1157,6 +1223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-05-25 14:58:43 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2024-05-22 17:27:29 +0000"
@@ -1205,15 +1277,15 @@
     },
     "done": true
   },
-  "create:recipes/create.palettes/polished_cut_andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-05-24 14:40:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-05-24 14:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-05-24 14:40:48 +0000"
     },
     "done": true
   },
@@ -1442,6 +1514,12 @@
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_purple_dye": "2024-05-24 14:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-05-25 14:58:43 +0000"
     },
     "done": true
   },
@@ -1787,6 +1865,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/manasteel_shovel": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_desk_cabinet": {
     "criteria": {
       "has_log": "2024-05-22 16:37:53 +0000"
@@ -1877,6 +1961,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/food/cake_compat": {
+    "criteria": {
+      "has_item": "2024-05-25 15:50:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-05-24 14:02:34 +0000"
@@ -1949,6 +2039,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/manasteel_axe": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/oak_window": {
     "criteria": {
       "has_ingredient": "2024-05-22 17:38:11 +0000"
@@ -1970,6 +2066,12 @@
   "create:recipes/create.palettes/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-05-24 16:08:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2024-05-25 15:07:06 +0000"
     },
     "done": true
   },
@@ -2477,6 +2579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab": {
+    "criteria": {
+      "has_cut_copper": "2024-05-25 15:07:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-05-23 19:46:10 +0000"
@@ -2627,6 +2735,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/glass_pickaxe": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_asurine_stairs_from_asurine_stonecutting": {
     "criteria": {
       "has_asurine": "2024-05-23 21:01:14 +0000"
@@ -2654,6 +2768,12 @@
   "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2024-05-23 18:03:47 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_boots": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:21 +0000"
     },
     "done": true
   },
@@ -2849,6 +2969,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/manasteel_leggings": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-05-24 14:02:34 +0000"
@@ -2993,15 +3119,15 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2024-05-24 14:45:45 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/cut_andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-05-24 14:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-05-24 14:45:45 +0000"
     },
     "done": true
   },
@@ -3026,6 +3152,12 @@
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_grass_block": {
     "criteria": {
       "has_journal": "2024-05-22 16:28:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lens_normal": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:20 +0000"
     },
     "done": true
   },
@@ -3236,6 +3368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper": "2024-05-25 15:07:06 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/cyan_grill": {
     "criteria": {
       "has_iron": "2024-05-22 17:27:29 +0000"
@@ -3377,6 +3515,18 @@
   "create:recipes/create.palettes/cut_asurine_slab_from_asurine_stonecutting": {
     "criteria": {
       "has_asurine": "2024-05-23 21:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-05-25 14:58:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/travel_belt": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:20 +0000"
     },
     "done": true
   },
@@ -3566,6 +3716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-05-25 15:06:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/pie_crust": {
     "criteria": {
       "has_wheat": "2024-05-22 16:48:34 +0000"
@@ -3581,6 +3737,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-05-23 20:50:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/monocle": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:21 +0000"
     },
     "done": true
   },
@@ -3746,15 +3908,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-05-24 17:07:42 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/spruce_cabinet": {
     "criteria": {
       "has_planks": "2024-05-24 14:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-05-24 17:07:42 +0000"
     },
     "done": true
   },
@@ -3821,6 +3983,12 @@
   "create:recipes/create.palettes/polished_cut_asurine_wall_from_asurine_stonecutting": {
     "criteria": {
       "has_asurine": "2024-05-23 21:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-05-25 14:58:43 +0000"
     },
     "done": true
   },
@@ -4040,6 +4208,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/obedience_stick": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2024-05-22 19:10:08 +0000"
@@ -4055,6 +4229,12 @@
   "cfm:recipes/cfm/mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-05-22 17:36:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/forest_eye": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:20 +0000"
     },
     "done": true
   },
@@ -4115,6 +4295,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-05-22 17:38:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2024-05-25 16:21:17 +0000"
     },
     "done": true
   },
@@ -4281,11 +4467,13 @@
       "minecraft:magma_cube": "2024-05-24 17:32:47 +0000",
       "minecraft:spider": "2024-05-22 17:43:53 +0000",
       "minecraft:creeper": "2024-05-22 18:22:15 +0000",
+      "minecraft:zombified_piglin": "2024-05-25 15:02:54 +0000",
       "minecraft:wither_skeleton": "2024-05-24 14:26:41 +0000",
       "minecraft:cave_spider": "2024-05-23 20:10:17 +0000",
       "minecraft:enderman": "2024-05-22 18:09:32 +0000",
       "minecraft:zombie": "2024-05-22 16:30:11 +0000",
-      "minecraft:drowned": "2024-05-23 21:25:03 +0000"
+      "minecraft:drowned": "2024-05-23 21:25:03 +0000",
+      "minecraft:zombie_villager": "2024-05-25 15:01:27 +0000"
     },
     "done": false
   },
@@ -4373,6 +4561,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-05-25 14:58:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-05-22 17:36:17 +0000"
@@ -4409,6 +4603,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/manasteel_hoe": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-05-22 17:38:11 +0000"
@@ -4430,6 +4630,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-05-24 17:07:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_helmet": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:21 +0000"
     },
     "done": true
   },
@@ -4577,6 +4783,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/manasteel_shears": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/fridge_dark": {
     "criteria": {
       "has_chest": "2024-05-22 16:42:48 +0000"
@@ -4628,6 +4840,12 @@
   "cfm:recipes/cfm/blue_cooler": {
     "criteria": {
       "has_chest": "2024-05-22 16:42:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_distributor": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:21 +0000"
     },
     "done": true
   },
@@ -4694,6 +4912,12 @@
   "ars_nouveau:recipes/ars_nouveau/ritual_warping": {
     "criteria": {
       "has_journal": "2024-05-22 16:28:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/ghost_rail": {
+    "criteria": {
+      "has_item": "2024-05-25 16:19:12 +0000"
     },
     "done": true
   },
@@ -4781,6 +5005,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-05-25 14:58:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/purple_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-22 16:42:48 +0000"
@@ -4820,6 +5050,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-05-24 16:41:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mining_ring": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:21 +0000"
     },
     "done": true
   },
@@ -4913,9 +5149,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-05-25 14:58:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2024-05-22 17:27:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/pump": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:20 +0000"
     },
     "done": true
   },
@@ -5008,6 +5256,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/swap_ring": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/red_grill": {
     "criteria": {
       "has_iron": "2024-05-22 17:27:29 +0000"
@@ -5065,6 +5319,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-05-22 17:27:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2024-05-25 15:06:10 +0000"
     },
     "done": true
   },
@@ -5158,6 +5418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-05-25 14:58:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_blue_cooler": {
     "criteria": {
       "has_chest": "2024-05-22 16:42:48 +0000"
@@ -5194,15 +5460,15 @@
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_everdawn_blocks/maple_bookshelf": {
-    "criteria": {
-      "has_item": "2024-05-24 16:53:24 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-05-24 16:08:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2024-05-24 16:53:24 +0000"
     },
     "done": true
   },
@@ -5608,6 +5874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-05-25 15:06:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-05-22 17:58:23 +0000"
@@ -5638,9 +5910,21 @@
     },
     "done": true
   },
+  "botania:recipes/botania/sextant": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-05-23 19:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-05-25 14:58:43 +0000"
     },
     "done": true
   },
@@ -5675,6 +5959,12 @@
   "cfm:recipes/cfm/acacia_bedside_cabinet": {
     "criteria": {
       "has_log": "2024-05-22 16:37:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lava_pendant": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:20 +0000"
     },
     "done": true
   },
@@ -5858,16 +6148,15 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-05-24 17:34:38 +0000",
-      "blocked_false": "2024-05-24 17:34:38 +0000"
-    },
-    "done": false
-  },
   "create:recipes/create.palettes/polished_cut_granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-05-23 19:46:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-05-25 15:50:31 +0000"
     },
     "done": true
   },
@@ -5907,6 +6196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs": {
+    "criteria": {
+      "has_cut_copper": "2024-05-25 15:07:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2024-05-22 17:28:06 +0000"
@@ -5928,6 +6223,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-05-22 16:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-05-25 15:06:10 +0000"
     },
     "done": true
   },
@@ -5991,6 +6292,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/bauble_box": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/archwood_chest": {
     "criteria": {
       "has_journal": "2024-05-22 16:28:58 +0000"
@@ -6033,6 +6340,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-05-25 16:19:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-05-23 20:01:49 +0000"
@@ -6054,6 +6367,12 @@
   "cfm:recipes/cfm/crimson_mail_box": {
     "criteria": {
       "has_chest": "2024-05-22 16:42:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/conversions/manasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:20 +0000"
     },
     "done": true
   },
@@ -6141,6 +6460,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/dodge_ring": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-22 16:42:48 +0000"
@@ -6162,6 +6487,12 @@
   "botania:main/tiny_potato_pet": {
     "criteria": {
       "code_triggered": "2024-05-22 18:14:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2024-05-25 15:07:06 +0000"
     },
     "done": true
   },
@@ -6255,6 +6586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-05-25 14:58:43 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-05-22 16:28:58 +0000"
@@ -6288,6 +6625,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-05-22 16:47:47 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/magnet_ring": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:20 +0000"
     },
     "done": true
   },
@@ -6351,6 +6694,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/manasteel_pick": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2024-05-23 20:17:57 +0000"
@@ -6366,6 +6715,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-05-24 16:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2024-05-25 15:06:10 +0000"
     },
     "done": true
   },
@@ -6723,6 +7078,12 @@
     },
     "done": true
   },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2024-05-25 16:08:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-05-22 17:38:11 +0000"
@@ -6825,6 +7186,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-05-25 16:19:12 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/scry_to_blank_parchment": {
     "criteria": {
       "has_journal": "2024-05-22 16:28:58 +0000"
@@ -6849,15 +7216,15 @@
     },
     "done": true
   },
-  "botania:recipes/botania/quartz_lavender": {
-    "criteria": {
-      "has_item": "2024-05-24 17:29:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-05-24 17:07:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/quartz_lavender": {
+    "criteria": {
+      "has_item": "2024-05-24 17:29:48 +0000"
     },
     "done": true
   },
@@ -6909,15 +7276,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2024-05-24 17:16:54 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/onion_crate": {
     "criteria": {
       "has_onion": "2024-05-24 17:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-05-24 17:16:54 +0000"
     },
     "done": true
   },
@@ -7035,6 +7402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-05-25 14:58:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2024-05-22 17:28:06 +0000"
@@ -7050,6 +7423,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-05-23 20:01:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/knockback_belt": {
+    "criteria": {
+      "has_item": "2024-05-25 16:08:20 +0000"
     },
     "done": true
   },
