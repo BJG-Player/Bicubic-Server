@@ -1139,6 +1139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-05-25 22:00:15 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/cypress_chest_boat": {
     "criteria": {
       "has_boat": "2024-05-21 16:54:17 +0000"
@@ -1244,6 +1250,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-05-20 16:15:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/bluebright_bookshelf": {
+    "criteria": {
+      "has_item": "2024-05-25 22:00:15 +0000"
     },
     "done": true
   },
@@ -2424,6 +2436,12 @@
     },
     "done": true
   },
+  "iammusicplayer:iammusicplayer/listen_to_remote_music": {
+    "criteria": {
+      "listen_to_remote_music": "2024-05-25 21:55:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-05-20 16:15:39 +0000"
@@ -2742,6 +2760,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-05-25 21:55:11 +0000"
+    },
+    "done": true
+  },
   "landmines:recipes/landmines/fake_landmine": {
     "criteria": {
       "recipe_condition": "2024-05-20 17:02:52 +0000"
@@ -2792,8 +2816,8 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-05-23 21:48:30 +0000",
-      "not_magic": "2024-05-23 21:54:34 +0000"
+      "not_projectile": "2024-05-25 22:11:27 +0000",
+      "not_magic": "2024-05-25 22:11:27 +0000"
     },
     "done": false
   },
@@ -2908,6 +2932,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2024-05-20 17:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-05-25 21:55:11 +0000"
     },
     "done": true
   },
@@ -4243,6 +4273,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-05-25 22:00:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/gold_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
@@ -4417,6 +4453,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everbright_blocks/frostbright_bookshelf": {
+    "criteria": {
+      "has_item": "2024-05-25 22:00:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_coffee_table": {
     "criteria": {
       "has_planks": "2024-05-20 16:52:19 +0000"
@@ -4504,6 +4546,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2024-05-20 17:02:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-05-25 21:55:11 +0000"
     },
     "done": true
   },
@@ -5274,6 +5322,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_blocks/cherry_bookshelf": {
+    "criteria": {
+      "has_item": "2024-05-25 22:00:15 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
@@ -5640,6 +5694,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2024-05-25 22:00:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/redstone_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
@@ -5832,6 +5892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-05-25 22:00:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/red_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-05-21 16:57:35 +0000"
@@ -6000,6 +6066,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_bookshelf": {
+    "criteria": {
+      "has_item": "2024-05-25 22:00:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_red_dye": "2024-05-21 19:33:21 +0000"
@@ -6057,6 +6129,12 @@
   "cfm:recipes/cfm/green_cooler": {
     "criteria": {
       "has_chest": "2024-05-20 16:16:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/starlit_bookshelf": {
+    "criteria": {
+      "has_item": "2024-05-25 22:00:15 +0000"
     },
     "done": true
   },
@@ -6265,6 +6343,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_bookshelf": {
+    "criteria": {
+      "has_item": "2024-05-25 22:00:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-05-20 16:46:01 +0000"
@@ -6285,8 +6369,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-05-23 21:48:30 +0000",
-      "blocked_false": "2024-05-23 21:48:30 +0000"
+      "not_projectile": "2024-05-25 22:10:35 +0000",
+      "blocked_false": "2024-05-25 22:10:35 +0000"
     },
     "done": false
   },
@@ -6515,6 +6599,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-05-20 19:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-05-25 22:00:39 +0000"
     },
     "done": true
   },
@@ -7020,6 +7110,12 @@
   "blue_skies:recipes/blue_skies_dungeon/glowing_blinding_stone": {
     "criteria": {
       "has_item": "2024-05-23 20:11:02 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/iammusicplayer.iammusicplayer/manual": {
+    "criteria": {
+      "has_book": "2024-05-25 22:00:15 +0000"
     },
     "done": true
   },
