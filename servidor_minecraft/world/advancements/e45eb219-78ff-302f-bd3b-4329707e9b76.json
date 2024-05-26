@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-05-26 11:53:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-05-20 18:23:30 +0000"
@@ -746,6 +752,12 @@
   "create:recipes/create.base/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2024-05-21 15:53:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-05-26 11:57:11 +0000"
     },
     "done": true
   },
@@ -2851,6 +2863,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/red_string_dispenser": {
+    "criteria": {
+      "has_base_block": "2024-05-26 11:53:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-21 18:55:23 +0000"
@@ -3727,6 +3745,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2024-05-26 11:53:07 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-05-20 16:08:45 +0000"
@@ -3981,6 +4005,12 @@
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-05-21 20:04:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/red_string_interceptor": {
+    "criteria": {
+      "has_base_block": "2024-05-26 11:53:22 +0000"
     },
     "done": true
   },
@@ -4275,6 +4305,12 @@
   "create:recipes/create.palettes/cut_veridium_from_veridium_stonecutting": {
     "criteria": {
       "has_veridium": "2024-05-20 18:23:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/ghost_rail": {
+    "criteria": {
+      "has_item": "2024-05-26 11:53:02 +0000"
     },
     "done": true
   },
@@ -4691,6 +4727,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-05-19 18:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-05-26 11:51:04 +0000"
     },
     "done": true
   },
@@ -5228,6 +5270,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/animated_torch": {
+    "criteria": {
+      "has_item": "2024-05-26 11:53:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2024-05-22 21:24:41 +0000"
@@ -5595,6 +5643,12 @@
   "cfm:recipes/cfm/stripped_mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-21 18:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-05-26 11:53:02 +0000"
     },
     "done": true
   },
@@ -6184,6 +6238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-05-26 11:53:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-05-20 17:34:31 +0000"
@@ -6286,6 +6346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-05-26 11:53:02 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/scry_to_blank_parchment": {
     "criteria": {
       "has_journal": "2024-05-19 18:02:45 +0000"
@@ -6331,6 +6397,12 @@
   "cfm:recipes/cfm/spruce_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-05-21 10:13:15 +0000"
+    },
+    "done": true
+  },
+  "landmines:recipes/landmines/arrows_landmine": {
+    "criteria": {
+      "recipe_condition": "2024-05-26 11:53:22 +0000"
     },
     "done": true
   },
