@@ -749,6 +749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-05-27 21:51:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/emerald_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-05-20 16:12:39 +0000"
@@ -1727,6 +1733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-05-27 21:51:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2024-05-21 18:03:27 +0000"
@@ -2629,20 +2641,16 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-05-27 19:28:40 +0000",
-      "bit_8_2": "2024-05-27 19:28:40 +0000",
-      "bit_7_0": "2024-05-27 19:28:40 +0000",
-      "bit_5_2": "2024-05-27 19:28:40 +0000",
-      "bit_6_2": "2024-05-27 19:28:40 +0000",
-      "bit_4_1": "2024-05-27 19:28:40 +0000",
-      "bit_3_0": "2024-05-27 19:28:40 +0000",
-      "bit_2_1": "2024-05-27 19:28:40 +0000",
-      "bit_1_2": "2024-05-27 19:28:42 +0000",
-      "bit_1_0": "2024-05-27 19:28:40 +0000",
-      "bit_0_1": "2024-05-27 19:28:50 +0000",
-      "bit_2_0": "2024-05-27 19:28:42 +0000",
-      "bit_0_2": "2024-05-27 19:28:42 +0000",
-      "bit_0_0": "2024-05-27 19:28:40 +0000"
+      "not_projectile": "2024-05-27 21:54:52 +0000",
+      "bit_8_2": "2024-05-27 21:54:52 +0000",
+      "bit_7_0": "2024-05-27 21:54:52 +0000",
+      "bit_6_2": "2024-05-27 21:54:52 +0000",
+      "bit_5_1": "2024-05-27 21:54:52 +0000",
+      "bit_1_2": "2024-05-27 21:54:52 +0000",
+      "bit_4_0": "2024-05-27 21:54:52 +0000",
+      "bit_3_1": "2024-05-27 21:54:52 +0000",
+      "bit_0_1": "2024-05-27 21:54:52 +0000",
+      "bit_2_0": "2024-05-27 21:54:52 +0000"
     },
     "done": false
   },
@@ -3373,6 +3381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-05-27 21:51:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2024-05-20 16:08:47 +0000"
@@ -3866,6 +3880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2024-05-27 21:51:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2024-05-20 16:44:13 +0000"
@@ -4139,10 +4159,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-05-23 11:19:15 +0000",
+      "minecraft:blaze": "2024-05-27 21:03:21 +0000",
       "minecraft:skeleton": "2024-05-19 18:20:16 +0000",
       "minecraft:spider": "2024-05-19 18:21:13 +0000",
       "minecraft:creeper": "2024-05-19 18:37:54 +0000",
       "minecraft:phantom": "2024-05-20 18:21:01 +0000",
+      "minecraft:zombified_piglin": "2024-05-27 21:05:04 +0000",
+      "minecraft:wither_skeleton": "2024-05-27 21:00:42 +0000",
       "minecraft:enderman": "2024-05-20 16:07:43 +0000",
       "minecraft:zombie": "2024-05-19 18:20:13 +0000",
       "minecraft:drowned": "2024-05-21 16:57:24 +0000"
@@ -6169,6 +6192,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2024-05-20 16:22:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-27 21:51:49 +0000"
     },
     "done": true
   },

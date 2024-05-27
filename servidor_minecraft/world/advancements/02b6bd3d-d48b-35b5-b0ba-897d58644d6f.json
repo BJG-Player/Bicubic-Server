@@ -1193,6 +1193,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2024-05-27 20:56:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/mutton_wrap": {
     "criteria": {
       "has_mutton": "2024-05-20 16:51:20 +0000"
@@ -1799,6 +1805,12 @@
     },
     "done": true
   },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2024-05-27 20:56:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2024-05-20 16:04:28 +0000"
@@ -1832,6 +1844,12 @@
   "cfm:recipes/cfm/light_blue_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-20 16:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2024-05-27 20:56:34 +0000"
     },
     "done": true
   },
@@ -1910,7 +1928,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:soul_sand_valley": "2024-05-21 18:05:33 +0000",
-      "minecraft:basalt_deltas": "2024-05-21 20:57:17 +0000"
+      "minecraft:basalt_deltas": "2024-05-21 20:57:17 +0000",
+      "minecraft:warped_forest": "2024-05-27 21:00:42 +0000"
     },
     "done": false
   },
@@ -2658,6 +2677,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-05-27 20:58:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_sofa": {
     "criteria": {
       "has_wool": "2024-05-20 16:51:11 +0000"
@@ -3240,12 +3265,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "not_projectile": "2024-05-27 20:22:44 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 17:02:14 +0000"
@@ -3760,12 +3779,15 @@
       "byg:quartz_desert": "2024-05-21 17:55:55 +0000",
       "byg:firecracker_shrubland": "2024-05-20 16:45:11 +0000",
       "byg:magma_wastes": "2024-05-21 18:05:54 +0000",
+      "byg:embur_bog": "2024-05-27 21:01:57 +0000",
       "byg:araucaria_savanna": "2024-05-20 16:42:31 +0000",
       "byg:jacaranda_forest": "2024-05-26 20:47:50 +0000",
       "byg:cherry_blossom_forest": "2024-05-20 16:03:22 +0000",
       "byg:crimson_gardens": "2024-05-21 18:05:27 +0000",
       "byg:baobab_savanna": "2024-05-20 16:46:29 +0000",
       "byg:amaranth_fields": "2024-05-26 20:47:59 +0000",
+      "byg:brimstone_caverns": "2024-05-27 21:01:33 +0000",
+      "byg:weeping_mire": "2024-05-27 20:59:43 +0000",
       "byg:basalt_barrera": "2024-05-22 19:16:22 +0000",
       "byg:lush_stacks": "2024-05-26 20:40:54 +0000",
       "byg:dacite_shore": "2024-05-27 20:09:55 +0000",
@@ -5257,6 +5279,7 @@
       "minecraft:enderman": "2024-05-20 16:45:32 +0000",
       "minecraft:vex": "2024-05-23 20:12:22 +0000",
       "minecraft:zombie": "2024-05-20 17:18:51 +0000",
+      "minecraft:drowned": "2024-05-27 21:33:15 +0000",
       "minecraft:zombie_villager": "2024-05-26 18:10:41 +0000"
     },
     "done": false
@@ -5270,6 +5293,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-05-21 18:14:15 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/iammusicplayer.iammusicplayer/cassette_tape": {
+    "criteria": {
+      "has_dried_kelp": "2024-05-27 20:56:34 +0000"
     },
     "done": true
   },
@@ -5474,6 +5503,12 @@
   "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-05-22 23:23:24 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/iammusicplayer.iammusicplayer/cassette_tape_glass": {
+    "criteria": {
+      "has_dried_kelp": "2024-05-27 20:56:34 +0000"
     },
     "done": true
   },
@@ -7297,9 +7332,9 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-05-27 20:22:44 +0000",
-      "is_projectile": "2024-05-27 20:22:44 +0000",
-      "blocked_false": "2024-05-27 20:22:44 +0000"
+      "not_projectile": "2024-05-27 21:13:21 +0000",
+      "is_projectile": "2024-05-27 21:20:52 +0000",
+      "blocked_false": "2024-05-27 21:13:21 +0000"
     },
     "done": false
   },
@@ -8205,6 +8240,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-05-27 20:58:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/acacia_window": {
     "criteria": {
       "has_ingredient": "2024-05-26 17:56:34 +0000"
@@ -8250,6 +8291,12 @@
   "ars_nouveau:recipes/ars_nouveau/mob_jar": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-27 20:56:34 +0000"
     },
     "done": true
   },

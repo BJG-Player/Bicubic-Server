@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2024-05-27 20:48:14 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/falseweave": {
     "criteria": {
       "has_journal": "2024-05-19 18:02:45 +0000"
@@ -440,6 +446,12 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-05-21 10:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-05-27 20:48:14 +0000"
     },
     "done": true
   },
@@ -998,6 +1010,12 @@
   "create:recipes/create.base/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2024-05-20 16:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-05-27 20:48:14 +0000"
     },
     "done": true
   },
@@ -1583,6 +1601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-05-27 20:48:14 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/manipulation_essence_to_flourishing_sapling": {
     "criteria": {
       "has_journal": "2024-05-19 18:02:44 +0000"
@@ -1610,6 +1634,12 @@
   "byg:biomepedia_gift": {
     "criteria": {
       "tick": "2024-05-19 18:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2024-05-27 20:48:14 +0000"
     },
     "done": true
   },
@@ -1652,6 +1682,12 @@
   "cfm:recipes/cfm/white_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-05-21 10:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2024-05-27 20:48:14 +0000"
     },
     "done": true
   },
@@ -1826,6 +1862,12 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-05-26 18:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2024-05-27 20:48:14 +0000"
     },
     "done": true
   },
@@ -2045,6 +2087,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-05-27 20:48:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-05-20 18:23:30 +0000"
@@ -2120,6 +2168,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-05-20 17:34:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_sofa": {
+    "criteria": {
+      "has_wool": "2024-05-27 20:48:14 +0000"
     },
     "done": true
   },
@@ -2228,6 +2282,12 @@
   "ars_nouveau:root": {
     "criteria": {
       "ars_nouveau:worn_notebook": "2024-05-19 18:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2024-05-27 20:48:14 +0000"
     },
     "done": true
   },
@@ -2638,13 +2698,6 @@
       "has_chest": "2024-05-21 18:55:23 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "is_projectile": "2024-05-27 20:22:44 +0000",
-      "not_magic": "2024-05-27 20:22:44 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -3197,6 +3250,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-05-21 18:29:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2024-05-27 20:48:14 +0000"
     },
     "done": true
   },
@@ -4460,6 +4519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2024-05-27 20:48:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-05-21 10:13:15 +0000"
@@ -4850,6 +4915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2024-05-27 20:48:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_table": {
     "criteria": {
       "has_log": "2024-05-19 18:20:09 +0000"
@@ -4984,6 +5055,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-05-27 21:26:22 +0000",
       "minecraft:birch_forest": "2024-05-21 15:35:16 +0000",
       "minecraft:savanna_plateau": "2024-05-20 16:04:21 +0000",
       "minecraft:beach": "2024-05-19 18:17:46 +0000",
@@ -5435,6 +5507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-05-27 20:48:14 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_challenge": {
     "criteria": {
       "has_journal": "2024-05-19 18:02:45 +0000"
@@ -5657,6 +5735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-05-27 20:48:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-05-26 18:57:29 +0000"
@@ -5866,9 +5950,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-05-27 20:06:39 +0000",
-      "is_projectile": "2024-05-27 20:15:40 +0000",
-      "blocked_false": "2024-05-27 20:06:39 +0000"
+      "not_projectile": "2024-05-27 21:22:41 +0000",
+      "blocked_false": "2024-05-27 21:22:41 +0000"
     },
     "done": false
   },
@@ -6112,6 +6195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-05-27 20:48:14 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/ebony_stairs": {
     "criteria": {
       "has_planks": "2024-05-25 21:19:22 +0000"
@@ -6256,6 +6345,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2024-05-27 20:48:14 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-05-19 18:02:45 +0000"
@@ -6295,6 +6390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2024-05-27 20:48:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_button": {
     "criteria": {
       "has_planks": "2024-05-21 18:28:27 +0000"
@@ -6328,6 +6429,12 @@
   "byg:recipes/byg.byg/zelkova_chest_boat": {
     "criteria": {
       "has_boat": "2024-05-19 18:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2024-05-27 20:48:14 +0000"
     },
     "done": true
   },

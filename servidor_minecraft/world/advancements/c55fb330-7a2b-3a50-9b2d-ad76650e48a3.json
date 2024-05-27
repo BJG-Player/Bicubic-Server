@@ -623,6 +623,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/smelting/scoria": {
+    "criteria": {
+      "has_item": "2024-05-27 21:12:42 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/conversions/orange_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2024-05-20 21:14:58 +0000"
@@ -2640,6 +2646,21 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-05-27 21:20:46 +0000",
+      "bit_8_2": "2024-05-27 21:20:46 +0000",
+      "bit_6_1": "2024-05-27 21:20:46 +0000",
+      "bit_7_1": "2024-05-27 21:20:46 +0000",
+      "bit_5_0": "2024-05-27 21:20:46 +0000",
+      "bit_4_1": "2024-05-27 21:20:46 +0000",
+      "bit_3_1": "2024-05-27 21:20:46 +0000",
+      "bit_2_2": "2024-05-27 21:20:46 +0000",
+      "bit_0_1": "2024-05-27 21:20:46 +0000",
+      "bit_1_1": "2024-05-27 21:20:46 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 17:48:30 +0000"
@@ -3296,6 +3317,12 @@
   "byg:recipes/byg.byg/palm_trapdoor": {
     "criteria": {
       "has_planks": "2024-05-20 20:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-05-27 21:11:47 +0000"
     },
     "done": true
   },
@@ -5119,6 +5146,7 @@
       "minecraft:bamboo_jungle": "2024-05-27 20:33:07 +0000",
       "minecraft:savanna_plateau": "2024-05-22 19:28:47 +0000",
       "minecraft:beach": "2024-05-19 18:48:36 +0000",
+      "minecraft:dark_forest": "2024-05-27 20:41:20 +0000",
       "minecraft:sparse_jungle": "2024-05-21 17:34:05 +0000",
       "minecraft:lukewarm_ocean": "2024-05-19 18:42:53 +0000",
       "minecraft:river": "2024-05-20 17:45:05 +0000",
@@ -5426,6 +5454,12 @@
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2024-05-22 19:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-05-27 21:12:41 +0000"
     },
     "done": true
   },
@@ -5975,6 +6009,13 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-05-27 21:20:47 +0000",
+      "blocked_false": "2024-05-27 21:20:47 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2024-05-20 19:51:51 +0000"
@@ -5984,6 +6025,12 @@
   "ars_nouveau:recipes/ars_nouveau/sconce": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
+    },
+    "done": true
+  },
+  "landmines:recipes/landmines/fire_landmine": {
+    "criteria": {
+      "recipe_condition": "2024-05-27 21:11:45 +0000"
     },
     "done": true
   },
@@ -6521,6 +6568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-05-27 21:11:45 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/cosmetic_tiny_potato_mask": {
     "criteria": {
       "has_item": "2024-05-23 21:23:13 +0000"
@@ -6728,6 +6781,12 @@
   "byg:recipes/byg.byg/cherry_wood": {
     "criteria": {
       "has_log": "2024-05-26 19:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-05-27 21:11:47 +0000"
     },
     "done": true
   },
