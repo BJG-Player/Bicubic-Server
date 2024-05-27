@@ -779,6 +779,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_dripstone_slab": {
+    "criteria": {
+      "has_polished_cut_dripstone": "2024-05-27 19:29:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/cake_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-05-20 16:15:26 +0000"
@@ -860,6 +866,12 @@
   "create:recipes/create.base/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2024-05-20 16:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-05-27 18:51:26 +0000"
     },
     "done": true
   },
@@ -1184,6 +1196,12 @@
   "create:recipes/create.palettes/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-05-22 17:26:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_dripstone_wall": {
+    "criteria": {
+      "has_polished_cut_dripstone": "2024-05-27 19:29:12 +0000"
     },
     "done": true
   },
@@ -2609,6 +2627,25 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-05-27 19:28:40 +0000",
+      "bit_8_2": "2024-05-27 19:28:40 +0000",
+      "bit_7_0": "2024-05-27 19:28:40 +0000",
+      "bit_5_2": "2024-05-27 19:28:40 +0000",
+      "bit_6_2": "2024-05-27 19:28:40 +0000",
+      "bit_4_1": "2024-05-27 19:28:40 +0000",
+      "bit_3_0": "2024-05-27 19:28:40 +0000",
+      "bit_2_1": "2024-05-27 19:28:40 +0000",
+      "bit_1_2": "2024-05-27 19:28:42 +0000",
+      "bit_1_0": "2024-05-27 19:28:40 +0000",
+      "bit_0_1": "2024-05-27 19:28:50 +0000",
+      "bit_2_0": "2024-05-27 19:28:42 +0000",
+      "bit_0_2": "2024-05-27 19:28:42 +0000",
+      "bit_0_0": "2024-05-27 19:28:40 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-21 16:50:39 +0000"
@@ -3538,6 +3575,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-05-20 16:08:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/smelting/glass_pane_from_framed_glass_pane": {
+    "criteria": {
+      "has_item": "2024-05-27 18:53:04 +0000"
     },
     "done": true
   },
@@ -6703,6 +6746,12 @@
   "botania:recipes/botania/quartz_blaze": {
     "criteria": {
       "has_item": "2024-05-21 18:12:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_dripstone_stairs": {
+    "criteria": {
+      "has_polished_cut_dripstone": "2024-05-27 19:29:12 +0000"
     },
     "done": true
   },

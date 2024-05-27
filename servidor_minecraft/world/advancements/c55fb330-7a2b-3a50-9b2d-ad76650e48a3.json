@@ -2640,13 +2640,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "not_projectile": "2024-05-26 21:03:52 +0000",
-      "not_magic": "2024-05-26 21:03:52 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 17:48:30 +0000"
@@ -3086,11 +3079,13 @@
       "byg:crimson_gardens": "2024-05-20 19:01:14 +0000",
       "byg:baobab_savanna": "2024-05-19 18:22:01 +0000",
       "byg:brimstone_caverns": "2024-05-20 19:02:53 +0000",
+      "byg:amaranth_fields": "2024-05-27 20:33:09 +0000",
       "byg:ebony_woods": "2024-05-22 18:49:26 +0000",
       "byg:basalt_barrera": "2024-05-22 18:08:48 +0000",
       "byg:lush_stacks": "2024-05-22 19:29:54 +0000",
       "byg:dacite_shore": "2024-05-23 21:11:21 +0000",
-      "byg:borealis_grove": "2024-05-21 17:44:14 +0000"
+      "byg:borealis_grove": "2024-05-21 17:44:14 +0000",
+      "byg:guiana_shield": "2024-05-27 20:33:08 +0000"
     },
     "done": false
   },
@@ -4303,6 +4298,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-05-27 20:12:50 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:recipes/iammusicplayer.iammusicplayer/cassette_tape": {
     "criteria": {
       "has_dried_kelp": "2024-05-20 20:19:24 +0000"
@@ -5115,6 +5116,7 @@
       "minecraft:frozen_river": "2024-05-21 17:43:41 +0000",
       "minecraft:sunflower_plains": "2024-05-22 17:25:34 +0000",
       "minecraft:birch_forest": "2024-05-22 18:23:03 +0000",
+      "minecraft:bamboo_jungle": "2024-05-27 20:33:07 +0000",
       "minecraft:savanna_plateau": "2024-05-22 19:28:47 +0000",
       "minecraft:beach": "2024-05-19 18:48:36 +0000",
       "minecraft:sparse_jungle": "2024-05-21 17:34:05 +0000",
@@ -5972,13 +5974,6 @@
       "has_diamond_tier_upgrade": "2024-05-20 21:08:55 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-05-26 20:54:53 +0000",
-      "blocked_false": "2024-05-26 20:54:53 +0000"
-    },
-    "done": false
   },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
