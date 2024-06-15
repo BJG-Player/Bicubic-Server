@@ -14,5 +14,6 @@
     "token_dropbox": "",
     "debug_mode": false,
     "tipo_ngrok": "",
-    "subdominio_premium": "not_av"
+    "subdominio_premium": "not_av",
+    "flags": "-Xms2G -Xmx10G"
 }
