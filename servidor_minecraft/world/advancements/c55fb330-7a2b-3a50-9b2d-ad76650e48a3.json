@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/livingwood": {
+    "criteria": {
+      "has_log": "2024-06-16 16:16:32 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/cosmetic_blue_butterfly": {
     "criteria": {
       "has_item": "2024-05-23 21:23:13 +0000"
@@ -473,6 +479,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/horn_grass": {
+    "criteria": {
+      "has_item": "2024-06-16 16:16:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-05-19 18:47:44 +0000"
@@ -671,6 +683,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-06-16 15:43:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-06-16 15:43:30 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/super_travel_belt": {
     "criteria": {
       "has_item": "2024-05-19 18:37:10 +0000"
@@ -710,6 +734,12 @@
   "cfm:recipes/cfm/dye_yellow_picket_gate": {
     "criteria": {
       "has_dye": "2024-05-20 21:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-06-16 15:43:30 +0000"
     },
     "done": true
   },
@@ -953,6 +983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2024-06-16 15:43:30 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/magebloom_block": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
@@ -1181,6 +1217,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/incense_plate": {
+    "criteria": {
+      "has_item": "2024-06-16 16:16:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2024-05-19 18:47:37 +0000"
@@ -1280,6 +1322,12 @@
   "botania:recipes/botania/vial": {
     "criteria": {
       "has_item": "2024-05-26 20:32:28 +0000"
+    },
+    "done": true
+  },
+  "naturesaura:positive_imbalance": {
+    "criteria": {
+      "triggered_in_code": "2024-06-16 16:14:04 +0000"
     },
     "done": true
   },
@@ -1620,6 +1668,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-06-16 15:43:30 +0000"
+    },
+    "done": true
+  },
   "byg:biomepedia_gift": {
     "criteria": {
       "tick": "2024-05-19 12:59:47 +0000"
@@ -1659,6 +1713,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-05-19 18:50:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-06-16 15:43:30 +0000"
     },
     "done": true
   },
@@ -1914,6 +1974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2024-06-16 15:43:30 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/volcanic_sourcelink": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
@@ -2100,6 +2166,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2024-06-16 15:59:40 +0000"
+    },
+    "done": true
+  },
   "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
     "criteria": {
       "has_netherite_ingot": "2024-05-19 18:37:09 +0000"
@@ -2202,6 +2274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-06-16 15:43:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_sofa": {
     "criteria": {
       "has_wool": "2024-05-22 18:11:11 +0000"
@@ -2259,6 +2337,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-05-20 17:47:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2024-06-16 15:59:40 +0000"
     },
     "done": true
   },
@@ -2568,6 +2652,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/livingwood_planks": {
+    "criteria": {
+      "has_item": "2024-06-16 16:16:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-05-19 18:47:44 +0000"
@@ -2648,16 +2738,22 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-05-27 21:20:46 +0000",
-      "bit_8_2": "2024-05-27 21:20:46 +0000",
-      "bit_6_1": "2024-05-27 21:20:46 +0000",
-      "bit_7_1": "2024-05-27 21:20:46 +0000",
-      "bit_5_0": "2024-05-27 21:20:46 +0000",
-      "bit_4_1": "2024-05-27 21:20:46 +0000",
-      "bit_3_1": "2024-05-27 21:20:46 +0000",
-      "bit_2_2": "2024-05-27 21:20:46 +0000",
-      "bit_0_1": "2024-05-27 21:20:46 +0000",
-      "bit_1_1": "2024-05-27 21:20:46 +0000"
+      "not_projectile": "2024-06-16 15:41:36 +0000",
+      "bit_8_2": "2024-06-16 16:19:29 +0000",
+      "bit_6_1": "2024-06-16 15:41:36 +0000",
+      "bit_7_0": "2024-06-16 15:41:36 +0000",
+      "bit_5_2": "2024-06-16 16:19:29 +0000",
+      "bit_8_0": "2024-06-16 15:41:36 +0000",
+      "bit_6_2": "2024-06-16 16:19:29 +0000",
+      "bit_5_0": "2024-06-16 15:41:36 +0000",
+      "bit_4_1": "2024-06-16 15:41:36 +0000",
+      "bit_1_2": "2024-06-16 15:41:36 +0000",
+      "bit_3_1": "2024-06-16 15:41:36 +0000",
+      "bit_2_2": "2024-06-16 16:19:29 +0000",
+      "bit_4_0": "2024-06-16 16:19:29 +0000",
+      "bit_0_1": "2024-06-16 16:19:29 +0000",
+      "bit_2_0": "2024-06-16 15:41:36 +0000",
+      "bit_0_2": "2024-06-16 15:41:36 +0000"
     },
     "done": false
   },
@@ -3440,6 +3536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-06-16 15:43:30 +0000"
+    },
+    "done": true
+  },
   "botania:main/terrasteel_pickup_lexicon": {
     "criteria": {
       "elven_lexicon": "2024-05-20 19:45:54 +0000"
@@ -3584,6 +3686,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mana_spreader": {
+    "criteria": {
+      "has_item": "2024-06-16 16:16:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-05-20 21:08:17 +0000"
@@ -3689,6 +3797,12 @@
   "minecraft:recipes/travelersbackpack/villager_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-05-20 21:08:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/turntable": {
+    "criteria": {
+      "has_item": "2024-06-16 16:16:32 +0000"
     },
     "done": true
   },
@@ -4028,6 +4142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2024-06-16 15:43:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2024-05-22 18:11:11 +0000"
@@ -4163,6 +4283,12 @@
   "botania:recipes/misc/dye_gray": {
     "criteria": {
       "has_item": "2024-05-26 20:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-06-16 15:53:32 +0000"
     },
     "done": true
   },
@@ -4874,6 +5000,12 @@
   "minecraft:recipes/travelersbackpack/sponge_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-05-20 21:08:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/livingwood_twig": {
+    "criteria": {
+      "has_item": "2024-06-16 16:16:32 +0000"
     },
     "done": true
   },
@@ -6009,13 +6141,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-05-27 21:20:47 +0000",
-      "blocked_false": "2024-05-27 21:20:47 +0000"
-    },
-    "done": false
-  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2024-05-20 19:51:51 +0000"
@@ -6121,6 +6246,12 @@
   "cfm:recipes/cfm/stripped_warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-05-20 19:48:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/glimmering_livingwood_log": {
+    "criteria": {
+      "has_item": "2024-06-16 16:16:32 +0000"
     },
     "done": true
   },
@@ -6430,6 +6561,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2024-06-16 15:59:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2024-05-22 18:11:11 +0000"
@@ -6520,9 +6657,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-06-16 15:43:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2024-05-20 19:04:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-06-16 15:43:30 +0000"
     },
     "done": true
   },
@@ -6613,6 +6762,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-05-20 17:47:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2024-06-16 15:59:40 +0000"
     },
     "done": true
   },
@@ -6895,6 +7050,12 @@
   "ars_nouveau:recipes/ars_nouveau/arcane_pedestal": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-06-16 15:43:30 +0000"
     },
     "done": true
   },
@@ -7237,6 +7398,12 @@
   "byg:recipes/byg.byg/palm_button": {
     "criteria": {
       "has_planks": "2024-05-20 20:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-06-16 15:43:30 +0000"
     },
     "done": true
   },
