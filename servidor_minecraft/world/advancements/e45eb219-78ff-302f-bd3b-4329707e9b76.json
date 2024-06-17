@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-06-17 15:20:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2024-05-22 21:13:06 +0000"
@@ -248,6 +254,12 @@
   "cfm:recipes/cfm/lime_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-21 18:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-06-17 16:27:42 +0000"
     },
     "done": true
   },
@@ -422,6 +434,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-05-20 18:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-06-17 15:34:38 +0000"
     },
     "done": true
   },
@@ -629,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2024-06-17 16:27:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/blank_parchment": {
     "criteria": {
       "has_journal": "2024-05-19 18:02:45 +0000"
@@ -650,6 +674,12 @@
   "iammusicplayer:iammusicplayer/add_music": {
     "criteria": {
       "add_music": "2024-05-21 19:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-06-17 15:34:38 +0000"
     },
     "done": true
   },
@@ -1583,6 +1613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-06-17 15:34:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-05-21 10:13:15 +0000"
@@ -2028,6 +2064,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2024-06-17 15:24:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_crate": {
     "criteria": {
       "has_log": "2024-05-20 16:08:45 +0000"
@@ -2100,6 +2142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-06-17 15:34:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/netherite_knife_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-05-28 15:31:19 +0000"
@@ -2157,6 +2205,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2024-05-20 19:14:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-06-17 14:52:54 +0000"
     },
     "done": true
   },
@@ -2349,6 +2403,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-05-20 17:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-06-17 15:55:39 +0000"
     },
     "done": true
   },
@@ -2898,6 +2958,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-06-17 16:25:58 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2024-05-21 09:10:17 +0000"
@@ -2934,6 +3000,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-06-17 15:26:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_gray_grill": {
     "criteria": {
       "has_iron": "2024-05-20 16:18:24 +0000"
@@ -2967,6 +3039,12 @@
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-05-28 15:31:19 +0000"
+    },
+    "done": true
+  },
+  "dnl:story/structures/pillager_camp/locate": {
+    "criteria": {
+      "locate_pillager_camp_boss": "2024-06-17 16:25:14 +0000"
     },
     "done": true
   },
@@ -3279,6 +3357,7 @@
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:rainbow_beach": "2024-05-19 18:05:48 +0000",
+      "byg:orchard": "2024-06-17 16:25:08 +0000",
       "byg:quartz_desert": "2024-05-21 18:23:33 +0000",
       "byg:firecracker_shrubland": "2024-05-19 18:32:48 +0000",
       "byg:magma_wastes": "2024-05-26 21:41:03 +0000",
@@ -3287,7 +3366,8 @@
       "byg:crimson_gardens": "2024-05-21 18:24:48 +0000",
       "byg:baobab_savanna": "2024-05-19 18:04:27 +0000",
       "byg:weeping_mire": "2024-05-28 17:27:34 +0000",
-      "byg:lush_stacks": "2024-05-25 14:54:49 +0000"
+      "byg:lush_stacks": "2024-05-25 14:54:49 +0000",
+      "byg:basalt_barrera": "2024-06-17 16:23:10 +0000"
     },
     "done": false
   },
@@ -3312,6 +3392,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-05-21 18:29:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-06-17 14:52:54 +0000"
     },
     "done": true
   },
@@ -4341,6 +4427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-06-17 16:22:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-05-21 10:13:15 +0000"
@@ -4386,6 +4478,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-05-21 09:58:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_picket_fence": {
+    "criteria": {
+      "has_concrete": "2024-06-17 16:27:42 +0000"
     },
     "done": true
   },
@@ -4494,6 +4592,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-05-21 19:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-06-17 15:34:38 +0000"
     },
     "done": true
   },
@@ -4672,6 +4776,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone": {
     "criteria": {
       "has_journal": "2024-05-19 18:02:44 +0000"
+    },
+    "done": true
+  },
+  "dnl:story/themes/illager/locate": {
+    "criteria": {
+      "locate_plains_pillager_camp_boss": "2024-06-17 16:25:14 +0000"
     },
     "done": true
   },
@@ -5083,6 +5193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-06-17 15:34:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-05-20 18:23:30 +0000"
@@ -5398,15 +5514,18 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2024-05-27 21:26:22 +0000",
+      "minecraft:sunflower_plains": "2024-06-17 16:22:05 +0000",
       "minecraft:birch_forest": "2024-05-21 15:35:16 +0000",
       "minecraft:savanna_plateau": "2024-05-20 16:04:21 +0000",
       "minecraft:beach": "2024-05-19 18:17:46 +0000",
       "minecraft:lukewarm_ocean": "2024-05-19 18:18:28 +0000",
       "minecraft:river": "2024-05-19 18:17:57 +0000",
       "minecraft:stony_shore": "2024-05-25 14:53:21 +0000",
+      "minecraft:forest": "2024-06-17 16:28:24 +0000",
       "minecraft:jungle": "2024-05-26 20:51:17 +0000",
       "minecraft:ocean": "2024-05-28 17:50:06 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-05-19 18:34:52 +0000",
+      "minecraft:old_growth_birch_forest": "2024-06-17 16:27:53 +0000",
       "minecraft:savanna": "2024-05-19 18:04:21 +0000",
       "minecraft:plains": "2024-05-19 18:38:45 +0000"
     },
@@ -6132,6 +6251,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-06-17 16:20:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-05-21 20:04:27 +0000"
@@ -6405,13 +6530,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-16 16:56:05 +0000",
-      "blocked_false": "2024-06-16 16:56:05 +0000"
-    },
-    "done": false
-  },
   "create:recipes/create.palettes/polished_cut_granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-05-26 18:57:29 +0000"
@@ -6481,6 +6599,12 @@
   "byg:recipes/byg.byg/lament_wood": {
     "criteria": {
       "has_log": "2024-05-28 17:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-06-17 16:21:27 +0000"
     },
     "done": true
   },
@@ -7237,6 +7361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-06-17 15:55:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/acacia_window": {
     "criteria": {
       "has_ingredient": "2024-05-19 18:20:36 +0000"
@@ -7258,6 +7388,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-05-19 18:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2024-06-17 16:27:42 +0000"
     },
     "done": true
   },
@@ -7452,6 +7588,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
     "criteria": {
       "has_vine": "2024-05-26 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-06-17 16:27:42 +0000"
     },
     "done": true
   },

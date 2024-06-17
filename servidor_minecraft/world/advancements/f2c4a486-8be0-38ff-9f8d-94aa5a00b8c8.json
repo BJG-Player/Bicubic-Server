@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_hedge": {
+    "criteria": {
+      "has_leaves": "2024-06-17 14:54:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-05-20 16:15:56 +0000"
@@ -374,6 +380,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-05-27 20:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-06-17 15:48:08 +0000"
     },
     "done": true
   },
@@ -593,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-06-17 15:48:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2024-05-20 17:29:05 +0000"
@@ -782,6 +800,12 @@
   "minecraft:recipes/food/baked_potato_from_grill_cooking": {
     "criteria": {
       "has_potato": "2024-05-20 16:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-06-17 15:02:53 +0000"
     },
     "done": true
   },
@@ -1109,6 +1133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-06-17 15:47:31 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_overgrowth": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
@@ -1301,6 +1331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-06-17 15:03:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/diving_helmet": {
     "criteria": {
       "has_item": "2024-05-26 19:27:40 +0000"
@@ -1460,6 +1496,12 @@
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2024-05-27 20:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-06-17 15:48:08 +0000"
     },
     "done": true
   },
@@ -1740,6 +1782,12 @@
     },
     "done": true
   },
+  "dnl:story/structures/hivenest/locate": {
+    "criteria": {
+      "locate_hivenest": "2024-06-17 14:55:51 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_disintegration": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
@@ -1866,6 +1914,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2024-06-17 15:44:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/trampoline": {
     "criteria": {
       "has_iron": "2024-05-20 16:15:56 +0000"
@@ -1923,6 +1977,12 @@
   "ars_nouveau:recipes/ars_nouveau/ring_of_potential": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-06-17 15:48:08 +0000"
     },
     "done": true
   },
@@ -2163,6 +2223,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-05-23 21:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-06-17 16:00:45 +0000"
     },
     "done": true
   },
@@ -2436,6 +2502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-06-17 15:03:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/crimson_coffee_table": {
     "criteria": {
       "has_planks": "2024-05-20 18:27:50 +0000"
@@ -2630,29 +2702,24 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-16 19:24:04 +0000",
-      "bit_7_2": "2024-06-16 19:24:04 +0000",
-      "bit_8_2": "2024-06-16 19:24:04 +0000",
-      "bit_7_0": "2024-06-16 19:27:28 +0000",
-      "bit_6_1": "2024-06-16 19:24:04 +0000",
-      "bit_5_2": "2024-06-16 19:24:04 +0000",
-      "bit_8_0": "2024-06-16 19:27:28 +0000",
-      "bit_7_1": "2024-06-16 19:24:18 +0000",
-      "bit_6_2": "2024-06-16 19:24:18 +0000",
-      "bit_4_1": "2024-06-16 19:24:18 +0000",
-      "bit_6_0": "2024-06-16 19:27:28 +0000",
-      "bit_5_1": "2024-06-16 19:24:18 +0000",
-      "bit_4_2": "2024-06-16 19:24:04 +0000",
-      "bit_3_0": "2024-06-16 19:24:04 +0000",
-      "bit_1_2": "2024-06-16 19:24:04 +0000",
-      "bit_4_0": "2024-06-16 19:27:28 +0000",
-      "bit_3_1": "2024-06-16 19:24:18 +0000",
-      "bit_2_2": "2024-06-16 19:24:04 +0000",
-      "bit_1_0": "2024-06-16 19:24:18 +0000",
-      "bit_0_1": "2024-06-16 19:24:04 +0000",
-      "bit_2_0": "2024-06-16 19:30:24 +0000",
-      "bit_1_1": "2024-06-16 19:27:28 +0000",
-      "bit_0_2": "2024-06-16 19:27:28 +0000"
+      "not_projectile": "2024-06-17 16:05:24 +0000",
+      "bit_7_2": "2024-06-17 16:05:24 +0000",
+      "bit_5_2": "2024-06-17 16:05:24 +0000",
+      "bit_8_0": "2024-06-17 16:05:24 +0000",
+      "bit_6_2": "2024-06-17 16:05:24 +0000",
+      "bit_4_1": "2024-06-17 16:05:25 +0000",
+      "bit_5_0": "2024-06-17 16:05:26 +0000",
+      "bit_3_2": "2024-06-17 16:05:25 +0000",
+      "bit_3_0": "2024-06-17 16:05:24 +0000",
+      "bit_1_2": "2024-06-17 16:05:24 +0000",
+      "bit_4_0": "2024-06-17 16:05:24 +0000",
+      "bit_2_2": "2024-06-17 16:05:24 +0000",
+      "bit_1_0": "2024-06-17 16:05:25 +0000",
+      "bit_0_1": "2024-06-17 16:05:26 +0000",
+      "bit_2_0": "2024-06-17 16:05:25 +0000",
+      "bit_1_1": "2024-06-17 16:05:26 +0000",
+      "bit_0_2": "2024-06-17 16:05:25 +0000",
+      "bit_0_0": "2024-06-17 16:05:24 +0000"
     },
     "done": false
   },
@@ -2665,6 +2732,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-05-27 21:01:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-06-17 15:11:32 +0000"
     },
     "done": true
   },
@@ -2944,6 +3017,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_glazed_terracotta": {
+    "criteria": {
+      "has_pink_terracotta": "2024-06-17 15:55:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-06-16 16:14:50 +0000"
@@ -3015,6 +3094,7 @@
       "byg:magma_wastes": "2024-06-16 17:25:52 +0000",
       "byg:embur_bog": "2024-06-16 18:15:57 +0000",
       "byg:araucaria_savanna": "2024-05-20 16:19:17 +0000",
+      "byg:aspen_forest": "2024-06-17 15:14:29 +0000",
       "byg:cherry_blossom_forest": "2024-05-20 16:03:35 +0000",
       "byg:crimson_gardens": "2024-05-27 20:58:13 +0000",
       "byg:baobab_savanna": "2024-05-20 17:49:09 +0000",
@@ -3632,6 +3712,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/turntable": {
+    "criteria": {
+      "has_alt_item": "2024-06-17 15:12:28 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
@@ -3725,6 +3811,12 @@
   "create:recipes/create.palettes/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2024-05-22 22:42:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/ender_eye_block": {
+    "criteria": {
+      "has_item": "2024-06-17 15:03:54 +0000"
     },
     "done": true
   },
@@ -4154,6 +4246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-06-17 15:48:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/deepslate_pillar_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-05-26 21:22:13 +0000"
@@ -4238,11 +4336,13 @@
       "minecraft:pillager": "2024-06-16 16:42:31 +0000",
       "minecraft:skeleton": "2024-05-26 17:47:48 +0000",
       "minecraft:ghast": "2024-06-16 18:02:47 +0000",
+      "minecraft:hoglin": "2024-06-17 15:45:56 +0000",
       "minecraft:vindicator": "2024-05-26 18:02:49 +0000",
       "minecraft:spider": "2024-05-20 16:19:59 +0000",
       "minecraft:slime": "2024-06-16 16:29:43 +0000",
       "minecraft:phantom": "2024-05-26 21:13:08 +0000",
       "minecraft:wither_skeleton": "2024-05-20 19:17:45 +0000",
+      "minecraft:cave_spider": "2024-06-17 15:17:54 +0000",
       "minecraft:piglin": "2024-05-27 21:09:00 +0000",
       "minecraft:enderman": "2024-06-16 18:08:41 +0000",
       "minecraft:zombie": "2024-05-20 16:22:29 +0000",
@@ -4254,6 +4354,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-06-16 16:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-06-17 15:03:50 +0000"
     },
     "done": true
   },
@@ -4362,6 +4468,12 @@
   "cfm:recipes/cfm/blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-05-27 20:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-06-17 15:41:11 +0000"
     },
     "done": true
   },
@@ -4762,6 +4874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-06-17 15:48:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_coffee_table": {
     "criteria": {
       "has_planks": "2024-05-20 17:41:41 +0000"
@@ -4807,6 +4925,12 @@
   "ars_nouveau:recipes/ars_nouveau/blaze_fiber": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2024-06-17 15:03:54 +0000"
     },
     "done": true
   },
@@ -5283,6 +5407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-06-17 15:03:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-05-27 20:16:42 +0000"
@@ -5493,15 +5623,15 @@
     },
     "done": true
   },
-  "byg:recipes/byg.byg/pine_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-06-16 17:14:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2024-06-16 17:01:17 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/pine_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-06-16 17:14:26 +0000"
     },
     "done": true
   },
@@ -5655,15 +5785,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-06-16 16:22:15 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/pine_trapdoor": {
     "criteria": {
       "has_planks": "2024-06-16 17:14:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+  "botania:recipes/botania/itemfinder": {
     "criteria": {
-      "has_quartz_block": "2024-06-16 16:22:15 +0000"
+      "has_item": "2024-06-17 15:03:54 +0000"
     },
     "done": true
   },
@@ -5900,8 +6036,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-16 19:36:22 +0000",
-      "blocked_false": "2024-06-16 19:36:22 +0000"
+      "not_projectile": "2024-06-17 16:05:44 +0000",
+      "blocked_false": "2024-06-17 16:05:44 +0000"
     },
     "done": false
   },
@@ -6142,6 +6278,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-05-20 17:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-06-17 15:03:54 +0000"
     },
     "done": true
   },
@@ -6391,6 +6533,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/spark": {
+    "criteria": {
+      "has_item": "2024-06-17 15:03:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2024-05-27 20:15:11 +0000"
@@ -6628,6 +6776,12 @@
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_granite": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-06-17 16:00:45 +0000"
     },
     "done": true
   },
