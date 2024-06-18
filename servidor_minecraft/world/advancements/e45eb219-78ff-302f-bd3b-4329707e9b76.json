@@ -3833,6 +3833,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2024-06-18 15:14:01 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_17": {
     "criteria": {
       "has_journal": "2024-05-19 18:02:45 +0000"
@@ -6529,6 +6535,13 @@
       "has_gate": "2024-06-16 16:43:47 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-06-18 15:14:49 +0000",
+      "blocked_false": "2024-06-18 15:14:49 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.palettes/polished_cut_granite_wall_from_granite_stonecutting": {
     "criteria": {

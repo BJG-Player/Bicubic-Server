@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diving_board": {
+    "criteria": {
+      "has_wheat": "2024-06-18 18:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-05-20 18:11:20 +0000"
@@ -2160,6 +2166,12 @@
     },
     "done": true
   },
+  "botania:main/mana_blaster_shoot": {
+    "criteria": {
+      "shoot": "2024-06-18 18:35:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_dripstone_bricks_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2024-05-22 18:42:25 +0000"
@@ -2595,6 +2607,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2024-05-20 18:01:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-06-18 18:22:22 +0000"
     },
     "done": true
   },
@@ -3743,6 +3761,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-06-18 18:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-05-19 18:22:45 +0000"
@@ -4656,6 +4680,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_red_dye": "2024-05-22 18:50:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-06-18 18:22:18 +0000"
     },
     "done": true
   },
@@ -5707,6 +5737,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-06-18 18:22:22 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_9": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
@@ -5854,6 +5890,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-05-21 18:29:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-06-18 18:22:22 +0000"
     },
     "done": true
   },
@@ -6130,6 +6172,12 @@
   "ars_nouveau:magebloom_crop": {
     "criteria": {
       "has_magebloom_crop": "2024-05-20 17:57:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-06-18 18:22:22 +0000"
     },
     "done": true
   },
@@ -7171,6 +7219,12 @@
     },
     "done": true
   },
+  "ars_nouveau:drygmy_charm": {
+    "criteria": {
+      "has_drygmy_charm": "2024-06-18 18:27:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2024-05-22 19:25:56 +0000"
@@ -7288,6 +7342,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-05-20 17:34:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/door_mat": {
+    "criteria": {
+      "has_wheat": "2024-06-18 18:22:22 +0000"
     },
     "done": true
   },
