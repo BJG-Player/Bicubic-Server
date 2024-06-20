@@ -1356,6 +1356,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_crate": {
+    "criteria": {
+      "has_log": "2024-06-20 14:26:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_scoria_brick_stairs_from_scoria_stonecutting": {
     "criteria": {
       "has_scoria": "2024-06-19 19:54:42 +0000"
@@ -1823,26 +1829,6 @@
       "has_gold_ore": "2024-05-26 18:24:37 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "not_projectile": "2024-06-19 23:16:13 +0000",
-      "bit_8_0": "2024-06-19 23:16:13 +0000",
-      "bit_7_1": "2024-06-19 23:16:13 +0000",
-      "bit_6_2": "2024-06-19 23:16:13 +0000",
-      "bit_4_1": "2024-06-19 23:16:13 +0000",
-      "bit_3_2": "2024-06-19 23:16:13 +0000",
-      "bit_5_1": "2024-06-19 23:16:13 +0000",
-      "bit_4_2": "2024-06-19 23:17:01 +0000",
-      "bit_3_0": "2024-06-19 23:17:01 +0000",
-      "bit_1_2": "2024-06-19 23:17:01 +0000",
-      "bit_2_2": "2024-06-19 23:16:13 +0000",
-      "bit_2_0": "2024-06-19 23:17:01 +0000",
-      "bit_1_1": "2024-06-19 23:16:13 +0000",
-      "bit_0_2": "2024-06-19 23:16:13 +0000",
-      "bit_0_0": "2024-06-19 23:17:01 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -3199,6 +3185,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_desk_cabinet": {
+    "criteria": {
+      "has_log": "2024-06-20 14:26:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-05-26 17:55:12 +0000"
@@ -3637,6 +3629,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_park_bench": {
+    "criteria": {
+      "has_planks": "2024-06-20 14:26:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/safety_net": {
     "criteria": {
       "has_rope": "2024-05-26 18:25:11 +0000"
@@ -3736,6 +3734,12 @@
   "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
     "criteria": {
       "has_redstone_ore": "2024-05-26 18:26:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-06-20 14:26:47 +0000"
     },
     "done": true
   },
@@ -4063,6 +4067,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-06-20 14:26:47 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_animal_summon": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
@@ -4252,6 +4262,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2024-06-18 15:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-06-20 14:28:04 +0000"
     },
     "done": true
   },
@@ -4669,6 +4685,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-06-20 14:26:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2024-05-26 19:27:40 +0000"
@@ -4864,6 +4886,12 @@
   "cfm:recipes/cfm/dark_oak_desk": {
     "criteria": {
       "has_planks": "2024-05-20 18:14:44 +0000"
+    },
+    "done": true
+  },
+  "ars_elemental:mark_of_mastery": {
+    "criteria": {
+      "has_mark_of_mastery": "2024-06-20 14:17:32 +0000"
     },
     "done": true
   },
@@ -5125,15 +5153,15 @@
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/kinetics/andesite_ladder": {
-    "criteria": {
-      "has_item": "2024-06-19 22:25:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/travelersbackpack/melon_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-06-19 19:20:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/andesite_ladder": {
+    "criteria": {
+      "has_item": "2024-06-19 22:25:15 +0000"
     },
     "done": true
   },
@@ -6061,6 +6089,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_table": {
+    "criteria": {
+      "has_log": "2024-06-20 14:26:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/fox_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-06-19 19:21:16 +0000"
@@ -6502,6 +6536,12 @@
   "create:recipes/create.base/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2024-06-19 22:25:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-06-20 14:26:47 +0000"
     },
     "done": true
   },
@@ -7147,6 +7187,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_desk": {
+    "criteria": {
+      "has_log": "2024-06-20 14:26:47 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_14": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
@@ -7252,6 +7298,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2024-05-26 21:23:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2024-06-20 14:26:47 +0000"
     },
     "done": true
   },
@@ -7381,6 +7433,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_cabinet": {
+    "criteria": {
+      "has_planks": "2024-06-20 14:26:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
     "criteria": {
       "has_end_stone_bricks": "2024-06-17 15:48:08 +0000"
@@ -7420,6 +7478,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-05-26 21:47:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_blinds": {
+    "criteria": {
+      "has_log": "2024-06-20 14:26:47 +0000"
     },
     "done": true
   },
@@ -8482,6 +8546,12 @@
     },
     "done": true
   },
+  "chunkloaders:recipes/misc/basic_chunk_loader": {
+    "criteria": {
+      "recipe_condition": "2024-06-20 14:08:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/warped_crate": {
     "criteria": {
       "has_planks": "2024-06-18 16:32:22 +0000"
@@ -8758,6 +8828,12 @@
   "cfm:recipes/cfm/crimson_mail_box": {
     "criteria": {
       "has_chest": "2024-05-20 16:22:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_coffee_table": {
+    "criteria": {
+      "has_log": "2024-06-20 14:26:47 +0000"
     },
     "done": true
   },
@@ -9067,6 +9143,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_chair": {
+    "criteria": {
+      "has_log": "2024-06-20 14:26:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/magma_cube_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2024-06-19 19:22:31 +0000"
@@ -9136,6 +9218,13 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2024-05-27 20:58:20 +0000"
+    },
+    "done": true
+  },
+  "chunkloaders:recipes/chunkloaders/basic_chunk_loader": {
+    "criteria": {
+      "has_the_recipe": "2024-06-20 14:08:21 +0000",
+      "recipe_condition": "2024-06-20 14:08:21 +0000"
     },
     "done": true
   },

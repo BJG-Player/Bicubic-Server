@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "chunkloaders:recipes/misc/ultimate_chunk_loader": {
+    "criteria": {
+      "recipe_condition": "2024-06-20 17:17:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/sheep_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
@@ -590,6 +596,13 @@
   "cfm:recipes/cfm/blue_sofa": {
     "criteria": {
       "has_wool": "2024-05-23 19:40:10 +0000"
+    },
+    "done": true
+  },
+  "chunkloaders:recipes/chunkloaders/advanced_chunk_loader": {
+    "criteria": {
+      "has_the_recipe": "2024-06-20 17:17:53 +0000",
+      "recipe_condition": "2024-06-20 17:17:53 +0000"
     },
     "done": true
   },
@@ -1867,6 +1880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-06-20 17:20:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-05-21 17:15:49 +0000"
@@ -2095,6 +2114,12 @@
     },
     "done": true
   },
+  "chunkloaders:recipes/misc/single_chunk_loader": {
+    "criteria": {
+      "recipe_condition": "2024-06-20 17:17:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2024-05-20 17:02:14 +0000"
@@ -2218,6 +2243,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2024-05-20 18:35:46 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:amethyst_golem_charm": {
+    "criteria": {
+      "has_amethyst_golem_charm": "2024-06-20 16:34:51 +0000"
     },
     "done": true
   },
@@ -2593,6 +2624,12 @@
     },
     "done": true
   },
+  "chunkloaders:recipes/misc/advanced_chunk_loader": {
+    "criteria": {
+      "recipe_condition": "2024-06-20 17:17:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2024-05-26 21:44:30 +0000"
@@ -2794,6 +2831,12 @@
   "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stone": {
     "criteria": {
       "has_item": "2024-05-23 20:11:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/ender_eye_block": {
+    "criteria": {
+      "has_item": "2024-06-20 17:20:44 +0000"
     },
     "done": true
   },
@@ -3459,9 +3502,22 @@
     },
     "done": true
   },
+  "chunkloaders:recipes/chunkloaders/ultimate_chunk_loader": {
+    "criteria": {
+      "has_the_recipe": "2024-06-20 17:17:57 +0000",
+      "recipe_condition": "2024-06-20 17:17:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-05-21 16:54:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2024-06-20 17:20:44 +0000"
     },
     "done": true
   },
@@ -3897,6 +3953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-06-20 17:21:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-05-20 17:02:14 +0000"
@@ -3972,6 +4034,12 @@
   "botania:recipes/botania/animated_torch": {
     "criteria": {
       "has_item": "2024-05-21 17:09:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/itemfinder": {
+    "criteria": {
+      "has_item": "2024-06-20 17:20:44 +0000"
     },
     "done": true
   },
@@ -4079,9 +4147,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-19 22:56:00 +0000",
-      "is_projectile": "2024-06-19 22:56:00 +0000",
-      "blocked_false": "2024-06-19 22:56:00 +0000"
+      "not_projectile": "2024-06-20 17:16:05 +0000",
+      "blocked_false": "2024-06-20 17:16:05 +0000"
     },
     "done": false
   },
@@ -5317,6 +5384,13 @@
     },
     "done": true
   },
+  "chunkloaders:recipes/chunkloaders/single_chunk_loader": {
+    "criteria": {
+      "has_the_recipe": "2024-06-20 17:17:53 +0000",
+      "recipe_condition": "2024-06-20 17:17:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/sandstone_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-05-21 19:43:40 +0000"
@@ -5704,6 +5778,12 @@
   "create:recipes/create.palettes/cut_diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-05-26 20:45:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_fluxfield": {
+    "criteria": {
+      "has_item": "2024-06-20 17:21:02 +0000"
     },
     "done": true
   },
@@ -8467,6 +8547,7 @@
     "criteria": {
       "minecraft:deep_ocean": "2024-05-21 18:25:39 +0000",
       "minecraft:sunflower_plains": "2024-05-21 18:25:51 +0000",
+      "minecraft:birch_forest": "2024-06-20 17:31:01 +0000",
       "minecraft:bamboo_jungle": "2024-05-26 20:47:53 +0000",
       "minecraft:savanna_plateau": "2024-06-19 22:52:51 +0000",
       "minecraft:beach": "2024-05-20 16:04:01 +0000",
@@ -8973,6 +9054,12 @@
     },
     "done": true
   },
+  "ars_nouveau:scryers_oculus": {
+    "criteria": {
+      "has_scryers_oculus": "2024-06-20 17:28:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/wolf_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
@@ -9042,6 +9129,13 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2024-05-20 17:13:18 +0000"
+    },
+    "done": true
+  },
+  "chunkloaders:recipes/misc/basic_chunk_loader": {
+    "criteria": {
+      "has_the_recipe": "2024-06-20 17:19:19 +0000",
+      "recipe_condition": "2024-06-20 17:19:19 +0000"
     },
     "done": true
   },
@@ -9349,6 +9443,12 @@
   "cfm:recipes/cfm/crimson_mail_box": {
     "criteria": {
       "has_chest": "2024-05-20 16:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-06-20 17:20:44 +0000"
     },
     "done": true
   },
@@ -9727,6 +9827,12 @@
   "cfm:recipes/cfm/acacia_chair": {
     "criteria": {
       "has_log": "2024-05-26 17:56:29 +0000"
+    },
+    "done": true
+  },
+  "chunkloaders:recipes/chunkloaders/basic_chunk_loader": {
+    "criteria": {
+      "recipe_condition": "2024-06-20 17:19:19 +0000"
     },
     "done": true
   },
