@@ -1409,6 +1409,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-06-21 23:36:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2024-05-20 16:08:43 +0000"
@@ -3437,6 +3443,12 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "is_projectile": "2024-06-21 23:37:00 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-21 16:50:39 +0000"
@@ -5290,6 +5302,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-06-16 16:44:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2024-06-21 23:17:59 +0000"
     },
     "done": true
   },
@@ -7573,8 +7591,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-19 22:56:21 +0000",
-      "blocked_false": "2024-06-19 22:56:21 +0000"
+      "not_projectile": "2024-06-21 23:37:16 +0000",
+      "blocked_false": "2024-06-21 23:37:16 +0000"
     },
     "done": false
   },
