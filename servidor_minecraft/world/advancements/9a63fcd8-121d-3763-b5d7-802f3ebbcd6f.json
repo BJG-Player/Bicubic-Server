@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-06-21 18:23:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_table": {
     "criteria": {
       "has_planks": "2024-05-19 18:21:54 +0000"
@@ -1769,6 +1775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-06-21 18:25:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/diving_helmet": {
     "criteria": {
       "has_item": "2024-05-21 18:03:27 +0000"
@@ -1838,6 +1850,12 @@
   "create:recipes/food/campfire_cooking/bread": {
     "criteria": {
       "has_item": "2024-05-23 20:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-06-21 18:25:26 +0000"
     },
     "done": true
   },
@@ -2243,6 +2261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2024-06-21 18:47:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-05-19 12:57:17 +0000"
@@ -2438,6 +2462,12 @@
   "create:recipes/create.base/crafting/kinetics/pink_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2024-05-23 17:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-06-21 18:42:57 +0000"
     },
     "done": true
   },
@@ -4230,6 +4260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-06-21 18:41:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_calcite_brick_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-05-20 19:37:59 +0000"
@@ -4837,6 +4873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-06-21 18:24:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-05-28 18:49:40 +0000"
@@ -4948,6 +4990,12 @@
   "create:contraption_actors": {
     "criteria": {
       "0": "2024-05-28 17:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2024-06-21 18:47:24 +0000"
     },
     "done": true
   },
@@ -5452,6 +5500,18 @@
   "create:recipes/create.base/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2024-05-22 22:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-06-21 18:25:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-06-21 18:42:57 +0000"
     },
     "done": true
   },
@@ -6806,6 +6866,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-06-21 18:25:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/electron_tube": {
     "criteria": {
       "has_item": "2024-05-21 18:12:20 +0000"
@@ -7013,6 +7079,12 @@
   "minecraft:recipes/travelersbackpack/fox_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-05-20 16:15:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-06-21 18:42:57 +0000"
     },
     "done": true
   },
@@ -7554,6 +7626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-06-21 18:24:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dripstone_pillar_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2024-05-22 17:26:45 +0000"
@@ -8050,6 +8128,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/spark": {
+    "criteria": {
+      "has_item": "2024-06-21 18:25:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/brown_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2024-05-23 17:59:17 +0000"
@@ -8503,6 +8587,12 @@
   "cfm:recipes/cfm/stripped_birch_park_bench": {
     "criteria": {
       "has_log": "2024-05-23 21:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-06-21 18:41:38 +0000"
     },
     "done": true
   },
