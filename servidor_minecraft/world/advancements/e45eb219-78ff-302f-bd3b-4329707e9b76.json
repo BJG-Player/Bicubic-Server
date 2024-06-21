@@ -2220,6 +2220,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "soul_campfire": "2024-06-21 19:52:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_calcite_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-05-20 19:14:43 +0000"
@@ -3868,13 +3874,6 @@
       "has_gate": "2024-06-16 16:43:47 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-21 18:50:29 +0000",
-      "blocked_false": "2024-06-21 18:50:29 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
