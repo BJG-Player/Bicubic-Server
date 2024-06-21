@@ -503,6 +503,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/smelting/scoria": {
+    "criteria": {
+      "has_item": "2024-06-21 23:48:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_brick_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-05-20 18:00:35 +0000"
@@ -3866,6 +3872,12 @@
   "create:recipes/create.base/crafting/materials/electron_tube": {
     "criteria": {
       "has_item": "2024-05-26 18:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-06-21 23:48:02 +0000"
     },
     "done": true
   },
