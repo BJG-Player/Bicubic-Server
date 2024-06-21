@@ -1085,3 +1085,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [21Jun2024 19:07:39.838] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 34 Y: 31 Z: 1760
 [21Jun2024 19:07:39.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago was slain by Vindicator
 [21Jun2024 19:16:54.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Braulio_JG has completed the challenge [Cover Me in Debris]
+[21Jun2024 19:37:08.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Braulio_JG has completed the challenge [Serious Dedication]
+[21Jun2024 19:41:57.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! 10.579913804594419,11.011823935063745,12.670128905021102
+[21Jun2024 19:42:42.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! 12.78607377759738,1.8148203934573672,-9.300166738945336
+[21Jun2024 19:43:14.627] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/75429, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.13, y=64.04, z=160.47] died, message: 'Villager was squished too much'
+[21Jun2024 19:43:56.116] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/75434, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.22, y=64.05, z=160.30] died, message: 'Villager was squished too much'
