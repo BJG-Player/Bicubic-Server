@@ -981,3 +981,46 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [21Jun2024 17:53:37.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! -6.0530333555044535,-23.41255814557367,3.548417516612517
 [21Jun2024 17:54:51.264] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4742a86
 [21Jun2024 17:58:06.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 has made the advancement [Magic Mod Mechanic]
+[21Jun2024 18:09:10.863] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 below top-6 above bottom]
+[21Jun2024 18:09:10.871] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 below top-6 above bottom]
+[21Jun2024 18:09:38.147] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@9c7463c
+[21Jun2024 18:09:38.176] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Braulio_JG[/127.229.14.7:59535] logged in with entity id 6276 at (313.79324657586795, 86.0, 131.97138971919807)
+[21Jun2024 18:09:38.177] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Braulio_JG
+[21Jun2024 18:09:38.178] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Braulio_JG
+[21Jun2024 18:09:38.178] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Braulio_JG
+[21Jun2024 18:09:38.178] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Braulio_JG
+[21Jun2024 18:09:38.182] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Braulio_JG
+[21Jun2024 18:09:38.186] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Braulio_JG
+[21Jun2024 18:09:38.186] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Braulio_JG
+[21Jun2024 18:09:38.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Braulio_JG joined the game
+[21Jun2024 18:09:40.072] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity cfm:mail_box @ BlockPos{x=260, y=64, z=144} state Block{cfm:crimson_mail_box}[facing=east] invalid for ticking:
+[21Jun2024 18:10:16.963] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6358, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.16, y=64.05, z=160.60] died, message: 'Villager was squished too much'
+[21Jun2024 18:10:59.526] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@63f5e928
+[21Jun2024 18:11:10.176] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@8443165
+[21Jun2024 18:11:10.199] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JackSparrago[/127.115.220.219:37599] logged in with entity id 7532 at (81.13149005391404, 40.0, 1736.3995363017991)
+[21Jun2024 18:11:10.201] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JackSparrago
+[21Jun2024 18:11:10.201] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JackSparrago
+[21Jun2024 18:11:10.202] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JackSparrago
+[21Jun2024 18:11:10.202] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JackSparrago
+[21Jun2024 18:11:10.205] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JackSparrago
+[21Jun2024 18:11:10.208] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JackSparrago
+[21Jun2024 18:11:10.208] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JackSparrago
+[21Jun2024 18:11:10.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago joined the game
+[21Jun2024 18:11:12.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2396ms or 47 ticks behind
+[21Jun2024 18:11:39.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago lost connection: Disconnected
+[21Jun2024 18:11:39.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago left the game
+[21Jun2024 18:12:49.952] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@fb9c57e
+[21Jun2024 18:12:49.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JackSparrago[/127.115.220.219:44549] logged in with entity id 8989 at (81.13149005391404, 40.0, 1736.3995363017991)
+[21Jun2024 18:12:49.965] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JackSparrago
+[21Jun2024 18:12:49.966] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JackSparrago
+[21Jun2024 18:12:49.966] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JackSparrago
+[21Jun2024 18:12:49.967] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JackSparrago
+[21Jun2024 18:12:49.969] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JackSparrago
+[21Jun2024 18:12:49.972] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JackSparrago
+[21Jun2024 18:12:49.972] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JackSparrago
+[21Jun2024 18:12:49.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago joined the game
+[21Jun2024 18:13:27.224] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6390, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.17, y=64.04, z=160.48] died, message: 'Villager was squished too much'
+[21Jun2024 18:16:06.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NanoLeche33> [name:"Barco Pillagers", x:10, y:67, z:500, dim:minecraft:overworld]
+[21Jun2024 18:16:52.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved wrongly!
+[21Jun2024 18:18:58.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! 10.408566170973018,0.07942279816522557,0.4292299900938019
+[21Jun2024 18:20:42.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -1.749112400495779,6.735306457563638,-8.35970859751535
