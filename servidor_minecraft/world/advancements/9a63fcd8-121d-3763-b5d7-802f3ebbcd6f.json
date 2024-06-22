@@ -2282,6 +2282,12 @@
     },
     "done": true
   },
+  "ars_elemental:summon_strider": {
+    "criteria": {
+      "summon_strider": "2024-06-22 12:09:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-05-20 17:36:03 +0000"
@@ -5540,6 +5546,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-06-22 12:09:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_upgraded_fence": {
     "criteria": {
       "has_log": "2024-05-28 17:56:42 +0000"
@@ -6887,6 +6899,7 @@
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:rainbow_beach": "2024-05-19 13:01:13 +0000",
+      "byg:allium_fields": "2024-06-22 11:58:44 +0000",
       "byg:prairie": "2024-06-22 11:39:16 +0000",
       "byg:temperate_grove": "2024-06-17 16:22:17 +0000",
       "byg:orchard": "2024-06-17 16:25:12 +0000",
@@ -6895,6 +6908,7 @@
       "byg:firecracker_shrubland": "2024-05-20 17:38:42 +0000",
       "byg:zelkova_forest": "2024-06-22 11:51:03 +0000",
       "byg:araucaria_savanna": "2024-05-19 18:19:31 +0000",
+      "byg:aspen_forest": "2024-06-22 11:57:20 +0000",
       "byg:cherry_blossom_forest": "2024-05-19 12:57:18 +0000",
       "byg:crimson_gardens": "2024-05-20 16:23:15 +0000",
       "byg:baobab_savanna": "2024-05-19 18:23:44 +0000",
