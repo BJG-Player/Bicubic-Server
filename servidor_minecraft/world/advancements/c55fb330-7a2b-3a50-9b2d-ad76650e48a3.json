@@ -726,6 +726,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-06-22 19:22:53 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/laputa_shard": {
     "criteria": {
       "has_item": "2024-05-19 18:37:10 +0000"
@@ -1459,6 +1465,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_desk": {
+    "criteria": {
+      "has_planks": "2024-06-22 19:22:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_mail_box": {
     "criteria": {
       "has_chest": "2024-06-22 13:06:01 +0000"
@@ -1594,6 +1606,12 @@
   "minecraft:recipes/travelersbackpack/spider_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-05-20 21:08:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2024-06-22 19:22:53 +0000"
     },
     "done": true
   },
@@ -2198,6 +2216,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_crate": {
+    "criteria": {
+      "has_log": "2024-06-22 19:22:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/volcanic_sourcelink": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
@@ -2276,6 +2300,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-06-22 19:22:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/arcane_core": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
@@ -2333,6 +2363,12 @@
   "minecraft:recipes/travelersbackpack/snow_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-05-20 21:08:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_blinds": {
+    "criteria": {
+      "has_log": "2024-06-22 19:22:53 +0000"
     },
     "done": true
   },
@@ -2822,6 +2858,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-06-22 19:22:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2024-05-20 18:01:38 +0000"
@@ -2978,6 +3020,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_park_bench": {
+    "criteria": {
+      "has_log": "2024-06-22 19:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-05-21 18:29:46 +0000"
@@ -3037,12 +3085,6 @@
       "has_chest": "2024-06-22 13:06:01 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "not_projectile": "2024-06-22 19:09:20 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -3236,6 +3278,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-06-22 19:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_helmet": "2024-05-19 18:52:11 +0000"
@@ -3320,6 +3368,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_table": {
+    "criteria": {
+      "has_log": "2024-06-22 19:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-05-21 18:29:46 +0000"
@@ -3335,6 +3389,12 @@
   "cfm:recipes/cfm/dye_black_picket_gate": {
     "criteria": {
       "has_dye": "2024-05-22 18:11:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_desk": {
+    "criteria": {
+      "has_log": "2024-06-22 19:22:53 +0000"
     },
     "done": true
   },
@@ -3521,6 +3581,12 @@
   "botania:recipes/botania/cosmetic_orange_shades": {
     "criteria": {
       "has_item": "2024-05-23 21:23:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_cabinet": {
+    "criteria": {
+      "has_log": "2024-06-22 19:22:53 +0000"
     },
     "done": true
   },
@@ -3794,6 +3860,12 @@
   "byg:recipes/byg.byg/palm_trapdoor": {
     "criteria": {
       "has_planks": "2024-05-20 20:31:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-06-22 19:22:53 +0000"
     },
     "done": true
   },
@@ -4415,6 +4487,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2024-06-22 19:22:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/purple_archwood_wood": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
@@ -4805,9 +4883,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-06-22 19:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-05-20 17:34:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_cabinet": {
+    "criteria": {
+      "has_log": "2024-06-22 19:22:53 +0000"
     },
     "done": true
   },
@@ -5170,6 +5260,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_park_bench": {
+    "criteria": {
+      "has_log": "2024-06-22 19:22:53 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/cosmetic_anaglyph_glasses": {
     "criteria": {
       "has_item": "2024-05-23 21:23:13 +0000"
@@ -5308,6 +5404,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_crate": {
+    "criteria": {
+      "has_planks": "2024-06-22 19:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-05-20 18:40:44 +0000"
@@ -5359,6 +5461,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-05-21 17:29:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_chair": {
+    "criteria": {
+      "has_log": "2024-06-22 19:22:53 +0000"
     },
     "done": true
   },
@@ -5482,6 +5590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-06-22 19:22:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:potion_flask": {
     "criteria": {
       "has_potion_flask": "2024-05-19 18:37:09 +0000"
@@ -5539,6 +5653,12 @@
   "botania:recipes/botania/unholy_cloak": {
     "criteria": {
       "has_item": "2024-05-19 18:37:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-06-22 19:22:53 +0000"
     },
     "done": true
   },
@@ -6550,6 +6670,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2024-06-22 19:22:53 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_bookshelf": {
     "criteria": {
       "has_item": "2024-05-26 18:44:57 +0000"
@@ -6598,6 +6724,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_table": {
+    "criteria": {
+      "has_planks": "2024-06-22 19:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-05-22 17:41:11 +0000"
@@ -6619,6 +6751,12 @@
   "cfm:recipes/cfm/green_cooler": {
     "criteria": {
       "has_chest": "2024-06-22 13:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-06-22 19:21:42 +0000"
     },
     "done": true
   },
@@ -6886,13 +7024,6 @@
       "has_diamond_tier_upgrade": "2024-05-20 21:08:55 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-22 19:08:14 +0000",
-      "blocked_false": "2024-06-22 19:08:14 +0000"
-    },
-    "done": false
   },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
@@ -7752,6 +7883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-06-22 19:22:53 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/cherry_button": {
     "criteria": {
       "has_planks": "2024-05-26 19:42:21 +0000"
@@ -8403,6 +8540,12 @@
   "cfm:recipes/cfm/fridge_light": {
     "criteria": {
       "has_iron": "2024-05-19 18:47:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_coffee_table": {
+    "criteria": {
+      "has_log": "2024-06-22 19:22:53 +0000"
     },
     "done": true
   },
