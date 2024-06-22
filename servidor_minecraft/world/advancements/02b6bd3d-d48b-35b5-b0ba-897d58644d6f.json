@@ -2060,12 +2060,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "bit_6_2": "2024-06-22 17:08:03 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 17:02:14 +0000"
@@ -7310,6 +7304,7 @@
       "byg:rainbow_beach": "2024-05-20 16:03:54 +0000",
       "byg:allium_fields": "2024-05-21 18:26:39 +0000",
       "byg:prairie": "2024-05-21 18:26:27 +0000",
+      "byg:coconino_meadow": "2024-06-22 17:16:01 +0000",
       "byg:temperate_grove": "2024-05-22 19:16:19 +0000",
       "byg:orchard": "2024-05-21 18:26:44 +0000",
       "byg:rose_fields": "2024-06-22 17:07:29 +0000",
@@ -7327,6 +7322,7 @@
       "byg:weeping_mire": "2024-05-27 20:59:43 +0000",
       "byg:basalt_barrera": "2024-05-22 19:16:22 +0000",
       "byg:lush_stacks": "2024-05-26 20:40:54 +0000",
+      "byg:maple_taiga": "2024-06-22 17:15:53 +0000",
       "byg:dacite_shore": "2024-05-27 20:09:55 +0000",
       "byg:guiana_shield": "2024-05-26 20:48:01 +0000"
     },
@@ -7953,6 +7949,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_16": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-06-22 17:18:20 +0000"
     },
     "done": true
   },

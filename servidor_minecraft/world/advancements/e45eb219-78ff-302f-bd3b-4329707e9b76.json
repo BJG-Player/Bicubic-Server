@@ -1983,8 +1983,10 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-22 17:08:48 +0000",
-      "not_magic": "2024-06-22 17:08:52 +0000"
+      "not_projectile": "2024-06-22 17:20:17 +0000",
+      "not_magic": "2024-06-22 17:20:19 +0000",
+      "bit_3_0": "2024-06-22 17:20:14 +0000",
+      "bit_0_0": "2024-06-22 17:20:14 +0000"
     },
     "done": false
   },
@@ -4258,8 +4260,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-22 17:07:27 +0000",
-      "blocked_false": "2024-06-22 17:07:27 +0000"
+      "not_projectile": "2024-06-22 17:20:17 +0000",
+      "blocked_false": "2024-06-22 17:20:17 +0000"
     },
     "done": false
   },
@@ -6320,6 +6322,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-06-22 17:09:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2024-05-21 18:54:23 +0000"
@@ -8036,6 +8044,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_16": {
     "criteria": {
       "has_journal": "2024-05-19 18:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-06-22 17:17:55 +0000"
     },
     "done": true
   },
