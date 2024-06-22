@@ -1981,6 +1981,12 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-06-22 17:01:30 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 18:23:30 +0000"
@@ -2945,6 +2951,12 @@
   "create:recipes/create.palettes/cut_ochrum_brick_slab_from_ochrum_stonecutting": {
     "criteria": {
       "has_ochrum": "2024-06-19 18:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-06-22 17:01:39 +0000"
     },
     "done": true
   },
@@ -4242,6 +4254,14 @@
       "has_gate": "2024-06-16 16:43:47 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-06-22 16:58:49 +0000",
+      "is_projectile": "2024-06-22 17:01:30 +0000",
+      "blocked_false": "2024-06-22 16:58:49 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
@@ -7387,6 +7407,7 @@
       "byg:prairie": "2024-06-22 15:58:08 +0000",
       "byg:temperate_grove": "2024-06-19 22:52:06 +0000",
       "byg:orchard": "2024-06-17 16:25:08 +0000",
+      "byg:rose_fields": "2024-06-22 17:00:12 +0000",
       "byg:quartz_desert": "2024-05-21 18:23:33 +0000",
       "byg:firecracker_shrubland": "2024-05-19 18:32:48 +0000",
       "byg:magma_wastes": "2024-05-26 21:41:03 +0000",

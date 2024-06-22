@@ -1541,6 +1541,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2024-06-22 16:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-05-20 16:15:13 +0000"
@@ -4324,6 +4330,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2024-06-22 16:55:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/canvas_from_canvas_rug": {
     "criteria": {
       "has_canvas_rug": "2024-06-22 11:20:12 +0000"
@@ -4538,6 +4550,7 @@
     "criteria": {
       "cabbage": "2024-05-28 17:09:43 +0000",
       "tomato": "2024-05-28 17:13:47 +0000",
+      "rice": "2024-06-22 16:52:03 +0000",
       "cocoa": "2024-05-28 17:37:37 +0000",
       "wheat": "2024-06-22 12:33:45 +0000",
       "melon": "2024-05-28 17:05:48 +0000",
@@ -6488,6 +6501,12 @@
       "minecraft:sheep": "2024-05-28 15:58:13 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/farmersdelight/rice": {
+    "criteria": {
+      "has_rice_panicle": "2024-06-22 16:55:01 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/cfm/dark_oak_mail_box": {
     "criteria": {
