@@ -1881,16 +1881,8 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-22 01:20:10 +0000",
-      "bit_7_0": "2024-06-22 01:20:10 +0000",
-      "bit_6_1": "2024-06-22 01:20:10 +0000",
-      "bit_8_0": "2024-06-22 01:20:10 +0000",
-      "bit_5_0": "2024-06-22 01:20:10 +0000",
-      "bit_3_2": "2024-06-22 01:20:10 +0000",
-      "bit_4_0": "2024-06-22 01:20:10 +0000",
-      "bit_0_1": "2024-06-22 01:20:10 +0000",
-      "bit_2_0": "2024-06-22 01:20:10 +0000",
-      "bit_1_1": "2024-06-22 01:20:10 +0000"
+      "not_projectile": "2024-06-22 01:35:21 +0000",
+      "not_magic": "2024-06-22 01:35:21 +0000"
     },
     "done": false
   },
@@ -3456,6 +3448,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-06-22 01:28:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2024-05-20 17:26:36 +0000"
@@ -3663,6 +3661,12 @@
   "ars_nouveau:recipes/misc/sourceberry_to_purple": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-06-22 01:28:36 +0000"
     },
     "done": true
   },
@@ -3929,6 +3933,13 @@
       "has_diamond_tier_upgrade": "2024-06-19 19:21:16 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-06-22 01:34:36 +0000",
+      "blocked_false": "2024-06-22 01:34:36 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
@@ -6654,6 +6665,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2024-06-22 01:28:36 +0000"
+    },
+    "done": true
+  },
   "rechiseled:recipes/rechiseled/chisel": {
     "criteria": {
       "recipe_condition": "2024-05-20 16:15:56 +0000"
@@ -6835,6 +6852,7 @@
       "byg:allium_fields": "2024-06-18 15:45:59 +0000",
       "byg:temperate_grove": "2024-05-20 17:29:41 +0000",
       "byg:orchard": "2024-05-20 16:22:38 +0000",
+      "byg:fragment_forest": "2024-06-22 01:37:09 +0000",
       "byg:quartz_desert": "2024-05-20 20:07:37 +0000",
       "byg:cika_woods": "2024-06-19 18:25:06 +0000",
       "byg:firecracker_shrubland": "2024-05-20 16:22:09 +0000",
@@ -8315,6 +8333,7 @@
       "minecraft:cold_ocean": "2024-06-19 18:24:19 +0000",
       "minecraft:forest": "2024-06-18 15:46:29 +0000",
       "minecraft:lush_caves": "2024-06-19 18:34:01 +0000",
+      "minecraft:deep_cold_ocean": "2024-06-22 01:26:29 +0000",
       "minecraft:jungle": "2024-06-16 19:36:47 +0000",
       "minecraft:ocean": "2024-06-16 16:43:58 +0000",
       "minecraft:windswept_savanna": "2024-06-16 17:12:13 +0000",
