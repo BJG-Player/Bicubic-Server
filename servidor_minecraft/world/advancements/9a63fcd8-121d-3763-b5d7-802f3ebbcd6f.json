@@ -521,6 +521,12 @@
     },
     "done": true
   },
+  "ars_nouveau:familiar": {
+    "criteria": {
+      "familiar": "2024-06-22 17:04:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/creeper_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-05-20 16:12:39 +0000"
@@ -8963,6 +8969,12 @@
     },
     "done": true
   },
+  "chunkloaders:recipes/misc/basic_chunk_loader": {
+    "criteria": {
+      "recipe_condition": "2024-06-22 17:03:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-05-28 18:12:27 +0000",
@@ -9570,6 +9582,13 @@
   "cfm:recipes/cfm/acacia_chair": {
     "criteria": {
       "has_log": "2024-05-19 18:21:54 +0000"
+    },
+    "done": true
+  },
+  "chunkloaders:recipes/chunkloaders/basic_chunk_loader": {
+    "criteria": {
+      "has_the_recipe": "2024-06-22 17:03:41 +0000",
+      "recipe_condition": "2024-06-22 17:03:41 +0000"
     },
     "done": true
   },

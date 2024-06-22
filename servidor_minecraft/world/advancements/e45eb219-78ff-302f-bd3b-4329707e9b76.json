@@ -1983,7 +1983,8 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-22 17:01:30 +0000"
+      "not_projectile": "2024-06-22 17:08:48 +0000",
+      "not_magic": "2024-06-22 17:08:52 +0000"
     },
     "done": false
   },
@@ -4257,9 +4258,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-22 16:58:49 +0000",
-      "is_projectile": "2024-06-22 17:01:30 +0000",
-      "blocked_false": "2024-06-22 16:58:49 +0000"
+      "not_projectile": "2024-06-22 17:07:27 +0000",
+      "blocked_false": "2024-06-22 17:07:27 +0000"
     },
     "done": false
   },
@@ -7407,6 +7407,7 @@
       "byg:prairie": "2024-06-22 15:58:08 +0000",
       "byg:temperate_grove": "2024-06-19 22:52:06 +0000",
       "byg:orchard": "2024-06-17 16:25:08 +0000",
+      "byg:fragment_forest": "2024-06-22 17:04:38 +0000",
       "byg:rose_fields": "2024-06-22 17:00:12 +0000",
       "byg:quartz_desert": "2024-05-21 18:23:33 +0000",
       "byg:firecracker_shrubland": "2024-05-19 18:32:48 +0000",
@@ -8005,6 +8006,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2024-05-21 10:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-06-22 17:07:21 +0000"
     },
     "done": true
   },
@@ -8870,6 +8877,7 @@
       "minecraft:lukewarm_ocean": "2024-05-19 18:18:28 +0000",
       "minecraft:river": "2024-05-19 18:17:57 +0000",
       "minecraft:stony_shore": "2024-05-25 14:53:21 +0000",
+      "minecraft:dripstone_caves": "2024-06-22 17:07:07 +0000",
       "minecraft:cold_ocean": "2024-06-20 17:53:31 +0000",
       "minecraft:forest": "2024-06-17 16:28:24 +0000",
       "minecraft:lush_caves": "2024-06-19 18:38:07 +0000",
@@ -8880,6 +8888,7 @@
       "minecraft:deep_lukewarm_ocean": "2024-05-19 18:34:52 +0000",
       "minecraft:flower_forest": "2024-06-19 22:49:54 +0000",
       "minecraft:old_growth_birch_forest": "2024-06-17 16:27:53 +0000",
+      "minecraft:deep_dark": "2024-06-22 17:08:14 +0000",
       "minecraft:savanna": "2024-05-19 18:04:21 +0000",
       "minecraft:plains": "2024-05-19 18:38:45 +0000"
     },
