@@ -3038,13 +3038,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "not_projectile": "2024-06-22 18:53:03 +0000",
-      "not_magic": "2024-06-22 18:53:03 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 17:48:30 +0000"
@@ -5693,6 +5686,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2024-06-22 19:07:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2024-05-22 18:11:11 +0000"
@@ -6884,8 +6883,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-22 18:48:37 +0000",
-      "blocked_false": "2024-06-22 18:48:37 +0000"
+      "not_projectile": "2024-06-22 19:08:14 +0000",
+      "blocked_false": "2024-06-22 19:08:14 +0000"
     },
     "done": false
   },
