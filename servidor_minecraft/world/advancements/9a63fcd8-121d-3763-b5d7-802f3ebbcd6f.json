@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/witch_hazel_boat": {
+    "criteria": {
+      "has_planks": "2024-06-22 18:32:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2024-05-21 16:50:39 +0000"
@@ -758,6 +764,12 @@
   "create:recipes/create.base/crafting/kinetics/purple_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2024-05-23 17:59:17 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/witch_hazel_bookshelf": {
+    "criteria": {
+      "has_planks": "2024-06-22 18:32:47 +0000"
     },
     "done": true
   },
@@ -2051,21 +2063,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "not_projectile": "2024-06-22 17:56:51 +0000",
-      "bit_8_2": "2024-06-22 17:56:51 +0000",
-      "bit_5_2": "2024-06-22 17:56:51 +0000",
-      "bit_7_1": "2024-06-22 17:56:51 +0000",
-      "bit_4_1": "2024-06-22 17:56:51 +0000",
-      "bit_3_2": "2024-06-22 17:56:51 +0000",
-      "bit_6_0": "2024-06-22 17:56:51 +0000",
-      "bit_2_1": "2024-06-22 17:56:51 +0000",
-      "bit_1_0": "2024-06-22 17:56:51 +0000",
-      "bit_0_0": "2024-06-22 17:56:51 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-21 16:50:39 +0000"
@@ -2075,6 +2072,12 @@
   "create:copper": {
     "criteria": {
       "0": "2024-05-21 18:03:27 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/witch_hazel_slab": {
+    "criteria": {
+      "has_planks": "2024-06-22 18:32:47 +0000"
     },
     "done": true
   },
@@ -2489,6 +2492,12 @@
   "create:recipes/create.palettes/cut_tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-05-20 19:18:05 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/witch_hazel_stairs": {
+    "criteria": {
+      "has_planks": "2024-06-22 18:32:47 +0000"
     },
     "done": true
   },
@@ -3651,6 +3660,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/witch_hazel_crafting_table": {
+    "criteria": {
+      "has_planks": "2024-06-22 18:32:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/purple_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-19 13:09:17 +0000"
@@ -4678,9 +4693,21 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/witch_hazel_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-06-22 18:32:47 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/quartz_red": {
     "criteria": {
       "has_item": "2024-05-21 18:12:01 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/witch_hazel_door": {
+    "criteria": {
+      "has_planks": "2024-06-22 18:32:47 +0000"
     },
     "done": true
   },
@@ -4706,6 +4733,7 @@
     "criteria": {
       "cabbage": "2024-05-28 17:09:43 +0000",
       "tomato": "2024-05-28 17:13:47 +0000",
+      "kelp": "2024-06-22 18:26:26 +0000",
       "rice": "2024-06-22 16:52:03 +0000",
       "cocoa": "2024-05-28 17:37:37 +0000",
       "sugar_cane": "2024-06-22 17:23:12 +0000",
@@ -6074,6 +6102,12 @@
   "minecraft:recipes/travelersbackpack/wither_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-05-20 16:15:10 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/witch_hazel_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-06-22 18:32:47 +0000"
     },
     "done": true
   },
@@ -8962,6 +8996,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/witch_hazel_fence": {
+    "criteria": {
+      "has_planks": "2024-06-22 18:32:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2024-06-17 19:38:06 +0000"
@@ -9905,6 +9945,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/witch_hazel_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-06-22 18:32:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-05-20 16:08:47 +0000"
@@ -9920,6 +9966,12 @@
   "byg:root": {
     "criteria": {
       "tick": "2024-05-19 12:57:17 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/witch_hazel_button": {
+    "criteria": {
+      "has_planks": "2024-06-22 18:32:47 +0000"
     },
     "done": true
   },
