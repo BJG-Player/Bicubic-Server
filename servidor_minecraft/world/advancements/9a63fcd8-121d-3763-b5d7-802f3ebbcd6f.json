@@ -1991,14 +1991,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "not_projectile": "2024-06-22 17:28:52 +0000",
-      "is_projectile": "2024-06-22 17:28:54 +0000",
-      "not_magic": "2024-06-22 17:28:54 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-21 16:50:39 +0000"
@@ -4220,13 +4212,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-22 13:05:38 +0000",
-      "blocked_false": "2024-06-22 13:05:38 +0000"
-    },
-    "done": false
-  },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-05-22 22:13:12 +0000"
@@ -5032,6 +5017,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-06-22 17:31:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_coffee_table": {
     "criteria": {
       "has_planks": "2024-06-16 19:14:47 +0000"
@@ -5644,6 +5635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-06-22 17:31:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-05-22 17:26:23 +0000"
@@ -6085,6 +6082,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-05-20 16:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-06-22 17:39:34 +0000"
     },
     "done": true
   },
@@ -7712,6 +7715,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-06-22 17:33:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2024-06-21 18:47:24 +0000"
@@ -8520,6 +8529,7 @@
       "minecraft:jungle": "2024-06-22 12:40:54 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-05-20 17:35:41 +0000",
       "minecraft:flower_forest": "2024-06-19 22:54:03 +0000",
+      "minecraft:deep_dark": "2024-06-22 17:32:18 +0000",
       "minecraft:meadow": "2024-06-22 11:49:54 +0000",
       "minecraft:savanna": "2024-05-19 18:19:28 +0000",
       "minecraft:plains": "2024-05-20 18:52:05 +0000"
@@ -8997,6 +9007,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-05-28 18:12:27 +0000",
+      "baked_potato": "2024-06-22 17:32:53 +0000",
       "cooked_cod": "2024-06-22 00:00:48 +0000",
       "pumpkin_pie": "2024-06-17 18:56:04 +0000",
       "melon_slice": "2024-05-28 18:19:57 +0000",

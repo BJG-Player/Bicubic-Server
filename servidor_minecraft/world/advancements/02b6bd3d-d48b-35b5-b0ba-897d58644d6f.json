@@ -2078,21 +2078,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "not_projectile": "2024-06-22 17:25:28 +0000",
-      "bit_8_1": "2024-06-22 17:25:28 +0000",
-      "bit_7_1": "2024-06-22 17:25:28 +0000",
-      "bit_6_2": "2024-06-22 17:25:28 +0000",
-      "bit_5_0": "2024-06-22 17:25:28 +0000",
-      "bit_3_0": "2024-06-22 17:25:28 +0000",
-      "bit_2_1": "2024-06-22 17:25:28 +0000",
-      "bit_1_2": "2024-06-22 17:25:28 +0000",
-      "bit_4_0": "2024-06-22 17:25:28 +0000",
-      "bit_0_1": "2024-06-22 17:25:28 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 17:02:14 +0000"
@@ -4276,8 +4261,9 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-22 17:29:30 +0000",
-      "blocked_false": "2024-06-22 17:29:30 +0000"
+      "not_projectile": "2024-06-22 17:40:37 +0000",
+      "is_projectile": "2024-06-22 17:43:54 +0000",
+      "blocked_false": "2024-06-22 17:40:37 +0000"
     },
     "done": false
   },
@@ -8589,6 +8575,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-05-20 17:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2024-06-22 17:48:15 +0000"
     },
     "done": true
   },

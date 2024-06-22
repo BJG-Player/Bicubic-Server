@@ -3034,7 +3034,7 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-22 17:29:33 +0000"
+      "not_projectile": "2024-06-22 17:44:55 +0000"
     },
     "done": false
   },
@@ -4538,6 +4538,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2024-05-21 18:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-06-22 17:33:03 +0000"
     },
     "done": true
   },
@@ -6859,6 +6865,7 @@
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
       "not_projectile": "2024-06-22 17:29:30 +0000",
+      "is_projectile": "2024-06-22 17:44:55 +0000",
       "blocked_false": "2024-06-22 17:29:30 +0000"
     },
     "done": false
