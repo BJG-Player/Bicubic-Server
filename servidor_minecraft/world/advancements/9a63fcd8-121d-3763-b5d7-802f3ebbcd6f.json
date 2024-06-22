@@ -4383,6 +4383,7 @@
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
       "not_projectile": "2024-06-22 17:57:56 +0000",
+      "is_projectile": "2024-06-22 18:51:23 +0000",
       "blocked_false": "2024-06-22 17:57:56 +0000"
     },
     "done": false
@@ -5160,6 +5161,12 @@
   "cfm:recipes/cfm/door_mat": {
     "criteria": {
       "has_wheat": "2024-05-26 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_asurine_brick_slab": {
+    "criteria": {
+      "has_small_asurine_bricks": "2024-06-22 18:53:44 +0000"
     },
     "done": true
   },
@@ -5970,6 +5977,12 @@
   "create:recipes/create.base/crafting/materials/brass_block_from_compacting": {
     "criteria": {
       "has_item": "2024-05-21 18:05:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_asurine_brick_wall": {
+    "criteria": {
+      "has_small_asurine_bricks": "2024-06-22 18:53:44 +0000"
     },
     "done": true
   },
@@ -8262,6 +8275,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/coarse_turquoise_dirt": {
     "criteria": {
       "has_item": "2024-05-20 19:17:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_asurine_brick_stairs": {
+    "criteria": {
+      "has_small_asurine_bricks": "2024-06-22 18:53:44 +0000"
     },
     "done": true
   },

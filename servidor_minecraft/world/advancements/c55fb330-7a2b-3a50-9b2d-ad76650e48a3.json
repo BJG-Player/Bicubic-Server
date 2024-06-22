@@ -3040,7 +3040,8 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-22 18:46:52 +0000"
+      "not_projectile": "2024-06-22 18:53:03 +0000",
+      "not_magic": "2024-06-22 18:53:03 +0000"
     },
     "done": false
   },
@@ -6883,8 +6884,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-22 18:46:51 +0000",
-      "blocked_false": "2024-06-22 18:46:51 +0000"
+      "not_projectile": "2024-06-22 18:48:37 +0000",
+      "blocked_false": "2024-06-22 18:48:37 +0000"
     },
     "done": false
   },
