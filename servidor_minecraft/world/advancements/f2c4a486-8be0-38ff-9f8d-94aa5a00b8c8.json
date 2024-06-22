@@ -1112,7 +1112,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:soul_sand_valley": "2024-05-27 21:04:21 +0000",
-      "minecraft:basalt_deltas": "2024-05-27 21:09:00 +0000"
+      "minecraft:basalt_deltas": "2024-05-27 21:09:00 +0000",
+      "minecraft:warped_forest": "2024-06-22 00:17:32 +0000"
     },
     "done": false
   },
@@ -1871,6 +1872,12 @@
       "has_gold_ore": "2024-05-26 18:24:37 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-06-22 00:22:28 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
