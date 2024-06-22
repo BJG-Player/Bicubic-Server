@@ -6253,6 +6253,13 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-06-22 11:09:09 +0000",
+      "blocked_false": "2024-06-22 11:09:09 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2024-05-20 19:51:51 +0000"

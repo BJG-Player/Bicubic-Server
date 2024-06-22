@@ -1,117 +1,103 @@
-[22Jun2024 10:38:37.940] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.3.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
-[22Jun2024 10:38:37.943] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.3 by Microsoft; OS Linux arch amd64 version 6.5.0-1021-azure
-[22Jun2024 10:38:41.454] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Bicubic-Server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[22Jun2024 10:38:42.042] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bicubic-Server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.3.0/fmlcore-1.19.2-43.3.0.jar is missing mods.toml file
-[22Jun2024 10:38:42.043] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bicubic-Server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.3.0/javafmllanguage-1.19.2-43.3.0.jar is missing mods.toml file
-[22Jun2024 10:38:42.044] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bicubic-Server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.3.0/lowcodelanguage-1.19.2-43.3.0.jar is missing mods.toml file
-[22Jun2024 10:38:42.045] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bicubic-Server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.3.0/mclanguage-1.19.2-43.3.0.jar is missing mods.toml file
-[22Jun2024 10:38:42.253] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: flywheel. Using Mod File: /workspaces/Bicubic-Server/servidor_minecraft/mods/flywheel-forge-1.19.2-0.6.8.a.jar
-[22Jun2024 10:38:42.253] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: expandability. Using Mod File: /workspaces/Bicubic-Server/servidor_minecraft/mods/expandability-7.0.0.jar
-[22Jun2024 10:38:42.254] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[22Jun2024 10:38:45.431] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[22Jun2024 10:38:45.718] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[22Jun2024 10:38:45.721] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.aizistral.universalclockhud.MixinConnector]
-[22Jun2024 10:38:45.733] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[22Jun2024 10:38:45.756] [main/WARN] [mixin/]: Reference map 'xlpackets.refmap.json' for xlpackets.mixins.json could not be read. If this is a development environment you can ignore this message
-[22Jun2024 10:38:45.783] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 30 options available, 0 override(s) found
-[22Jun2024 10:38:45.994] [main/WARN] [mixin/]: Reference map 'universalclockhud.refmap.json' for assets/universalclockhud/universalclockhud.mixins.json could not be read. If this is a development environment you can ignore this message
-[22Jun2024 10:38:46.787] [main/INFO] [net.minecraftforge.coremod.CoreMod.uteamcore/COREMODLOG]: Injected ASMUContainerMenuHook call into ServerPlayer#initMenu
-[22Jun2024 10:38:47.888] [main/WARN] [mixin/]: Error loading class: com/mojang/blaze3d/audio/Channel (java.lang.ClassNotFoundException: com.mojang.blaze3d.audio.Channel)
-[22Jun2024 10:38:47.900] [main/WARN] [mixin/]: @Mixin target com.mojang.blaze3d.audio.Channel was not found assets/sound_physics_remastered/sound_physics_remastered.mixins.json:ChannelAccessor
-[22Jun2024 10:38:51.364] [main/INFO] [net.minecraftforge.coremod.CoreMod.uteamcore/COREMODLOG]: Injected ASMUContainerMenuHook call into ServerPlayer#initMenu
-[22Jun2024 10:38:54.049] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[22Jun2024 10:38:56.831] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
-[22Jun2024 10:38:57.352] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[22Jun2024 10:38:57.354] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[22Jun2024 10:38:57.354] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[22Jun2024 10:38:57.354] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[22Jun2024 10:38:57.354] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[22Jun2024 10:38:57.355] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[22Jun2024 10:38:57.355] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[22Jun2024 10:38:57.439] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.3.0, for MC 1.19.2 with MCP 20220805.130853
-[22Jun2024 10:38:57.439] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.3.0 Initialized
-[22Jun2024 10:38:57.500] [modloading-worker-0/INFO] [JarSignVerifier/]: Mod musicplayer is signed with a valid certificate.
-[22Jun2024 10:38:57.512] [modloading-worker-0/INFO] [JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
-[22Jun2024 10:38:57.550] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[22Jun2024 10:38:57.551] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[22Jun2024 10:38:58.028] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
-[22Jun2024 10:38:58.101] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
-[22Jun2024 10:38:59.649] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[22Jun2024 10:38:59.801] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
-[22Jun2024 10:38:59.804] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
-[22Jun2024 10:38:59.853] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_sync
-[22Jun2024 10:38:59.855] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_add
-[22Jun2024 10:38:59.858] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_edit
-[22Jun2024 10:38:59.859] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_change_authority
-[22Jun2024 10:38:59.860] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_add
-[22Jun2024 10:38:59.861] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_edit
-[22Jun2024 10:38:59.863] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_ready_result
-[22Jun2024 10:38:59.864] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_update_result
-[22Jun2024 10:38:59.866] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_or_playlist_delete
-[22Jun2024 10:38:59.867] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:multiple_music_add
-[22Jun2024 10:38:59.868] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:hand_lid_cycle
-[22Jun2024 10:39:00.075] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod puzzleslib
-[22Jun2024 10:39:00.150] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
-[22Jun2024 10:39:00.151] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
-[22Jun2024 10:39:00.188] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[22Jun2024 10:39:00.264] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod enchantinginfuser
-[22Jun2024 10:39:07.260] [main/WARN] [moonlight/]: Failed to find custom wood type byg:embur
-[22Jun2024 10:39:07.272] [main/INFO] [moonlight/]: Initialized block sets in 20ms
-[22Jun2024 10:39:09.040] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
-[22Jun2024 10:39:09.116] [modloading-worker-0/INFO] [Sound Physics - General/]: Reloading config
-[22Jun2024 10:39:09.116] [modloading-worker-0/INFO] [Sound Physics - General/]: Reloading reverb parameters
-[22Jun2024 10:39:09.209] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
-[22Jun2024 10:39:09.360] [modloading-worker-0/INFO] [de.sarenor.arsinstrumentum.network.Networking/]: ArsInstrumentum: Registering Network Packets
-[22Jun2024 10:39:09.362] [modloading-worker-0/INFO] [net.ssm227.createastracompat.CreateAstraCompat/]: HELLO FROM COMMON SETUP
-[22Jun2024 10:39:09.362] [modloading-worker-0/INFO] [net.ssm227.createastracompat.CreateAstraCompat/]: DIRT BLOCK >> minecraft:dirt
-[22Jun2024 10:39:09.377] [modloading-worker-0/INFO] [Nature's Aura/]: Loading compat module for mod patchouli
-[22Jun2024 10:39:09.377] [modloading-worker-0/INFO] [Nature's Aura/]: Loading compat module for mod curios
-[22Jun2024 10:39:09.411] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/end-biomes.json5" was read.
-[22Jun2024 10:39:09.455] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/nether-biomes.json5" was read.
-[22Jun2024 10:39:09.492] [modloading-worker-0/INFO] [Nature's Aura/]: -- Nature's Aura Fake Player Information --
-[22Jun2024 10:39:09.492] [modloading-worker-0/INFO] [Nature's Aura/]: Name: [Minecraft]
-[22Jun2024 10:39:09.492] [modloading-worker-0/INFO] [Nature's Aura/]: UUID: 41C82C87-7AfB-4024-BA57-13D2C99CAE77
-[22Jun2024 10:39:09.492] [modloading-worker-0/INFO] [Nature's Aura/]: -------------------------------------------
-[22Jun2024 10:39:09.672] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/overworld/byg-overworld-biomes.json5" was read.
-[22Jun2024 10:39:09.683] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
-[22Jun2024 10:39:09.724] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
-[22Jun2024 10:39:09.729] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
-[22Jun2024 10:39:09.759] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/growing-patterns.json5" was read.
-[22Jun2024 10:39:09.789] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: UP_TO_DATE Current: 1.3.20 Target: null
-[22Jun2024 10:39:09.790] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [musicplayer] Starting version check at https://api.u-team.info/update/musicplayer.json
-[22Jun2024 10:39:09.802] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/trades.json5" was read.
-[22Jun2024 10:39:09.822] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/settings.json5" was read.
-[22Jun2024 10:39:09.825] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/biomepedia.json5" was read.
-[22Jun2024 10:39:09.878] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: Created compressed zip back up for "/workspaces/Bicubic-Server/servidor_minecraft/config/byg" in "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/backups/last_working_configs_backup.zip"
-[22Jun2024 10:39:09.882] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: BYG: Added strippable Blocks...
-[22Jun2024 10:39:09.891] [main/INFO] [journeymap/]: Initializing Packet Registries
-[22Jun2024 10:39:09.933] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.WaterEffect as a FluidEffect for Water with the ID 0
-[22Jun2024 10:39:09.933] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.LavaEffect as a FluidEffect for Lava with the ID 1
-[22Jun2024 10:39:09.933] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.PotionEffect as a FluidEffect for fluid_type.travelersbackpack.potion with the ID 2
-[22Jun2024 10:39:09.934] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.MilkEffect as a FluidEffect for Milk with the ID 3
-[22Jun2024 10:39:09.968] [main/INFO] [supplementaries/]: Finished mod setup in: [0, 24, 2, 1, 0, 0, 0, 0, 0, 0] ms
-[22Jun2024 10:39:09.970] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[22Jun2024 10:39:09.975] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[22Jun2024 10:39:09.980] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[22Jun2024 10:39:09.981] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[22Jun2024 10:39:10.021] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [musicplayer] Found status: OUTDATED Current: 2.5.1.202 Target: 2.5.1.254
-[22Jun2024 10:39:10.022] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [armorstatushud] Starting version check at https://minecraft.darkboy.ru/api/check-mod-updates/armorstatushud.json
-[22Jun2024 10:39:10.079] [main/INFO] [moonlight/]: Initialized color sets in 86ms
-[22Jun2024 10:39:10.137] [main/INFO] [moonlight/]: Initialized color sets in 58ms
-[22Jun2024 10:39:10.201] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[22Jun2024 10:39:10.202] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[22Jun2024 10:39:10.202] [main/INFO] [terrablender/]: Registered region ars_nouveau:overworld to index 1 for type OVERWORLD
-[22Jun2024 10:39:10.209] [main/INFO] [potionstudios.byg.BYG/]: Initializing BYG network...
-[22Jun2024 10:39:10.214] [main/INFO] [potionstudios.byg.BYG/]: Initialized BYG network!
-[22Jun2024 10:39:10.225] [main/INFO] [terrablender/]: Registered region byg:region_0 to index 2 for type OVERWORLD
-[22Jun2024 10:39:10.228] [main/INFO] [terrablender/]: Registered region byg:region_1 to index 3 for type OVERWORLD
-[22Jun2024 10:39:10.229] [main/INFO] [terrablender/]: Registered region byg:region_2 to index 4 for type OVERWORLD
-[22Jun2024 10:39:10.230] [main/INFO] [terrablender/]: Registered region byg:region_3 to index 5 for type OVERWORLD
-[22Jun2024 10:39:10.281] [main/INFO] [potionstudios.byg.BYG/]: BYG: Compostible Blocks Added!
-[22Jun2024 10:39:10.282] [main/INFO] [potionstudios.byg.BYG/]: BYG: Added tillables!
-[22Jun2024 10:39:10.283] [main/INFO] [potionstudios.byg.BYG/]: BYG: Added Flammables!
-[22Jun2024 10:39:10.285] [main/INFO] [potionstudios.byg.BYG/]: BYG: "Load Complete" Event Complete!
-[22Jun2024 10:39:10.320] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[22Jun2024 11:03:58.578] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.3.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[22Jun2024 11:03:58.581] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.3 by Microsoft; OS Linux arch amd64 version 6.5.0-1021-azure
+[22Jun2024 11:03:59.821] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Bicubic-Server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[22Jun2024 11:04:00.475] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bicubic-Server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.3.0/fmlcore-1.19.2-43.3.0.jar is missing mods.toml file
+[22Jun2024 11:04:00.476] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bicubic-Server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.3.0/javafmllanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[22Jun2024 11:04:00.477] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bicubic-Server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.3.0/lowcodelanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[22Jun2024 11:04:00.478] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bicubic-Server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.3.0/mclanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[22Jun2024 11:04:00.694] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: flywheel. Using Mod File: /workspaces/Bicubic-Server/servidor_minecraft/mods/flywheel-forge-1.19.2-0.6.8.a.jar
+[22Jun2024 11:04:00.695] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: expandability. Using Mod File: /workspaces/Bicubic-Server/servidor_minecraft/mods/expandability-7.0.0.jar
+[22Jun2024 11:04:00.696] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[22Jun2024 11:04:04.378] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22Jun2024 11:04:04.628] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[22Jun2024 11:04:04.629] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.aizistral.universalclockhud.MixinConnector]
+[22Jun2024 11:04:04.632] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[22Jun2024 11:04:04.653] [main/WARN] [mixin/]: Reference map 'xlpackets.refmap.json' for xlpackets.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Jun2024 11:04:04.687] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 30 options available, 0 override(s) found
+[22Jun2024 11:04:04.868] [main/WARN] [mixin/]: Reference map 'universalclockhud.refmap.json' for assets/universalclockhud/universalclockhud.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Jun2024 11:04:05.476] [main/INFO] [net.minecraftforge.coremod.CoreMod.uteamcore/COREMODLOG]: Injected ASMUContainerMenuHook call into ServerPlayer#initMenu
+[22Jun2024 11:04:06.221] [main/WARN] [mixin/]: Error loading class: com/mojang/blaze3d/audio/Channel (java.lang.ClassNotFoundException: com.mojang.blaze3d.audio.Channel)
+[22Jun2024 11:04:06.221] [main/WARN] [mixin/]: @Mixin target com.mojang.blaze3d.audio.Channel was not found assets/sound_physics_remastered/sound_physics_remastered.mixins.json:ChannelAccessor
+[22Jun2024 11:04:09.743] [main/INFO] [net.minecraftforge.coremod.CoreMod.uteamcore/COREMODLOG]: Injected ASMUContainerMenuHook call into ServerPlayer#initMenu
+[22Jun2024 11:04:12.726] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[22Jun2024 11:04:15.120] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[22Jun2024 11:04:15.756] [modloading-worker-0/INFO] [JarSignVerifier/]: Mod musicplayer is signed with a valid certificate.
+[22Jun2024 11:04:15.912] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[22Jun2024 11:04:15.912] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[22Jun2024 11:04:15.913] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[22Jun2024 11:04:15.913] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[22Jun2024 11:04:15.913] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[22Jun2024 11:04:15.913] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[22Jun2024 11:04:15.914] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[22Jun2024 11:04:15.918] [modloading-worker-0/INFO] [JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[22Jun2024 11:04:15.932] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.3.0, for MC 1.19.2 with MCP 20220805.130853
+[22Jun2024 11:04:15.933] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.3.0 Initialized
+[22Jun2024 11:04:16.000] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[22Jun2024 11:04:16.001] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[22Jun2024 11:04:16.313] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
+[22Jun2024 11:04:16.504] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
+[22Jun2024 11:04:17.968] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[22Jun2024 11:04:18.122] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
+[22Jun2024 11:04:18.123] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
+[22Jun2024 11:04:18.246] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_sync
+[22Jun2024 11:04:18.252] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_add
+[22Jun2024 11:04:18.255] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_edit
+[22Jun2024 11:04:18.257] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_change_authority
+[22Jun2024 11:04:18.258] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_add
+[22Jun2024 11:04:18.261] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_edit
+[22Jun2024 11:04:18.263] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_ready_result
+[22Jun2024 11:04:18.265] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_update_result
+[22Jun2024 11:04:18.268] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_or_playlist_delete
+[22Jun2024 11:04:18.269] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:multiple_music_add
+[22Jun2024 11:04:18.270] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:hand_lid_cycle
+[22Jun2024 11:04:18.525] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
+[22Jun2024 11:04:18.528] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[22Jun2024 11:04:18.550] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod puzzleslib
+[22Jun2024 11:04:18.586] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[22Jun2024 11:04:18.659] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod enchantinginfuser
+[22Jun2024 11:04:25.738] [main/WARN] [moonlight/]: Failed to find custom wood type byg:embur
+[22Jun2024 11:04:25.750] [main/INFO] [moonlight/]: Initialized block sets in 21ms
+[22Jun2024 11:04:27.618] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[22Jun2024 11:04:27.683] [modloading-worker-0/INFO] [Sound Physics - General/]: Reloading config
+[22Jun2024 11:04:27.683] [modloading-worker-0/INFO] [Sound Physics - General/]: Reloading reverb parameters
+[22Jun2024 11:04:27.774] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
+[22Jun2024 11:04:27.964] [modloading-worker-0/INFO] [de.sarenor.arsinstrumentum.network.Networking/]: ArsInstrumentum: Registering Network Packets
+[22Jun2024 11:04:27.971] [modloading-worker-0/INFO] [net.ssm227.createastracompat.CreateAstraCompat/]: HELLO FROM COMMON SETUP
+[22Jun2024 11:04:27.971] [modloading-worker-0/INFO] [net.ssm227.createastracompat.CreateAstraCompat/]: DIRT BLOCK >> minecraft:dirt
+[22Jun2024 11:04:27.978] [modloading-worker-0/INFO] [Nature's Aura/]: Loading compat module for mod patchouli
+[22Jun2024 11:04:27.978] [modloading-worker-0/INFO] [Nature's Aura/]: Loading compat module for mod curios
+[22Jun2024 11:04:27.988] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/end-biomes.json5" was read.
+[22Jun2024 11:04:28.016] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/nether-biomes.json5" was read.
+[22Jun2024 11:04:28.126] [modloading-worker-0/INFO] [Nature's Aura/]: -- Nature's Aura Fake Player Information --
+[22Jun2024 11:04:28.132] [modloading-worker-0/INFO] [Nature's Aura/]: Name: [Minecraft]
+[22Jun2024 11:04:28.132] [modloading-worker-0/INFO] [Nature's Aura/]: UUID: 41C82C87-7AfB-4024-BA57-13D2C99CAE77
+[22Jun2024 11:04:28.133] [modloading-worker-0/INFO] [Nature's Aura/]: -------------------------------------------
+[22Jun2024 11:04:28.211] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/overworld/byg-overworld-biomes.json5" was read.
+[22Jun2024 11:04:28.227] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
+[22Jun2024 11:04:28.253] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
+[22Jun2024 11:04:28.261] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
+[22Jun2024 11:04:28.344] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/growing-patterns.json5" was read.
+[22Jun2024 11:04:28.403] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/trades.json5" was read.
+[22Jun2024 11:04:28.429] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/settings.json5" was read.
+[22Jun2024 11:04:28.437] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/biomepedia.json5" was read.
+[22Jun2024 11:04:28.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: UP_TO_DATE Current: 1.3.20 Target: null
+[22Jun2024 11:04:28.482] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [musicplayer] Starting version check at https://api.u-team.info/update/musicplayer.json
+[22Jun2024 11:04:28.545] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [musicplayer] Found status: OUTDATED Current: 2.5.1.202 Target: 2.5.1.254
+[22Jun2024 11:04:28.545] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [armorstatushud] Starting version check at https://minecraft.darkboy.ru/api/check-mod-updates/armorstatushud.json
+[22Jun2024 11:04:28.578] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: Created compressed zip back up for "/workspaces/Bicubic-Server/servidor_minecraft/config/byg" in "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/backups/last_working_configs_backup.zip"
+[22Jun2024 11:04:28.583] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: BYG: Added strippable Blocks...
+[22Jun2024 11:04:28.593] [main/INFO] [journeymap/]: Initializing Packet Registries
+[22Jun2024 11:04:28.645] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.WaterEffect as a FluidEffect for Water with the ID 0
+[22Jun2024 11:04:28.646] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.LavaEffect as a FluidEffect for Lava with the ID 1
+[22Jun2024 11:04:28.647] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.PotionEffect as a FluidEffect for fluid_type.travelersbackpack.potion with the ID 2
+[22Jun2024 11:04:28.648] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.MilkEffect as a FluidEffect for Milk with the ID 3
+[22Jun2024 11:04:28.706] [main/INFO] [supplementaries/]: Finished mod setup in: [0, 41, 3, 2, 0, 0, 0, 0, 0, 0] ms
+[22Jun2024 11:04:28.720] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[22Jun2024 11:04:28.728] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[22Jun2024 11:04:28.731] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[22Jun2024 11:04:28.732] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[22Jun2024 11:04:28.801] [main/INFO] [moonlight/]: Initialized color sets in 68ms
+[22Jun2024 11:04:28.840] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
@@ -126,18 +112,32 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
 	... 6 more
-[22Jun2024 10:39:10.321] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[22Jun2024 10:39:10.612] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.9.7 Target: 5.9.8
-[22Jun2024 10:39:10.612] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[22Jun2024 10:39:10.646] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 8.2.23 Target: 8.2.40
-[22Jun2024 10:39:10.646] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.19.2
-[22Jun2024 10:39:10.737] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA_OUTDATED Current: 16.2.18 Target: 16.3.20
-[22Jun2024 10:39:10.737] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[22Jun2024 10:39:10.750] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: OUTDATED Current: 4.4.3.236 Target: 4.4.3.297
-[22Jun2024 10:39:10.751] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://maxhenkel.de/update/sound_physics_remastered.json
-[22Jun2024 10:39:10.984] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.19.2-1.0.18 Target: 1.19.2-1.3.0
-[22Jun2024 10:39:10.984] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [boblib] Starting version check at https://minecraft.darkboy.ru/api/check-mod-updates/boblib.json
-[22Jun2024 10:39:11.024] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[22Jun2024 11:04:28.841] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[22Jun2024 11:04:28.855] [main/INFO] [moonlight/]: Initialized color sets in 53ms
+[22Jun2024 11:04:28.931] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[22Jun2024 11:04:28.931] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[22Jun2024 11:04:28.932] [main/INFO] [terrablender/]: Registered region ars_nouveau:overworld to index 1 for type OVERWORLD
+[22Jun2024 11:04:28.938] [main/INFO] [potionstudios.byg.BYG/]: Initializing BYG network...
+[22Jun2024 11:04:28.944] [main/INFO] [potionstudios.byg.BYG/]: Initialized BYG network!
+[22Jun2024 11:04:28.955] [main/INFO] [terrablender/]: Registered region byg:region_0 to index 2 for type OVERWORLD
+[22Jun2024 11:04:28.956] [main/INFO] [terrablender/]: Registered region byg:region_1 to index 3 for type OVERWORLD
+[22Jun2024 11:04:28.957] [main/INFO] [terrablender/]: Registered region byg:region_2 to index 4 for type OVERWORLD
+[22Jun2024 11:04:28.958] [main/INFO] [terrablender/]: Registered region byg:region_3 to index 5 for type OVERWORLD
+[22Jun2024 11:04:28.995] [main/INFO] [potionstudios.byg.BYG/]: BYG: Compostible Blocks Added!
+[22Jun2024 11:04:28.996] [main/INFO] [potionstudios.byg.BYG/]: BYG: Added tillables!
+[22Jun2024 11:04:28.998] [main/INFO] [potionstudios.byg.BYG/]: BYG: Added Flammables!
+[22Jun2024 11:04:28.999] [main/INFO] [potionstudios.byg.BYG/]: BYG: "Load Complete" Event Complete!
+[22Jun2024 11:04:29.147] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.9.7 Target: 5.9.8
+[22Jun2024 11:04:29.147] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[22Jun2024 11:04:29.172] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 8.2.23 Target: 8.2.40
+[22Jun2024 11:04:29.173] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.19.2
+[22Jun2024 11:04:29.286] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA_OUTDATED Current: 16.2.18 Target: 16.3.20
+[22Jun2024 11:04:29.286] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[22Jun2024 11:04:29.304] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: OUTDATED Current: 4.4.3.236 Target: 4.4.3.297
+[22Jun2024 11:04:29.305] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://maxhenkel.de/update/sound_physics_remastered.json
+[22Jun2024 11:04:29.542] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.19.2-1.0.18 Target: 1.19.2-1.3.0
+[22Jun2024 11:04:29.543] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [boblib] Starting version check at https://minecraft.darkboy.ru/api/check-mod-updates/boblib.json
+[22Jun2024 11:04:29.582] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
@@ -152,40 +152,40 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
 	... 6 more
-[22Jun2024 10:39:11.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[22Jun2024 10:39:11.190] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.3.0 Target: 43.4.0
-[22Jun2024 10:39:11.191] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/master/forge/update.json
-[22Jun2024 10:39:11.212] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: OUTDATED Current: 1.19.2-2.3.10 Target: 1.19.2-2.4.21
-[22Jun2024 10:39:11.213] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
-[22Jun2024 10:39:11.256] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.19.2-1.0.0 Target: 1.19.2-1.0.9
-[22Jun2024 10:39:11.256] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Starting version check at https://raw.github.com/cofh/version/main/cofh_core/update.json
-[22Jun2024 10:39:11.285] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Found status: OUTDATED Current: 10.2.1 Target: 10.3.0
-[22Jun2024 10:39:11.286] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ensorcellation] Starting version check at https://raw.github.com/cofh/version/master/ensorcellation/update.json
-[22Jun2024 10:39:11.725] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ensorcellation] Found status: OUTDATED Current: 4.2.0.14 Target: 4.3.0
-[22Jun2024 10:39:11.725] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.19.2
-[22Jun2024 10:39:11.750] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA_OUTDATED Current: 13.0.14 Target: 13.0.20
-[22Jun2024 10:39:11.750] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[22Jun2024 10:39:11.755] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: OUTDATED Current: 1.19.2-2.2.32 Target: 1.19.2-2.3.6
-[22Jun2024 10:39:11.755] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[22Jun2024 10:39:11.916] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: UP_TO_DATE Current: 0.6.8.a Target: null
-[22Jun2024 10:39:11.917] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
-[22Jun2024 10:39:12.909] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre35 Target: 7.0.0-pre35
-[22Jun2024 10:39:12.910] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Starting version check at https://raw.githubusercontent.com/TeamFelnull/OtyacraftEngine/master/version_check.json
-[22Jun2024 10:39:13.093] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Found status: UP_TO_DATE Current: 3.2.0 Target: null
-[22Jun2024 10:39:13.094] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Starting version check at https://raw.githubusercontent.com/TeamFelnull/IamMusicPlayer/master/version_check.json
-[22Jun2024 10:39:13.270] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Found status: OUTDATED Current: 3.19.6 Target: 3.19.12
-[22Jun2024 10:39:13.271] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[22Jun2024 10:39:13.275] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 4.4.0 Target: 4.4.3
-[22Jun2024 10:39:13.276] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Starting version check at https://www.olafkeijsers.net/fastleafdecay-update.json
-[22Jun2024 10:39:13.457] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Found status: BETA Current: 30 Target: null
-[22Jun2024 10:39:13.457] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
-[22Jun2024 10:39:13.465] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 4.2.2 Target: null
-[22Jun2024 10:39:16.155] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22Jun2024 10:39:20.596] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Bicubic-Server/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23267!/assets/.mcassetsroot' uses unexpected schema
-[22Jun2024 10:39:20.596] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Bicubic-Server/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23267!/data/.mcassetsroot' uses unexpected schema
-[22Jun2024 10:39:20.898] [main/INFO] [supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 108 ms
-[22Jun2024 10:39:25.286] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"tag":"forge:ingots/bronze"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:bronze_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ingots/bronze"}}]}]
-[22Jun2024 10:39:25.287] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list magistuarmory:pattern_item/bronze_kiteshield from magistuarmory:tags/banner_pattern/pattern_item/bronze_kiteshield.json in data pack [1.19.2-forge]-Epic-Knights-7.11.jar
+[22Jun2024 11:04:29.582] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22Jun2024 11:04:29.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.3.0 Target: 43.4.0
+[22Jun2024 11:04:29.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/master/forge/update.json
+[22Jun2024 11:04:29.751] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: OUTDATED Current: 1.19.2-2.3.10 Target: 1.19.2-2.4.21
+[22Jun2024 11:04:29.751] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[22Jun2024 11:04:29.796] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.19.2-1.0.0 Target: 1.19.2-1.0.9
+[22Jun2024 11:04:29.796] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Starting version check at https://raw.github.com/cofh/version/main/cofh_core/update.json
+[22Jun2024 11:04:30.056] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Found status: OUTDATED Current: 10.2.1 Target: 10.3.0
+[22Jun2024 11:04:30.057] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ensorcellation] Starting version check at https://raw.github.com/cofh/version/master/ensorcellation/update.json
+[22Jun2024 11:04:30.379] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ensorcellation] Found status: OUTDATED Current: 4.2.0.14 Target: 4.3.0
+[22Jun2024 11:04:30.379] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.19.2
+[22Jun2024 11:04:30.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA_OUTDATED Current: 13.0.14 Target: 13.0.20
+[22Jun2024 11:04:30.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[22Jun2024 11:04:30.410] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: OUTDATED Current: 1.19.2-2.2.32 Target: 1.19.2-2.3.6
+[22Jun2024 11:04:30.411] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[22Jun2024 11:04:30.576] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: UP_TO_DATE Current: 0.6.8.a Target: null
+[22Jun2024 11:04:30.576] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[22Jun2024 11:04:31.504] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre35 Target: 7.0.0-pre35
+[22Jun2024 11:04:31.505] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Starting version check at https://raw.githubusercontent.com/TeamFelnull/OtyacraftEngine/master/version_check.json
+[22Jun2024 11:04:31.510] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Found status: UP_TO_DATE Current: 3.2.0 Target: null
+[22Jun2024 11:04:31.510] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Starting version check at https://raw.githubusercontent.com/TeamFelnull/IamMusicPlayer/master/version_check.json
+[22Jun2024 11:04:31.618] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Found status: OUTDATED Current: 3.19.6 Target: 3.19.12
+[22Jun2024 11:04:31.618] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[22Jun2024 11:04:31.622] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 4.4.0 Target: 4.4.3
+[22Jun2024 11:04:31.623] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Starting version check at https://www.olafkeijsers.net/fastleafdecay-update.json
+[22Jun2024 11:04:31.674] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Found status: BETA Current: 30 Target: null
+[22Jun2024 11:04:31.674] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[22Jun2024 11:04:31.780] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 4.2.2 Target: null
+[22Jun2024 11:04:34.903] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22Jun2024 11:04:39.079] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Bicubic-Server/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23267!/assets/.mcassetsroot' uses unexpected schema
+[22Jun2024 11:04:39.079] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Bicubic-Server/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23267!/data/.mcassetsroot' uses unexpected schema
+[22Jun2024 11:04:39.308] [main/INFO] [supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 104 ms
+[22Jun2024 11:04:44.193] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"tag":"forge:ingots/bronze"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:bronze_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ingots/bronze"}}]}]
+[22Jun2024 11:04:44.195] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list magistuarmory:pattern_item/bronze_kiteshield from magistuarmory:tags/banner_pattern/pattern_item/bronze_kiteshield.json in data pack [1.19.2-forge]-Epic-Knights-7.11.jar
 java.lang.RuntimeException: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"tag":"forge:ingots/bronze"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:bronze_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ingots/bronze"}}]}]
 	at com.mojang.serialization.DataResult.lambda$getOrThrow$4(DataResult.java:100) ~[datafixerupper-5.0.28.jar%2375!/:?]
 	at com.mojang.datafixers.util.Either$Right.map(Either.java:99) ~[datafixerupper-5.0.28.jar%2375!/:?]
@@ -200,8 +200,8 @@ java.lang.RuntimeException: No key values in MapLike[{"type":"minecraft:crafting
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[22Jun2024 10:39:25.292] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"tag":"forge:ingots/copper"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:copper_kiteshield","count":1}}]
-[22Jun2024 10:39:25.293] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list magistuarmory:pattern_item/copper_kiteshield from magistuarmory:tags/banner_pattern/pattern_item/copper_kiteshield.json in data pack [1.19.2-forge]-Epic-Knights-7.11.jar
+[22Jun2024 11:04:44.200] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"tag":"forge:ingots/copper"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:copper_kiteshield","count":1}}]
+[22Jun2024 11:04:44.201] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list magistuarmory:pattern_item/copper_kiteshield from magistuarmory:tags/banner_pattern/pattern_item/copper_kiteshield.json in data pack [1.19.2-forge]-Epic-Knights-7.11.jar
 java.lang.RuntimeException: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"tag":"forge:ingots/copper"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:copper_kiteshield","count":1}}]
 	at com.mojang.serialization.DataResult.lambda$getOrThrow$4(DataResult.java:100) ~[datafixerupper-5.0.28.jar%2375!/:?]
 	at com.mojang.datafixers.util.Either$Right.map(Either.java:99) ~[datafixerupper-5.0.28.jar%2375!/:?]
@@ -216,8 +216,8 @@ java.lang.RuntimeException: No key values in MapLike[{"type":"minecraft:crafting
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[22Jun2024 10:39:25.294] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"tag":"forge:gems/diamond"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:diamond_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:gems/diamond"}}]}]
-[22Jun2024 10:39:25.294] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list magistuarmory:pattern_item/diamond_kiteshield from magistuarmory:tags/banner_pattern/pattern_item/diamond_kiteshield.json in data pack [1.19.2-forge]-Epic-Knights-7.11.jar
+[22Jun2024 11:04:44.206] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"tag":"forge:gems/diamond"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:diamond_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:gems/diamond"}}]}]
+[22Jun2024 11:04:44.206] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list magistuarmory:pattern_item/diamond_kiteshield from magistuarmory:tags/banner_pattern/pattern_item/diamond_kiteshield.json in data pack [1.19.2-forge]-Epic-Knights-7.11.jar
 java.lang.RuntimeException: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"tag":"forge:gems/diamond"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:diamond_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:gems/diamond"}}]}]
 	at com.mojang.serialization.DataResult.lambda$getOrThrow$4(DataResult.java:100) ~[datafixerupper-5.0.28.jar%2375!/:?]
 	at com.mojang.datafixers.util.Either$Right.map(Either.java:99) ~[datafixerupper-5.0.28.jar%2375!/:?]
@@ -232,8 +232,8 @@ java.lang.RuntimeException: No key values in MapLike[{"type":"minecraft:crafting
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[22Jun2024 10:39:25.296] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"item":"minecraft:gold_ingot"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:gold_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ingots/iron"}}]}]
-[22Jun2024 10:39:25.296] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list magistuarmory:pattern_item/gold_kiteshield from magistuarmory:tags/banner_pattern/pattern_item/gold_kiteshield.json in data pack [1.19.2-forge]-Epic-Knights-7.11.jar
+[22Jun2024 11:04:44.215] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"item":"minecraft:gold_ingot"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:gold_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ingots/iron"}}]}]
+[22Jun2024 11:04:44.215] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list magistuarmory:pattern_item/gold_kiteshield from magistuarmory:tags/banner_pattern/pattern_item/gold_kiteshield.json in data pack [1.19.2-forge]-Epic-Knights-7.11.jar
 java.lang.RuntimeException: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"item":"minecraft:gold_ingot"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:gold_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ingots/iron"}}]}]
 	at com.mojang.serialization.DataResult.lambda$getOrThrow$4(DataResult.java:100) ~[datafixerupper-5.0.28.jar%2375!/:?]
 	at com.mojang.datafixers.util.Either$Right.map(Either.java:99) ~[datafixerupper-5.0.28.jar%2375!/:?]
@@ -248,8 +248,8 @@ java.lang.RuntimeException: No key values in MapLike[{"type":"minecraft:crafting
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[22Jun2024 10:39:25.297] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"tag":"forge:ingots/iron"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:iron_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ingots/iron"}}]}]
-[22Jun2024 10:39:25.299] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list magistuarmory:pattern_item/iron_kiteshield from magistuarmory:tags/banner_pattern/pattern_item/iron_kiteshield.json in data pack [1.19.2-forge]-Epic-Knights-7.11.jar
+[22Jun2024 11:04:44.219] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"tag":"forge:ingots/iron"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:iron_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ingots/iron"}}]}]
+[22Jun2024 11:04:44.220] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list magistuarmory:pattern_item/iron_kiteshield from magistuarmory:tags/banner_pattern/pattern_item/iron_kiteshield.json in data pack [1.19.2-forge]-Epic-Knights-7.11.jar
 java.lang.RuntimeException: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"tag":"forge:ingots/iron"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:iron_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ingots/iron"}}]}]
 	at com.mojang.serialization.DataResult.lambda$getOrThrow$4(DataResult.java:100) ~[datafixerupper-5.0.28.jar%2375!/:?]
 	at com.mojang.datafixers.util.Either$Right.map(Either.java:99) ~[datafixerupper-5.0.28.jar%2375!/:?]
@@ -264,8 +264,8 @@ java.lang.RuntimeException: No key values in MapLike[{"type":"minecraft:crafting
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[22Jun2024 10:39:25.301] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: No key values in MapLike[{"type":"minecraft:smithing","base":{"item":"magistuarmory:diamond_kiteshield"},"addition":{"item":"minecraft:netherite_ingot"},"result":{"item":"magistuarmory:netherite_kiteshield","count":1}}]
-[22Jun2024 10:39:25.301] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list magistuarmory:pattern_item/netherite_kiteshield_smithing from magistuarmory:tags/banner_pattern/pattern_item/netherite_kiteshield_smithing.json in data pack [1.19.2-forge]-Epic-Knights-7.11.jar
+[22Jun2024 11:04:44.224] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: No key values in MapLike[{"type":"minecraft:smithing","base":{"item":"magistuarmory:diamond_kiteshield"},"addition":{"item":"minecraft:netherite_ingot"},"result":{"item":"magistuarmory:netherite_kiteshield","count":1}}]
+[22Jun2024 11:04:44.224] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list magistuarmory:pattern_item/netherite_kiteshield_smithing from magistuarmory:tags/banner_pattern/pattern_item/netherite_kiteshield_smithing.json in data pack [1.19.2-forge]-Epic-Knights-7.11.jar
 java.lang.RuntimeException: No key values in MapLike[{"type":"minecraft:smithing","base":{"item":"magistuarmory:diamond_kiteshield"},"addition":{"item":"minecraft:netherite_ingot"},"result":{"item":"magistuarmory:netherite_kiteshield","count":1}}]
 	at com.mojang.serialization.DataResult.lambda$getOrThrow$4(DataResult.java:100) ~[datafixerupper-5.0.28.jar%2375!/:?]
 	at com.mojang.datafixers.util.Either$Right.map(Either.java:99) ~[datafixerupper-5.0.28.jar%2375!/:?]
@@ -280,8 +280,8 @@ java.lang.RuntimeException: No key values in MapLike[{"type":"minecraft:smithing
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[22Jun2024 10:39:25.302] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"tag":"forge:ingots/silver"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:silver_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ingots/silver"}}]}]
-[22Jun2024 10:39:25.302] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list magistuarmory:pattern_item/silver_kiteshield from magistuarmory:tags/banner_pattern/pattern_item/silver_kiteshield.json in data pack [1.19.2-forge]-Epic-Knights-7.11.jar
+[22Jun2024 11:04:44.241] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"tag":"forge:ingots/silver"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:silver_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ingots/silver"}}]}]
+[22Jun2024 11:04:44.241] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list magistuarmory:pattern_item/silver_kiteshield from magistuarmory:tags/banner_pattern/pattern_item/silver_kiteshield.json in data pack [1.19.2-forge]-Epic-Knights-7.11.jar
 java.lang.RuntimeException: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"tag":"forge:ingots/silver"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:silver_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ingots/silver"}}]}]
 	at com.mojang.serialization.DataResult.lambda$getOrThrow$4(DataResult.java:100) ~[datafixerupper-5.0.28.jar%2375!/:?]
 	at com.mojang.datafixers.util.Either$Right.map(Either.java:99) ~[datafixerupper-5.0.28.jar%2375!/:?]
@@ -296,8 +296,8 @@ java.lang.RuntimeException: No key values in MapLike[{"type":"minecraft:crafting
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[22Jun2024 10:39:25.304] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"tag":"forge:ingots/steel"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:steel_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ingots/steel"}}]}]
-[22Jun2024 10:39:25.305] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list magistuarmory:pattern_item/steel_kiteshield from magistuarmory:tags/banner_pattern/pattern_item/steel_kiteshield.json in data pack [1.19.2-forge]-Epic-Knights-7.11.jar
+[22Jun2024 11:04:44.243] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"tag":"forge:ingots/steel"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:steel_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ingots/steel"}}]}]
+[22Jun2024 11:04:44.243] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list magistuarmory:pattern_item/steel_kiteshield from magistuarmory:tags/banner_pattern/pattern_item/steel_kiteshield.json in data pack [1.19.2-forge]-Epic-Knights-7.11.jar
 java.lang.RuntimeException: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"tag":"forge:ingots/steel"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:steel_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ingots/steel"}}]}]
 	at com.mojang.serialization.DataResult.lambda$getOrThrow$4(DataResult.java:100) ~[datafixerupper-5.0.28.jar%2375!/:?]
 	at com.mojang.datafixers.util.Either$Right.map(Either.java:99) ~[datafixerupper-5.0.28.jar%2375!/:?]
@@ -312,8 +312,8 @@ java.lang.RuntimeException: No key values in MapLike[{"type":"minecraft:crafting
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[22Jun2024 10:39:25.305] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"tag":"forge:ingots/tin"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:tin_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ingots/tin"}}]}]
-[22Jun2024 10:39:25.306] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list magistuarmory:pattern_item/tin_kiteshield from magistuarmory:tags/banner_pattern/pattern_item/tin_kiteshield.json in data pack [1.19.2-forge]-Epic-Knights-7.11.jar
+[22Jun2024 11:04:44.243] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"tag":"forge:ingots/tin"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:tin_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ingots/tin"}}]}]
+[22Jun2024 11:04:44.244] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list magistuarmory:pattern_item/tin_kiteshield from magistuarmory:tags/banner_pattern/pattern_item/tin_kiteshield.json in data pack [1.19.2-forge]-Epic-Knights-7.11.jar
 java.lang.RuntimeException: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":[" m ","msm"," m "],"key":{"m":{"tag":"forge:ingots/tin"},"s":{"item":"magistuarmory:wood_kiteshield"}},"result":{"item":"magistuarmory:tin_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ingots/tin"}}]}]
 	at com.mojang.serialization.DataResult.lambda$getOrThrow$4(DataResult.java:100) ~[datafixerupper-5.0.28.jar%2375!/:?]
 	at com.mojang.datafixers.util.Either$Right.map(Either.java:99) ~[datafixerupper-5.0.28.jar%2375!/:?]
@@ -328,8 +328,8 @@ java.lang.RuntimeException: No key values in MapLike[{"type":"minecraft:crafting
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[22Jun2024 10:39:25.306] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":["www","wmw"," w "],"key":{"m":{"tag":"forge:ingots/steel"},"w":{"tag":"minecraft:planks"}},"result":{"item":"magistuarmory:wood_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"minecraft:planks"}}]}]
-[22Jun2024 10:39:25.306] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list magistuarmory:pattern_item/wood_kiteshield from magistuarmory:tags/banner_pattern/pattern_item/wood_kiteshield.json in data pack [1.19.2-forge]-Epic-Knights-7.11.jar
+[22Jun2024 11:04:44.244] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":["www","wmw"," w "],"key":{"m":{"tag":"forge:ingots/steel"},"w":{"tag":"minecraft:planks"}},"result":{"item":"magistuarmory:wood_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"minecraft:planks"}}]}]
+[22Jun2024 11:04:44.244] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list magistuarmory:pattern_item/wood_kiteshield from magistuarmory:tags/banner_pattern/pattern_item/wood_kiteshield.json in data pack [1.19.2-forge]-Epic-Knights-7.11.jar
 java.lang.RuntimeException: No key values in MapLike[{"type":"minecraft:crafting_shaped","pattern":["www","wmw"," w "],"key":{"m":{"tag":"forge:ingots/steel"},"w":{"tag":"minecraft:planks"}},"result":{"item":"magistuarmory:wood_kiteshield","count":1},"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"minecraft:planks"}}]}]
 	at com.mojang.serialization.DataResult.lambda$getOrThrow$4(DataResult.java:100) ~[datafixerupper-5.0.28.jar%2375!/:?]
 	at com.mojang.datafixers.util.Either$Right.map(Either.java:99) ~[datafixerupper-5.0.28.jar%2375!/:?]
@@ -344,7 +344,7 @@ java.lang.RuntimeException: No key values in MapLike[{"type":"minecraft:crafting
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[22Jun2024 10:39:26.536] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/compat/byg/mangrove_log
+[22Jun2024 11:04:45.558] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/compat/byg/mangrove_log
 com.google.gson.JsonSyntaxException: Unknown item 'byg:mangrove_log'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -378,9 +378,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:mangrove_log'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Jun2024 10:39:26.589] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/hellfire_burn as it's serializer returned null
-[22Jun2024 10:39:26.590] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[22Jun2024 10:39:26.621] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:life_draining_sword_recipe
+[22Jun2024 11:04:45.631] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/hellfire_burn as it's serializer returned null
+[22Jun2024 11:04:45.632] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[22Jun2024 11:04:45.679] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:life_draining_sword_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:carminite'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -414,8 +414,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:carminite'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Jun2024 10:39:26.628] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[22Jun2024 10:39:26.635] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:naga_slicer_recipe
+[22Jun2024 11:04:45.692] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[22Jun2024 11:04:45.700] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:naga_slicer_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:naga_scale'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -449,8 +449,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:naga_scale'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Jun2024 10:39:26.640] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botany_pots:ars_elemental/flashing_archwood as it's serializer returned null
-[22Jun2024 10:39:26.652] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:tooth_glaive_recipe
+[22Jun2024 11:04:45.710] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botany_pots:ars_elemental/flashing_archwood as it's serializer returned null
+[22Jun2024 11:04:45.725] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:tooth_glaive_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'alexsmobs:cachalot_whale_tooth'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -484,9 +484,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'alexsmobs:cachalot_whale_toot
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Jun2024 10:39:26.657] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/life_link as it's serializer returned null
-[22Jun2024 10:39:26.675] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/entrhalled as it's serializer returned null
-[22Jun2024 10:39:26.683] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:rotten_fish_rapier_recipe
+[22Jun2024 11:04:45.734] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/life_link as it's serializer returned null
+[22Jun2024 11:04:45.752] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/entrhalled as it's serializer returned null
+[22Jun2024 11:04:45.763] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:rotten_fish_rapier_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'aquaculture:fish_bones'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -520,7 +520,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'aquaculture:fish_bones'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Jun2024 10:39:26.687] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/compat/byg/stripped_mangrove_log
+[22Jun2024 11:04:45.771] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/compat/byg/stripped_mangrove_log
 com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_log'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -554,7 +554,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_log'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Jun2024 10:39:26.695] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:pesting_rapier_recipe
+[22Jun2024 11:04:45.786] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:pesting_rapier_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:firefly'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -588,7 +588,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:firefly'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Jun2024 10:39:26.713] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:ravager_sword_craft_2
+[22Jun2024 11:04:45.806] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:ravager_sword_craft_2
 com.google.gson.JsonSyntaxException: Unknown item 'quark:ravager_hide'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -622,7 +622,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'quark:ravager_hide'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Jun2024 10:39:26.756] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:dragonbreathdiamondswordcraft2
+[22Jun2024 11:04:45.868] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:dragonbreathdiamondswordcraft2
 com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdiamondsword'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:154) ~[forge-1.19.2-43.3.0-universal.jar%23272!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:180) ~[forge-1.19.2-43.3.0-universal.jar%23272!/:?]
@@ -651,7 +651,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Jun2024 10:39:26.766] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:neptunium_grab_sword_recipe
+[22Jun2024 11:04:45.897] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:neptunium_grab_sword_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'aquaculture:iron_hook'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -685,7 +685,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'aquaculture:iron_hook'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Jun2024 10:39:26.790] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:message_in_a_sword_recipe
+[22Jun2024 11:04:45.970] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:message_in_a_sword_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'aquaculture:message_in_a_bottle'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -719,8 +719,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'aquaculture:message_in_a_bott
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Jun2024 10:39:26.792] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/watery_grave as it's serializer returned null
-[22Jun2024 10:39:26.794] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/compat/byg/mangrove_wood
+[22Jun2024 11:04:45.973] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/watery_grave as it's serializer returned null
+[22Jun2024 11:04:45.981] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/compat/byg/mangrove_wood
 com.google.gson.JsonSyntaxException: Unknown item 'byg:mangrove_wood'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -754,7 +754,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:mangrove_wood'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Jun2024 10:39:26.814] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:dna_cutter_recipe
+[22Jun2024 11:04:46.004] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:dna_cutter_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'alexsmobs:capsid'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -788,7 +788,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'alexsmobs:capsid'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Jun2024 10:39:26.817] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:guster_sword_recipe
+[22Jun2024 11:04:46.015] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:guster_sword_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'alexsmobs:guster_eye'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -822,9 +822,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'alexsmobs:guster_eye'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Jun2024 10:39:26.825] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[22Jun2024 10:39:26.831] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/mana_shield as it's serializer returned null
-[22Jun2024 10:39:26.840] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:hemolymph_broadsword_recipe
+[22Jun2024 11:04:46.032] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[22Jun2024 11:04:46.044] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/mana_shield as it's serializer returned null
+[22Jun2024 11:04:46.055] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:hemolymph_broadsword_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'alexsmobs:hemolymph_sac'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -858,7 +858,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'alexsmobs:hemolymph_sac'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Jun2024 10:39:26.852] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/compat/byg/stripped_mangrove_wood
+[22Jun2024 11:04:46.074] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/compat/byg/stripped_mangrove_wood
 com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -892,81 +892,162 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Jun2024 10:39:26.865] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 60 recipes
-[22Jun2024 10:39:27.653] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {dungeons_arise:chests/illager_campsite/illager_campsite_map}.pools[7].entries[0]->{minecraft:chests/pillager_outpost}.pools[8].entries[0].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[22Jun2024 10:39:27.653] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {minecraft:chests/pillager_outpost}.pools[8].entries[0].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[22Jun2024 10:39:27.653] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {dungeons_arise:chests/illager_campsite/illager_campsite_tent}.pools[5].entries[0]->{minecraft:chests/pillager_outpost}.pools[8].entries[0].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[22Jun2024 10:39:27.708] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement useless_sword:swordmaster: Expected item to be an item, was unknown string 'useless_sword:withersword'
-[22Jun2024 10:39:27.923] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5971 advancements
-[22Jun2024 10:39:27.927] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
-[22Jun2024 10:39:27.927] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
-[22Jun2024 10:39:27.927] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
-[22Jun2024 10:39:27.928] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
-[22Jun2024 10:39:27.938] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
-[22Jun2024 10:39:27.940] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
-[22Jun2024 10:39:27.940] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
-[22Jun2024 10:39:27.940] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
-[22Jun2024 10:39:27.954] [main/INFO] [supplementaries/]: Loaded  8 flute songs
-[22Jun2024 10:39:31.767] [main/INFO] [supplementaries/]: Finished additional setup in 54 ms
-[22Jun2024 10:39:31.993] [main/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/nether-biomes.json5" was read.
-[22Jun2024 10:39:31.997] [main/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/end-biomes.json5" was read.
-[22Jun2024 10:39:32.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[22Jun2024 10:39:32.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[22Jun2024 10:39:32.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[22Jun2024 10:39:32.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[22Jun2024 10:39:32.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[22Jun2024 10:39:32.174] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[22Jun2024 10:39:32.267] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22Jun2024 10:39:32.267] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[22Jun2024 10:39:32.268] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22Jun2024 10:39:32.268] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[22Jun2024 10:39:32.295] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[22Jun2024 10:39:32.439] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
-[22Jun2024 10:39:32.441] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
-[22Jun2024 10:39:32.442] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
-[22Jun2024 10:39:32.444] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
-[22Jun2024 10:39:33.040] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[22Jun2024 10:39:33.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[22Jun2024 10:39:33.670] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
-[22Jun2024 10:39:33.697] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
-[22Jun2024 10:39:33.699] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
-[22Jun2024 10:39:33.716] [Server thread/INFO] [potionstudios.byg.BYG/]: Loading dimension "minecraft:the_nether" with biome source: "byg:nether".
-[22Jun2024 10:39:33.717] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
-[22Jun2024 10:39:33.761] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
-[22Jun2024 10:39:33.762] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
-[22Jun2024 10:39:33.766] [Server thread/INFO] [potionstudios.byg.BYG/]: Loading dimension "minecraft:the_end" with biome source: "byg:end".
-[22Jun2024 10:39:33.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[22Jun2024 10:39:38.845] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2024 10:39:40.265] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2024 10:39:40.270] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2024 10:39:40.271] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2024 10:39:40.278] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2024 10:39:40.292] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2024 10:39:40.310] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2024 10:39:40.329] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2024 10:39:40.338] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2024 10:39:40.341] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2024 10:39:40.342] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2024 10:39:40.342] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2024 10:39:40.356] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2024 10:39:40.377] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2024 10:39:40.798] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2024 10:39:41.268] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[22Jun2024 10:39:41.768] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 73%
-[22Jun2024 10:39:42.355] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[22Jun2024 10:39:42.772] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[22Jun2024 10:39:43.277] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[22Jun2024 10:39:43.772] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[22Jun2024 10:39:44.278] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[22Jun2024 10:39:44.463] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10695 ms
-[22Jun2024 10:39:44.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.182s)! For help, type "help"
-[22Jun2024 10:39:44.522] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[22Jun2024 10:39:44.527] [Server thread/INFO] [net.stardustlabs.structory.Structory/]: Thanks for choosing Structory!
-[22Jun2024 10:39:44.582] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[22Jun2024 10:39:45.353] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[22Jun2024 10:39:45.387] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@11fda2f4
-[22Jun2024 10:44:41.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[22Jun2024 10:44:41.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: who<--[HERE]
-[22Jun2024 10:44:47.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[22Jun2024 10:44:47.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: here<--[HERE]
-[22Jun2024 10:45:15.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 10 players online: 
+[22Jun2024 11:04:46.095] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 60 recipes
+[22Jun2024 11:04:47.242] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {dungeons_arise:chests/illager_campsite/illager_campsite_map}.pools[7].entries[0]->{minecraft:chests/pillager_outpost}.pools[8].entries[0].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[22Jun2024 11:04:47.243] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {minecraft:chests/pillager_outpost}.pools[8].entries[0].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[22Jun2024 11:04:47.243] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {dungeons_arise:chests/illager_campsite/illager_campsite_tent}.pools[5].entries[0]->{minecraft:chests/pillager_outpost}.pools[8].entries[0].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[22Jun2024 11:04:47.321] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement useless_sword:swordmaster: Expected item to be an item, was unknown string 'useless_sword:withersword'
+[22Jun2024 11:04:47.582] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5971 advancements
+[22Jun2024 11:04:47.587] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
+[22Jun2024 11:04:47.587] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
+[22Jun2024 11:04:47.588] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
+[22Jun2024 11:04:47.588] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
+[22Jun2024 11:04:47.602] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
+[22Jun2024 11:04:47.605] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
+[22Jun2024 11:04:47.605] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
+[22Jun2024 11:04:47.606] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
+[22Jun2024 11:04:47.623] [main/INFO] [supplementaries/]: Loaded  8 flute songs
+[22Jun2024 11:04:51.260] [main/INFO] [supplementaries/]: Finished additional setup in 48 ms
+[22Jun2024 11:04:51.607] [main/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/nether-biomes.json5" was read.
+[22Jun2024 11:04:51.613] [main/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/end-biomes.json5" was read.
+[22Jun2024 11:04:51.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[22Jun2024 11:04:51.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[22Jun2024 11:04:51.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[22Jun2024 11:04:51.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[22Jun2024 11:04:51.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[22Jun2024 11:04:51.858] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[22Jun2024 11:04:51.974] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22Jun2024 11:04:51.974] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[22Jun2024 11:04:51.975] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22Jun2024 11:04:51.975] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[22Jun2024 11:04:51.994] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[22Jun2024 11:04:52.119] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[22Jun2024 11:04:52.121] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
+[22Jun2024 11:04:52.538] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[22Jun2024 11:04:52.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[22Jun2024 11:04:53.087] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
+[22Jun2024 11:04:53.097] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
+[22Jun2024 11:04:53.098] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
+[22Jun2024 11:04:53.121] [Server thread/INFO] [potionstudios.byg.BYG/]: Loading dimension "minecraft:the_nether" with biome source: "byg:nether".
+[22Jun2024 11:04:53.123] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
+[22Jun2024 11:04:53.127] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
+[22Jun2024 11:04:53.129] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Bicubic-Server/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
+[22Jun2024 11:04:53.276] [Server thread/INFO] [potionstudios.byg.BYG/]: Loading dimension "minecraft:the_end" with biome source: "byg:end".
+[22Jun2024 11:04:53.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[22Jun2024 11:05:00.549] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2024 11:05:00.552] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2024 11:05:00.553] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2024 11:05:00.554] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2024 11:05:00.556] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2024 11:05:00.558] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2024 11:05:00.559] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2024 11:05:00.560] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2024 11:05:00.561] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2024 11:05:00.563] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2024 11:05:00.563] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2024 11:05:00.564] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2024 11:05:00.565] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2024 11:05:00.565] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2024 11:05:00.566] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2024 11:05:00.780] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[22Jun2024 11:05:01.280] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 21%
+[22Jun2024 11:05:01.913] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[22Jun2024 11:05:02.290] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[22Jun2024 11:05:02.788] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[22Jun2024 11:05:03.280] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[22Jun2024 11:05:03.606] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10327 ms
+[22Jun2024 11:05:03.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.623s)! For help, type "help"
+[22Jun2024 11:05:03.697] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[22Jun2024 11:05:03.702] [Server thread/INFO] [net.stardustlabs.structory.Structory/]: Thanks for choosing Structory!
+[22Jun2024 11:05:03.745] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[22Jun2024 11:05:04.447] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[22Jun2024 11:05:04.485] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6f22fe5d
+[22Jun2024 11:06:23.486] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@f566d00
+[22Jun2024 11:06:23.513] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Braulio_JG[/127.229.14.7:33311] logged in with entity id 315 at (314.1699265132361, 86.0, 132.8326513443527)
+[22Jun2024 11:06:23.520] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Braulio_JG
+[22Jun2024 11:06:23.523] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Braulio_JG
+[22Jun2024 11:06:23.524] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Braulio_JG
+[22Jun2024 11:06:23.524] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Braulio_JG
+[22Jun2024 11:06:23.530] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Braulio_JG
+[22Jun2024 11:06:23.535] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Braulio_JG
+[22Jun2024 11:06:23.536] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Braulio_JG
+[22Jun2024 11:06:23.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Braulio_JG joined the game
+[22Jun2024 11:06:26.334] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity cfm:mail_box @ BlockPos{x=260, y=64, z=144} state Block{cfm:crimson_mail_box}[facing=east] invalid for ticking:
+[22Jun2024 11:06:33.089] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2902ee60
+[22Jun2024 11:06:52.687] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@55022c7d
+[22Jun2024 11:06:52.709] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NanoLeche33[/127.20.16.204:34119] logged in with entity id 668 at (-345.9696319426699, 64.0, 2059.624878850703)
+[22Jun2024 11:06:52.710] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to NanoLeche33
+[22Jun2024 11:06:52.710] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to NanoLeche33
+[22Jun2024 11:06:52.710] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to NanoLeche33
+[22Jun2024 11:06:52.711] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to NanoLeche33
+[22Jun2024 11:06:52.713] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to NanoLeche33
+[22Jun2024 11:06:52.715] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to NanoLeche33
+[22Jun2024 11:06:52.715] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to NanoLeche33
+[22Jun2024 11:06:52.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 joined the game
+[22Jun2024 11:06:58.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Braulio_JG moved too quickly! 8.53574332125919,-0.8309762024129839,-5.57735835975231
+[22Jun2024 11:06:58.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6273ms or 125 ticks behind
+[22Jun2024 11:07:05.789] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@40db5b76
+[22Jun2024 11:07:05.818] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SurpriseAttack03[/127.118.132.7:50927] logged in with entity id 922 at (269.5, 64.05000000000001, 146.5)
+[22Jun2024 11:07:05.819] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to SurpriseAttack03
+[22Jun2024 11:07:05.820] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to SurpriseAttack03
+[22Jun2024 11:07:05.820] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to SurpriseAttack03
+[22Jun2024 11:07:05.820] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to SurpriseAttack03
+[22Jun2024 11:07:05.823] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to SurpriseAttack03
+[22Jun2024 11:07:05.826] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to SurpriseAttack03
+[22Jun2024 11:07:05.827] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to SurpriseAttack03
+[22Jun2024 11:07:05.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SurpriseAttack03 joined the game
+[22Jun2024 11:07:25.990] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2631ms or 52 ticks behind
+[22Jun2024 11:07:59.177] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 lost connection: Disconnected
+[22Jun2024 11:07:59.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 left the game
+[22Jun2024 11:08:12.407] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@353446a3
+[22Jun2024 11:08:12.423] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NanoLeche33[/127.20.16.204:50285] logged in with entity id 1453 at (-348.6686198176687, 66.875, 2061.1898084915915)
+[22Jun2024 11:08:12.423] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to NanoLeche33
+[22Jun2024 11:08:12.424] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to NanoLeche33
+[22Jun2024 11:08:12.424] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to NanoLeche33
+[22Jun2024 11:08:12.424] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to NanoLeche33
+[22Jun2024 11:08:12.426] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to NanoLeche33
+[22Jun2024 11:08:12.428] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to NanoLeche33
+[22Jun2024 11:08:12.429] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to NanoLeche33
+[22Jun2024 11:08:12.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 joined the game
+[22Jun2024 11:08:38.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[22Jun2024 11:08:56.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2365ms or 47 ticks behind
+[22Jun2024 11:09:24.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[22Jun2024 11:09:31.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Braulio_JG has completed the challenge [If You Can't Take the Heat...]
+[22Jun2024 11:09:38.962] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 lost connection: You logged in from another location
+[22Jun2024 11:09:38.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 left the game
+[22Jun2024 11:09:39.027] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2a83750b
+[22Jun2024 11:09:39.096] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Jun2024 11:09:39.103] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NanoLeche33[/127.20.16.204:39949] logged in with entity id 2585 at (-346.2239892002596, 64.0, 2060.6996534585714)
+[22Jun2024 11:09:39.104] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to NanoLeche33
+[22Jun2024 11:09:39.104] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to NanoLeche33
+[22Jun2024 11:09:39.104] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to NanoLeche33
+[22Jun2024 11:09:39.105] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to NanoLeche33
+[22Jun2024 11:09:39.107] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to NanoLeche33
+[22Jun2024 11:09:39.109] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to NanoLeche33
+[22Jun2024 11:09:39.109] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to NanoLeche33
+[22Jun2024 11:09:39.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 joined the game
+[22Jun2024 11:09:42.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2843ms or 56 ticks behind
+[22Jun2024 11:09:42.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SurpriseAttack03 moved wrongly!
+[22Jun2024 11:10:02.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22Jun2024 11:10:19.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[22Jun2024 11:10:37.345] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2835ms or 56 ticks behind
+[22Jun2024 11:10:54.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2240ms or 44 ticks behind
+[22Jun2024 11:11:21.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[22Jun2024 11:11:39.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 has completed the challenge [Cover Me in Debris]
+[22Jun2024 11:11:39.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22Jun2024 11:11:42.853] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@18c06ac
+[22Jun2024 11:11:46.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 has completed the challenge [Serious Dedication]
+[22Jun2024 11:11:56.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
+[22Jun2024 11:12:14.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2942ms or 58 ticks behind
+[22Jun2024 11:12:33.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[22Jun2024 11:12:51.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3556ms or 71 ticks behind
+[22Jun2024 11:13:09.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2952ms or 59 ticks behind
+[22Jun2024 11:13:16.612] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 below top-6 above bottom]
+[22Jun2024 11:13:16.617] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 below top-6 above bottom]
+[22Jun2024 11:13:19.551] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 below top-6 above bottom]
+[22Jun2024 11:13:26.887] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 below top-6 above bottom]
+[22Jun2024 11:13:26.888] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 below top-6 above bottom]
+[22Jun2024 11:13:26.888] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 below top-6 above bottom]
+[22Jun2024 11:13:26.889] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 below top-6 above bottom]
+[22Jun2024 11:13:33.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8732ms or 174 ticks behind
+[22Jun2024 11:13:52.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4275ms or 85 ticks behind
