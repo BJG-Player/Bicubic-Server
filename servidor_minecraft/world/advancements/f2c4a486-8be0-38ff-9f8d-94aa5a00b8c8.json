@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-06-22 01:40:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-20 16:22:58 +0000"
@@ -428,6 +434,12 @@
   "ars_nouveau:recipes/ars_nouveau/ritual_sunrise": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2024-06-22 01:40:57 +0000"
     },
     "done": true
   },
@@ -1879,13 +1891,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "not_projectile": "2024-06-22 01:35:21 +0000",
-      "not_magic": "2024-06-22 01:35:21 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-22 22:42:45 +0000"
@@ -2773,6 +2778,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-05-20 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_picket_fence": {
+    "criteria": {
+      "has_concrete": "2024-06-22 01:39:55 +0000"
     },
     "done": true
   },
@@ -3934,13 +3945,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-22 01:34:36 +0000",
-      "blocked_false": "2024-06-22 01:34:36 +0000"
-    },
-    "done": false
-  },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-06-19 22:25:15 +0000"
@@ -4604,6 +4608,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
     "criteria": {
       "has_vine": "2024-06-18 18:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-06-22 01:40:56 +0000"
     },
     "done": true
   },
@@ -6173,6 +6183,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/light_gray_picket_gate": {
+    "criteria": {
+      "has_concrete": "2024-06-22 01:39:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2024-06-16 18:20:12 +0000"
@@ -6859,6 +6875,7 @@
       "byg:magma_wastes": "2024-06-16 17:25:52 +0000",
       "byg:embur_bog": "2024-06-16 18:15:57 +0000",
       "byg:tropical_rainforest": "2024-06-18 15:44:34 +0000",
+      "byg:zelkova_forest": "2024-06-22 01:37:51 +0000",
       "byg:araucaria_savanna": "2024-05-20 16:19:17 +0000",
       "byg:crag_gardens": "2024-06-19 18:16:53 +0000",
       "byg:aspen_forest": "2024-06-17 15:14:29 +0000",
@@ -9468,6 +9485,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-05-22 22:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2024-06-22 01:40:56 +0000"
     },
     "done": true
   },
