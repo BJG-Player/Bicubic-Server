@@ -3211,6 +3211,7 @@
       "minecraft:magma_cube": "2024-05-21 18:00:04 +0000",
       "minecraft:spider": "2024-05-20 16:21:23 +0000",
       "minecraft:creeper": "2024-05-21 17:34:24 +0000",
+      "minecraft:wither": "2024-06-22 18:04:23 +0000",
       "minecraft:evoker": "2024-05-23 11:18:41 +0000",
       "minecraft:phantom": "2024-05-20 19:44:15 +0000",
       "minecraft:zombified_piglin": "2024-05-20 17:03:26 +0000",
@@ -4261,9 +4262,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-22 17:40:37 +0000",
-      "is_projectile": "2024-06-22 17:43:54 +0000",
-      "blocked_false": "2024-06-22 17:40:37 +0000"
+      "not_projectile": "2024-06-22 18:04:22 +0000",
+      "blocked_false": "2024-06-22 18:04:22 +0000"
     },
     "done": false
   },
@@ -4306,6 +4306,12 @@
   "cfm:recipes/cfm/stripped_acacia_desk": {
     "criteria": {
       "has_planks": "2024-05-26 17:56:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-06-22 18:04:26 +0000"
     },
     "done": true
   },
@@ -9363,6 +9369,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/starlit_bookshelf": {
     "criteria": {
       "has_item": "2024-05-25 22:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-06-22 18:03:09 +0000"
     },
     "done": true
   },

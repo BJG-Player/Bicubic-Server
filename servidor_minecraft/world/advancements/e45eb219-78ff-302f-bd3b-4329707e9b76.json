@@ -1999,13 +1999,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "is_projectile": "2024-06-22 17:44:55 +0000",
-      "not_magic": "2024-06-22 17:44:55 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 18:23:30 +0000"
@@ -3499,6 +3492,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-06-22 17:59:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall": {
     "criteria": {
       "has_end_stone_bricks": "2024-06-17 15:34:38 +0000"
@@ -4327,14 +4326,6 @@
       "has_gate": "2024-06-16 16:43:47 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-22 17:38:23 +0000",
-      "is_projectile": "2024-06-22 17:41:17 +0000",
-      "blocked_false": "2024-06-22 17:38:23 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
@@ -10626,6 +10617,12 @@
   "create:recipes/create.base/crafting/kinetics/white_sail": {
     "criteria": {
       "has_item": "2024-06-19 22:04:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-06-22 17:59:51 +0000"
     },
     "done": true
   },
