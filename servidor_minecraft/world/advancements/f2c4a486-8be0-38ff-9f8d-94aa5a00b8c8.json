@@ -1943,7 +1943,16 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "bit_4_2": "2024-06-22 15:53:29 +0000"
+      "not_projectile": "2024-06-22 16:27:46 +0000",
+      "bit_5_2": "2024-06-22 16:28:33 +0000",
+      "bit_8_0": "2024-06-22 16:28:33 +0000",
+      "bit_7_1": "2024-06-22 16:28:33 +0000",
+      "bit_6_2": "2024-06-22 16:28:33 +0000",
+      "bit_3_2": "2024-06-22 16:28:33 +0000",
+      "bit_4_0": "2024-06-22 16:28:33 +0000",
+      "bit_1_0": "2024-06-22 16:28:33 +0000",
+      "bit_2_0": "2024-06-22 16:28:33 +0000",
+      "bit_0_2": "2024-06-22 16:28:33 +0000"
     },
     "done": false
   },
@@ -7150,6 +7159,7 @@
       "byg:coconino_meadow": "2024-06-22 01:44:10 +0000",
       "byg:temperate_grove": "2024-05-20 17:29:41 +0000",
       "byg:orchard": "2024-05-20 16:22:38 +0000",
+      "byg:redwood_thicket": "2024-06-22 16:14:20 +0000",
       "byg:fragment_forest": "2024-06-22 01:37:09 +0000",
       "byg:quartz_desert": "2024-05-20 20:07:37 +0000",
       "byg:cika_woods": "2024-06-19 18:25:06 +0000",
@@ -7161,6 +7171,8 @@
       "byg:araucaria_savanna": "2024-05-20 16:19:17 +0000",
       "byg:jacaranda_forest": "2024-06-22 12:33:44 +0000",
       "byg:crag_gardens": "2024-06-19 18:16:53 +0000",
+      "byg:dacite_ridges": "2024-06-22 16:10:41 +0000",
+      "byg:autumnal_valley": "2024-06-22 16:15:15 +0000",
       "byg:aspen_forest": "2024-06-17 15:14:29 +0000",
       "byg:skyris_vale": "2024-06-19 18:26:29 +0000",
       "byg:cherry_blossom_forest": "2024-05-20 16:03:35 +0000",
@@ -7168,6 +7180,7 @@
       "byg:crimson_gardens": "2024-05-27 20:58:13 +0000",
       "byg:baobab_savanna": "2024-05-20 17:49:09 +0000",
       "byg:amaranth_fields": "2024-06-19 18:15:07 +0000",
+      "byg:coniferous_forest": "2024-06-22 16:11:23 +0000",
       "byg:ebony_woods": "2024-06-16 19:04:46 +0000",
       "byg:weeping_mire": "2024-06-16 17:09:36 +0000",
       "byg:basalt_barrera": "2024-05-20 17:30:37 +0000",
@@ -8854,6 +8867,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-06-22 16:26:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/post_box": {
     "criteria": {
       "has_iron": "2024-05-20 16:15:56 +0000"
@@ -9664,6 +9683,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2024-05-20 17:29:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-06-22 16:26:42 +0000"
     },
     "done": true
   },
