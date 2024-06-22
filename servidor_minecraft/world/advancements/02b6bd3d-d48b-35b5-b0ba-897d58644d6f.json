@@ -2192,6 +2192,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_blocks/food_prep_table": {
+    "criteria": {
+      "has_item": "2024-06-22 15:55:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/jungle_hedge": {
     "criteria": {
       "has_leaves": "2024-06-19 21:14:26 +0000"
@@ -2597,6 +2603,12 @@
   "create:recipes/create.base/crafting/kinetics/attribute_filter": {
     "criteria": {
       "has_item": "2024-05-26 18:05:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-06-22 15:55:03 +0000"
     },
     "done": true
   },
@@ -3734,6 +3746,12 @@
   "ars_nouveau:recipes/ars_nouveau/experience_gem": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-06-22 15:56:30 +0000"
     },
     "done": true
   },
