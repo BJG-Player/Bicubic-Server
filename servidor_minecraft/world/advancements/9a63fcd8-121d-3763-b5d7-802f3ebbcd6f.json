@@ -5997,6 +5997,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/palm_wood": {
+    "criteria": {
+      "has_log": "2024-06-22 18:46:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_table": {
     "criteria": {
       "has_planks": "2024-06-16 19:14:47 +0000"
@@ -7980,6 +7986,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2024-05-24 16:12:56 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/palm_planks": {
+    "criteria": {
+      "has_logs": "2024-06-22 18:46:34 +0000"
     },
     "done": true
   },

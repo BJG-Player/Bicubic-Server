@@ -3040,8 +3040,7 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-22 18:23:49 +0000",
-      "not_magic": "2024-06-22 18:23:49 +0000"
+      "not_projectile": "2024-06-22 18:46:52 +0000"
     },
     "done": false
   },
@@ -3102,6 +3101,12 @@
   "minecraft:recipes/travelersbackpack/sheep_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-05-20 21:08:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-06-22 18:37:30 +0000"
     },
     "done": true
   },
@@ -4359,6 +4364,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-05-20 19:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-06-22 18:40:22 +0000"
     },
     "done": true
   },
@@ -6872,9 +6883,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-22 18:13:57 +0000",
-      "is_projectile": "2024-06-22 18:13:56 +0000",
-      "blocked_false": "2024-06-22 18:13:56 +0000"
+      "not_projectile": "2024-06-22 18:46:51 +0000",
+      "blocked_false": "2024-06-22 18:46:51 +0000"
     },
     "done": false
   },
@@ -6917,6 +6927,12 @@
   "ars_nouveau:whirlisprig_charm": {
     "criteria": {
       "has_whirlisprig_charm": "2024-06-22 12:33:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-06-22 18:40:22 +0000"
     },
     "done": true
   },
