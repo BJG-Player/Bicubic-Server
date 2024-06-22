@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "scarecrowsterritory:recipes/scarecrowsterritory/scarecrow": {
+    "criteria": {
+      "recipe_condition": "2024-06-22 11:35:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2024-05-22 18:11:11 +0000"
@@ -2801,6 +2807,21 @@
       "has_stick": "2024-05-22 18:16:33 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-06-22 11:35:46 +0000",
+      "bit_8_1": "2024-06-22 11:35:46 +0000",
+      "bit_7_0": "2024-06-22 11:35:46 +0000",
+      "bit_6_1": "2024-06-22 11:35:46 +0000",
+      "bit_5_1": "2024-06-22 11:35:46 +0000",
+      "bit_3_0": "2024-06-22 11:35:46 +0000",
+      "bit_4_0": "2024-06-22 11:35:46 +0000",
+      "bit_1_0": "2024-06-22 11:35:46 +0000",
+      "bit_2_0": "2024-06-22 11:35:46 +0000",
+      "bit_0_2": "2024-06-22 11:35:46 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -5414,6 +5435,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/lament_planks": {
+    "criteria": {
+      "has_logs": "2024-06-22 11:35:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/red_grill": {
     "criteria": {
       "has_iron": "2024-05-19 18:47:37 +0000"
@@ -6286,8 +6313,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-22 11:09:09 +0000",
-      "blocked_false": "2024-06-22 11:09:09 +0000"
+      "not_projectile": "2024-06-22 11:36:26 +0000",
+      "blocked_false": "2024-06-22 11:36:26 +0000"
     },
     "done": false
   },
@@ -6318,6 +6345,12 @@
   "cfm:recipes/cfm/dye_light_blue_picket_gate": {
     "criteria": {
       "has_dye": "2024-05-22 18:46:24 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/lament_wood": {
+    "criteria": {
+      "has_log": "2024-06-22 11:35:08 +0000"
     },
     "done": true
   },

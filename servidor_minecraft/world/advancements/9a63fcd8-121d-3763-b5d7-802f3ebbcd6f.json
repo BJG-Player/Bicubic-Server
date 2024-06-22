@@ -5069,6 +5069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-06-22 11:35:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/lime_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-19 13:09:17 +0000"
@@ -5981,6 +5987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2024-06-22 11:36:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2024-05-22 16:34:53 +0000"
@@ -6860,6 +6872,7 @@
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:rainbow_beach": "2024-05-19 13:01:13 +0000",
+      "byg:prairie": "2024-06-22 11:39:16 +0000",
       "byg:temperate_grove": "2024-06-17 16:22:17 +0000",
       "byg:orchard": "2024-06-17 16:25:12 +0000",
       "byg:quartz_desert": "2024-05-20 16:22:00 +0000",
@@ -8458,6 +8471,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2024-05-28 18:49:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-06-22 11:35:34 +0000"
     },
     "done": true
   },
