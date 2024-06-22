@@ -3443,12 +3443,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "is_projectile": "2024-06-22 00:52:06 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-21 16:50:39 +0000"
@@ -5902,6 +5896,12 @@
   "cfm:recipes/cfm/birch_upgraded_fence": {
     "criteria": {
       "has_log": "2024-05-23 21:54:46 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2024-06-22 01:12:14 +0000"
     },
     "done": true
   },
