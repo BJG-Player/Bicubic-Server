@@ -3445,8 +3445,16 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-22 00:22:28 +0000",
-      "not_magic": "2024-06-22 00:22:28 +0000"
+      "not_projectile": "2024-06-22 00:30:31 +0000",
+      "bit_8_2": "2024-06-22 00:30:31 +0000",
+      "bit_6_1": "2024-06-22 00:30:31 +0000",
+      "bit_7_1": "2024-06-22 00:30:31 +0000",
+      "bit_4_1": "2024-06-22 00:30:31 +0000",
+      "bit_5_1": "2024-06-22 00:30:31 +0000",
+      "bit_1_2": "2024-06-22 00:30:31 +0000",
+      "bit_3_1": "2024-06-22 00:30:31 +0000",
+      "bit_2_2": "2024-06-22 00:30:31 +0000",
+      "bit_0_2": "2024-06-22 00:30:31 +0000"
     },
     "done": false
   },
@@ -7590,13 +7598,6 @@
       "has_gate": "2024-06-16 16:43:45 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-22 00:10:11 +0000",
-      "blocked_false": "2024-06-22 00:10:11 +0000"
-    },
-    "done": false
   },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {

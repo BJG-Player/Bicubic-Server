@@ -11456,3 +11456,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [22Jun2024 00:22:01.333] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 9a63fcd8-121d-3763-b5d7-802f3ebbcd6f data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=ebfb1e69-330a-4970-8bca-f5625c90681a, length=81, extra={valid=false}}, startingAt=0, player=null}
 [22Jun2024 00:22:28.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bicubic 2: Astral Inventions
 [22Jun2024 00:22:28.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bicubic 2: Astral Inventions
+[22Jun2024 00:25:37.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xabio moved too quickly! 8.411532511994267,-0.8706981306457351,12.063318721265262
+[22Jun2024 00:26:33.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xabio moved wrongly!
+[22Jun2024 00:26:46.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xabio moved too quickly! 14.622137150890751,-1.1500008746500612,-6.4516525404110325
+[22Jun2024 00:27:23.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -1.3230293445385541,0.6593099108389993,-10.71182255854444
+[22Jun2024 00:27:29.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bicubic 2: Astral Inventions
+[22Jun2024 00:27:29.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bicubic 2: Astral Inventions
+[22Jun2024 00:27:56.579] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/107425, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.24, y=64.04, z=160.30] died, message: 'Villager was squished too much'
+[22Jun2024 00:28:06.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -1.6221109459829677,-1.0444196738303333,-10.793318691756838
+[22Jun2024 00:28:18.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -1.5412112668984719,0.14564907974622088,-10.83572118985012
+[22Jun2024 00:28:44.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xabio moved too quickly! 9.600991976849798,6.8138878034844055,2.5687217461234013
+[22Jun2024 00:30:20.296] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/116674, l='ServerLevel[Bicubic 2: Astral Inventions]', x=130.30, y=64.00, z=-1842.94] died, message: 'Shepherd was slain by Zombie'
+[22Jun2024 00:32:29.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bicubic 2: Astral Inventions
+[22Jun2024 00:32:29.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bicubic 2: Astral Inventions
