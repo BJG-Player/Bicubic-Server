@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_table": {
+    "criteria": {
+      "has_planks": "2024-06-22 19:32:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/redstone_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-05-20 21:08:52 +0000"
@@ -212,6 +218,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 17:48:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_cabinet": {
+    "criteria": {
+      "has_log": "2024-06-22 19:32:25 +0000"
     },
     "done": true
   },
@@ -284,6 +296,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2024-05-26 18:31:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-06-22 19:32:25 +0000"
     },
     "done": true
   },
@@ -464,6 +482,12 @@
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2024-05-20 18:12:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-06-22 19:32:25 +0000"
     },
     "done": true
   },
@@ -1111,6 +1135,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_crate": {
+    "criteria": {
+      "has_planks": "2024-06-22 19:32:25 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/mana_fluxfield": {
     "criteria": {
       "has_item": "2024-05-20 20:20:09 +0000"
@@ -1459,6 +1489,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_park_bench": {
+    "criteria": {
+      "has_log": "2024-06-22 19:32:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-05-20 18:04:04 +0000"
@@ -1588,6 +1624,12 @@
   "cfm:recipes/cfm/dye_purple_picket_gate": {
     "criteria": {
       "has_dye": "2024-05-20 21:15:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-06-22 19:32:25 +0000"
     },
     "done": true
   },
@@ -2072,6 +2114,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_desk_cabinet": {
+    "criteria": {
+      "has_log": "2024-06-22 19:32:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-05-21 17:46:56 +0000"
@@ -2402,6 +2450,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_coffee_table": {
+    "criteria": {
+      "has_log": "2024-06-22 19:32:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-05-21 17:46:56 +0000"
@@ -2441,6 +2495,12 @@
   "minecraft:recipes/travelersbackpack/pig_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-05-20 21:08:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-06-22 19:32:25 +0000"
     },
     "done": true
   },
@@ -2900,6 +2960,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_cabinet": {
+    "criteria": {
+      "has_log": "2024-06-22 19:32:25 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/mushroom_11": {
     "criteria": {
       "has_alt_item": "2024-05-21 18:13:04 +0000"
@@ -3077,6 +3143,12 @@
   "cfm:recipes/cfm/acacia_mail_box": {
     "criteria": {
       "has_chest": "2024-06-22 13:06:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_park_bench": {
+    "criteria": {
+      "has_log": "2024-06-22 19:32:25 +0000"
     },
     "done": true
   },
@@ -3695,6 +3767,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-06-22 19:32:25 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/spell_prism": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
@@ -4142,6 +4220,12 @@
   "minecraft:recipes/travelersbackpack/end_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-05-20 21:08:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_chair": {
+    "criteria": {
+      "has_planks": "2024-06-22 19:32:25 +0000"
     },
     "done": true
   },
@@ -4652,6 +4736,12 @@
   "ars_nouveau:recipes/ars_nouveau/potion_diffuser": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_crate": {
+    "criteria": {
+      "has_log": "2024-06-22 19:32:25 +0000"
     },
     "done": true
   },
@@ -5512,6 +5602,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-06-22 19:32:25 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/ars_elemental/spore_blossom_up": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
@@ -5806,6 +5902,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_blinds": {
+    "criteria": {
+      "has_log": "2024-06-22 19:32:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2024-05-20 18:11:20 +0000"
@@ -5821,6 +5923,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2024-05-22 18:11:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_table": {
+    "criteria": {
+      "has_log": "2024-06-22 19:32:25 +0000"
     },
     "done": true
   },
@@ -6037,6 +6145,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-05-20 20:31:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_desk": {
+    "criteria": {
+      "has_log": "2024-06-22 19:32:25 +0000"
     },
     "done": true
   },
@@ -6385,6 +6499,12 @@
   "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
     "criteria": {
       "has_cod": "2024-05-20 21:04:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-06-22 19:32:25 +0000"
     },
     "done": true
   },
@@ -6833,6 +6953,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2024-06-22 19:32:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/mangrove_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-05-20 19:48:39 +0000"
@@ -7025,6 +7151,13 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-06-22 19:30:02 +0000",
+      "blocked_false": "2024-06-22 19:30:02 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2024-05-20 19:51:51 +0000"
@@ -7043,6 +7176,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_desk": {
+    "criteria": {
+      "has_planks": "2024-06-22 19:32:25 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/blue_petal_block": {
     "criteria": {
       "has_item": "2024-05-21 19:00:17 +0000"
@@ -7058,6 +7197,12 @@
   "byg:recipes/byg.byg/lament_wood": {
     "criteria": {
       "has_log": "2024-06-22 11:35:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-06-22 19:30:43 +0000"
     },
     "done": true
   },
@@ -7685,6 +7830,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-06-22 19:32:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-05-27 21:11:45 +0000"
@@ -7943,6 +8094,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_chair": {
+    "criteria": {
+      "has_log": "2024-06-22 19:32:25 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/cherry_wood": {
     "criteria": {
       "has_log": "2024-05-26 19:42:16 +0000"
@@ -7976,6 +8133,12 @@
   "minecraft:recipes/decorations/light_blue_candle": {
     "criteria": {
       "has_light_blue_dye": "2024-05-22 18:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-06-22 19:32:25 +0000"
     },
     "done": true
   },

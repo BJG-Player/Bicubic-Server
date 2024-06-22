@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2024-06-22 19:30:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-05-20 20:53:19 +0000"
@@ -867,6 +873,12 @@
   "ars_nouveau:recipes/ars_nouveau/ritual_scrying": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2024-06-22 19:30:29 +0000"
     },
     "done": true
   },
@@ -2092,23 +2104,22 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-22 19:26:28 +0000",
-      "bit_7_2": "2024-06-22 19:27:56 +0000",
-      "bit_8_0": "2024-06-22 19:26:28 +0000",
-      "bit_7_1": "2024-06-22 19:26:28 +0000",
-      "bit_6_2": "2024-06-22 19:26:28 +0000",
-      "bit_5_0": "2024-06-22 19:26:28 +0000",
-      "bit_4_1": "2024-06-22 19:26:28 +0000",
-      "bit_6_0": "2024-06-22 19:27:56 +0000",
-      "bit_5_1": "2024-06-22 19:27:56 +0000",
-      "bit_4_2": "2024-06-22 19:27:56 +0000",
-      "bit_3_0": "2024-06-22 19:26:28 +0000",
-      "bit_2_2": "2024-06-22 19:27:56 +0000",
-      "bit_1_0": "2024-06-22 19:27:56 +0000",
-      "bit_0_1": "2024-06-22 19:26:28 +0000",
-      "bit_2_0": "2024-06-22 19:26:28 +0000",
-      "bit_1_1": "2024-06-22 19:26:28 +0000",
-      "bit_0_0": "2024-06-22 19:27:56 +0000"
+      "not_projectile": "2024-06-22 19:29:46 +0000",
+      "bit_7_2": "2024-06-22 19:30:12 +0000",
+      "bit_6_1": "2024-06-22 19:30:12 +0000",
+      "bit_8_0": "2024-06-22 19:29:46 +0000",
+      "bit_7_1": "2024-06-22 19:29:46 +0000",
+      "bit_6_2": "2024-06-22 19:29:46 +0000",
+      "bit_5_0": "2024-06-22 19:29:46 +0000",
+      "bit_4_1": "2024-06-22 19:29:46 +0000",
+      "bit_5_1": "2024-06-22 19:30:12 +0000",
+      "bit_3_0": "2024-06-22 19:29:46 +0000",
+      "bit_4_0": "2024-06-22 19:30:12 +0000",
+      "bit_3_1": "2024-06-22 19:30:12 +0000",
+      "bit_0_1": "2024-06-22 19:29:46 +0000",
+      "bit_2_0": "2024-06-22 19:29:46 +0000",
+      "bit_1_1": "2024-06-22 19:29:46 +0000",
+      "bit_0_2": "2024-06-22 19:30:12 +0000"
     },
     "done": false
   },
@@ -2415,6 +2426,12 @@
   "create:recipes/create.base/crafting/kinetics/sticker": {
     "criteria": {
       "has_item": "2024-06-19 21:45:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/pink_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-06-22 19:30:29 +0000"
     },
     "done": true
   },
@@ -3525,6 +3542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-06-22 19:30:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2024-05-20 18:13:47 +0000"
@@ -4302,8 +4325,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-22 19:28:11 +0000",
-      "blocked_false": "2024-06-22 19:28:11 +0000"
+      "not_projectile": "2024-06-22 19:30:30 +0000",
+      "blocked_false": "2024-06-22 19:30:30 +0000"
     },
     "done": false
   },
@@ -6783,6 +6806,12 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2024-06-22 19:30:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/fox_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
@@ -9106,6 +9135,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_pink": {
+    "criteria": {
+      "has_item": "2024-06-22 19:30:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-05-26 20:45:54 +0000"
@@ -9531,6 +9566,12 @@
   "farmersdelight:recipes/farmersdelight/grilled_salmon": {
     "criteria": {
       "has_salmon": "2024-05-20 18:35:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/flower_bag": {
+    "criteria": {
+      "has_item": "2024-06-22 19:30:29 +0000"
     },
     "done": true
   },
