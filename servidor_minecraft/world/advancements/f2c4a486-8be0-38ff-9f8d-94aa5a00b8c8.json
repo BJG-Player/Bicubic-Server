@@ -3953,8 +3953,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-22 01:44:01 +0000",
-      "blocked_false": "2024-06-22 01:44:01 +0000"
+      "not_projectile": "2024-06-22 11:51:37 +0000",
+      "blocked_false": "2024-06-22 11:51:37 +0000"
     },
     "done": false
   },
@@ -9568,6 +9568,12 @@
   "minecraft:recipes/travelersbackpack/wither_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2024-06-19 19:22:31 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2024-06-22 11:41:24 +0000"
     },
     "done": true
   },

@@ -1943,6 +1943,21 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-06-22 11:44:06 +0000",
+      "bit_8_1": "2024-06-22 11:44:06 +0000",
+      "bit_7_2": "2024-06-22 11:44:06 +0000",
+      "bit_5_2": "2024-06-22 11:44:06 +0000",
+      "bit_4_1": "2024-06-22 11:44:06 +0000",
+      "bit_3_2": "2024-06-22 11:44:06 +0000",
+      "bit_6_0": "2024-06-22 11:44:06 +0000",
+      "bit_2_2": "2024-06-22 11:44:06 +0000",
+      "bit_1_1": "2024-06-22 11:44:06 +0000",
+      "bit_0_2": "2024-06-22 11:44:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-21 16:50:39 +0000"
@@ -4088,8 +4103,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-22 01:19:25 +0000",
-      "blocked_false": "2024-06-22 01:19:25 +0000"
+      "not_projectile": "2024-06-22 11:46:41 +0000",
+      "blocked_false": "2024-06-22 11:46:41 +0000"
     },
     "done": false
   },
@@ -6875,8 +6890,10 @@
       "byg:prairie": "2024-06-22 11:39:16 +0000",
       "byg:temperate_grove": "2024-06-17 16:22:17 +0000",
       "byg:orchard": "2024-06-17 16:25:12 +0000",
+      "byg:fragment_forest": "2024-06-22 11:50:13 +0000",
       "byg:quartz_desert": "2024-05-20 16:22:00 +0000",
       "byg:firecracker_shrubland": "2024-05-20 17:38:42 +0000",
+      "byg:zelkova_forest": "2024-06-22 11:51:03 +0000",
       "byg:araucaria_savanna": "2024-05-19 18:19:31 +0000",
       "byg:cherry_blossom_forest": "2024-05-19 12:57:18 +0000",
       "byg:crimson_gardens": "2024-05-20 16:23:15 +0000",
@@ -6885,6 +6902,7 @@
       "byg:weeping_mire": "2024-06-16 15:59:14 +0000",
       "byg:basalt_barrera": "2024-06-17 16:24:35 +0000",
       "byg:lush_stacks": "2024-06-17 19:37:32 +0000",
+      "byg:maple_taiga": "2024-06-22 11:50:09 +0000",
       "byg:dacite_shore": "2024-06-17 19:49:38 +0000"
     },
     "done": false
@@ -8223,6 +8241,7 @@
       "minecraft:ocean": "2024-06-16 15:57:24 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-05-20 17:35:41 +0000",
       "minecraft:flower_forest": "2024-06-19 22:54:03 +0000",
+      "minecraft:meadow": "2024-06-22 11:49:54 +0000",
       "minecraft:savanna": "2024-05-19 18:19:28 +0000",
       "minecraft:plains": "2024-05-20 18:52:05 +0000"
     },
