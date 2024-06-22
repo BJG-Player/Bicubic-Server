@@ -1975,22 +1975,16 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-22 12:40:12 +0000",
-      "bit_7_2": "2024-06-22 12:55:28 +0000",
-      "bit_8_2": "2024-06-22 12:40:12 +0000",
-      "bit_8_0": "2024-06-22 12:55:28 +0000",
-      "bit_7_1": "2024-06-22 12:40:12 +0000",
-      "bit_5_0": "2024-06-22 12:40:12 +0000",
-      "bit_4_1": "2024-06-22 12:55:28 +0000",
-      "bit_6_0": "2024-06-22 12:40:12 +0000",
-      "bit_5_1": "2024-06-22 12:55:28 +0000",
-      "bit_4_2": "2024-06-22 12:40:12 +0000",
-      "bit_3_0": "2024-06-22 12:40:12 +0000",
-      "bit_2_1": "2024-06-22 12:40:12 +0000",
-      "bit_1_2": "2024-06-22 12:55:28 +0000",
-      "bit_0_1": "2024-06-22 12:40:12 +0000",
-      "bit_1_1": "2024-06-22 12:40:12 +0000",
-      "bit_0_2": "2024-06-22 12:55:28 +0000"
+      "not_projectile": "2024-06-22 13:04:17 +0000",
+      "bit_8_1": "2024-06-22 13:04:17 +0000",
+      "bit_5_2": "2024-06-22 13:04:17 +0000",
+      "bit_7_1": "2024-06-22 13:04:17 +0000",
+      "bit_6_2": "2024-06-22 13:04:17 +0000",
+      "bit_4_2": "2024-06-22 13:04:17 +0000",
+      "bit_3_0": "2024-06-22 13:04:17 +0000",
+      "bit_2_0": "2024-06-22 13:04:17 +0000",
+      "bit_1_1": "2024-06-22 13:04:17 +0000",
+      "bit_0_2": "2024-06-22 13:04:17 +0000"
     },
     "done": false
   },
@@ -2441,6 +2435,12 @@
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "campfire": "2024-05-19 18:34:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2024-06-22 12:57:56 +0000"
     },
     "done": true
   },
@@ -4208,6 +4208,13 @@
       "has_gate": "2024-06-16 16:43:45 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-06-22 13:05:38 +0000",
+      "blocked_false": "2024-06-22 13:05:38 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
@@ -6908,6 +6915,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-06-22 12:57:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-05-20 16:08:47 +0000"
@@ -7490,6 +7503,12 @@
   "create:recipes/create.palettes/cut_dripstone_brick_wall_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2024-05-22 17:26:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rice_bag": {
+    "criteria": {
+      "has_rice": "2024-06-22 12:57:56 +0000"
     },
     "done": true
   },

@@ -431,6 +431,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2024-06-22 13:04:25 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_sunrise": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
@@ -2703,6 +2709,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2024-06-22 13:04:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-05-20 16:22:59 +0000"
@@ -2978,6 +2990,7 @@
       "minecraft:blaze": "2024-05-27 20:58:55 +0000",
       "minecraft:pillager": "2024-06-16 16:42:31 +0000",
       "minecraft:skeleton": "2024-05-26 17:47:48 +0000",
+      "minecraft:ravager": "2024-06-22 13:01:02 +0000",
       "minecraft:ghast": "2024-06-16 18:02:47 +0000",
       "minecraft:hoglin": "2024-06-17 15:45:56 +0000",
       "minecraft:vindicator": "2024-05-26 18:02:49 +0000",
@@ -4059,13 +4072,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-22 12:49:43 +0000",
-      "blocked_false": "2024-06-22 12:49:43 +0000"
-    },
-    "done": false
-  },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-06-19 22:25:15 +0000"
@@ -4609,6 +4615,12 @@
   "iammusicplayer:recipes/iammusicplayer.iammusicplayer/manual": {
     "criteria": {
       "has_book": "2024-05-22 22:58:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2024-06-22 13:04:25 +0000"
     },
     "done": true
   },
@@ -7413,6 +7425,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2024-06-22 13:04:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-05-27 21:33:25 +0000"
@@ -8392,6 +8410,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-06-22 13:04:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-06-16 17:03:45 +0000"
@@ -8654,6 +8678,12 @@
   "ars_elemental:recipes/ars_nouveau/tablet_ritual_detection": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
+    },
+    "done": true
+  },
+  "dnl:story/structures/railway_outpost/station_chief": {
+    "criteria": {
+      "killed_station_chief": "2024-06-22 13:02:37 +0000"
     },
     "done": true
   },
@@ -9329,6 +9359,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-05-20 17:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-06-22 13:04:25 +0000"
     },
     "done": true
   },
