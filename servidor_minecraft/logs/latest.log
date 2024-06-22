@@ -978,3 +978,51 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [22Jun2024 13:58:38.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made NanoLeche33 a server operator
 [22Jun2024 14:03:18.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved wrongly!
 [22Jun2024 14:03:36.345] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@25b8dd81
+[22Jun2024 14:09:59.879] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity cfm:mail_box @ BlockPos{x=260, y=64, z=144} state Block{cfm:crimson_mail_box}[facing=east] invalid for ticking:
+[22Jun2024 14:15:24.999] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@155ebd33
+[22Jun2024 14:17:24.467] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@118dfa8d
+[22Jun2024 14:17:24.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JackSparrago[/127.115.220.219:38881] logged in with entity id 10861 at (-145.4735510398505, 114.0, -2489.483614916205)
+[22Jun2024 14:17:24.488] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JackSparrago
+[22Jun2024 14:17:24.488] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JackSparrago
+[22Jun2024 14:17:24.489] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JackSparrago
+[22Jun2024 14:17:24.489] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JackSparrago
+[22Jun2024 14:17:24.492] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JackSparrago
+[22Jun2024 14:17:24.496] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JackSparrago
+[22Jun2024 14:17:24.496] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JackSparrago
+[22Jun2024 14:17:24.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago joined the game
+[22Jun2024 14:17:27.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! 6.508729071191624,-3.3991999902367525,-6.980738880781487
+[22Jun2024 14:17:27.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3299ms or 65 ticks behind
+[22Jun2024 14:17:40.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackSparrago> hey
+[22Jun2024 14:17:47.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NanoLeche33> yepa
+[22Jun2024 14:17:51.753] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-547, y=-5, z=-25}
+[22Jun2024 14:18:59.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3977ms or 79 ticks behind
+[22Jun2024 14:18:59.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved wrongly!
+[22Jun2024 14:18:59.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved wrongly!
+[22Jun2024 14:20:31.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago has reached the goal [Temple of Tears]
+[22Jun2024 14:25:57.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -0.7633913399068604,-1.2123960443357191,-11.7102236514379
+[22Jun2024 14:26:10.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! 4.215285846740699,0.5820279224479918,-9.881864942036827
+[22Jun2024 14:26:10.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2475ms or 49 ticks behind
+[22Jun2024 14:26:29.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -0.07779671409636535,1.9121336691033974,-10.440338313839675
+[22Jun2024 14:26:54.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! 7.506955322009091,8.896326578377824,-1.4336660004664736
+[22Jun2024 14:27:26.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[22Jun2024 14:32:16.418] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-163, y=66, z=-30}
+[22Jun2024 14:32:16.494] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=26, y=103, z=603}
+[22Jun2024 14:32:16.495] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=26, y=104, z=603}
+[22Jun2024 14:32:16.495] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=26, y=105, z=603}
+[22Jun2024 14:32:18.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[22Jun2024 14:33:12.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago has reached the goal [Olympus]
+[22Jun2024 14:36:57.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago has made the advancement [Reforging the Artifact]
+[22Jun2024 14:38:10.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved wrongly!
+[22Jun2024 14:41:08.356] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35582, l='ServerLevel[Bicubic 2: Astral Inventions]', x=-555.70, y=68.00, z=-4127.70] died, message: 'Villager was slain by Zombie'
+[22Jun2024 14:41:35.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed 282 entities
+[22Jun2024 14:42:03.223] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/35453, l='ServerLevel[Bicubic 2: Astral Inventions]', x=-559.59, y=64.00, z=-4108.38] died, message: 'Nitwit was slain by Zombie'
+[22Jun2024 14:46:06.488] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=98, y=103, z=38}
+[22Jun2024 14:46:06.490] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=97, y=103, z=38}
+[22Jun2024 14:46:06.493] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=97, y=104, z=38}
+[22Jun2024 14:46:06.494] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=97, y=105, z=38}
+[22Jun2024 14:46:06.496] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=98, y=105, z=38}
+[22Jun2024 14:46:06.496] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=99, y=105, z=38}
+[22Jun2024 14:46:06.498] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=99, y=104, z=38}
+[22Jun2024 14:46:06.498] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=99, y=103, z=38}
+[22Jun2024 14:46:06.499] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=98, y=104, z=38}
+[22Jun2024 14:48:17.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NanoLeche33: Teleported JackSparrago to NanoLeche33]

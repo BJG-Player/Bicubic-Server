@@ -1249,6 +1249,14 @@
     },
     "done": true
   },
+  "dnl:story/structures/olympus/recollecting_the_past": {
+    "criteria": {
+      "ancient sword": "2024-06-22 14:36:57 +0000",
+      "ancient axe": "2024-06-22 14:37:17 +0000",
+      "ancient bow": "2024-06-22 14:37:59 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-05-20 17:51:09 +0000"
@@ -1948,6 +1956,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2024-05-20 16:12:49 +0000"
+    },
+    "done": true
+  },
+  "dnl:story/structures/olympus/locate": {
+    "criteria": {
+      "locate_olympus": "2024-06-22 14:33:12 +0000"
     },
     "done": true
   },
@@ -3784,6 +3798,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2024-06-22 14:27:32 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourceberry_to_purple": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
@@ -4147,6 +4167,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-05-26 19:24:19 +0000"
+    },
+    "done": true
+  },
+  "dnl:story/structures/olympus/reforging_the_artifact": {
+    "criteria": {
+      "ancient sword": "2024-06-22 14:36:57 +0000"
     },
     "done": true
   },
@@ -5908,6 +5934,12 @@
     },
     "done": true
   },
+  "dnl:story/structures/temple_of_tears/locate": {
+    "criteria": {
+      "locate_temple_of_tears": "2024-06-22 14:20:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-05-20 17:25:27 +0000"
@@ -6292,15 +6324,15 @@
     },
     "done": true
   },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2024-06-22 12:16:16 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/botania/manasteel_axe": {
     "criteria": {
       "has_item": "2024-06-22 12:01:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-06-22 12:16:16 +0000"
     },
     "done": true
   },
@@ -9839,8 +9871,8 @@
   },
   "dnl:entity/guardian_ghast/hurt": {
     "criteria": {
-      "not_projectile": "2024-05-20 16:02:37 +0000",
-      "by_arrow": "2024-06-19 23:12:43 +0000"
+      "not_projectile": "2024-06-22 14:27:35 +0000",
+      "by_arrow": "2024-06-22 14:35:36 +0000"
     },
     "done": false
   },
