@@ -1873,6 +1873,23 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-06-22 00:49:30 +0000",
+      "bit_8_1": "2024-06-22 00:49:26 +0000",
+      "bit_7_0": "2024-06-22 00:49:26 +0000",
+      "bit_6_1": "2024-06-22 00:49:30 +0000",
+      "bit_5_0": "2024-06-22 00:49:26 +0000",
+      "bit_3_2": "2024-06-22 00:49:30 +0000",
+      "bit_4_2": "2024-06-22 00:49:30 +0000",
+      "bit_2_2": "2024-06-22 00:49:30 +0000",
+      "bit_0_1": "2024-06-22 00:49:35 +0000",
+      "bit_1_1": "2024-06-22 00:49:30 +0000",
+      "bit_0_2": "2024-06-22 00:50:51 +0000",
+      "bit_0_0": "2024-06-22 00:49:30 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-22 22:42:45 +0000"
@@ -2003,6 +2020,12 @@
   "cfm:recipes/cfm/oak_mail_box": {
     "criteria": {
       "has_chest": "2024-05-20 16:22:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_hedge": {
+    "criteria": {
+      "has_leaves": "2024-06-22 00:44:34 +0000"
     },
     "done": true
   },
@@ -3134,6 +3157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-06-22 00:44:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-05-22 23:00:31 +0000"
@@ -3264,6 +3293,12 @@
   "cfm:recipes/cfm/stripped_spruce_desk_cabinet": {
     "criteria": {
       "has_log": "2024-06-20 14:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-06-22 00:40:01 +0000"
     },
     "done": true
   },
@@ -3480,6 +3515,12 @@
   "cfm:recipes/cfm/stripped_acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-20 16:22:58 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2024-06-22 00:39:55 +0000"
     },
     "done": true
   },
@@ -3885,13 +3926,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-21 19:56:40 +0000",
-      "blocked_false": "2024-06-21 19:56:40 +0000"
-    },
-    "done": false
-  },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-06-19 22:25:15 +0000"
@@ -3919,6 +3953,12 @@
   "cfm:recipes/cfm/stripped_acacia_desk": {
     "criteria": {
       "has_planks": "2024-05-26 18:20:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_blinds": {
+    "criteria": {
+      "has_log": "2024-06-22 00:44:30 +0000"
     },
     "done": true
   },
@@ -6604,6 +6644,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-06-22 00:44:30 +0000"
+    },
+    "done": true
+  },
   "rechiseled:recipes/rechiseled/chisel": {
     "criteria": {
       "recipe_condition": "2024-05-20 16:15:56 +0000"
@@ -8251,9 +8297,11 @@
       "minecraft:frozen_river": "2024-06-19 18:26:04 +0000",
       "minecraft:sunflower_plains": "2024-06-16 16:43:52 +0000",
       "minecraft:birch_forest": "2024-06-16 17:07:14 +0000",
+      "minecraft:bamboo_jungle": "2024-06-22 00:38:05 +0000",
       "minecraft:savanna_plateau": "2024-06-16 16:51:22 +0000",
       "minecraft:beach": "2024-05-20 16:14:49 +0000",
       "minecraft:dark_forest": "2024-06-18 15:44:43 +0000",
+      "minecraft:mangrove_swamp": "2024-06-22 00:42:13 +0000",
       "minecraft:sparse_jungle": "2024-06-16 16:41:52 +0000",
       "minecraft:lukewarm_ocean": "2024-05-20 16:15:38 +0000",
       "minecraft:river": "2024-05-20 16:19:07 +0000",
@@ -8554,6 +8602,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_1": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-06-22 00:36:22 +0000"
     },
     "done": true
   },
@@ -9004,6 +9058,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-06-22 00:44:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/crimson_mail_box": {
     "criteria": {
       "has_chest": "2024-05-20 16:22:58 +0000"
@@ -9343,6 +9403,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-05-22 23:00:33 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2024-06-22 00:39:06 +0000"
     },
     "done": true
   },
