@@ -11507,3 +11507,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [22Jun2024 01:12:31.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bicubic 2: Astral Inventions
 [22Jun2024 01:12:31.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bicubic 2: Astral Inventions
 [22Jun2024 01:12:31.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xabio moved too quickly! 3.081599699094511,1.4731814952502447,11.909255586861207
+[22Jun2024 01:17:03.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Braulio_JG has made the advancement [The Copper Age]
+[22Jun2024 01:17:31.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bicubic 2: Astral Inventions
+[22Jun2024 01:17:31.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bicubic 2: Astral Inventions
+[22Jun2024 01:19:40.246] [Netty Epoll Server IO #3/DEBUG] [emotecraft/]: [emotes server] Received data from: f2c4a486-8be0-38ff-9f8d-94aa5a00b8c8 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=33b912f8-0aa0-45e6-a2d4-9b5677e6f35c, length=50, extra={valid=true}}, startingAt=0, player=null}
+[22Jun2024 01:19:41.145] [Netty Epoll Server IO #3/DEBUG] [emotecraft/]: [emotes server] Received data from: f2c4a486-8be0-38ff-9f8d-94aa5a00b8c8 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=33b912f8-0aa0-45e6-a2d4-9b5677e6f35c, emoteData=null, startingAt=0, player=null}
+[22Jun2024 01:20:51.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! 9.913370213313215,-3.0336457441332243,-0.019458688427903326
+[22Jun2024 01:22:31.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bicubic 2: Astral Inventions
+[22Jun2024 01:22:31.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bicubic 2: Astral Inventions
+[22Jun2024 01:24:09.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -8.94020274987355,-1.269889563236518,5.378429316260281
+[22Jun2024 01:25:28.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! 3.612047487623954,-4.402391786009034,9.203903570728926
+[22Jun2024 01:25:42.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! 3.9053662967293974,0.14127378758418274,9.652975178679299
+[22Jun2024 01:25:43.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! 4.096239762583522,-1.8107598224144823,10.12426619720236

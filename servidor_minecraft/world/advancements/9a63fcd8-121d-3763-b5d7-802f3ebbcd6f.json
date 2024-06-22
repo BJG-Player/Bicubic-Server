@@ -5707,6 +5707,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2024-06-22 01:17:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2024-05-20 19:46:55 +0000"
@@ -6010,6 +6016,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2024-05-19 18:21:54 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2024-06-22 01:17:03 +0000"
     },
     "done": true
   },
@@ -6635,6 +6647,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-06-18 16:23:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2024-06-22 01:17:14 +0000"
     },
     "done": true
   },
@@ -7590,6 +7608,13 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-06-22 01:19:25 +0000",
+      "blocked_false": "2024-06-22 01:19:25 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2024-05-19 18:19:13 +0000"
@@ -7881,6 +7906,12 @@
   "cfm:recipes/cfm/crimson_mail_box": {
     "criteria": {
       "has_chest": "2024-05-19 13:09:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2024-06-22 01:17:14 +0000"
     },
     "done": true
   },

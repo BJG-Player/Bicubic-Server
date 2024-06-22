@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-06-22 01:14:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2024-05-20 17:41:41 +0000"
@@ -1872,6 +1878,21 @@
       "has_gold_ore": "2024-05-26 18:24:37 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-06-22 01:20:10 +0000",
+      "bit_7_0": "2024-06-22 01:20:10 +0000",
+      "bit_6_1": "2024-06-22 01:20:10 +0000",
+      "bit_8_0": "2024-06-22 01:20:10 +0000",
+      "bit_5_0": "2024-06-22 01:20:10 +0000",
+      "bit_3_2": "2024-06-22 01:20:10 +0000",
+      "bit_4_0": "2024-06-22 01:20:10 +0000",
+      "bit_0_1": "2024-06-22 01:20:10 +0000",
+      "bit_2_0": "2024-06-22 01:20:10 +0000",
+      "bit_1_1": "2024-06-22 01:20:10 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -3908,13 +3929,6 @@
       "has_diamond_tier_upgrade": "2024-06-19 19:21:16 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-22 01:02:34 +0000",
-      "blocked_false": "2024-06-22 01:02:34 +0000"
-    },
-    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
