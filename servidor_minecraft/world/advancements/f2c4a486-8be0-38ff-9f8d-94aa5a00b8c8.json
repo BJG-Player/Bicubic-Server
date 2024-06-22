@@ -4049,8 +4049,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-22 12:12:03 +0000",
-      "blocked_false": "2024-06-22 12:12:03 +0000"
+      "not_projectile": "2024-06-22 12:16:15 +0000",
+      "blocked_false": "2024-06-22 12:16:15 +0000"
     },
     "done": false
   },
@@ -6262,6 +6262,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-06-22 12:16:16 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/manasteel_axe": {
     "criteria": {
       "has_item": "2024-06-22 12:01:13 +0000"
@@ -7065,6 +7071,7 @@
       "byg:weeping_mire": "2024-06-16 17:09:36 +0000",
       "byg:basalt_barrera": "2024-05-20 17:30:37 +0000",
       "byg:lush_stacks": "2024-06-16 16:45:03 +0000",
+      "byg:temperate_rainforest": "2024-06-22 12:24:05 +0000",
       "byg:dacite_shore": "2024-06-16 16:43:57 +0000"
     },
     "done": false
@@ -8544,6 +8551,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-06-19 18:24:38 +0000",
       "minecraft:mushroom_fields": "2024-06-18 15:43:03 +0000",
+      "minecraft:taiga": "2024-06-22 12:18:24 +0000",
       "minecraft:deep_ocean": "2024-06-16 17:07:43 +0000",
       "minecraft:frozen_river": "2024-06-19 18:26:04 +0000",
       "minecraft:sunflower_plains": "2024-06-16 16:43:52 +0000",

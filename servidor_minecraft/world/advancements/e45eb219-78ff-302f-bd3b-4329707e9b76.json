@@ -1057,6 +1057,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-06-22 12:19:57 +0000",
       "minecraft:soul_sand_valley": "2024-05-21 18:25:47 +0000",
       "minecraft:basalt_deltas": "2024-05-28 15:05:51 +0000"
     },
@@ -3617,6 +3618,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/lament_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-06-22 12:22:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2024-05-21 20:04:27 +0000"
@@ -4131,6 +4138,12 @@
   "create:recipes/create.palettes/cut_dripstone_brick_slab_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2024-05-28 17:52:34 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/lament_stairs": {
+    "criteria": {
+      "has_planks": "2024-06-22 12:22:40 +0000"
     },
     "done": true
   },
@@ -5231,6 +5244,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/lament_button": {
+    "criteria": {
+      "has_planks": "2024-06-22 12:22:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2024-05-21 15:40:15 +0000"
@@ -5345,6 +5364,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/lament_bookshelf": {
+    "criteria": {
+      "has_planks": "2024-06-22 12:22:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-05-26 19:19:58 +0000"
@@ -5354,6 +5379,12 @@
   "create:recipes/create.base/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2024-06-19 22:04:07 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/lament_crafting_table": {
+    "criteria": {
+      "has_planks": "2024-06-22 12:22:40 +0000"
     },
     "done": true
   },
@@ -6875,6 +6906,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/lament_door": {
+    "criteria": {
+      "has_planks": "2024-06-22 12:22:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-05-19 18:20:09 +0000"
@@ -7568,6 +7605,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/lament_fence": {
+    "criteria": {
+      "has_planks": "2024-06-22 12:22:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2024-06-17 16:22:16 +0000"
@@ -8258,6 +8301,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/lament_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-06-22 12:22:40 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/archwood_trapdoor": {
     "criteria": {
       "has_journal": "2024-05-19 18:02:45 +0000"
@@ -8898,6 +8947,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/lament_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-06-22 12:22:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2024-06-19 18:25:28 +0000"
@@ -9231,6 +9286,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-05-20 18:23:30 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/lament_slab": {
+    "criteria": {
+      "has_planks": "2024-06-22 12:22:40 +0000"
     },
     "done": true
   },
