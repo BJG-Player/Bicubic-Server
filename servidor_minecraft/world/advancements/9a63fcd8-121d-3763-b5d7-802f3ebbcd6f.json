@@ -953,6 +953,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/tatami_block_from_full": {
+    "criteria": {
+      "has_canvas": "2024-06-22 11:13:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2024-05-20 19:46:55 +0000"
@@ -1811,6 +1817,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/rope": {
+    "criteria": {
+      "has_straw": "2024-06-22 11:10:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-05-20 16:08:47 +0000"
@@ -2183,6 +2195,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/tatami": {
+    "criteria": {
+      "has_canvas": "2024-06-22 11:13:10 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_green": {
     "criteria": {
       "has_item": "2024-05-23 20:53:01 +0000"
@@ -2514,6 +2532,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/full_tatami_mat_from_halves": {
+    "criteria": {
+      "has_canvas": "2024-06-22 11:13:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_desk": {
     "criteria": {
       "has_log": "2024-05-23 21:54:46 +0000"
@@ -2730,6 +2754,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/canvas_sign": {
+    "criteria": {
+      "has_canvas": "2024-06-22 11:13:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/ghast_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-05-20 16:12:39 +0000"
@@ -2880,6 +2910,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/canvas": {
+    "criteria": {
+      "has_straw": "2024-06-22 11:10:51 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:iammusicplayer/root": {
     "criteria": {
       "iammusicplayer": "2024-05-21 17:24:09 +0000"
@@ -2937,6 +2973,12 @@
   "cfm:recipes/cfm/stripped_oak_coffee_table": {
     "criteria": {
       "has_planks": "2024-05-21 17:10:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/straw_bale": {
+    "criteria": {
+      "has_straw": "2024-06-22 11:10:51 +0000"
     },
     "done": true
   },
@@ -3594,6 +3636,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/basket": {
+    "criteria": {
+      "has_canvas": "2024-06-22 11:13:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_blue_cooler": {
     "criteria": {
       "has_chest": "2024-05-19 13:09:17 +0000"
@@ -3705,6 +3753,12 @@
   "cfm:recipes/cfm/yellow_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-05-19 12:57:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/canvas_rug": {
+    "criteria": {
+      "has_canvas": "2024-06-22 11:13:10 +0000"
     },
     "done": true
   },
@@ -4141,6 +4195,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/canvas_from_canvas_rug": {
+    "criteria": {
+      "has_canvas_rug": "2024-06-22 11:20:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/bee_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-05-20 16:15:26 +0000"
@@ -4246,6 +4306,12 @@
   "cfm:recipes/cfm/stripped_crimson_kitchen_counter": {
     "criteria": {
       "has_log": "2024-06-16 16:31:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/book_from_canvas": {
+    "criteria": {
+      "has_canvas": "2024-06-22 11:13:10 +0000"
     },
     "done": true
   },
@@ -4442,6 +4508,12 @@
   "create:recipes/create.palettes/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-05-22 17:26:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/full_tatami_mat": {
+    "criteria": {
+      "has_canvas": "2024-06-22 11:13:10 +0000"
     },
     "done": true
   },
@@ -6407,9 +6479,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2024-06-22 11:10:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_dripstone_wall_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2024-05-22 17:26:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/painting_from_canvas": {
+    "criteria": {
+      "has_canvas": "2024-06-22 11:13:10 +0000"
     },
     "done": true
   },
@@ -6834,6 +6918,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/half_tatami_mat": {
+    "criteria": {
+      "has_canvas": "2024-06-22 11:13:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/hay_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-05-20 16:15:26 +0000"
@@ -7068,6 +7158,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2024-06-22 11:10:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2024-05-21 18:07:17 +0000"
@@ -7095,6 +7191,12 @@
   "cfm:recipes/cfm/dye_lime_picket_gate": {
     "criteria": {
       "has_dye": "2024-05-23 20:50:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/scaffolding_from_canvas": {
+    "criteria": {
+      "has_canvas": "2024-06-22 11:13:10 +0000"
     },
     "done": true
   },
@@ -7917,6 +8019,12 @@
   "minecraft:recipes/travelersbackpack/pumpkin_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-05-20 16:15:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2024-06-22 11:10:51 +0000"
     },
     "done": true
   },
