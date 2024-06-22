@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2024-06-22 17:29:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-05-20 16:11:47 +0000"
@@ -1984,6 +1990,14 @@
       "has_gold_ore": "2024-06-19 22:50:26 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-06-22 17:28:52 +0000",
+      "is_projectile": "2024-06-22 17:28:54 +0000",
+      "not_magic": "2024-06-22 17:28:54 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -4543,6 +4557,7 @@
       "tomato": "2024-05-28 17:13:47 +0000",
       "rice": "2024-06-22 16:52:03 +0000",
       "cocoa": "2024-05-28 17:37:37 +0000",
+      "sugar_cane": "2024-06-22 17:23:12 +0000",
       "wheat": "2024-06-22 12:33:45 +0000",
       "melon": "2024-05-28 17:05:48 +0000",
       "carrot": "2024-05-24 16:13:03 +0000"
@@ -6397,6 +6412,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-06-22 17:27:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-05-19 18:33:51 +0000"
@@ -7107,6 +7128,7 @@
       "byg:temperate_grove": "2024-06-17 16:22:17 +0000",
       "byg:orchard": "2024-06-17 16:25:12 +0000",
       "byg:fragment_forest": "2024-06-22 11:50:13 +0000",
+      "byg:rose_fields": "2024-06-22 17:25:36 +0000",
       "byg:quartz_desert": "2024-05-20 16:22:00 +0000",
       "byg:firecracker_shrubland": "2024-05-20 17:38:42 +0000",
       "byg:zelkova_forest": "2024-06-22 11:51:03 +0000",
@@ -7135,6 +7157,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-05-28 18:49:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-06-22 17:27:24 +0000"
     },
     "done": true
   },
@@ -8843,6 +8871,12 @@
   "botania:recipes/botania/blood_pendant": {
     "criteria": {
       "has_item": "2024-06-17 16:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2024-06-22 17:29:11 +0000"
     },
     "done": true
   },

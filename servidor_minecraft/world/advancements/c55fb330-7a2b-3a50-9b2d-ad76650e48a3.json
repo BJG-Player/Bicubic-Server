@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2024-06-22 17:30:04 +0000"
+    },
+    "done": true
+  },
   "chunkloaders:recipes/chunkloaders/single_chunk_loader": {
     "criteria": {
       "has_the_recipe": "2024-06-22 11:48:08 +0000",
@@ -1778,6 +1784,12 @@
     },
     "done": true
   },
+  "dnl:story/structures/plains_castle/locate": {
+    "criteria": {
+      "locate_plains_castle": "2024-06-22 17:26:38 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/gaia_spreader": {
     "criteria": {
       "has_item": "2024-05-19 18:37:10 +0000"
@@ -2213,6 +2225,12 @@
   "minecraft:recipes/travelersbackpack/melon_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-05-20 21:08:55 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-06-22 17:26:00 +0000"
     },
     "done": true
   },
@@ -3016,8 +3034,7 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-22 13:02:21 +0000",
-      "not_magic": "2024-06-22 13:02:21 +0000"
+      "not_projectile": "2024-06-22 17:29:33 +0000"
     },
     "done": false
   },
@@ -3499,9 +3516,11 @@
     "criteria": {
       "byg:rainbow_beach": "2024-05-19 18:22:16 +0000",
       "byg:prairie": "2024-05-22 17:25:59 +0000",
+      "byg:allium_fields": "2024-06-22 17:24:39 +0000",
       "byg:temperate_grove": "2024-05-22 17:25:17 +0000",
       "byg:orchard": "2024-05-20 19:51:34 +0000",
       "byg:redwood_thicket": "2024-05-21 17:42:22 +0000",
+      "byg:rose_fields": "2024-06-22 17:27:14 +0000",
       "byg:quartz_desert": "2024-05-20 19:01:57 +0000",
       "byg:cika_woods": "2024-05-21 17:42:24 +0000",
       "byg:firecracker_shrubland": "2024-05-19 18:43:45 +0000",
@@ -3519,6 +3538,7 @@
       "byg:weeping_mire": "2024-06-22 11:18:00 +0000",
       "byg:basalt_barrera": "2024-05-22 18:08:48 +0000",
       "byg:lush_stacks": "2024-05-22 19:29:54 +0000",
+      "byg:maple_taiga": "2024-06-22 17:26:38 +0000",
       "byg:dacite_shore": "2024-05-23 21:11:21 +0000",
       "byg:borealis_grove": "2024-05-21 17:44:14 +0000",
       "byg:guiana_shield": "2024-05-27 20:33:08 +0000"
@@ -5119,6 +5139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2024-06-22 17:29:42 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/cosmetic_anaglyph_glasses": {
     "criteria": {
       "has_item": "2024-05-23 21:23:13 +0000"
@@ -5569,6 +5595,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-06-22 17:26:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-05-20 18:07:28 +0000"
@@ -5808,6 +5840,8 @@
       "minecraft:deep_lukewarm_ocean": "2024-05-19 18:43:27 +0000",
       "minecraft:flower_forest": "2024-05-22 18:08:45 +0000",
       "minecraft:old_growth_birch_forest": "2024-05-21 17:41:14 +0000",
+      "minecraft:deep_dark": "2024-06-22 17:27:54 +0000",
+      "minecraft:meadow": "2024-06-22 17:24:45 +0000",
       "minecraft:savanna": "2024-05-19 18:21:59 +0000",
       "minecraft:plains": "2024-05-20 17:37:44 +0000"
     },
@@ -6443,6 +6477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2024-06-22 17:30:04 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/archwood_fence_gate": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
@@ -6605,6 +6645,12 @@
       "cooked_beef": "2024-05-26 20:40:00 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2024-06-22 17:29:42 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/cfm/stripped_spruce_mail_box": {
     "criteria": {
@@ -6812,8 +6858,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-22 11:36:26 +0000",
-      "blocked_false": "2024-06-22 11:36:26 +0000"
+      "not_projectile": "2024-06-22 17:29:30 +0000",
+      "blocked_false": "2024-06-22 17:29:30 +0000"
     },
     "done": false
   },
