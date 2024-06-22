@@ -3945,6 +3945,13 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-06-22 01:44:01 +0000",
+      "blocked_false": "2024-06-22 01:44:01 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-06-19 22:25:15 +0000"
@@ -6866,6 +6873,7 @@
       "byg:rainbow_beach": "2024-05-20 16:19:44 +0000",
       "byg:prairie": "2024-06-16 16:52:15 +0000",
       "byg:allium_fields": "2024-06-18 15:45:59 +0000",
+      "byg:coconino_meadow": "2024-06-22 01:44:10 +0000",
       "byg:temperate_grove": "2024-05-20 17:29:41 +0000",
       "byg:orchard": "2024-05-20 16:22:38 +0000",
       "byg:fragment_forest": "2024-06-22 01:37:09 +0000",
@@ -8347,6 +8355,7 @@
       "minecraft:stony_shore": "2024-05-27 20:14:21 +0000",
       "minecraft:snowy_plains": "2024-06-19 18:28:28 +0000",
       "minecraft:snowy_taiga": "2024-06-19 18:28:05 +0000",
+      "minecraft:dripstone_caves": "2024-06-22 01:44:15 +0000",
       "minecraft:cold_ocean": "2024-06-19 18:24:19 +0000",
       "minecraft:forest": "2024-06-18 15:46:29 +0000",
       "minecraft:lush_caves": "2024-06-19 18:34:01 +0000",

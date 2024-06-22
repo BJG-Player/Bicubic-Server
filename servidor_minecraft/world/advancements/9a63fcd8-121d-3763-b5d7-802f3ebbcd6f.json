@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2024-06-22 01:46:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-05-26 18:35:35 +0000"
@@ -557,6 +563,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2024-06-22 01:45:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-05-21 21:02:29 +0000"
@@ -758,6 +770,12 @@
   "create:recipes/food/smelting/bread": {
     "criteria": {
       "has_item": "2024-05-23 20:51:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2024-06-22 01:54:46 +0000"
     },
     "done": true
   },
@@ -1112,6 +1130,12 @@
   "botania:main/bauble_wear": {
     "criteria": {
       "code_triggered": "2024-05-19 12:57:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cabbage": {
+    "criteria": {
+      "has_cabbage_crate": "2024-06-22 01:55:01 +0000"
     },
     "done": true
   },
@@ -2045,6 +2069,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_blocks/food_prep_table": {
+    "criteria": {
+      "has_item": "2024-06-22 01:44:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2024-06-16 16:31:13 +0000"
@@ -2303,6 +2333,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2024-06-22 01:54:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_calcite_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-05-20 19:37:59 +0000"
@@ -2378,6 +2414,12 @@
   "create:recipes/create.palettes/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-06-16 17:18:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-06-22 01:44:58 +0000"
     },
     "done": true
   },
@@ -5795,6 +5837,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-06-22 01:54:46 +0000"
+    },
+    "done": true
+  },
   "dnl:story/structures/plains_castle/locate": {
     "criteria": {
       "locate_plains_castle": "2024-06-19 22:46:03 +0000"
@@ -8771,6 +8819,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-06-22 01:52:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/pink_picket_gate": {
     "criteria": {
       "has_gate": "2024-06-16 16:43:45 +0000"
@@ -9129,6 +9183,12 @@
   "farmersdelight:recipes/farmersdelight/melon_juice": {
     "criteria": {
       "has_melon_slice": "2024-05-28 17:10:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/tomato": {
+    "criteria": {
+      "has_tomato_crate": "2024-06-22 01:55:04 +0000"
     },
     "done": true
   },
