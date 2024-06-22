@@ -4049,8 +4049,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-22 12:16:15 +0000",
-      "blocked_false": "2024-06-22 12:16:15 +0000"
+      "not_projectile": "2024-06-22 12:43:14 +0000",
+      "blocked_false": "2024-06-22 12:43:14 +0000"
     },
     "done": false
   },
@@ -6280,6 +6280,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2024-06-22 12:34:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2024-06-16 16:14:50 +0000"
@@ -7059,6 +7065,7 @@
       "byg:tropical_rainforest": "2024-06-18 15:44:34 +0000",
       "byg:zelkova_forest": "2024-06-22 01:37:51 +0000",
       "byg:araucaria_savanna": "2024-05-20 16:19:17 +0000",
+      "byg:jacaranda_forest": "2024-06-22 12:33:44 +0000",
       "byg:crag_gardens": "2024-06-19 18:16:53 +0000",
       "byg:aspen_forest": "2024-06-17 15:14:29 +0000",
       "byg:skyris_vale": "2024-06-19 18:26:29 +0000",
