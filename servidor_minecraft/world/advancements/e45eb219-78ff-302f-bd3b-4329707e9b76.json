@@ -2001,8 +2001,16 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-22 19:08:29 +0000",
-      "not_magic": "2024-06-22 19:08:29 +0000"
+      "not_projectile": "2024-06-22 19:09:42 +0000",
+      "bit_7_2": "2024-06-22 19:09:42 +0000",
+      "bit_8_2": "2024-06-22 19:09:42 +0000",
+      "bit_5_2": "2024-06-22 19:09:42 +0000",
+      "bit_6_2": "2024-06-22 19:09:42 +0000",
+      "bit_4_1": "2024-06-22 19:09:42 +0000",
+      "bit_2_1": "2024-06-22 19:09:42 +0000",
+      "bit_3_1": "2024-06-22 19:09:42 +0000",
+      "bit_1_0": "2024-06-22 19:09:42 +0000",
+      "bit_0_0": "2024-06-22 19:09:42 +0000"
     },
     "done": false
   },
@@ -4342,8 +4350,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-22 18:52:04 +0000",
-      "blocked_false": "2024-06-22 18:52:04 +0000"
+      "not_projectile": "2024-06-22 19:10:09 +0000",
+      "blocked_false": "2024-06-22 19:10:09 +0000"
     },
     "done": false
   },
@@ -8948,6 +8956,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2024-05-19 18:20:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2024-06-22 19:09:14 +0000"
     },
     "done": true
   },

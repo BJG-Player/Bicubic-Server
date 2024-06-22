@@ -1061,6 +1061,12 @@
     },
     "done": true
   },
+  "naturesaura:positive_imbalance": {
+    "criteria": {
+      "triggered_in_code": "2024-06-22 19:13:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-05-20 16:15:13 +0000"
@@ -2062,6 +2068,28 @@
       "has_gold_ore": "2024-06-19 22:50:26 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-06-22 19:12:59 +0000",
+      "bit_7_0": "2024-06-22 19:12:59 +0000",
+      "bit_6_1": "2024-06-22 19:12:59 +0000",
+      "bit_8_0": "2024-06-22 19:12:59 +0000",
+      "bit_5_0": "2024-06-22 19:12:59 +0000",
+      "bit_3_2": "2024-06-22 19:12:59 +0000",
+      "bit_4_2": "2024-06-22 19:12:59 +0000",
+      "bit_5_1": "2024-06-22 19:13:10 +0000",
+      "bit_3_0": "2024-06-22 19:13:10 +0000",
+      "bit_1_2": "2024-06-22 19:13:08 +0000",
+      "bit_4_0": "2024-06-22 19:13:10 +0000",
+      "bit_3_1": "2024-06-22 19:13:08 +0000",
+      "bit_2_2": "2024-06-22 19:13:08 +0000",
+      "bit_1_0": "2024-06-22 19:12:59 +0000",
+      "bit_2_0": "2024-06-22 19:12:59 +0000",
+      "bit_0_2": "2024-06-22 19:13:08 +0000",
+      "bit_0_0": "2024-06-22 19:12:59 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -4382,9 +4410,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-22 17:57:56 +0000",
-      "is_projectile": "2024-06-22 18:51:23 +0000",
-      "blocked_false": "2024-06-22 17:57:56 +0000"
+      "not_projectile": "2024-06-22 19:13:17 +0000",
+      "blocked_false": "2024-06-22 19:13:17 +0000"
     },
     "done": false
   },
@@ -8785,6 +8812,12 @@
   "byg:recipes/byg.byg/ebony_pressure_plate": {
     "criteria": {
       "has_planks": "2024-05-23 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2024-06-22 19:18:36 +0000"
     },
     "done": true
   },
