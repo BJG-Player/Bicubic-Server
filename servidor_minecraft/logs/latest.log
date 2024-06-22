@@ -1026,3 +1026,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [22Jun2024 14:46:06.498] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=99, y=103, z=38}
 [22Jun2024 14:46:06.499] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=98, y=104, z=38}
 [22Jun2024 14:48:17.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NanoLeche33: Teleported JackSparrago to NanoLeche33]
+[22Jun2024 15:08:51.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! -0.9726375491844124,-10.456632194074004,1.3026865689283795
