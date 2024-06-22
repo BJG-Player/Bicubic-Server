@@ -4266,13 +4266,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-22 18:04:22 +0000",
-      "blocked_false": "2024-06-22 18:04:22 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-05-21 16:54:17 +0000"
@@ -8113,6 +8106,12 @@
   "ars_nouveau:recipes/ars_nouveau/ritual_wilden_summon": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-06-22 18:24:58 +0000"
     },
     "done": true
   },

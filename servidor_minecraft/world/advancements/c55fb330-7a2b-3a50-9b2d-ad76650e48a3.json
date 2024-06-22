@@ -3032,6 +3032,13 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-06-22 18:23:49 +0000",
+      "not_magic": "2024-06-22 18:23:49 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 17:48:30 +0000"
