@@ -4458,6 +4458,13 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-06-24 22:08:26 +0000",
+      "blocked_false": "2024-06-24 22:08:26 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-05-22 22:13:12 +0000"
@@ -5627,6 +5634,12 @@
   "create:brass": {
     "criteria": {
       "0": "2024-05-21 18:05:45 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2024-06-24 22:06:25 +0000"
     },
     "done": true
   },
