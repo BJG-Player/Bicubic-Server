@@ -13520,3 +13520,17 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.inventory.Abs
 [24Jun2024 22:21:03.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
 [24Jun2024 22:21:48.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
 [24Jun2024 22:22:11.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago has made the advancement [Archmage Spell Book]
+[24Jun2024 22:25:16.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bicubic 2: Astral Inventions
+[24Jun2024 22:25:16.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bicubic 2: Astral Inventions
+[24Jun2024 22:29:11.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[24Jun2024 22:29:29.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3142ms or 62 ticks behind
+[24Jun2024 22:29:29.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xabio has completed the challenge [Wait, it can fly?]
+[24Jun2024 22:29:47.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[24Jun2024 22:30:04.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2833ms or 56 ticks behind
+[24Jun2024 22:30:26.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bicubic 2: Astral Inventions
+[24Jun2024 22:30:26.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bicubic 2: Astral Inventions
+[24Jun2024 22:31:09.619] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/116931, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.12, y=64.02, z=160.45] died, message: 'Villager was squished too much'
+[24Jun2024 22:31:38.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xabio has made the advancement [Summoning Focus]
+[24Jun2024 22:33:12.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xabio has made the advancement [A corrupted summoning]
+[24Jun2024 22:33:34.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SurpriseAttack03 has completed the challenge [Master of Earth]
+[24Jun2024 22:34:01.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! 5.040058229179337,1.9739846585223404,-8.83002327553072

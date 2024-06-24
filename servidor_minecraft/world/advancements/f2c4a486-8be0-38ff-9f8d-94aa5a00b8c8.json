@@ -2049,21 +2049,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "not_projectile": "2024-06-24 21:27:57 +0000",
-      "bit_8_1": "2024-06-24 21:27:57 +0000",
-      "bit_7_2": "2024-06-24 21:27:57 +0000",
-      "bit_6_2": "2024-06-24 21:27:57 +0000",
-      "bit_5_0": "2024-06-24 21:27:57 +0000",
-      "bit_4_0": "2024-06-24 21:27:57 +0000",
-      "bit_3_1": "2024-06-24 21:27:57 +0000",
-      "bit_2_2": "2024-06-24 21:27:57 +0000",
-      "bit_0_1": "2024-06-24 21:27:57 +0000",
-      "bit_1_1": "2024-06-24 21:27:57 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-22 22:42:45 +0000"
@@ -3206,6 +3191,7 @@
       "minecraft:magma_cube": "2024-06-24 19:31:30 +0000",
       "minecraft:spider": "2024-05-20 16:19:59 +0000",
       "minecraft:creeper": "2024-06-18 15:49:11 +0000",
+      "minecraft:wither": "2024-06-24 22:21:09 +0000",
       "minecraft:slime": "2024-06-16 16:29:43 +0000",
       "minecraft:evoker": "2024-06-22 15:50:07 +0000",
       "minecraft:phantom": "2024-05-26 21:13:08 +0000",
@@ -3471,6 +3457,12 @@
   "byg:recipes/byg.byg/cherry_slab": {
     "criteria": {
       "has_planks": "2024-05-20 17:35:14 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:archmage_spell_book": {
+    "criteria": {
+      "has_archmage_spell_book": "2024-06-24 22:22:11 +0000"
     },
     "done": true
   },
@@ -4381,6 +4373,13 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-06-24 22:21:10 +0000",
+      "blocked_false": "2024-06-24 22:21:10 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-06-19 22:25:15 +0000"
@@ -4408,6 +4407,12 @@
   "cfm:recipes/cfm/stripped_acacia_desk": {
     "criteria": {
       "has_planks": "2024-05-26 18:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-06-24 22:21:10 +0000"
     },
     "done": true
   },
@@ -9848,6 +9853,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/starlit_bookshelf": {
     "criteria": {
       "has_item": "2024-05-22 22:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-06-24 22:20:21 +0000"
     },
     "done": true
   },
