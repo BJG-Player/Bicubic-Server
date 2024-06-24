@@ -4819,6 +4819,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-06-24 22:18:29 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/spark": {
     "criteria": {
       "has_item": "2024-06-17 15:03:50 +0000"
@@ -5932,6 +5938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-06-24 22:18:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2024-05-26 18:08:04 +0000"
@@ -6805,6 +6817,12 @@
   "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
       "location0": "2024-06-17 15:44:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2024-06-24 22:18:29 +0000"
     },
     "done": true
   },
@@ -10709,6 +10727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-06-24 22:18:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-05-20 16:15:56 +0000"
@@ -10916,6 +10940,12 @@
   "byg:recipes/byg.byg/palm_button": {
     "criteria": {
       "has_planks": "2024-05-27 20:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-06-24 22:18:29 +0000"
     },
     "done": true
   },

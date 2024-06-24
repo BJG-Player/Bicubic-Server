@@ -1196,3 +1196,20 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.inventory.Abs
 [24Jun2024 22:03:28.074] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/55338, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.12, y=64.04, z=160.50] died, message: 'Villager was squished too much'
 [24Jun2024 22:04:21.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xabio has made the advancement [A Taste of Sunlight]
 [24Jun2024 22:06:53.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SurpriseAttack03 has made the advancement [Yo God, Ya Want This?]
+[24Jun2024 22:13:35.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[24Jun2024 22:15:42.865] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5c25ff41
+[24Jun2024 22:15:42.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JackSparrago[/127.115.220.219:53533] logged in with entity id 112714 at (357.29350370108637, 63.0, 401.4912414836583)
+[24Jun2024 22:15:42.881] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JackSparrago
+[24Jun2024 22:15:42.881] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JackSparrago
+[24Jun2024 22:15:42.881] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JackSparrago
+[24Jun2024 22:15:42.882] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JackSparrago
+[24Jun2024 22:15:42.883] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JackSparrago
+[24Jun2024 22:15:42.885] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JackSparrago
+[24Jun2024 22:15:42.885] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JackSparrago
+[24Jun2024 22:15:42.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago joined the game
+[24Jun2024 22:17:50.696] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/55339, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.14, y=64.04, z=160.55] died, message: 'Villager was squished too much'
+[24Jun2024 22:18:33.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Braulio_JG has made the advancement [Spooky Scary Skeleton]
+[24Jun2024 22:20:21.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago has made the advancement [Withering Heights]
+[24Jun2024 22:21:03.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[24Jun2024 22:21:48.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[24Jun2024 22:22:11.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago has made the advancement [Archmage Spell Book]
