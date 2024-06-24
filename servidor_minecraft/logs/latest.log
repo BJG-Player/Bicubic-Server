@@ -980,3 +980,73 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [24Jun2024 14:14:34.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 joined the game
 [24Jun2024 14:14:39.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
 [24Jun2024 14:15:22.526] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@50b7fd1a
+[24Jun2024 14:47:46.080] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 lost connection: Disconnected
+[24Jun2024 14:47:46.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 left the game
+[24Jun2024 14:47:59.444] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@ce4fc48
+[24Jun2024 14:47:59.464] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NanoLeche33[/127.20.16.204:46703] logged in with entity id 8810 at (-344.4746857655475, 69.9779175609073, 2053.127572171828)
+[24Jun2024 14:47:59.466] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to NanoLeche33
+[24Jun2024 14:47:59.466] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to NanoLeche33
+[24Jun2024 14:47:59.466] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to NanoLeche33
+[24Jun2024 14:47:59.467] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to NanoLeche33
+[24Jun2024 14:47:59.470] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to NanoLeche33
+[24Jun2024 14:47:59.474] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to NanoLeche33
+[24Jun2024 14:47:59.474] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to NanoLeche33
+[24Jun2024 14:47:59.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 joined the game
+[24Jun2024 14:48:54.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 has made the advancement [Free the Inner Child]
+[24Jun2024 14:49:52.884] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4a98dd6f
+[24Jun2024 14:49:52.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JackSparrago[/127.115.220.219:48993] logged in with entity id 9422 at (287.0418140322473, 76.0, 116.97448097855657)
+[24Jun2024 14:49:52.906] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JackSparrago
+[24Jun2024 14:49:52.907] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JackSparrago
+[24Jun2024 14:49:52.907] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JackSparrago
+[24Jun2024 14:49:52.908] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JackSparrago
+[24Jun2024 14:49:52.911] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JackSparrago
+[24Jun2024 14:49:52.913] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JackSparrago
+[24Jun2024 14:49:52.913] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JackSparrago
+[24Jun2024 14:49:52.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago joined the game
+[24Jun2024 14:49:57.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4479ms or 89 ticks behind
+[24Jun2024 14:49:57.502] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity cfm:mail_box @ BlockPos{x=260, y=64, z=144} state Block{cfm:crimson_mail_box}[facing=east] invalid for ticking:
+[24Jun2024 14:50:12.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 lost connection: Disconnected
+[24Jun2024 14:50:12.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 left the game
+[24Jun2024 14:50:26.214] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@250afd55
+[24Jun2024 14:50:26.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NanoLeche33[/127.20.16.204:46481] logged in with entity id 9859 at (-356.9657790403478, 64.0, 2054.6181538611468)
+[24Jun2024 14:50:26.233] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to NanoLeche33
+[24Jun2024 14:50:26.233] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to NanoLeche33
+[24Jun2024 14:50:26.234] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to NanoLeche33
+[24Jun2024 14:50:26.234] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to NanoLeche33
+[24Jun2024 14:50:26.236] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to NanoLeche33
+[24Jun2024 14:50:26.238] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to NanoLeche33
+[24Jun2024 14:50:26.238] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to NanoLeche33
+[24Jun2024 14:50:26.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 joined the game
+[24Jun2024 14:50:33.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackSparrago> hey
+[24Jun2024 14:50:53.630] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9519, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.23, y=64.05, z=160.59] died, message: 'Villager was squished too much'
+[24Jun2024 14:56:23.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 lost connection: Disconnected
+[24Jun2024 14:56:23.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 left the game
+[24Jun2024 14:56:37.242] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@29c5c963
+[24Jun2024 14:56:37.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NanoLeche33[/127.20.16.204:32871] logged in with entity id 12190 at (-344.61746644988267, 64.0, 2061.7266769283874)
+[24Jun2024 14:56:37.259] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to NanoLeche33
+[24Jun2024 14:56:37.259] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to NanoLeche33
+[24Jun2024 14:56:37.260] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to NanoLeche33
+[24Jun2024 14:56:37.260] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to NanoLeche33
+[24Jun2024 14:56:37.262] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to NanoLeche33
+[24Jun2024 14:56:37.264] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to NanoLeche33
+[24Jun2024 14:56:37.264] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to NanoLeche33
+[24Jun2024 14:56:37.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 joined the game
+[24Jun2024 15:04:09.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! 9.987556946294319,0.0,0.9973461370268524
+[24Jun2024 15:04:09.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2227ms or 44 ticks behind
+[24Jun2024 15:04:13.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -12.254569546372032,0.051407901764335406,1.2222698121331632
+[24Jun2024 15:05:49.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[24Jun2024 15:09:27.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -2.1615161937630063,-8.4181253964272,-6.061787769556759
+[24Jun2024 15:09:41.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -4.768623302544988,2.9431632288913363,-10.853210808989388
+[24Jun2024 15:10:17.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 lost connection: Disconnected
+[24Jun2024 15:10:17.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 left the game
+[24Jun2024 15:10:29.808] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@30621c08
+[24Jun2024 15:10:29.831] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NanoLeche33[/127.20.16.204:57395] logged in with entity id 25946 at (-344.32534404224043, 70.0, 2061.8564372242945)
+[24Jun2024 15:10:29.832] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to NanoLeche33
+[24Jun2024 15:10:29.832] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to NanoLeche33
+[24Jun2024 15:10:29.833] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to NanoLeche33
+[24Jun2024 15:10:29.833] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to NanoLeche33
+[24Jun2024 15:10:29.836] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to NanoLeche33
+[24Jun2024 15:10:29.840] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to NanoLeche33
+[24Jun2024 15:10:29.840] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to NanoLeche33
+[24Jun2024 15:10:29.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 joined the game
+[24Jun2024 15:11:14.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago has completed the challenge [Checkpoint!]

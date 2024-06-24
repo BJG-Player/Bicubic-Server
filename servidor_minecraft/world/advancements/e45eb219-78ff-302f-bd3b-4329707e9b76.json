@@ -2029,6 +2029,13 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-06-24 14:40:47 +0000",
+      "not_magic": "2024-06-24 14:40:47 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 18:23:30 +0000"
@@ -3374,6 +3381,12 @@
     },
     "done": true
   },
+  "ars_nouveau:wixie_charm": {
+    "criteria": {
+      "has_wixie_charm": "2024-06-24 14:48:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-05-20 17:34:31 +0000"
@@ -3545,6 +3558,12 @@
   "ars_nouveau:archmage_spell_book": {
     "criteria": {
       "has_archmage_spell_book": "2024-06-22 18:17:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/brewery": {
+    "criteria": {
+      "has_alt_item": "2024-06-24 14:46:54 +0000"
     },
     "done": true
   },
@@ -9435,6 +9454,12 @@
   "dnl:story/structures/railway_outpost/station_chief": {
     "criteria": {
       "killed_station_chief": "2024-06-22 15:45:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2024-06-24 14:46:54 +0000"
     },
     "done": true
   },
