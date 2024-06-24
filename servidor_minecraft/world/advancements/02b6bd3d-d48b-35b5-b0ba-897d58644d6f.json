@@ -617,6 +617,12 @@
     },
     "done": true
   },
+  "ars_elemental:necrotic_focus": {
+    "criteria": {
+      "has_necrotic_focus": "2024-06-24 22:33:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/cake_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-05-21 19:43:44 +0000"
@@ -6802,6 +6808,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-05-26 20:45:54 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:summon_focus": {
+    "criteria": {
+      "has_summon_focus": "2024-06-24 22:31:38 +0000"
     },
     "done": true
   },
