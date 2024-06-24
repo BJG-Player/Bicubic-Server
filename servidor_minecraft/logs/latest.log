@@ -1050,3 +1050,67 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [24Jun2024 15:10:29.840] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to NanoLeche33
 [24Jun2024 15:10:29.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 joined the game
 [24Jun2024 15:11:14.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago has completed the challenge [Checkpoint!]
+[24Jun2024 15:18:02.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -9.0994669189472,3.5052470179234803,3.5267875341778563
+[24Jun2024 15:18:03.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -9.930251486148109,2.9413821726381144,0.18850611486959679
+[24Jun2024 15:18:13.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -10.844658230114419,-0.38785635310003386,-0.9022650783736026
+[24Jun2024 15:18:34.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -11.352485996771748,-1.118536513018256,0.3110887294187705
+[24Jun2024 15:19:09.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13792ms or 275 ticks behind
+[24Jun2024 15:19:09.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! -10.08855989067456,0.0,-1.0273645325346479
+[24Jun2024 15:23:01.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -0.35253025056726983,10.590165436528565,0.9766364068273106
+[24Jun2024 15:23:40.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3047ms or 60 ticks behind
+[24Jun2024 15:24:04.952] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 lost connection: Disconnected
+[24Jun2024 15:24:04.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 left the game
+[24Jun2024 15:24:17.760] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4e4ff10b
+[24Jun2024 15:24:17.777] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NanoLeche33[/127.20.16.204:52451] logged in with entity id 38248 at (-344.51249998807907, 64.0, 2047.9870503431373)
+[24Jun2024 15:24:17.778] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to NanoLeche33
+[24Jun2024 15:24:17.790] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to NanoLeche33
+[24Jun2024 15:24:17.791] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to NanoLeche33
+[24Jun2024 15:24:17.791] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to NanoLeche33
+[24Jun2024 15:24:17.795] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to NanoLeche33
+[24Jun2024 15:24:17.799] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to NanoLeche33
+[24Jun2024 15:24:17.799] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to NanoLeche33
+[24Jun2024 15:24:17.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 joined the game
+[24Jun2024 15:24:21.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2349ms or 46 ticks behind
+[24Jun2024 15:24:21.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! 0.9132854808190132,-9.433435238533434,5.589535831966714
+[24Jun2024 15:24:26.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! 0.0065659396864248265,3.6497385202319776,-9.734120625718788
+[24Jun2024 15:26:28.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! 14.685226443264867,0.5186475305601306,-0.5664687741200396
+[24Jun2024 15:26:29.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! 13.08871821987762,13.184967727981373,0.7755665951626725
+[24Jun2024 15:26:33.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! 10.775216601098176,5.581359596487886,7.524081560163722
+[24Jun2024 15:26:33.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2197ms or 43 ticks behind
+[24Jun2024 15:26:38.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! 2.971994672960456,-11.694736062225488,1.1511959304334596
+[24Jun2024 15:26:43.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! 5.941555004116253,-3.4553681309854767,8.430250004670597
+[24Jun2024 15:26:52.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-112, y=53, z=-7757} BlockPos{x=-112, y=52, z=-7757}
+[24Jun2024 15:26:58.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! 10.57872962403053,0.634495737002851,-0.492605701318098
+[24Jun2024 15:27:06.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! 13.771048976474136,0.44267758207320185,-1.571566500150766
+[24Jun2024 15:27:06.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2211ms or 44 ticks behind
+[24Jun2024 15:27:13.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -3.9008896405794076,5.07262141187033,-10.074027635360835
+[24Jun2024 15:27:22.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -9.556372322027528,3.7100158275531925,-1.5994299995818437
+[24Jun2024 15:27:22.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! 7.276807835376005,-8.891979949656175,0.6887878205116067
+[24Jun2024 15:27:27.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -10.527336189839843,-3.0162072824135606,2.691502606665381
+[24Jun2024 15:27:27.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2602ms or 52 ticks behind
+[24Jun2024 15:27:28.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -3.2353741196538977,-10.541676600683786,0.33647240027494263
+[24Jun2024 15:28:11.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 has made the advancement [Light Up The World!]
+[24Jun2024 15:28:58.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2228ms or 44 ticks behind
+[24Jun2024 15:29:13.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! -9.779243323640003,-5.062500000000002,-1.3170549455608125
+[24Jun2024 15:29:49.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2603ms or 52 ticks behind
+[24Jun2024 15:30:08.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3606ms or 72 ticks behind
+[24Jun2024 15:30:29.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6412ms or 128 ticks behind
+[24Jun2024 15:30:49.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5278ms or 105 ticks behind
+[24Jun2024 15:30:51.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! 1.4599238439066653,-11.50543849943493,0.6652116229406602
+[24Jun2024 15:31:08.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3900ms or 78 ticks behind
+[24Jun2024 15:31:27.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4045ms or 80 ticks behind
+[24Jun2024 15:31:40.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! 16.873140344423632,-7.041521670504807,-0.37276124157688173
+[24Jun2024 15:32:01.461] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=186, y=-6, z=458}
+[24Jun2024 15:32:01.463] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=182, y=-6, z=460}
+[24Jun2024 15:32:01.464] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=180, y=-6, z=458}
+[24Jun2024 15:32:08.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -1.2395851877427049,-3.1874297000184555,-10.163003081050192
+[24Jun2024 15:32:08.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2706ms or 54 ticks behind
+[24Jun2024 15:32:15.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -5.076996980115382,7.779996729307712,6.464999859323143
+[24Jun2024 15:32:25.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Jun2024 15:33:02.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2993ms or 59 ticks behind
+[24Jun2024 15:33:02.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved wrongly!
+[24Jun2024 15:33:19.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved wrongly!
+[24Jun2024 15:33:42.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2780ms or 55 ticks behind
+[24Jun2024 15:33:42.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! 11.017422800273835,-4.089079630369326,1.082388260982043
+[24Jun2024 15:33:44.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! 9.238366161483555,-0.17278511985381328,4.841630739842003
+[24Jun2024 15:33:48.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -1.8679389989229094,10.392144733674684,-0.19292374295764603

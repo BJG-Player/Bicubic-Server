@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_diorite_bricks_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2024-05-22 22:42:45 +0000"
@@ -458,6 +464,12 @@
   "ars_nouveau:recipes/ars_nouveau/ritual_sunrise": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-06-24 15:13:37 +0000"
     },
     "done": true
   },
@@ -887,6 +899,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_diorite_brick_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/cactus_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-06-19 19:21:16 +0000"
@@ -1243,6 +1261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2024-06-19 22:25:15 +0000"
@@ -1545,6 +1569,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/diorite_pillar_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-05-20 16:15:56 +0000"
@@ -1560,6 +1590,12 @@
   "cfm:recipes/cfm/acacia_coffee_table": {
     "criteria": {
       "has_log": "2024-05-26 18:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
     },
     "done": true
   },
@@ -1608,6 +1644,12 @@
   "minecraft:recipes/travelersbackpack/netherite_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-06-19 19:20:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-06-24 15:13:37 +0000"
     },
     "done": true
   },
@@ -1977,16 +2019,15 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "is_projectile": "2024-06-24 15:05:37 +0000",
-      "not_magic": "2024-06-24 15:05:37 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-22 22:42:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_diorite_brick_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
     },
     "done": true
   },
@@ -2399,6 +2440,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-05-20 17:29:05 +0000"
@@ -2616,6 +2663,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_diorite_brick_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2024-06-22 12:13:06 +0000"
@@ -2799,6 +2852,12 @@
   "cfm:recipes/cfm/gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-20 16:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-06-24 15:11:15 +0000"
     },
     "done": true
   },
@@ -3525,6 +3584,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_diorite_bricks_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/nether_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2024-06-19 19:22:31 +0000"
@@ -3582,6 +3647,12 @@
   "minecraft:recipes/travelersbackpack/fox_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-06-19 19:20:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
     },
     "done": true
   },
@@ -3675,6 +3746,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/gray_picket_gate": {
+    "criteria": {
+      "has_concrete": "2024-06-24 15:18:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2024-05-20 17:26:36 +0000"
@@ -3705,6 +3782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-06-24 15:13:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_blue_cooler": {
     "criteria": {
       "has_chest": "2024-05-20 16:22:58 +0000"
@@ -3726,6 +3809,12 @@
   "cfm:recipes/cfm/stripped_acacia_mail_box": {
     "criteria": {
       "has_chest": "2024-05-20 16:22:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_diorite_brick_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
     },
     "done": true
   },
@@ -4197,13 +4286,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-22 17:51:16 +0000",
-      "blocked_false": "2024-06-22 17:51:16 +0000"
-    },
-    "done": false
-  },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-06-19 22:25:15 +0000"
@@ -4573,6 +4655,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-05-26 17:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
     },
     "done": true
   },
@@ -5194,6 +5282,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_blinds": {
+    "criteria": {
+      "has_log": "2024-06-24 15:13:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2024-05-26 19:27:40 +0000"
@@ -5392,6 +5486,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_diorite_brick_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_desk": {
     "criteria": {
       "has_planks": "2024-05-20 18:14:44 +0000"
@@ -5485,6 +5585,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-05-20 16:15:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
     },
     "done": true
   },
@@ -5599,6 +5705,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-05-26 19:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-06-24 15:13:42 +0000"
     },
     "done": true
   },
@@ -5854,15 +5966,39 @@
     },
     "done": true
   },
+  "dnl:story/general/checkpoint": {
+    "criteria": {
+      "find player head": "2024-06-24 15:11:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_diorite_brick_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-06-18 15:27:12 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-05-27 21:33:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
     },
     "done": true
   },
@@ -5881,6 +6017,12 @@
   "byg:recipes/byg.byg/palm_wood": {
     "criteria": {
       "has_log": "2024-05-27 20:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2024-06-24 15:13:37 +0000"
     },
     "done": true
   },
@@ -6424,6 +6566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-06-24 15:13:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-06-18 15:52:42 +0000"
@@ -6457,6 +6605,12 @@
   "farmersdelight:recipes/farmersdelight/rice_roll_medley_block": {
     "criteria": {
       "has_rice_roll": "2024-05-26 21:55:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-06-24 15:13:42 +0000"
     },
     "done": true
   },
@@ -6646,6 +6800,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-06-18 15:45:00 +0000"
@@ -6709,6 +6869,12 @@
   "farmersdelight:recipes/farmersdelight/smoked_ham": {
     "criteria": {
       "has_ham": "2024-06-16 18:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
     },
     "done": true
   },
@@ -7078,6 +7244,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/gray_picket_fence": {
+    "criteria": {
+      "has_concrete": "2024-06-24 15:18:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_gray_grill": {
     "criteria": {
       "has_iron": "2024-05-20 16:15:56 +0000"
@@ -7189,6 +7361,18 @@
   "cfm:recipes/cfm/oak_table": {
     "criteria": {
       "has_log": "2024-05-23 21:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-06-24 15:23:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/pool_minecart": {
+    "criteria": {
+      "has_item": "2024-06-24 15:13:42 +0000"
     },
     "done": true
   },
@@ -8524,6 +8708,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:source_jar": {
     "criteria": {
       "has_source_jar": "2024-06-18 18:00:00 +0000"
@@ -8654,6 +8844,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-05-20 16:15:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
     },
     "done": true
   },
@@ -8825,6 +9021,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/standard_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-06-19 19:21:05 +0000"
@@ -8924,6 +9126,7 @@
       "minecraft:snowy_plains": "2024-06-19 18:28:28 +0000",
       "minecraft:snowy_taiga": "2024-06-19 18:28:05 +0000",
       "minecraft:dripstone_caves": "2024-06-22 01:44:15 +0000",
+      "minecraft:swamp": "2024-06-24 15:17:33 +0000",
       "minecraft:cold_ocean": "2024-06-19 18:24:19 +0000",
       "minecraft:forest": "2024-06-18 15:46:29 +0000",
       "minecraft:lush_caves": "2024-06-19 18:34:01 +0000",
@@ -9119,6 +9322,12 @@
   "cfm:recipes/cfm/post_box": {
     "criteria": {
       "has_iron": "2024-05-20 16:15:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
     },
     "done": true
   },
@@ -9323,6 +9532,12 @@
   "ars_nouveau:recipes/ars_nouveau/mundane_belt": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
     },
     "done": true
   },
@@ -9548,6 +9763,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-05-26 19:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
     },
     "done": true
   },
@@ -9905,6 +10126,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2024-05-20 17:29:05 +0000"
@@ -10037,6 +10264,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/water_essence_to_obsidian": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
@@ -10058,6 +10291,12 @@
   "ars_elemental:recipes/ars_elemental/yellow_archwood": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-24 15:23:26 +0000"
     },
     "done": true
   },
@@ -10196,8 +10435,8 @@
   },
   "dnl:entity/guardian_ghast/hurt": {
     "criteria": {
-      "not_projectile": "2024-06-22 14:27:35 +0000",
-      "by_arrow": "2024-06-22 14:35:36 +0000"
+      "not_projectile": "2024-06-24 15:23:34 +0000",
+      "by_arrow": "2024-06-24 15:24:56 +0000"
     },
     "done": false
   },
@@ -10462,6 +10701,12 @@
   "create:recipes/misc/smelting/iron_ingot_from_crushed": {
     "criteria": {
       "has_item": "2024-05-26 19:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-06-24 15:13:42 +0000"
     },
     "done": true
   },
