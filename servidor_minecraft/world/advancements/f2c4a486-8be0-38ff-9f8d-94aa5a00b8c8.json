@@ -683,6 +683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice_from_freezing": {
+    "criteria": {
+      "has_packed_ice": "2024-06-24 21:23:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-05-27 21:33:25 +0000"
@@ -2045,16 +2051,16 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-24 21:18:11 +0000",
-      "bit_8_1": "2024-06-24 21:18:11 +0000",
-      "bit_7_0": "2024-06-24 21:18:11 +0000",
-      "bit_6_1": "2024-06-24 21:18:11 +0000",
-      "bit_5_0": "2024-06-24 21:18:11 +0000",
-      "bit_4_0": "2024-06-24 21:18:11 +0000",
-      "bit_3_1": "2024-06-24 21:18:11 +0000",
-      "bit_0_1": "2024-06-24 21:18:11 +0000",
-      "bit_2_0": "2024-06-24 21:18:11 +0000",
-      "bit_1_1": "2024-06-24 21:18:11 +0000"
+      "not_projectile": "2024-06-24 21:27:57 +0000",
+      "bit_8_1": "2024-06-24 21:27:57 +0000",
+      "bit_7_2": "2024-06-24 21:27:57 +0000",
+      "bit_6_2": "2024-06-24 21:27:57 +0000",
+      "bit_5_0": "2024-06-24 21:27:57 +0000",
+      "bit_4_0": "2024-06-24 21:27:57 +0000",
+      "bit_3_1": "2024-06-24 21:27:57 +0000",
+      "bit_2_2": "2024-06-24 21:27:57 +0000",
+      "bit_0_1": "2024-06-24 21:27:57 +0000",
+      "bit_1_1": "2024-06-24 21:27:57 +0000"
     },
     "done": false
   },
@@ -4585,6 +4591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-06-24 21:23:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/jungle_mail_box": {
     "criteria": {
       "has_chest": "2024-05-20 16:22:58 +0000"
@@ -5899,6 +5911,12 @@
   "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-05-23 21:50:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-06-24 21:29:29 +0000"
     },
     "done": true
   },
