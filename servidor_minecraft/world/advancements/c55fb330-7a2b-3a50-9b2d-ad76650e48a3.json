@@ -2228,6 +2228,12 @@
     },
     "done": true
   },
+  "naturesaura:infused_materials": {
+    "criteria": {
+      "materials": "2024-06-24 21:47:48 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/gravity_rod": {
     "criteria": {
       "has_item": "2024-06-24 18:21:00 +0000"
@@ -2741,6 +2747,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-06-17 19:39:44 +0000"
+    },
+    "done": true
+  },
+  "naturesaura:eye": {
+    "criteria": {
+      "eye": "2024-06-24 21:30:36 +0000"
     },
     "done": true
   },

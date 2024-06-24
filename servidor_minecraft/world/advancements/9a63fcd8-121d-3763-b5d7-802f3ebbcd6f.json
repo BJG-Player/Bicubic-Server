@@ -1559,6 +1559,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/copper_ladder_from_plates_copper_stonecutting": {
+    "criteria": {
+      "has_plates_copper": "2024-06-24 21:32:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/rock_path": {
     "criteria": {
       "has_stone": "2024-05-21 16:50:39 +0000"
@@ -2080,21 +2086,6 @@
       "has_gold_ore": "2024-06-19 22:50:26 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "not_projectile": "2024-06-24 20:47:29 +0000",
-      "bit_8_2": "2024-06-24 20:47:29 +0000",
-      "bit_7_0": "2024-06-24 20:47:29 +0000",
-      "bit_6_2": "2024-06-24 20:47:29 +0000",
-      "bit_5_1": "2024-06-24 20:47:29 +0000",
-      "bit_4_2": "2024-06-24 20:47:29 +0000",
-      "bit_3_0": "2024-06-24 20:47:29 +0000",
-      "bit_2_1": "2024-06-24 20:47:29 +0000",
-      "bit_1_2": "2024-06-24 20:47:29 +0000",
-      "bit_0_0": "2024-06-24 20:47:29 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -4467,13 +4458,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-24 20:47:35 +0000",
-      "blocked_false": "2024-06-24 20:47:35 +0000"
-    },
-    "done": false
-  },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-05-22 22:13:12 +0000"
@@ -6693,6 +6677,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-05-20 16:21:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/copper_shingles_from_plates_copper_stonecutting": {
+    "criteria": {
+      "has_plates_copper": "2024-06-24 21:32:40 +0000"
     },
     "done": true
   },
@@ -10183,6 +10173,12 @@
   "create:recipes/create.palettes/cut_deepslate_brick_stairs_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-05-20 19:17:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/copper_tiles_from_plates_copper_stonecutting": {
+    "criteria": {
+      "has_plates_copper": "2024-06-24 21:32:40 +0000"
     },
     "done": true
   },
