@@ -2049,6 +2049,22 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-06-24 23:26:59 +0000",
+      "bit_8_2": "2024-06-24 23:26:59 +0000",
+      "bit_5_2": "2024-06-24 23:26:59 +0000",
+      "bit_7_1": "2024-06-24 23:26:59 +0000",
+      "bit_4_1": "2024-06-24 23:26:59 +0000",
+      "bit_6_0": "2024-06-24 23:26:59 +0000",
+      "bit_3_0": "2024-06-24 23:26:59 +0000",
+      "bit_2_2": "2024-06-24 23:26:59 +0000",
+      "bit_0_1": "2024-06-24 23:27:09 +0000",
+      "bit_1_1": "2024-06-24 23:26:59 +0000",
+      "bit_0_0": "2024-06-24 23:26:59 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-22 22:42:45 +0000"
@@ -4373,13 +4389,6 @@
       "has_diamond_tier_upgrade": "2024-06-19 19:21:16 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-24 22:40:12 +0000",
-      "blocked_false": "2024-06-24 22:40:12 +0000"
-    },
-    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {

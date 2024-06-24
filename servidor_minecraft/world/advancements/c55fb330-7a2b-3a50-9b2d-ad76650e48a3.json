@@ -1958,6 +1958,22 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-06-24 23:13:47 +0000",
+      "bit_8_1": "2024-06-24 23:13:47 +0000",
+      "bit_7_2": "2024-06-24 23:13:47 +0000",
+      "bit_5_2": "2024-06-24 23:13:47 +0000",
+      "bit_6_2": "2024-06-24 23:13:47 +0000",
+      "bit_4_1": "2024-06-24 23:13:47 +0000",
+      "bit_2_1": "2024-06-24 23:13:47 +0000",
+      "bit_1_2": "2024-06-24 23:13:47 +0000",
+      "bit_3_1": "2024-06-24 23:13:47 +0000",
+      "bit_0_2": "2024-06-24 23:13:47 +0000",
+      "bit_0_0": "2024-06-24 23:13:47 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 17:48:30 +0000"
@@ -6390,6 +6406,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2024-05-20 21:04:32 +0000"
+    },
+    "done": true
+  },
+  "botania:main/cacophonium_craft": {
+    "criteria": {
+      "cacophonium": "2024-06-24 23:05:45 +0000"
     },
     "done": true
   },
