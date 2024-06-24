@@ -1105,3 +1105,14 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.inventory.Abs
 [24Jun2024 20:53:10.143] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=64, z=448} BlockPos{x=341, y=62, z=449}
 [24Jun2024 20:57:35.027] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33096, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.10, y=64.04, z=160.59] died, message: 'Villager was squished too much'
 [24Jun2024 20:59:11.823] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.TamableAnimal from interface com.hollingsworth.arsnouveau.common.entity.IFollowingSummon
+[24Jun2024 20:59:52.723] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33152, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.19, y=64.04, z=160.30] died, message: 'Villager was squished too much'
+[24Jun2024 21:01:35.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Braulio_JG moved wrongly!
+[24Jun2024 21:02:07.488] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36046, l='ServerLevel[Bicubic 2: Astral Inventions]', x=188.59, y=62.52, z=365.41] was struck by lightning LightningEntity['Lightning'/46399, l='ServerLevel[Bicubic 2: Astral Inventions]', x=188.59, y=62.52, z=365.41].
+[24Jun2024 21:02:08.188] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cat['Doraemon'/2315, l='ServerLevel[Bicubic 2: Astral Inventions]', x=363.50, y=63.88, z=405.50] died: Doraemon was struck by lightning
+[24Jun2024 21:04:35.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SurpriseAttack03 has made the advancement [Empowered]
+[24Jun2024 21:05:15.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Braulio_JG moved too quickly! -0.33573668727763106,0.0,10.19096192919757
+[24Jun2024 21:05:15.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xabio moved too quickly! -9.311984448220016,0.0,4.290845551955613
+[24Jun2024 21:05:15.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2800ms or 56 ticks behind
+[24Jun2024 21:05:51.290] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33153, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.13, y=64.04, z=160.38] died, message: 'Villager was squished too much'
+[24Jun2024 21:07:24.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xabio moved too quickly! 2.5959957965915237,-0.327900891490188,12.328523589791303
+[24Jun2024 21:09:30.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Braulio_JG moved wrongly!
