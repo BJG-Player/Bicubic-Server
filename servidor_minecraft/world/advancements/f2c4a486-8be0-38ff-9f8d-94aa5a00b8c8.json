@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-06-24 18:23:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-06-16 18:28:51 +0000"
@@ -512,6 +518,12 @@
   "minecraft:recipes/travelersbackpack/ocelot_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-06-19 19:21:05 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:familiar": {
+    "criteria": {
+      "familiar": "2024-06-24 16:30:16 +0000"
     },
     "done": true
   },
@@ -1971,6 +1983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-06-24 16:25:46 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/worn_notebook": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
@@ -2018,13 +2036,6 @@
       "has_gold_ore": "2024-05-26 18:24:37 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "not_projectile": "2024-06-24 15:44:47 +0000",
-      "not_magic": "2024-06-24 15:49:16 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -2303,6 +2314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-06-24 17:50:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-05-26 19:42:15 +0000"
@@ -2450,6 +2467,12 @@
   "create:recipes/create.palettes/layered_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-06-24 15:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-06-24 18:19:45 +0000"
     },
     "done": true
   },
@@ -2802,6 +2825,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-06-24 17:50:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/redstone_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-06-19 19:21:05 +0000"
@@ -3012,6 +3041,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-06-24 17:50:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-05-20 17:51:09 +0000"
@@ -3141,6 +3176,7 @@
       "minecraft:ghast": "2024-06-16 18:02:47 +0000",
       "minecraft:hoglin": "2024-06-17 15:45:56 +0000",
       "minecraft:vindicator": "2024-05-26 18:02:49 +0000",
+      "minecraft:magma_cube": "2024-06-24 19:31:30 +0000",
       "minecraft:spider": "2024-05-20 16:19:59 +0000",
       "minecraft:creeper": "2024-06-18 15:49:11 +0000",
       "minecraft:slime": "2024-06-16 16:29:43 +0000",
@@ -3151,6 +3187,7 @@
       "minecraft:cave_spider": "2024-06-17 15:17:54 +0000",
       "minecraft:piglin": "2024-05-27 21:09:00 +0000",
       "minecraft:enderman": "2024-06-16 18:08:41 +0000",
+      "minecraft:stray": "2024-06-24 16:25:40 +0000",
       "minecraft:vex": "2024-06-22 15:50:06 +0000",
       "minecraft:zombie": "2024-05-20 16:22:29 +0000",
       "minecraft:drowned": "2024-05-27 20:08:28 +0000",
@@ -3494,6 +3531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice_from_freezing": {
+    "criteria": {
+      "has_ice": "2024-06-24 16:06:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/sponge_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-06-19 19:21:16 +0000"
@@ -3522,6 +3565,12 @@
     "criteria": {
       "has_the_recipe": "2024-06-21 20:01:38 +0000",
       "recipe_condition": "2024-06-21 20:01:38 +0000"
+    },
+    "done": true
+  },
+  "dnl:story/structures/crawlers_lair/locate": {
+    "criteria": {
+      "locate_crawlers_lair": "2024-06-24 18:56:54 +0000"
     },
     "done": true
   },
@@ -3630,6 +3679,12 @@
   "blue_skies:recipes/blue_skies_blocks/cherry_bookshelf": {
     "criteria": {
       "has_item": "2024-05-22 22:58:35 +0000"
+    },
+    "done": true
+  },
+  "dnl:story/themes/hidden/locate": {
+    "criteria": {
+      "locate_crawlers_lair": "2024-06-24 18:56:54 +0000"
     },
     "done": true
   },
@@ -4083,6 +4138,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2024-06-24 16:06:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-05-20 16:04:14 +0000"
@@ -4295,8 +4356,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-24 15:44:47 +0000",
-      "blocked_false": "2024-06-24 15:44:47 +0000"
+      "not_projectile": "2024-06-24 19:30:04 +0000",
+      "blocked_false": "2024-06-24 19:30:04 +0000"
     },
     "done": false
   },
@@ -4882,6 +4943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-06-24 16:45:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
       "has_planks": "2024-06-18 16:32:22 +0000"
@@ -4903,6 +4970,12 @@
   "iammusicplayer:recipes/iammusicplayer.iammusicplayer/boombox": {
     "criteria": {
       "has_jukebox": "2024-05-22 22:42:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_grill_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-06-24 17:50:18 +0000"
     },
     "done": true
   },
@@ -5239,6 +5312,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2024-05-20 18:28:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-06-24 16:13:29 +0000"
     },
     "done": true
   },
@@ -5872,6 +5951,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-06-24 18:23:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2024-06-16 16:22:15 +0000"
@@ -5947,6 +6032,12 @@
   "blue_skies:recipes/blue_skies_blocks/moonstone_from_shard": {
     "criteria": {
       "has_item": "2024-06-19 22:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-06-24 16:13:04 +0000"
     },
     "done": true
   },
@@ -6298,6 +6389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-06-24 16:45:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/palettes/scorchia": {
     "criteria": {
       "has_item": "2024-06-19 19:54:42 +0000"
@@ -6430,6 +6527,12 @@
     },
     "done": true
   },
+  "landmines:recipes/landmines/snow_landmine": {
+    "criteria": {
+      "recipe_condition": "2024-06-24 16:06:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-05-20 16:15:56 +0000"
@@ -6517,6 +6620,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2024-05-20 17:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-06-24 18:16:07 +0000"
     },
     "done": true
   },
@@ -6879,6 +6988,12 @@
       "has_planks": "2024-05-20 18:14:44 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2024-06-24 16:13:29 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/farmersdelight/smoked_ham": {
     "criteria": {
@@ -7492,6 +7607,12 @@
     },
     "done": true
   },
+  "ars_nouveau:poof_mob": {
+    "criteria": {
+      "poof_mob": "2024-06-24 18:20:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/wolf_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-06-19 19:21:05 +0000"
@@ -7535,6 +7656,7 @@
       "byg:allium_fields": "2024-06-18 15:45:59 +0000",
       "byg:coconino_meadow": "2024-06-22 01:44:10 +0000",
       "byg:temperate_grove": "2024-05-20 17:29:41 +0000",
+      "byg:black_forest": "2024-06-24 16:21:17 +0000",
       "byg:orchard": "2024-05-20 16:22:38 +0000",
       "byg:redwood_thicket": "2024-06-22 16:14:20 +0000",
       "byg:fragment_forest": "2024-06-22 01:37:09 +0000",
@@ -7557,6 +7679,7 @@
       "byg:cherry_blossom_forest": "2024-05-20 16:03:35 +0000",
       "byg:forgotten_forest": "2024-06-19 22:59:25 +0000",
       "byg:crimson_gardens": "2024-05-27 20:58:13 +0000",
+      "byg:cardinal_tundra": "2024-06-24 18:51:19 +0000",
       "byg:baobab_savanna": "2024-05-20 17:49:09 +0000",
       "byg:amaranth_fields": "2024-06-19 18:15:07 +0000",
       "byg:coniferous_forest": "2024-06-22 16:11:23 +0000",
@@ -7566,7 +7689,8 @@
       "byg:lush_stacks": "2024-06-16 16:45:03 +0000",
       "byg:temperate_rainforest": "2024-06-22 12:24:05 +0000",
       "byg:maple_taiga": "2024-06-22 16:48:36 +0000",
-      "byg:dacite_shore": "2024-06-16 16:43:57 +0000"
+      "byg:dacite_shore": "2024-06-16 16:43:57 +0000",
+      "byg:borealis_grove": "2024-06-24 16:23:38 +0000"
     },
     "done": false
   },
@@ -8680,6 +8804,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-06-24 16:45:51 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/mana_mirror": {
     "criteria": {
       "has_item": "2024-06-18 18:37:28 +0000"
@@ -9121,6 +9251,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-06-24 18:23:33 +0000",
       "minecraft:old_growth_pine_taiga": "2024-06-19 18:24:38 +0000",
       "minecraft:mushroom_fields": "2024-06-18 15:43:03 +0000",
       "minecraft:taiga": "2024-06-22 12:18:24 +0000",
@@ -9141,16 +9272,20 @@
       "minecraft:snowy_taiga": "2024-06-19 18:28:05 +0000",
       "minecraft:dripstone_caves": "2024-06-22 01:44:15 +0000",
       "minecraft:swamp": "2024-06-24 15:17:33 +0000",
+      "minecraft:grove": "2024-06-24 18:22:54 +0000",
       "minecraft:cold_ocean": "2024-06-19 18:24:19 +0000",
       "minecraft:forest": "2024-06-18 15:46:29 +0000",
       "minecraft:lush_caves": "2024-06-19 18:34:01 +0000",
       "minecraft:deep_cold_ocean": "2024-06-22 01:26:29 +0000",
+      "minecraft:frozen_ocean": "2024-06-24 19:18:01 +0000",
       "minecraft:jungle": "2024-06-16 19:36:47 +0000",
       "minecraft:ocean": "2024-06-16 16:43:58 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-06-22 15:34:21 +0000",
+      "minecraft:snowy_beach": "2024-06-24 19:18:00 +0000",
       "minecraft:windswept_savanna": "2024-06-16 17:12:13 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-05-20 17:40:39 +0000",
       "minecraft:flower_forest": "2024-05-20 17:30:18 +0000",
+      "minecraft:frozen_peaks": "2024-06-24 18:31:30 +0000",
       "minecraft:old_growth_birch_forest": "2024-06-16 17:07:18 +0000",
       "minecraft:deep_dark": "2024-06-22 17:09:43 +0000",
       "minecraft:meadow": "2024-06-16 16:52:02 +0000",
@@ -9522,6 +9657,12 @@
   "minecraft:recipes/travelersbackpack/creeper_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-06-19 19:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-06-24 18:16:07 +0000"
     },
     "done": true
   },
@@ -10566,6 +10707,12 @@
   "create:recipes/create.palettes/cut_dripstone_brick_stairs_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2024-06-22 17:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-06-24 16:25:46 +0000"
     },
     "done": true
   },

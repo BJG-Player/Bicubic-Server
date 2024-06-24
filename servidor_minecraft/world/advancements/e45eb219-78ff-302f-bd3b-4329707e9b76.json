@@ -1109,6 +1109,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/water_ring": {
+    "criteria": {
+      "has_item": "2024-06-24 16:18:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/black_grill": {
     "criteria": {
       "has_iron": "2024-05-20 16:18:24 +0000"
@@ -1124,6 +1130,12 @@
   "cfm:recipes/cfm/warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-05-21 10:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "tropical_fish": "2024-06-24 18:23:17 +0000"
     },
     "done": true
   },
@@ -2029,6 +2041,13 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-06-24 19:25:05 +0000",
+      "not_magic": "2024-06-24 19:25:05 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 18:23:30 +0000"
@@ -2245,6 +2264,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-06-24 18:23:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2024-05-21 09:10:17 +0000"
@@ -2266,6 +2291,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-05-19 18:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-06-24 15:51:45 +0000"
     },
     "done": true
   },
@@ -3277,6 +3308,7 @@
       "minecraft:cave_spider": "2024-05-28 17:58:51 +0000",
       "minecraft:piglin": "2024-05-21 18:38:03 +0000",
       "minecraft:enderman": "2024-05-25 21:43:27 +0000",
+      "minecraft:stray": "2024-06-24 16:33:39 +0000",
       "minecraft:vex": "2024-06-20 16:31:22 +0000",
       "minecraft:zombie": "2024-05-20 16:16:09 +0000",
       "minecraft:drowned": "2024-05-20 17:34:56 +0000",
@@ -3287,6 +3319,12 @@
   "create:recipes/create.base/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2024-06-19 22:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2024-06-24 17:06:19 +0000"
     },
     "done": true
   },
@@ -4541,8 +4579,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-24 15:49:03 +0000",
-      "blocked_false": "2024-06-24 15:49:03 +0000"
+      "not_projectile": "2024-06-24 19:23:08 +0000",
+      "blocked_false": "2024-06-24 19:23:08 +0000"
     },
     "done": false
   },
@@ -4591,6 +4629,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2024-05-21 09:10:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/prism": {
+    "criteria": {
+      "has_item": "2024-06-24 16:18:23 +0000"
     },
     "done": true
   },
@@ -5087,6 +5131,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2024-06-19 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-06-24 16:18:41 +0000"
     },
     "done": true
   },
@@ -6297,6 +6347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-06-24 18:23:34 +0000"
+    },
+    "done": true
+  },
   "dnl:story/general/checkpoint": {
     "criteria": {
       "find player head": "2024-06-22 15:44:32 +0000"
@@ -7217,7 +7273,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2024-05-21 20:29:14 +0000"
+      "minecraft:cow": "2024-05-21 20:29:14 +0000",
+      "minecraft:rabbit": "2024-06-24 17:48:51 +0000"
     },
     "done": false
   },
@@ -7338,6 +7395,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2024-05-21 18:29:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-06-24 18:23:34 +0000"
     },
     "done": true
   },
@@ -7695,6 +7758,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2024-06-24 17:07:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_table": {
     "criteria": {
       "has_log": "2024-05-20 16:08:45 +0000"
@@ -7857,6 +7926,7 @@
       "byg:allium_fields": "2024-06-22 15:51:59 +0000",
       "byg:prairie": "2024-06-22 15:58:08 +0000",
       "byg:temperate_grove": "2024-06-19 22:52:06 +0000",
+      "byg:black_forest": "2024-06-24 16:23:04 +0000",
       "byg:orchard": "2024-06-17 16:25:08 +0000",
       "byg:red_oak_forest": "2024-06-24 11:42:45 +0000",
       "byg:fragment_forest": "2024-06-22 17:04:38 +0000",
@@ -7864,12 +7934,15 @@
       "byg:quartz_desert": "2024-05-21 18:23:33 +0000",
       "byg:firecracker_shrubland": "2024-05-19 18:32:48 +0000",
       "byg:magma_wastes": "2024-05-26 21:41:03 +0000",
+      "byg:embur_bog": "2024-06-24 19:09:11 +0000",
       "byg:tropical_rainforest": "2024-06-24 11:42:19 +0000",
       "byg:araucaria_savanna": "2024-05-19 18:19:31 +0000",
       "byg:jacaranda_forest": "2024-06-24 12:14:59 +0000",
       "byg:wailing_garth": "2024-06-22 12:13:29 +0000",
       "byg:dacite_ridges": "2024-06-24 12:16:19 +0000",
+      "byg:autumnal_valley": "2024-06-24 16:21:35 +0000",
       "byg:aspen_forest": "2024-06-22 15:56:17 +0000",
+      "byg:skyris_vale": "2024-06-24 16:23:38 +0000",
       "byg:cherry_blossom_forest": "2024-05-19 18:04:24 +0000",
       "byg:crimson_gardens": "2024-05-21 18:24:48 +0000",
       "byg:baobab_savanna": "2024-05-19 18:04:27 +0000",
@@ -7879,7 +7952,10 @@
       "byg:weeping_mire": "2024-05-28 17:27:34 +0000",
       "byg:lush_stacks": "2024-05-25 14:54:49 +0000",
       "byg:basalt_barrera": "2024-06-17 16:23:10 +0000",
-      "byg:temperate_rainforest": "2024-06-24 12:15:07 +0000"
+      "byg:temperate_rainforest": "2024-06-24 12:15:07 +0000",
+      "byg:maple_taiga": "2024-06-24 15:53:09 +0000",
+      "byg:dacite_shore": "2024-06-24 15:52:06 +0000",
+      "byg:borealis_grove": "2024-06-24 16:23:36 +0000"
     },
     "done": false
   },
@@ -8921,6 +8997,12 @@
     },
     "done": true
   },
+  "ars_nouveau:mob_jar": {
+    "criteria": {
+      "has_mob_jar": "2024-06-24 18:39:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-05-26 19:19:58 +0000"
@@ -9155,6 +9237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2024-06-24 18:23:34 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/ghost_rail": {
     "criteria": {
       "has_item": "2024-05-26 11:53:02 +0000"
@@ -9236,6 +9324,12 @@
   "byg:recipes/byg.byg/aspen_wood": {
     "criteria": {
       "has_log": "2024-06-24 11:38:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-06-24 16:18:23 +0000"
     },
     "done": true
   },
@@ -9439,8 +9533,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-06-24 16:05:22 +0000",
       "minecraft:old_growth_pine_taiga": "2024-06-24 15:28:33 +0000",
       "minecraft:deep_ocean": "2024-05-27 21:26:22 +0000",
+      "minecraft:frozen_river": "2024-06-24 16:23:39 +0000",
       "minecraft:sunflower_plains": "2024-06-17 16:22:05 +0000",
       "minecraft:birch_forest": "2024-05-21 15:35:16 +0000",
       "minecraft:bamboo_jungle": "2024-06-24 11:44:43 +0000",
@@ -9452,8 +9548,11 @@
       "minecraft:lukewarm_ocean": "2024-05-19 18:18:28 +0000",
       "minecraft:river": "2024-05-19 18:17:57 +0000",
       "minecraft:stony_shore": "2024-05-25 14:53:21 +0000",
+      "minecraft:snowy_plains": "2024-06-24 16:25:35 +0000",
       "minecraft:dripstone_caves": "2024-06-22 17:07:07 +0000",
+      "minecraft:snowy_taiga": "2024-06-24 16:24:00 +0000",
       "minecraft:swamp": "2024-06-24 11:38:50 +0000",
+      "minecraft:jagged_peaks": "2024-06-24 16:12:55 +0000",
       "minecraft:cold_ocean": "2024-06-20 17:53:31 +0000",
       "minecraft:forest": "2024-06-17 16:28:24 +0000",
       "minecraft:lush_caves": "2024-06-19 18:38:07 +0000",
@@ -9462,6 +9561,7 @@
       "minecraft:jungle": "2024-05-26 20:51:17 +0000",
       "minecraft:ocean": "2024-05-28 17:50:06 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-06-24 15:28:38 +0000",
+      "minecraft:snowy_beach": "2024-06-24 16:36:38 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-05-19 18:34:52 +0000",
       "minecraft:flower_forest": "2024-06-19 22:49:54 +0000",
       "minecraft:old_growth_birch_forest": "2024-06-17 16:27:53 +0000",
@@ -10150,6 +10250,12 @@
   "ars_nouveau:recipes/ars_nouveau/dull_trinket": {
     "criteria": {
       "has_journal": "2024-05-19 18:02:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-06-24 18:23:34 +0000"
     },
     "done": true
   },
@@ -10954,6 +11060,12 @@
     },
     "done": true
   },
+  "ars_nouveau:drygmy_charm": {
+    "criteria": {
+      "has_drygmy_charm": "2024-06-24 18:24:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-05-21 09:59:31 +0000"
@@ -11077,6 +11189,12 @@
   "create:recipes/create.palettes/layered_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-05-20 19:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-06-24 17:08:59 +0000"
     },
     "done": true
   },

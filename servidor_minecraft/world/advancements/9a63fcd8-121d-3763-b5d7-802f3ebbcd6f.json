@@ -1067,6 +1067,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/vial": {
+    "criteria": {
+      "has_item": "2024-06-24 18:46:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-05-20 16:15:13 +0000"
@@ -2068,22 +2074,6 @@
       "has_gold_ore": "2024-06-19 22:50:26 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "not_projectile": "2024-06-24 12:50:14 +0000",
-      "bit_8_2": "2024-06-24 12:50:14 +0000",
-      "bit_7_1": "2024-06-24 12:50:14 +0000",
-      "bit_6_2": "2024-06-24 12:50:14 +0000",
-      "bit_3_2": "2024-06-24 12:50:14 +0000",
-      "bit_5_1": "2024-06-24 12:50:14 +0000",
-      "bit_1_2": "2024-06-24 12:50:14 +0000",
-      "bit_4_0": "2024-06-24 12:50:14 +0000",
-      "bit_2_2": "2024-06-24 12:50:14 +0000",
-      "bit_0_1": "2024-06-24 12:50:14 +0000",
-      "bit_0_0": "2024-06-24 12:50:33 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -3634,6 +3624,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/beef_patty": {
+    "criteria": {
+      "beef_patty": "2024-06-24 18:29:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2024-05-20 16:44:13 +0000"
@@ -3859,6 +3855,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-06-18 16:23:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2024-06-24 18:29:36 +0000"
     },
     "done": true
   },
@@ -4416,8 +4418,9 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-24 12:50:39 +0000",
-      "blocked_false": "2024-06-24 12:50:39 +0000"
+      "not_projectile": "2024-06-24 19:11:39 +0000",
+      "is_projectile": "2024-06-24 19:11:33 +0000",
+      "blocked_false": "2024-06-24 19:11:39 +0000"
     },
     "done": false
   },
@@ -4733,6 +4736,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mana_glass_pane": {
+    "criteria": {
+      "has_item": "2024-06-24 18:46:47 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/quartz_red": {
     "criteria": {
       "has_item": "2024-05-21 18:12:01 +0000"
@@ -4804,6 +4813,12 @@
   "byg:recipes/byg.byg/zelkova_chest_boat": {
     "criteria": {
       "has_boat": "2024-06-22 12:55:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-06-24 18:27:23 +0000"
     },
     "done": true
   },
@@ -5074,6 +5089,12 @@
   "cfm:recipes/cfm/stripped_birch_park_bench": {
     "criteria": {
       "has_log": "2024-05-23 21:54:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/hourglass": {
+    "criteria": {
+      "has_item": "2024-06-24 18:46:47 +0000"
     },
     "done": true
   },
@@ -5791,6 +5812,12 @@
     },
     "done": true
   },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_item": "2024-06-24 18:27:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-05-21 17:10:40 +0000"
@@ -5830,6 +5857,12 @@
   "byg:recipes/byg.byg/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2024-06-22 12:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-06-24 18:27:23 +0000"
     },
     "done": true
   },
@@ -6319,6 +6352,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-06-24 18:27:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_upgraded_gate": {
     "criteria": {
       "has_log": "2024-05-19 18:21:54 +0000"
@@ -6661,6 +6700,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2024-06-24 18:27:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-05-28 18:49:40 +0000"
@@ -6820,6 +6865,12 @@
   "farmersdelight:recipes/farmersdelight/rice": {
     "criteria": {
       "has_rice_panicle": "2024-06-22 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2024-06-24 18:31:30 +0000"
     },
     "done": true
   },
@@ -7009,6 +7060,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-06-24 18:27:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_cabinet": {
     "criteria": {
       "has_log": "2024-05-19 18:21:54 +0000"
@@ -7144,6 +7201,12 @@
   "cfm:recipes/cfm/stripped_birch_cabinet": {
     "criteria": {
       "has_log": "2024-05-23 21:54:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2024-06-24 18:29:30 +0000"
     },
     "done": true
   },
@@ -7318,6 +7381,12 @@
   "cfm:recipes/cfm/birch_chair": {
     "criteria": {
       "has_log": "2024-05-23 21:54:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2024-06-24 18:29:36 +0000"
     },
     "done": true
   },
@@ -9348,6 +9417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-06-24 18:27:52 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/petal_green_double": {
     "criteria": {
       "has_alt_item": "2024-05-23 20:53:01 +0000"
@@ -9428,6 +9503,12 @@
   "botania:recipes/botania/flower_bag": {
     "criteria": {
       "has_item": "2024-05-21 17:13:01 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2024-06-24 19:24:14 +0000"
     },
     "done": true
   },
@@ -10081,6 +10162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-06-24 18:27:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-05-20 16:08:43 +0000"
@@ -10264,6 +10351,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-05-20 17:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-06-24 18:27:23 +0000"
     },
     "done": true
   },
