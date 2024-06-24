@@ -653,6 +653,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/spruce_chair": {
+    "criteria": {
+      "has_log": "2024-06-24 11:35:38 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/palm_chest_boat": {
     "criteria": {
       "has_boat": "2024-05-19 18:33:54 +0000"
@@ -1462,6 +1468,12 @@
   "byg:recipes/byg.byg/baobab_pressure_plate": {
     "criteria": {
       "has_planks": "2024-05-28 18:51:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_crate": {
+    "criteria": {
+      "has_planks": "2024-06-24 11:35:38 +0000"
     },
     "done": true
   },
@@ -2539,6 +2551,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/spruce_desk_cabinet": {
+    "criteria": {
+      "has_log": "2024-06-24 11:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-05-20 17:37:21 +0000"
@@ -2639,6 +2657,12 @@
   "create:recipes/create.palettes/small_ochrum_bricks_from_ochrum_stonecutting": {
     "criteria": {
       "has_ochrum": "2024-06-19 18:36:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2024-06-24 11:35:38 +0000"
     },
     "done": true
   },
@@ -3469,6 +3493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-06-24 11:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-05-19 18:38:57 +0000"
@@ -3520,6 +3550,12 @@
   "create:recipes/create.palettes/small_ochrum_brick_wall_from_ochrum_stonecutting": {
     "criteria": {
       "has_ochrum": "2024-06-19 18:36:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_coffee_table": {
+    "criteria": {
+      "has_log": "2024-06-24 11:35:38 +0000"
     },
     "done": true
   },
@@ -3611,6 +3647,12 @@
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2024-06-22 19:23:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-06-24 11:35:38 +0000"
     },
     "done": true
   },
@@ -3914,6 +3956,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/spruce_crate": {
+    "criteria": {
+      "has_log": "2024-06-24 11:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-06-20 18:04:01 +0000"
@@ -4136,6 +4184,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_park_bench": {
+    "criteria": {
+      "has_log": "2024-06-24 11:35:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_plough": {
     "criteria": {
       "has_item": "2024-06-19 22:07:10 +0000"
@@ -4340,6 +4394,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/aspen_planks": {
+    "criteria": {
+      "has_logs": "2024-06-24 11:38:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_warped_upgraded_gate": {
     "criteria": {
       "has_gate": "2024-06-16 16:43:47 +0000"
@@ -4348,8 +4408,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-22 19:32:18 +0000",
-      "blocked_false": "2024-06-22 19:32:18 +0000"
+      "not_projectile": "2024-06-24 11:40:35 +0000",
+      "blocked_false": "2024-06-24 11:40:35 +0000"
     },
     "done": false
   },
@@ -4404,6 +4464,12 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2024-06-17 16:21:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_blinds": {
+    "criteria": {
+      "has_log": "2024-06-24 11:35:38 +0000"
     },
     "done": true
   },
@@ -4900,6 +4966,12 @@
   "minecraft:recipes/decorations/green_candle": {
     "criteria": {
       "has_green_dye": "2024-06-22 16:14:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_desk": {
+    "criteria": {
+      "has_log": "2024-06-24 11:35:38 +0000"
     },
     "done": true
   },
@@ -5738,6 +5810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-06-24 11:35:38 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/lament_button": {
     "criteria": {
       "has_planks": "2024-06-22 12:22:40 +0000"
@@ -5939,6 +6017,12 @@
   "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2024-05-20 18:23:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_park_bench": {
+    "criteria": {
+      "has_log": "2024-06-24 11:35:38 +0000"
     },
     "done": true
   },
@@ -6986,6 +7070,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_table": {
+    "criteria": {
+      "has_planks": "2024-06-24 11:35:38 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/magebloom_block_to_magebloom": {
     "criteria": {
       "has_journal": "2024-05-19 18:02:45 +0000"
@@ -7475,6 +7565,12 @@
   "create:recipes/create.base/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2024-06-19 22:04:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-06-24 11:35:38 +0000"
     },
     "done": true
   },
@@ -8099,6 +8195,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/spruce_cabinet": {
+    "criteria": {
+      "has_log": "2024-06-24 11:35:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2024-05-21 09:10:17 +0000"
@@ -8180,6 +8282,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_13": {
     "criteria": {
       "has_journal": "2024-05-19 18:02:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_desk": {
+    "criteria": {
+      "has_planks": "2024-06-24 11:35:38 +0000"
     },
     "done": true
   },
@@ -8300,6 +8408,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2024-06-22 14:01:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-06-24 11:35:38 +0000"
     },
     "done": true
   },
@@ -8432,6 +8546,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-05-21 19:06:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_cabinet": {
+    "criteria": {
+      "has_log": "2024-06-24 11:35:38 +0000"
     },
     "done": true
   },
@@ -8588,6 +8708,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2024-05-20 19:46:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_table": {
+    "criteria": {
+      "has_log": "2024-06-24 11:35:38 +0000"
     },
     "done": true
   },
@@ -8891,6 +9017,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/aspen_wood": {
+    "criteria": {
+      "has_log": "2024-06-24 11:38:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-05-20 18:23:30 +0000"
@@ -9094,6 +9226,7 @@
       "minecraft:river": "2024-05-19 18:17:57 +0000",
       "minecraft:stony_shore": "2024-05-25 14:53:21 +0000",
       "minecraft:dripstone_caves": "2024-06-22 17:07:07 +0000",
+      "minecraft:swamp": "2024-06-24 11:38:50 +0000",
       "minecraft:cold_ocean": "2024-06-20 17:53:31 +0000",
       "minecraft:forest": "2024-06-17 16:28:24 +0000",
       "minecraft:lush_caves": "2024-06-19 18:38:07 +0000",
@@ -9395,6 +9528,12 @@
   "byg:recipes/byg.byg/baobab_crafting_table": {
     "criteria": {
       "has_planks": "2024-05-28 18:51:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-06-24 11:35:38 +0000"
     },
     "done": true
   },
@@ -9966,9 +10105,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-06-24 11:35:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/crimson_mail_box": {
     "criteria": {
       "has_chest": "2024-05-21 18:55:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-06-24 11:35:38 +0000"
     },
     "done": true
   },
@@ -10317,6 +10468,12 @@
   "ars_elemental:recipes/ars_nouveau/tablet_ritual_repulsion": {
     "criteria": {
       "has_journal": "2024-05-19 18:02:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_chair": {
+    "criteria": {
+      "has_planks": "2024-06-24 11:35:38 +0000"
     },
     "done": true
   },
