@@ -2029,13 +2029,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "is_projectile": "2024-06-24 15:29:05 +0000",
-      "not_magic": "2024-06-24 15:29:05 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 18:23:30 +0000"
@@ -4024,6 +4017,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2024-06-24 15:47:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-05-21 10:13:15 +0000"
@@ -4414,6 +4413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2024-06-24 15:32:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/lime_picket_gate": {
     "criteria": {
       "has_gate": "2024-06-16 16:43:47 +0000"
@@ -4533,6 +4538,13 @@
       "has_gate": "2024-06-16 16:43:47 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-06-24 15:49:03 +0000",
+      "blocked_false": "2024-06-24 15:49:03 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
@@ -10768,6 +10780,12 @@
   "cfm:recipes/cfm/stripped_birch_crate": {
     "criteria": {
       "has_planks": "2024-06-24 12:39:42 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2024-06-24 15:47:22 +0000"
     },
     "done": true
   },

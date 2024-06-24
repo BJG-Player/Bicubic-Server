@@ -2019,6 +2019,13 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-06-24 15:44:47 +0000",
+      "not_magic": "2024-06-24 15:49:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-22 22:42:45 +0000"
@@ -4285,6 +4292,13 @@
       "has_diamond_tier_upgrade": "2024-06-19 19:21:16 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-06-24 15:44:47 +0000",
+      "blocked_false": "2024-06-24 15:44:47 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
@@ -9669,6 +9683,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-06-24 15:47:33 +0000",
       "cooked_beef": "2024-06-16 19:19:55 +0000",
       "baked_potato": "2024-05-20 16:14:14 +0000",
       "apple": "2024-05-20 20:12:00 +0000",
