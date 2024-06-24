@@ -1030,3 +1030,78 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [24Jun2024 20:41:30.393] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Braulio_JG
 [24Jun2024 20:41:30.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Braulio_JG joined the game
 [24Jun2024 20:48:08.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[24Jun2024 20:48:39.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[24Jun2024 20:48:57.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3319ms or 66 ticks behind
+[24Jun2024 20:49:04.903] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@ab7c80c, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.inventory.AbstractContainerMenu.m_6877_(net.minecraft.world.entity.player.Player)" because "this.f_36096_" is null
+	at net.minecraft.server.level.ServerPlayer.m_9230_(ServerPlayer.java:1020) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
+	at net.minecraftforge.network.NetworkHooks.openScreen(NetworkHooks.java:187) ~[forge-1.19.2-43.3.0-universal.jar%23272!/:?]
+	at dev.architectury.registry.menu.forge.MenuRegistryImpl.openExtendedMenu(MenuRegistryImpl.java:39) ~[architectury-6.5.82-forge.jar%23188!/:?]
+	at dev.architectury.registry.menu.MenuRegistry.openExtendedMenu(MenuRegistry.java) ~[architectury-6.5.82-forge.jar%23188!/:?]
+	at dev.architectury.registry.menu.MenuRegistry.openExtendedMenu(MenuRegistry.java:54) ~[architectury-6.5.82-forge.jar%23188!/:?]
+	at dev.felnull.otyacraftengine.util.OEMenuUtil.openItemMenu(OEMenuUtil.java:19) ~[otyacraftengine-forge-mc1.19.2-3.2.0.jar%23236!/:?]
+	at dev.felnull.imp.item.BoomboxItemContainer.openContainer(BoomboxItemContainer.java:47) ~[iammusicplayer-forge-mc1.19.2-3.19.6.jar%23224!/:?]
+	at dev.felnull.imp.item.BoomboxItem.m_40576_(BoomboxItem.java:77) ~[iammusicplayer-forge-mc1.19.2-3.19.6.jar%23224!/:?]
+	at com.hollingsworth.arsnouveau.common.spell.effect.EffectPlaceBlock.attemptPlace(EffectPlaceBlock.java:68) ~[ars_nouveau-1.19.2-3.13.4.jar%23191!/:3.13.4]
+	at com.hollingsworth.arsnouveau.common.spell.effect.EffectPlaceBlock.place(EffectPlaceBlock.java:58) ~[ars_nouveau-1.19.2-3.13.4.jar%23191!/:3.13.4]
+	at com.hollingsworth.arsnouveau.common.spell.effect.EffectPlaceBlock.onResolveBlock(EffectPlaceBlock.java:49) ~[ars_nouveau-1.19.2-3.13.4.jar%23191!/:3.13.4]
+	at com.hollingsworth.arsnouveau.api.spell.AbstractEffect.onResolve(AbstractEffect.java:63) ~[ars_nouveau-1.19.2-3.13.4.jar%23191!/:3.13.4]
+	at com.hollingsworth.arsnouveau.api.spell.SpellResolver.resolveAllEffects(SpellResolver.java:181) ~[ars_nouveau-1.19.2-3.13.4.jar%23191!/:3.13.4]
+	at com.hollingsworth.arsnouveau.api.spell.SpellResolver.onResolveEffect(SpellResolver.java:146) ~[ars_nouveau-1.19.2-3.13.4.jar%23191!/:3.13.4]
+	at com.hollingsworth.arsnouveau.common.spell.method.MethodUnderfoot.onCast(MethodUnderfoot.java:27) ~[ars_nouveau-1.19.2-3.13.4.jar%23191!/:3.13.4]
+	at com.hollingsworth.arsnouveau.api.spell.SpellResolver.onCast(SpellResolver.java:98) ~[ars_nouveau-1.19.2-3.13.4.jar%23191!/:3.13.4]
+	at com.hollingsworth.arsnouveau.api.spell.ISpellCaster.castSpell(ISpellCaster.java:178) ~[ars_nouveau-1.19.2-3.13.4.jar%23191!/:3.13.4]
+	at com.hollingsworth.arsnouveau.api.spell.ISpellCaster.castSpell(ISpellCaster.java:190) ~[ars_nouveau-1.19.2-3.13.4.jar%23191!/:3.13.4]
+	at com.hollingsworth.arsnouveau.common.items.SpellBook.m_7203_(SpellBook.java:90) ~[ars_nouveau-1.19.2-3.13.4.jar%23191!/:3.13.4]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:266) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1089) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:725) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[24Jun2024 20:52:27.423] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@71048b8
+[24Jun2024 20:52:27.440] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xabio[/127.11.221.89:33953] logged in with entity id 38167 at (360.02977976066495, 63.0, 397.94733400478503)
+[24Jun2024 20:52:27.441] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Xabio
+[24Jun2024 20:52:27.441] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Xabio
+[24Jun2024 20:52:27.441] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Xabio
+[24Jun2024 20:52:27.441] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Xabio
+[24Jun2024 20:52:27.443] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Xabio
+[24Jun2024 20:52:27.445] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Xabio
+[24Jun2024 20:52:27.445] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Xabio
+[24Jun2024 20:52:27.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xabio joined the game
+[24Jun2024 20:52:34.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SurpriseAttack03 has made the advancement [A Taste of Sunlight]
+[24Jun2024 20:52:53.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=342, y=64, z=409} BlockPos{x=341, y=62, z=410}
+[24Jun2024 20:52:53.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=342, y=64, z=409} BlockPos{x=341, y=62, z=410}
+[24Jun2024 20:52:53.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=340, y=64, z=411} BlockPos{x=340, y=62, z=412}
+[24Jun2024 20:52:59.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=339, y=64, z=415} BlockPos{x=339, y=62, z=415}
+[24Jun2024 20:52:59.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=339, y=64, z=415} BlockPos{x=339, y=62, z=415}
+[24Jun2024 20:52:59.706] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=339, y=64, z=416} BlockPos{x=339, y=62, z=417}
+[24Jun2024 20:52:59.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=339, y=64, z=416} BlockPos{x=339, y=62, z=417}
+[24Jun2024 20:52:59.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=339, y=64, z=417} BlockPos{x=339, y=62, z=418}
+[24Jun2024 20:53:00.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=338, y=64, z=418} BlockPos{x=338, y=62, z=418}
+[24Jun2024 20:53:00.991] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=337, y=64, z=420} BlockPos{x=337, y=62, z=421}
+[24Jun2024 20:53:03.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=333, y=64, z=429} BlockPos{x=334, y=63, z=429}
+[24Jun2024 20:53:03.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=333, y=64, z=430} BlockPos{x=332, y=62, z=431}
+[24Jun2024 20:53:04.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=333, y=64, z=430} BlockPos{x=332, y=62, z=431}
+[24Jun2024 20:53:06.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=334, y=64, z=440} BlockPos{x=335, y=62, z=440}
+[24Jun2024 20:53:06.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=334, y=64, z=440} BlockPos{x=335, y=62, z=440}
+[24Jun2024 20:53:07.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=336, y=64, z=442} BlockPos{x=336, y=62, z=442}
+[24Jun2024 20:53:07.253] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=336, y=64, z=442} BlockPos{x=336, y=62, z=442}
+[24Jun2024 20:53:07.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=338, y=64, z=444} BlockPos{x=338, y=62, z=444}
+[24Jun2024 20:53:09.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=64, z=448} BlockPos{x=341, y=62, z=449}
+[24Jun2024 20:53:10.143] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=64, z=448} BlockPos{x=341, y=62, z=449}
+[24Jun2024 20:57:35.027] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33096, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.10, y=64.04, z=160.59] died, message: 'Villager was squished too much'
+[24Jun2024 20:59:11.823] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.TamableAnimal from interface com.hollingsworth.arsnouveau.common.entity.IFollowingSummon
