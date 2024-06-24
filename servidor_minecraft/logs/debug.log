@@ -12874,3 +12874,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.inventory.Abs
 [24Jun2024 21:50:01.972] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/55342, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.18, y=64.04, z=160.52] died, message: 'Villager was squished too much'
 [24Jun2024 21:50:06.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bicubic 2: Astral Inventions
 [24Jun2024 21:50:06.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bicubic 2: Astral Inventions
+[24Jun2024 21:52:27.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[24Jun2024 21:55:08.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bicubic 2: Astral Inventions
+[24Jun2024 21:55:08.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bicubic 2: Astral Inventions
+[24Jun2024 21:58:22.722] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/55335, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.12, y=64.04, z=160.30] died, message: 'Villager was squished too much'
+[24Jun2024 21:59:43.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SurpriseAttack03 has made the advancement [Spooky Scary Skeletons]
+[24Jun2024 22:00:08.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bicubic 2: Astral Inventions
+[24Jun2024 22:00:08.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bicubic 2: Astral Inventions
+[24Jun2024 22:00:31.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
