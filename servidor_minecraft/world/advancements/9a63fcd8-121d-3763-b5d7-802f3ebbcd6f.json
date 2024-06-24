@@ -2069,6 +2069,22 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-06-24 12:50:14 +0000",
+      "bit_8_2": "2024-06-24 12:50:14 +0000",
+      "bit_7_1": "2024-06-24 12:50:14 +0000",
+      "bit_6_2": "2024-06-24 12:50:14 +0000",
+      "bit_3_2": "2024-06-24 12:50:14 +0000",
+      "bit_5_1": "2024-06-24 12:50:14 +0000",
+      "bit_1_2": "2024-06-24 12:50:14 +0000",
+      "bit_4_0": "2024-06-24 12:50:14 +0000",
+      "bit_2_2": "2024-06-24 12:50:14 +0000",
+      "bit_0_1": "2024-06-24 12:50:14 +0000",
+      "bit_0_0": "2024-06-24 12:50:33 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-21 16:50:39 +0000"
@@ -4400,8 +4416,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-24 11:23:42 +0000",
-      "blocked_false": "2024-06-24 11:23:42 +0000"
+      "not_projectile": "2024-06-24 12:50:39 +0000",
+      "blocked_false": "2024-06-24 12:50:39 +0000"
     },
     "done": false
   },
