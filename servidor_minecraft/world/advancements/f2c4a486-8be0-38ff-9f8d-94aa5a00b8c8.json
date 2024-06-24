@@ -2037,6 +2037,13 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-06-24 20:27:10 +0000",
+      "not_magic": "2024-06-24 20:27:10 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-22 22:42:45 +0000"
@@ -5350,6 +5357,15 @@
       "has_planks": "2024-06-18 16:32:22 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:tabby": "2024-06-24 20:11:52 +0000",
+      "minecraft:siamese": "2024-06-24 20:13:27 +0000",
+      "minecraft:jellie": "2024-06-24 20:12:56 +0000",
+      "minecraft:persian": "2024-06-24 20:14:32 +0000"
+    },
+    "done": false
   },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_alternating_to_sourcestone": {
     "criteria": {

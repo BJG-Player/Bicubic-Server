@@ -1706,6 +1706,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-06-24 20:12:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-05-20 17:47:30 +0000"
@@ -3129,6 +3135,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-06-24 20:12:56 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/mushroom_10": {
     "criteria": {
       "has_alt_item": "2024-05-21 18:13:04 +0000"
@@ -3333,6 +3345,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "pasta_with_meatballs": "2024-06-24 20:12:56 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/acacia_mail_box": {
     "criteria": {
       "has_chest": "2024-06-22 13:06:01 +0000"
@@ -3350,6 +3368,13 @@
       "has_chest": "2024-06-22 13:06:01 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-06-24 20:27:10 +0000",
+      "not_magic": "2024-06-24 20:27:30 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -4123,6 +4148,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/drum_canopy": {
+    "criteria": {
+      "has_item": "2024-06-24 20:34:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2024-05-20 18:40:44 +0000"
@@ -4180,6 +4211,12 @@
   "ars_nouveau:recipes/ars_nouveau/manipulation_essence_to_cascading_sapling": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-06-24 20:12:56 +0000"
     },
     "done": true
   },
@@ -5586,6 +5623,12 @@
     },
     "done": true
   },
+  "naturesaura:wood_stand": {
+    "criteria": {
+      "stand": "2024-06-24 20:36:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-05-20 18:19:11 +0000"
@@ -6810,6 +6853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-06-24 20:20:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/post_box": {
     "criteria": {
       "has_iron": "2024-05-19 18:47:37 +0000"
@@ -7441,6 +7490,12 @@
     },
     "done": true
   },
+  "naturesaura:gold_leaf": {
+    "criteria": {
+      "leaf": "2024-06-24 20:35:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/dull_trinket": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
@@ -7608,6 +7663,14 @@
       "has_diamond_tier_upgrade": "2024-05-20 21:08:55 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-06-24 20:25:39 +0000",
+      "is_projectile": "2024-06-24 20:25:38 +0000",
+      "blocked_false": "2024-06-24 20:25:39 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
@@ -8236,6 +8299,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2024-06-16 15:43:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-06-24 20:20:55 +0000"
     },
     "done": true
   },
