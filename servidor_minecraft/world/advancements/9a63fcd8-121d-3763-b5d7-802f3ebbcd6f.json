@@ -2069,6 +2069,12 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-06-24 11:23:42 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-21 16:50:39 +0000"
@@ -4385,6 +4391,13 @@
       "has_gate": "2024-06-16 16:43:45 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-06-24 11:23:42 +0000",
+      "blocked_false": "2024-06-24 11:23:42 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
