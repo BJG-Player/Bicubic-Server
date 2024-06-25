@@ -2041,21 +2041,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "not_projectile": "2024-06-25 15:18:36 +0000",
-      "bit_8_1": "2024-06-25 15:18:36 +0000",
-      "bit_7_0": "2024-06-25 15:18:36 +0000",
-      "bit_6_0": "2024-06-25 15:18:36 +0000",
-      "bit_5_1": "2024-06-25 15:18:36 +0000",
-      "bit_4_2": "2024-06-25 15:18:36 +0000",
-      "bit_3_0": "2024-06-25 15:18:36 +0000",
-      "bit_0_1": "2024-06-25 15:18:36 +0000",
-      "bit_2_0": "2024-06-25 15:18:36 +0000",
-      "bit_1_1": "2024-06-25 15:18:36 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 18:23:30 +0000"
@@ -4584,6 +4569,13 @@
       "has_gate": "2024-06-16 16:43:47 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-06-25 15:42:57 +0000",
+      "blocked_false": "2024-06-25 15:42:57 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
@@ -7926,6 +7918,7 @@
       "byg:rainbow_beach": "2024-05-19 18:05:48 +0000",
       "byg:allium_fields": "2024-06-22 15:51:59 +0000",
       "byg:prairie": "2024-06-22 15:58:08 +0000",
+      "byg:sythian_torrids": "2024-06-25 15:42:51 +0000",
       "byg:temperate_grove": "2024-06-19 22:52:06 +0000",
       "byg:black_forest": "2024-06-24 16:23:04 +0000",
       "byg:orchard": "2024-06-17 16:25:08 +0000",
