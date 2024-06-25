@@ -2167,16 +2167,16 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-25 18:42:30 +0000",
-      "bit_8_1": "2024-06-25 18:46:43 +0000",
-      "bit_7_2": "2024-06-25 18:46:43 +0000",
-      "bit_6_2": "2024-06-25 18:46:43 +0000",
-      "bit_5_0": "2024-06-25 18:46:43 +0000",
-      "bit_4_1": "2024-06-25 18:46:43 +0000",
-      "bit_3_2": "2024-06-25 18:46:43 +0000",
-      "bit_2_0": "2024-06-25 18:46:43 +0000",
-      "bit_1_1": "2024-06-25 18:46:43 +0000",
-      "bit_0_0": "2024-06-25 18:46:43 +0000"
+      "not_projectile": "2024-06-25 18:56:09 +0000",
+      "bit_8_2": "2024-06-25 18:56:09 +0000",
+      "bit_7_0": "2024-06-25 18:56:09 +0000",
+      "bit_6_1": "2024-06-25 18:56:09 +0000",
+      "bit_5_2": "2024-06-25 18:56:09 +0000",
+      "bit_4_1": "2024-06-25 18:56:09 +0000",
+      "bit_3_0": "2024-06-25 18:56:09 +0000",
+      "bit_2_1": "2024-06-25 18:56:09 +0000",
+      "bit_1_2": "2024-06-25 18:56:09 +0000",
+      "bit_0_0": "2024-06-25 18:56:09 +0000"
     },
     "done": false
   },
@@ -3429,6 +3429,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2024-06-25 18:55:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_mangrove_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-05-19 12:57:17 +0000"
@@ -4671,6 +4677,13 @@
       "has_gate": "2024-06-16 16:43:45 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-06-25 18:57:19 +0000",
+      "blocked_false": "2024-06-25 18:57:19 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
@@ -9001,6 +9014,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-06-25 18:51:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-05-23 21:31:44 +0000"
@@ -9046,6 +9065,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-06-25 15:46:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-06-25 18:53:57 +0000"
     },
     "done": true
   },
@@ -10950,6 +10975,12 @@
   "minecraft:recipes/travelersbackpack/chicken_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-05-20 16:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-06-25 18:53:57 +0000"
     },
     "done": true
   },

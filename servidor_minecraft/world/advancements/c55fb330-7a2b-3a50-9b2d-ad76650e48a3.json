@@ -312,6 +312,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/corporea_spark": {
+    "criteria": {
+      "has_item": "2024-06-25 18:54:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-05-20 19:48:39 +0000"
@@ -652,6 +658,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-05-20 21:08:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/spawner_claw": {
+    "criteria": {
+      "has_item": "2024-06-25 18:54:54 +0000"
     },
     "done": true
   },
@@ -1382,6 +1394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-06-25 18:57:25 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sunrise_2": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
@@ -2008,17 +2026,18 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-25 18:23:27 +0000",
-      "bit_7_2": "2024-06-25 18:23:27 +0000",
-      "bit_6_1": "2024-06-25 18:23:27 +0000",
-      "bit_8_0": "2024-06-25 18:23:27 +0000",
-      "bit_4_1": "2024-06-25 18:23:27 +0000",
-      "bit_5_1": "2024-06-25 18:23:27 +0000",
-      "bit_3_1": "2024-06-25 18:23:27 +0000",
-      "bit_1_0": "2024-06-25 18:23:27 +0000",
-      "bit_2_0": "2024-06-25 18:23:27 +0000",
-      "bit_0_2": "2024-06-25 18:23:28 +0000",
-      "bit_0_0": "2024-06-25 18:23:27 +0000"
+      "not_projectile": "2024-06-25 18:51:34 +0000",
+      "bit_8_2": "2024-06-25 18:54:17 +0000",
+      "bit_7_0": "2024-06-25 18:54:17 +0000",
+      "bit_6_1": "2024-06-25 18:54:17 +0000",
+      "bit_5_1": "2024-06-25 18:54:17 +0000",
+      "bit_4_2": "2024-06-25 18:54:17 +0000",
+      "bit_3_1": "2024-06-25 18:54:17 +0000",
+      "bit_1_0": "2024-06-25 18:54:18 +0000",
+      "bit_2_0": "2024-06-25 18:54:17 +0000",
+      "bit_1_1": "2024-06-25 18:54:17 +0000",
+      "bit_0_2": "2024-06-25 18:54:18 +0000",
+      "bit_0_0": "2024-06-25 18:54:17 +0000"
     },
     "done": false
   },
@@ -2379,6 +2398,12 @@
   "ars_nouveau:recipes/ars_nouveau/archwood_door": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-06-25 18:57:25 +0000"
     },
     "done": true
   },
@@ -3051,6 +3076,12 @@
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2024-05-22 18:16:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2024-06-25 18:55:23 +0000"
     },
     "done": true
   },
@@ -4144,9 +4175,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-25 18:24:18 +0000",
-      "is_projectile": "2024-06-25 18:29:08 +0000",
-      "blocked_false": "2024-06-25 18:24:18 +0000"
+      "not_projectile": "2024-06-25 18:56:46 +0000",
+      "blocked_false": "2024-06-25 18:56:46 +0000"
     },
     "done": false
   },
@@ -4858,6 +4888,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/keep_ivy": {
+    "criteria": {
+      "has_item": "2024-06-25 18:54:54 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/quartz_lavender": {
     "criteria": {
       "has_item": "2024-05-22 17:33:17 +0000"
@@ -5146,6 +5182,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/red_string": {
+    "criteria": {
+      "has_item": "2024-06-25 18:54:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_table": {
     "criteria": {
       "has_planks": "2024-06-22 19:32:25 +0000"
@@ -5390,6 +5432,12 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-05-20 17:51:46 +0000"
+    },
+    "done": true
+  },
+  "botania:main/ender_air_make": {
+    "criteria": {
+      "air": "2024-06-25 18:54:54 +0000"
     },
     "done": true
   },
@@ -7263,6 +7311,12 @@
     },
     "done": true
   },
+  "naturesaura:aura_bottle_end": {
+    "criteria": {
+      "bottle": "2024-06-25 18:54:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-06-22 13:06:01 +0000"
@@ -7317,6 +7371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-06-25 18:57:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-06-24 20:47:31 +0000"
@@ -7326,6 +7386,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/red_string_alt": {
+    "criteria": {
+      "has_item": "2024-06-25 18:54:54 +0000"
     },
     "done": true
   },
@@ -8163,6 +8229,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-06-25 18:51:29 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/fabulous_pool": {
     "criteria": {
       "has_alt_item": "2024-05-22 18:52:54 +0000"
@@ -8214,6 +8286,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-05-21 18:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-06-25 18:53:57 +0000"
     },
     "done": true
   },
@@ -9766,6 +9844,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-06-25 18:57:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-06-25 18:57:25 +0000"
+    },
+    "done": true
+  },
   "ars_instrumentum:recipes/ars_nouveau/runic_storage_stone_alternate": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
@@ -10201,6 +10291,12 @@
   "minecraft:recipes/travelersbackpack/chicken_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-05-20 21:08:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-06-25 18:53:57 +0000"
     },
     "done": true
   },

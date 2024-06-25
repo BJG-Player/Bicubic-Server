@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/corporea_spark": {
+    "criteria": {
+      "has_item": "2024-06-25 18:54:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-05-21 16:57:35 +0000"
@@ -705,6 +711,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-05-21 17:15:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/spawner_claw": {
+    "criteria": {
+      "has_item": "2024-06-25 18:54:44 +0000"
     },
     "done": true
   },
@@ -2128,9 +2140,16 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-25 18:08:54 +0000",
-      "is_projectile": "2024-06-25 18:09:07 +0000",
-      "not_magic": "2024-06-25 18:08:54 +0000"
+      "not_projectile": "2024-06-25 18:59:00 +0000",
+      "bit_8_2": "2024-06-25 18:59:00 +0000",
+      "bit_7_0": "2024-06-25 18:59:00 +0000",
+      "bit_6_2": "2024-06-25 18:59:00 +0000",
+      "bit_5_1": "2024-06-25 18:59:00 +0000",
+      "bit_3_0": "2024-06-25 18:59:00 +0000",
+      "bit_4_0": "2024-06-25 18:59:00 +0000",
+      "bit_1_0": "2024-06-25 18:59:00 +0000",
+      "bit_2_0": "2024-06-25 18:59:00 +0000",
+      "bit_0_2": "2024-06-25 18:59:00 +0000"
     },
     "done": false
   },
@@ -3211,6 +3230,12 @@
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2024-05-22 22:22:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2024-06-25 18:54:40 +0000"
     },
     "done": true
   },
@@ -4340,14 +4365,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-25 18:09:13 +0000",
-      "is_projectile": "2024-06-25 18:43:57 +0000",
-      "blocked_false": "2024-06-25 18:09:13 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-05-21 16:54:17 +0000"
@@ -5125,6 +5142,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/keep_ivy": {
+    "criteria": {
+      "has_item": "2024-06-25 18:54:44 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/quartz_lavender": {
     "criteria": {
       "has_item": "2024-06-18 19:06:13 +0000"
@@ -5401,6 +5424,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/red_string": {
+    "criteria": {
+      "has_item": "2024-06-25 18:54:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-05-26 18:03:30 +0000"
@@ -5657,6 +5686,12 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-05-22 18:56:10 +0000"
+    },
+    "done": true
+  },
+  "botania:main/ender_air_make": {
+    "criteria": {
+      "air": "2024-06-25 18:54:44 +0000"
     },
     "done": true
   },
@@ -7657,6 +7692,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/red_string_alt": {
+    "criteria": {
+      "has_item": "2024-06-25 18:54:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-05-21 16:22:04 +0000"
@@ -8479,6 +8520,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-06-25 18:51:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-05-22 23:23:24 +0000"
@@ -8518,6 +8565,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-05-20 17:15:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-06-25 18:53:57 +0000"
     },
     "done": true
   },
@@ -10487,6 +10540,12 @@
   "minecraft:recipes/travelersbackpack/chicken_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-06-25 18:53:57 +0000"
     },
     "done": true
   },
