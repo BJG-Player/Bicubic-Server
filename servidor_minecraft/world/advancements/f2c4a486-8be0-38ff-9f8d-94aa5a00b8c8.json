@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2024-06-25 17:58:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/gold_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2024-06-19 19:22:31 +0000"
@@ -2057,16 +2063,7 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-25 17:41:45 +0000",
-      "bit_7_1": "2024-06-25 17:41:45 +0000",
-      "bit_8_0": "2024-06-25 17:41:45 +0000",
-      "bit_4_1": "2024-06-25 17:41:45 +0000",
-      "bit_6_0": "2024-06-25 17:41:45 +0000",
-      "bit_5_1": "2024-06-25 17:41:45 +0000",
-      "bit_2_2": "2024-06-25 17:41:45 +0000",
-      "bit_3_1": "2024-06-25 17:23:58 +0000",
-      "bit_0_1": "2024-06-25 17:41:45 +0000",
-      "bit_1_1": "2024-06-25 17:23:58 +0000"
+      "is_projectile": "2024-06-25 18:01:47 +0000"
     },
     "done": false
   },
@@ -7572,6 +7569,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_black_picket_fence": {
+    "criteria": {
+      "has_dye": "2024-06-25 17:58:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_table": {
     "criteria": {
       "has_log": "2024-05-23 21:50:55 +0000"
@@ -7593,6 +7596,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-05-23 21:51:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_black_picket_gate": {
+    "criteria": {
+      "has_dye": "2024-06-25 17:58:57 +0000"
     },
     "done": true
   },
@@ -9346,6 +9355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2024-06-25 17:58:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-06-24 18:23:33 +0000",
@@ -9604,6 +9619,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2024-06-22 17:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2024-06-25 17:58:57 +0000"
     },
     "done": true
   },
@@ -10286,6 +10307,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-05-26 19:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-06-25 17:58:57 +0000"
     },
     "done": true
   },

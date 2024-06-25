@@ -2108,15 +2108,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "bit_7_1": "2024-06-24 23:01:02 +0000",
-      "bit_3_2": "2024-06-24 23:01:02 +0000",
-      "bit_6_0": "2024-06-24 23:01:02 +0000",
-      "bit_4_0": "2024-06-24 23:01:02 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 17:02:14 +0000"
@@ -4316,13 +4307,6 @@
       "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-24 22:59:51 +0000",
-      "blocked_false": "2024-06-24 22:59:51 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
@@ -8428,6 +8412,12 @@
   "cfm:recipes/cfm/spruce_table": {
     "criteria": {
       "has_planks": "2024-05-23 20:27:13 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:mob_jar": {
+    "criteria": {
+      "has_mob_jar": "2024-06-25 17:57:09 +0000"
     },
     "done": true
   },
