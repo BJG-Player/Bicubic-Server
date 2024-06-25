@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-06-25 18:23:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/train_door": {
     "criteria": {
       "has_item": "2024-05-26 18:05:27 +0000"
@@ -669,6 +675,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-05-20 18:14:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-06-25 18:23:02 +0000"
     },
     "done": true
   },
@@ -1469,6 +1481,12 @@
   "create:recipes/create.base/crafting/kinetics/weighted_ejector": {
     "criteria": {
       "has_item": "2024-06-19 21:45:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cake_compat": {
+    "criteria": {
+      "has_item": "2024-06-25 18:23:02 +0000"
     },
     "done": true
   },
@@ -6073,6 +6091,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-06-25 18:23:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2024-05-20 16:15:39 +0000"
@@ -9705,6 +9729,12 @@
   "create:recipes/create.palettes/polished_cut_granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-05-20 20:57:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-06-25 18:23:02 +0000"
     },
     "done": true
   },
