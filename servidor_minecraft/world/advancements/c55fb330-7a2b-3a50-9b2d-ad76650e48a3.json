@@ -2026,18 +2026,16 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-25 18:51:34 +0000",
-      "bit_8_2": "2024-06-25 18:54:17 +0000",
-      "bit_7_0": "2024-06-25 18:54:17 +0000",
-      "bit_6_1": "2024-06-25 18:54:17 +0000",
-      "bit_5_1": "2024-06-25 18:54:17 +0000",
-      "bit_4_2": "2024-06-25 18:54:17 +0000",
-      "bit_3_1": "2024-06-25 18:54:17 +0000",
-      "bit_1_0": "2024-06-25 18:54:18 +0000",
-      "bit_2_0": "2024-06-25 18:54:17 +0000",
-      "bit_1_1": "2024-06-25 18:54:17 +0000",
-      "bit_0_2": "2024-06-25 18:54:18 +0000",
-      "bit_0_0": "2024-06-25 18:54:17 +0000"
+      "not_projectile": "2024-06-25 19:08:05 +0000",
+      "bit_8_2": "2024-06-25 19:08:05 +0000",
+      "bit_7_0": "2024-06-25 19:08:05 +0000",
+      "bit_5_2": "2024-06-25 19:08:05 +0000",
+      "bit_6_2": "2024-06-25 19:08:05 +0000",
+      "bit_4_1": "2024-06-25 19:08:05 +0000",
+      "bit_3_0": "2024-06-25 19:08:05 +0000",
+      "bit_2_1": "2024-06-25 19:08:05 +0000",
+      "bit_0_1": "2024-06-25 19:08:05 +0000",
+      "bit_1_1": "2024-06-25 19:08:05 +0000"
     },
     "done": false
   },
@@ -4172,13 +4170,6 @@
       "has_diamond_tier_upgrade": "2024-05-20 21:08:55 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-25 18:56:46 +0000",
-      "blocked_false": "2024-06-25 18:56:46 +0000"
-    },
-    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
@@ -7449,6 +7440,12 @@
     },
     "done": true
   },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2024-06-25 19:00:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
       "has_gray_dye": "2024-05-26 20:11:21 +0000"
@@ -7905,6 +7902,12 @@
     },
     "done": true
   },
+  "naturesaura:end_flower": {
+    "criteria": {
+      "materials": "2024-06-25 18:59:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-05-20 18:19:11 +0000"
@@ -8226,6 +8229,12 @@
   "botania:recipes/botania/diva_charm": {
     "criteria": {
       "has_item": "2024-05-19 18:37:10 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:mob_jar": {
+    "criteria": {
+      "has_mob_jar": "2024-06-25 19:08:53 +0000"
     },
     "done": true
   },

@@ -2079,6 +2079,28 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-06-25 19:08:46 +0000",
+      "bit_8_2": "2024-06-25 19:08:46 +0000",
+      "bit_5_2": "2024-06-25 19:08:47 +0000",
+      "bit_7_0": "2024-06-25 19:08:46 +0000",
+      "bit_6_2": "2024-06-25 19:08:46 +0000",
+      "bit_4_1": "2024-06-25 19:08:46 +0000",
+      "bit_5_0": "2024-06-25 19:08:49 +0000",
+      "bit_5_1": "2024-06-25 19:08:46 +0000",
+      "bit_4_2": "2024-06-25 19:08:49 +0000",
+      "bit_3_0": "2024-06-25 19:08:46 +0000",
+      "bit_2_1": "2024-06-25 19:08:47 +0000",
+      "bit_1_2": "2024-06-25 19:08:46 +0000",
+      "bit_2_2": "2024-06-25 19:08:46 +0000",
+      "bit_0_1": "2024-06-25 19:08:46 +0000",
+      "bit_1_1": "2024-06-25 19:08:47 +0000",
+      "bit_0_2": "2024-06-25 19:08:47 +0000",
+      "bit_0_0": "2024-06-25 19:08:49 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-22 22:42:45 +0000"
@@ -4421,14 +4443,6 @@
       "has_diamond_tier_upgrade": "2024-06-19 19:21:16 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-25 18:57:03 +0000",
-      "is_projectile": "2024-06-25 18:57:03 +0000",
-      "blocked_false": "2024-06-25 18:57:03 +0000"
-    },
-    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
@@ -8034,6 +8048,12 @@
   "minecraft:recipes/travelersbackpack/emerald_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-06-19 19:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2024-06-25 19:00:50 +0000"
     },
     "done": true
   },
