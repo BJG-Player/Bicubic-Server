@@ -10667,3 +10667,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [25Jun2024 17:14:23.139] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity cfm:mail_box @ BlockPos{x=260, y=64, z=144} state Block{cfm:crimson_mail_box}[facing=east] invalid for ticking:
 [25Jun2024 17:14:25.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [25Jun2024 17:14:29.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackSparrago> [name:"portal al end", x:274, y:18, z:1434, dim:minecraft:overworld]
+[25Jun2024 17:16:54.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bicubic 2: Astral Inventions
+[25Jun2024 17:16:54.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bicubic 2: Astral Inventions
+[25Jun2024 17:18:00.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! -13.689178548240648,5.315739572274282,12.14113552678532
+[25Jun2024 17:18:04.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! -5.802260068136206,-8.223352862084397,4.4809131153213
+[25Jun2024 17:18:06.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! -6.816681270143647,-8.018088224164359,3.9618613241291314
+[25Jun2024 17:20:43.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! 0.0,-10.867409983895058,0.0
+[25Jun2024 17:21:17.965] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@55eb6e27
+[25Jun2024 17:21:42.614] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46975, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.17, y=64.04, z=160.36] died, message: 'Villager was squished too much'
+[25Jun2024 17:21:54.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bicubic 2: Astral Inventions
+[25Jun2024 17:21:54.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bicubic 2: Astral Inventions
+[25Jun2024 17:26:54.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bicubic 2: Astral Inventions
+[25Jun2024 17:26:54.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bicubic 2: Astral Inventions
