@@ -2630,15 +2630,15 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2024-06-25 15:14:04 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/botania/monocle": {
     "criteria": {
       "has_item": "2024-06-25 15:03:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-06-25 15:14:04 +0000"
     },
     "done": true
   },
