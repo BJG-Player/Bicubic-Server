@@ -1016,3 +1016,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [25Jun2024 15:01:18.374] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to SurpriseAttack03
 [25Jun2024 15:01:18.374] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to SurpriseAttack03
 [25Jun2024 15:01:18.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SurpriseAttack03 joined the game
+[25Jun2024 15:05:32.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SurpriseAttack03 has made the advancement [Drop Pop Candy]
+[25Jun2024 15:07:16.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[25Jun2024 15:07:55.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3275ms or 65 ticks behind
+[25Jun2024 15:07:55.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Braulio_JG moved too quickly! 3.6017105306082158,1.9986640208878583,-9.382077166651456
+[25Jun2024 15:10:22.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NanoLeche33> zzz
+[25Jun2024 15:11:30.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! -1.0917043077103727,4.026188653696366,10.683263211489475
+[25Jun2024 15:12:05.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! 3.9347420752556346,1.0934170098431082,11.846024174517652
+[25Jun2024 15:12:10.475] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 below top-6 above bottom]
+[25Jun2024 15:13:04.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SurpriseAttack03 has made the advancement [The Imperial March]
+[25Jun2024 15:14:04.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SurpriseAttack03 has made the advancement [Cover Me with Diamonds]
+[25Jun2024 15:14:19.588] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 lost connection: Disconnected
+[25Jun2024 15:14:19.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 left the game
+[25Jun2024 15:14:31.948] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4fb9350a
+[25Jun2024 15:14:31.963] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NanoLeche33[/127.20.16.204:46471] logged in with entity id 16931 at (353.5, 76.0, 96.53832018944784)
+[25Jun2024 15:14:31.964] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to NanoLeche33
+[25Jun2024 15:14:31.964] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to NanoLeche33
+[25Jun2024 15:14:31.965] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to NanoLeche33
+[25Jun2024 15:14:31.965] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to NanoLeche33
+[25Jun2024 15:14:31.968] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to NanoLeche33
+[25Jun2024 15:14:31.970] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to NanoLeche33
+[25Jun2024 15:14:31.971] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to NanoLeche33
+[25Jun2024 15:14:31.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 joined the game
+[25Jun2024 15:15:06.188] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for SurpriseAttack03 with unique ID 461d7436-eef8-45ae-9b40-35cfcd5fb4f3
+[25Jun2024 15:15:06.190] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 240 Y: 156 Z: 32
+[25Jun2024 15:15:14.972] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/462, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.16, y=64.04, z=160.40] died, message: 'Villager was squished too much'
+[25Jun2024 15:15:43.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SurpriseAttack03 has completed the challenge [Serious Dedication]
+[25Jun2024 15:17:52.274] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/545, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.13, y=64.04, z=160.55] died, message: 'Villager was squished too much'
+[25Jun2024 15:21:22.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SurpriseAttack03 moved too quickly! -4.735816659643433,-6.544466751265276,-6.072211240276754
+[25Jun2024 15:21:22.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2223ms or 44 ticks behind
+[25Jun2024 15:21:43.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[25Jun2024 15:21:45.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SurpriseAttack03 moved wrongly!
+[25Jun2024 15:21:54.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SurpriseAttack03> ce mime?
