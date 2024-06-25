@@ -2108,6 +2108,14 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-06-25 18:08:54 +0000",
+      "is_projectile": "2024-06-25 18:09:07 +0000",
+      "not_magic": "2024-06-25 18:08:54 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 17:02:14 +0000"
@@ -3125,6 +3133,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-05-20 18:25:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_picket_fence": {
+    "criteria": {
+      "has_concrete": "2024-06-25 18:12:20 +0000"
     },
     "done": true
   },
@@ -4307,6 +4321,13 @@
       "has_diamond_tier_upgrade": "2024-05-21 19:43:48 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-06-25 18:09:13 +0000",
+      "blocked_false": "2024-06-25 18:09:13 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
@@ -6688,6 +6709,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/light_gray_picket_gate": {
+    "criteria": {
+      "has_concrete": "2024-06-25 18:12:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/stripped_blue_archwood_wood": {
     "criteria": {
       "has_journal": "2024-05-20 15:58:58 +0000"
@@ -7147,6 +7174,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-05-26 21:44:30 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-06-25 18:12:19 +0000"
     },
     "done": true
   },
@@ -8885,6 +8918,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-06-25 18:13:42 +0000",
       "minecraft:deep_ocean": "2024-05-21 18:25:39 +0000",
       "minecraft:sunflower_plains": "2024-05-21 18:25:51 +0000",
       "minecraft:birch_forest": "2024-06-20 17:31:01 +0000",
@@ -8903,6 +8937,7 @@
       "minecraft:windswept_savanna": "2024-05-21 18:25:54 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-05-20 16:42:47 +0000",
       "minecraft:flower_forest": "2024-05-22 19:24:46 +0000",
+      "minecraft:old_growth_birch_forest": "2024-06-25 18:13:56 +0000",
       "minecraft:deep_dark": "2024-05-22 19:21:26 +0000",
       "minecraft:savanna": "2024-05-20 17:10:23 +0000",
       "minecraft:plains": "2024-05-20 16:46:28 +0000"
