@@ -4570,13 +4570,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-25 15:42:57 +0000",
-      "blocked_false": "2024-06-25 15:42:57 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-05-19 18:33:54 +0000"
@@ -7926,6 +7919,7 @@
       "byg:fragment_forest": "2024-06-22 17:04:38 +0000",
       "byg:rose_fields": "2024-06-22 17:00:12 +0000",
       "byg:quartz_desert": "2024-05-21 18:23:33 +0000",
+      "byg:warped_desert": "2024-06-25 15:48:51 +0000",
       "byg:firecracker_shrubland": "2024-05-19 18:32:48 +0000",
       "byg:magma_wastes": "2024-05-26 21:41:03 +0000",
       "byg:embur_bog": "2024-06-24 19:09:11 +0000",

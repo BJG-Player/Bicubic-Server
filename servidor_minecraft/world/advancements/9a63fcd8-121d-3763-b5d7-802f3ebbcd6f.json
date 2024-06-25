@@ -1103,6 +1103,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2024-06-25 15:46:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_pillar_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2024-06-22 17:55:27 +0000"
@@ -2545,6 +2551,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-06-25 15:46:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/brown_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-05-19 12:57:17 +0000"
@@ -3792,6 +3804,12 @@
   "cfm:recipes/cfm/blue_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-19 13:09:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/blaze_block": {
+    "criteria": {
+      "has_item": "2024-06-25 15:46:04 +0000"
     },
     "done": true
   },
@@ -8999,6 +9017,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-06-25 15:46:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-05-20 16:44:13 +0000"
@@ -10644,6 +10668,12 @@
   "cfm:recipes/cfm/acacia_chair": {
     "criteria": {
       "has_log": "2024-05-19 18:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-06-25 15:46:04 +0000"
     },
     "done": true
   },
