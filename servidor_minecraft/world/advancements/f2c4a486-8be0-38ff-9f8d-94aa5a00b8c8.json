@@ -2079,13 +2079,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "not_projectile": "2024-06-25 19:26:50 +0000",
-      "not_magic": "2024-06-25 19:26:50 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-22 22:42:45 +0000"
@@ -4431,8 +4424,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-25 19:26:50 +0000",
-      "blocked_false": "2024-06-25 19:26:50 +0000"
+      "not_projectile": "2024-06-25 19:38:15 +0000",
+      "blocked_false": "2024-06-25 19:38:15 +0000"
     },
     "done": false
   },
@@ -7764,6 +7757,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-06-25 19:38:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/wolf_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-06-19 19:21:05 +0000"
@@ -7825,6 +7824,7 @@
       "byg:crag_gardens": "2024-06-19 18:16:53 +0000",
       "byg:dacite_ridges": "2024-06-22 16:10:41 +0000",
       "byg:autumnal_valley": "2024-06-22 16:15:15 +0000",
+      "byg:ethereal_islands": "2024-06-25 19:38:34 +0000",
       "byg:aspen_forest": "2024-06-17 15:14:29 +0000",
       "byg:skyris_vale": "2024-06-19 18:26:29 +0000",
       "byg:cherry_blossom_forest": "2024-05-20 16:03:35 +0000",
