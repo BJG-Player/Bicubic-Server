@@ -2095,14 +2095,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "not_projectile": "2024-06-25 19:37:43 +0000",
-      "is_projectile": "2024-06-25 19:37:27 +0000",
-      "not_magic": "2024-06-25 19:37:44 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 18:23:30 +0000"
@@ -3383,6 +3375,7 @@
       "minecraft:piglin": "2024-05-21 18:38:03 +0000",
       "minecraft:enderman": "2024-05-25 21:43:27 +0000",
       "minecraft:stray": "2024-06-24 16:33:39 +0000",
+      "minecraft:silverfish": "2024-06-25 19:41:51 +0000",
       "minecraft:vex": "2024-06-20 16:31:22 +0000",
       "minecraft:zombie": "2024-05-20 16:16:09 +0000",
       "minecraft:drowned": "2024-05-20 17:34:56 +0000",
@@ -4656,13 +4649,6 @@
       "has_gate": "2024-06-16 16:43:47 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-25 19:37:43 +0000",
-      "blocked_false": "2024-06-25 19:37:43 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
@@ -8012,6 +7998,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-06-25 19:45:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_grass_block": {
     "criteria": {
       "has_journal": "2024-05-19 18:02:44 +0000"
@@ -8071,10 +8063,12 @@
       "byg:wailing_garth": "2024-06-22 12:13:29 +0000",
       "byg:dacite_ridges": "2024-06-24 12:16:19 +0000",
       "byg:autumnal_valley": "2024-06-24 16:21:35 +0000",
+      "byg:ethereal_islands": "2024-06-25 19:45:06 +0000",
       "byg:aspen_forest": "2024-06-22 15:56:17 +0000",
       "byg:skyris_vale": "2024-06-24 16:23:38 +0000",
       "byg:cherry_blossom_forest": "2024-05-19 18:04:24 +0000",
       "byg:crimson_gardens": "2024-05-21 18:24:48 +0000",
+      "byg:nightshade_forest": "2024-06-25 19:45:52 +0000",
       "byg:baobab_savanna": "2024-05-19 18:04:27 +0000",
       "byg:brimstone_caverns": "2024-06-21 18:50:16 +0000",
       "byg:amaranth_fields": "2024-06-22 15:39:26 +0000",

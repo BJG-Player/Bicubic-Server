@@ -1127,9 +1127,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2024-06-25 19:42:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-06-22 17:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-06-25 19:42:17 +0000"
     },
     "done": true
   },
@@ -1464,6 +1476,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-06-25 18:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2024-06-25 20:07:08 +0000"
     },
     "done": true
   },
@@ -2078,6 +2096,24 @@
       "has_gold_ore": "2024-05-26 18:24:37 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-06-25 20:10:52 +0000",
+      "bit_8_1": "2024-06-25 20:10:52 +0000",
+      "bit_6_1": "2024-06-25 20:10:52 +0000",
+      "bit_7_1": "2024-06-25 20:10:52 +0000",
+      "bit_5_1": "2024-06-25 20:10:52 +0000",
+      "bit_4_2": "2024-06-25 20:10:52 +0000",
+      "bit_3_0": "2024-06-25 20:10:52 +0000",
+      "bit_1_2": "2024-06-25 20:10:52 +0000",
+      "bit_0_1": "2024-06-25 20:10:52 +0000",
+      "bit_1_0": "2024-06-25 20:10:53 +0000",
+      "bit_1_1": "2024-06-25 20:10:55 +0000",
+      "bit_2_0": "2024-06-25 20:10:52 +0000",
+      "bit_0_2": "2024-06-25 20:10:53 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -3239,6 +3275,7 @@
       "minecraft:phantom": "2024-05-26 21:13:08 +0000",
       "minecraft:witch": "2024-06-19 17:36:17 +0000",
       "minecraft:wither_skeleton": "2024-05-20 19:17:45 +0000",
+      "minecraft:shulker": "2024-06-25 19:41:45 +0000",
       "minecraft:cave_spider": "2024-06-17 15:17:54 +0000",
       "minecraft:piglin": "2024-05-27 21:09:00 +0000",
       "minecraft:enderman": "2024-06-16 18:08:41 +0000",
@@ -4422,13 +4459,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-25 19:38:15 +0000",
-      "blocked_false": "2024-06-25 19:38:15 +0000"
-    },
-    "done": false
-  },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-06-19 22:25:15 +0000"
@@ -5362,6 +5392,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2024-06-22 12:03:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2024-06-25 19:42:28 +0000"
     },
     "done": true
   },
@@ -6995,6 +7031,12 @@
     },
     "done": true
   },
+  "landmines:recipes/landmines/levitation_landmine": {
+    "criteria": {
+      "recipe_condition": "2024-06-25 19:41:47 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/water_essence_to_bucket": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
@@ -7739,6 +7781,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-06-25 19:41:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/skeleton_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-06-19 19:20:39 +0000"
@@ -7805,7 +7853,9 @@
       "byg:prairie": "2024-06-16 16:52:15 +0000",
       "byg:allium_fields": "2024-06-18 15:45:59 +0000",
       "byg:coconino_meadow": "2024-06-22 01:44:10 +0000",
+      "byg:viscal_isles": "2024-06-25 19:58:05 +0000",
       "byg:temperate_grove": "2024-05-20 17:29:41 +0000",
+      "byg:bulbis_gardens": "2024-06-25 19:48:51 +0000",
       "byg:black_forest": "2024-06-24 16:21:17 +0000",
       "byg:orchard": "2024-05-20 16:22:38 +0000",
       "byg:redwood_thicket": "2024-06-22 16:14:20 +0000",
@@ -7825,12 +7875,15 @@
       "byg:dacite_ridges": "2024-06-22 16:10:41 +0000",
       "byg:autumnal_valley": "2024-06-22 16:15:15 +0000",
       "byg:ethereal_islands": "2024-06-25 19:38:34 +0000",
+      "byg:ivis_fields": "2024-06-25 19:54:38 +0000",
       "byg:aspen_forest": "2024-06-17 15:14:29 +0000",
       "byg:skyris_vale": "2024-06-19 18:26:29 +0000",
       "byg:cherry_blossom_forest": "2024-05-20 16:03:35 +0000",
       "byg:forgotten_forest": "2024-06-19 22:59:25 +0000",
+      "byg:imparius_grove": "2024-06-25 19:59:57 +0000",
       "byg:crimson_gardens": "2024-05-27 20:58:13 +0000",
       "byg:cardinal_tundra": "2024-06-24 18:51:19 +0000",
+      "byg:nightshade_forest": "2024-06-25 19:40:14 +0000",
       "byg:baobab_savanna": "2024-05-20 17:49:09 +0000",
       "byg:amaranth_fields": "2024-06-19 18:15:07 +0000",
       "byg:coniferous_forest": "2024-06-22 16:11:23 +0000",
@@ -8217,6 +8270,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-06-25 19:41:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-22 22:42:45 +0000"
@@ -8238,6 +8297,12 @@
   "create:recipes/create.palettes/cut_dripstone_brick_wall_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2024-06-22 17:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2024-06-25 19:42:28 +0000"
     },
     "done": true
   },
@@ -8340,6 +8405,12 @@
   "ars_nouveau:recipes/ars_nouveau/ritual_containment": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-06-25 19:42:28 +0000"
     },
     "done": true
   },
@@ -9889,6 +9960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-06-25 19:42:28 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/mundane_belt": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
@@ -10733,6 +10810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-06-25 19:41:47 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_granite": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
@@ -10778,6 +10861,12 @@
   "create:recipes/create.palettes/cut_deepslate_brick_stairs_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-05-26 21:22:13 +0000"
+    },
+    "done": true
+  },
+  "landmines:recipes/landmines/lightning_landmine": {
+    "criteria": {
+      "recipe_condition": "2024-06-25 19:42:27 +0000"
     },
     "done": true
   },
@@ -11110,6 +11199,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2024-06-24 15:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-06-25 19:42:28 +0000"
     },
     "done": true
   },

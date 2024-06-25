@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-06-25 19:57:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/yellow_cooler": {
     "criteria": {
       "has_chest": "2024-06-22 13:06:01 +0000"
@@ -1195,6 +1201,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/nightshade_planks": {
+    "criteria": {
+      "has_logs": "2024-06-25 19:46:04 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:curio_bag": {
     "criteria": {
       "has_curio_bag": "2024-05-19 18:22:45 +0000"
@@ -1568,6 +1580,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/ether_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-06-25 19:44:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/snow_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-05-20 21:08:52 +0000"
@@ -1769,6 +1787,12 @@
   "create:recipes/create.palettes/polished_cut_deepslate_stairs_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-05-20 18:17:45 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/ether_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-06-25 19:44:17 +0000"
     },
     "done": true
   },
@@ -2062,8 +2086,28 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-25 19:38:30 +0000",
-      "not_magic": "2024-06-25 19:38:30 +0000"
+      "not_projectile": "2024-06-25 20:06:59 +0000",
+      "bit_8_1": "2024-06-25 20:06:59 +0000",
+      "bit_6_1": "2024-06-25 20:06:59 +0000",
+      "bit_5_2": "2024-06-25 20:06:59 +0000",
+      "bit_7_1": "2024-06-25 20:06:59 +0000",
+      "bit_6_2": "2024-06-25 20:07:03 +0000",
+      "bit_5_0": "2024-06-25 20:07:03 +0000",
+      "bit_4_1": "2024-06-25 20:06:59 +0000",
+      "bit_3_2": "2024-06-25 20:06:59 +0000",
+      "bit_4_2": "2024-06-25 20:07:01 +0000",
+      "bit_3_0": "2024-06-25 20:07:35 +0000",
+      "bit_2_1": "2024-06-25 20:06:59 +0000",
+      "bit_1_2": "2024-06-25 20:07:01 +0000",
+      "bit_4_0": "2024-06-25 20:07:03 +0000",
+      "bit_3_1": "2024-06-25 20:07:03 +0000",
+      "bit_2_2": "2024-06-25 20:07:12 +0000",
+      "bit_1_0": "2024-06-25 20:06:59 +0000",
+      "bit_0_1": "2024-06-25 20:06:59 +0000",
+      "bit_2_0": "2024-06-25 20:07:01 +0000",
+      "bit_1_1": "2024-06-25 20:07:03 +0000",
+      "bit_0_2": "2024-06-25 20:07:01 +0000",
+      "bit_0_0": "2024-06-25 20:07:01 +0000"
     },
     "done": false
   },
@@ -3178,6 +3222,7 @@
       "minecraft:phantom": "2024-05-20 19:25:57 +0000",
       "minecraft:zombified_piglin": "2024-06-22 18:14:08 +0000",
       "minecraft:wither_skeleton": "2024-05-20 19:20:31 +0000",
+      "minecraft:husk": "2024-06-25 20:06:05 +0000",
       "minecraft:cave_spider": "2024-05-20 18:08:53 +0000",
       "minecraft:enderman": "2024-06-17 20:00:24 +0000",
       "minecraft:zombie": "2024-05-20 17:37:06 +0000",
@@ -3641,6 +3686,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/ether_planks": {
+    "criteria": {
+      "has_logs": "2024-06-25 19:42:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2024-05-20 17:48:30 +0000"
@@ -3728,6 +3779,12 @@
   "botania:recipes/botania/conversions/dragonstone_block_deconstruct": {
     "criteria": {
       "has_item": "2024-06-24 18:21:00 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/ether_wood": {
+    "criteria": {
+      "has_log": "2024-06-25 19:42:33 +0000"
     },
     "done": true
   },
@@ -3968,6 +4025,12 @@
   "cfm:recipes/cfm/red_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-05-20 19:48:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2024-06-25 20:05:49 +0000"
     },
     "done": true
   },
@@ -4237,8 +4300,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-25 19:38:29 +0000",
-      "blocked_false": "2024-06-25 19:38:29 +0000"
+      "not_projectile": "2024-06-25 20:07:56 +0000",
+      "blocked_false": "2024-06-25 20:07:56 +0000"
     },
     "done": false
   },
@@ -4329,6 +4392,12 @@
   "botania:recipes/botania/manaweave_cloth": {
     "criteria": {
       "has_item": "2024-05-23 21:23:13 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/ether_door": {
+    "criteria": {
+      "has_planks": "2024-06-25 19:44:17 +0000"
     },
     "done": true
   },
@@ -4467,6 +4536,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_pink_dye": "2024-05-22 18:32:11 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/ether_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-06-25 19:44:17 +0000"
     },
     "done": true
   },
@@ -4776,6 +4851,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/ether_fence": {
+    "criteria": {
+      "has_planks": "2024-06-25 19:44:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2024-05-19 18:37:09 +0000"
@@ -4797,6 +4878,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2024-05-20 20:19:24 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/ether_crafting_table": {
+    "criteria": {
+      "has_planks": "2024-06-25 19:44:17 +0000"
     },
     "done": true
   },
@@ -5139,6 +5226,12 @@
   "botania:recipes/botania/knockback_belt": {
     "criteria": {
       "has_item": "2024-06-25 15:03:43 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/ether_button": {
+    "criteria": {
+      "has_planks": "2024-06-25 19:44:17 +0000"
     },
     "done": true
   },
@@ -6517,6 +6610,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/ether_slab": {
+    "criteria": {
+      "has_planks": "2024-06-25 19:44:17 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/water_essence_to_bucket": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
@@ -6526,6 +6625,18 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-05-22 18:16:33 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/ether_bookshelf": {
+    "criteria": {
+      "has_planks": "2024-06-25 19:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-06-25 19:57:55 +0000"
     },
     "done": true
   },
@@ -7267,6 +7378,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-06-25 20:08:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/skeleton_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-05-20 21:08:52 +0000"
@@ -7294,6 +7411,12 @@
   "ars_nouveau:poof_mob": {
     "criteria": {
       "poof_mob": "2024-06-22 12:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-06-25 19:42:09 +0000"
     },
     "done": true
   },
@@ -7338,7 +7461,9 @@
       "byg:rainbow_beach": "2024-05-19 18:22:16 +0000",
       "byg:prairie": "2024-05-22 17:25:59 +0000",
       "byg:allium_fields": "2024-06-22 17:24:39 +0000",
+      "byg:viscal_isles": "2024-06-25 19:59:02 +0000",
       "byg:temperate_grove": "2024-05-22 17:25:17 +0000",
+      "byg:bulbis_gardens": "2024-06-25 19:51:07 +0000",
       "byg:orchard": "2024-05-20 19:51:34 +0000",
       "byg:red_oak_forest": "2024-06-24 17:03:30 +0000",
       "byg:redwood_thicket": "2024-05-21 17:42:22 +0000",
@@ -7350,9 +7475,13 @@
       "byg:araucaria_savanna": "2024-05-19 18:42:58 +0000",
       "byg:jacaranda_forest": "2024-05-21 17:41:50 +0000",
       "byg:dacite_ridges": "2024-05-21 17:41:44 +0000",
+      "byg:ethereal_islands": "2024-06-25 19:42:10 +0000",
+      "byg:ivis_fields": "2024-06-25 19:55:00 +0000",
       "byg:skyris_vale": "2024-05-21 17:42:27 +0000",
       "byg:cherry_blossom_forest": "2024-05-19 18:22:02 +0000",
+      "byg:imparius_grove": "2024-06-25 19:45:42 +0000",
       "byg:crimson_gardens": "2024-05-20 19:01:14 +0000",
+      "byg:nightshade_forest": "2024-06-25 19:45:51 +0000",
       "byg:baobab_savanna": "2024-05-19 18:22:01 +0000",
       "byg:brimstone_caverns": "2024-05-20 19:02:53 +0000",
       "byg:amaranth_fields": "2024-05-27 20:33:09 +0000",
@@ -7484,6 +7613,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-05-22 18:00:31 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/ether_stairs": {
+    "criteria": {
+      "has_planks": "2024-06-25 19:44:17 +0000"
     },
     "done": true
   },
@@ -8174,6 +8309,12 @@
   "minecraft:recipes/travelersbackpack/ocelot_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-05-20 21:08:52 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/nightshade_wood": {
+    "criteria": {
+      "has_log": "2024-06-25 19:46:04 +0000"
     },
     "done": true
   },
