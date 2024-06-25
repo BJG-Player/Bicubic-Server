@@ -551,6 +551,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2024-06-25 19:12:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-05-26 18:35:35 +0000"
@@ -2167,16 +2173,7 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-25 19:08:42 +0000",
-      "bit_8_2": "2024-06-25 19:08:42 +0000",
-      "bit_7_0": "2024-06-25 19:08:42 +0000",
-      "bit_5_2": "2024-06-25 19:08:42 +0000",
-      "bit_6_2": "2024-06-25 19:08:42 +0000",
-      "bit_4_1": "2024-06-25 19:08:42 +0000",
-      "bit_3_1": "2024-06-25 19:08:42 +0000",
-      "bit_2_2": "2024-06-25 19:08:42 +0000",
-      "bit_0_1": "2024-06-25 19:08:42 +0000",
-      "bit_1_0": "2024-06-25 19:08:42 +0000"
+      "not_projectile": "2024-06-25 19:29:29 +0000"
     },
     "done": false
   },
@@ -3511,6 +3508,7 @@
       "minecraft:phantom": "2024-05-20 18:21:01 +0000",
       "minecraft:zombified_piglin": "2024-05-27 21:05:04 +0000",
       "minecraft:wither_skeleton": "2024-05-27 21:00:42 +0000",
+      "minecraft:ender_dragon": "2024-06-25 19:12:33 +0000",
       "minecraft:cave_spider": "2024-05-28 18:07:37 +0000",
       "minecraft:piglin": "2024-06-16 15:53:06 +0000",
       "minecraft:enderman": "2024-05-20 16:07:43 +0000",
@@ -4677,6 +4675,13 @@
       "has_gate": "2024-06-16 16:43:45 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-06-25 19:29:14 +0000",
+      "blocked_false": "2024-06-25 19:29:14 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {

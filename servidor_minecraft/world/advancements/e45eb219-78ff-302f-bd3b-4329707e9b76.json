@@ -575,6 +575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-25 19:22:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-05-21 09:59:31 +0000"
@@ -1133,6 +1139,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2024-06-25 19:28:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/black_grill": {
     "criteria": {
       "has_iron": "2024-05-20 16:18:24 +0000"
@@ -1507,6 +1519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-25 19:22:04 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/baobab_pressure_plate": {
     "criteria": {
       "has_planks": "2024-05-28 18:51:35 +0000"
@@ -1588,6 +1606,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2024-06-22 13:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-25 19:22:04 +0000"
     },
     "done": true
   },
@@ -2032,6 +2056,12 @@
   "botania:recipes/botania/glass_pickaxe": {
     "criteria": {
       "has_item": "2024-06-22 17:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-25 19:22:04 +0000"
     },
     "done": true
   },
@@ -2711,6 +2741,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2024-05-21 18:25:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-06-25 19:22:04 +0000"
     },
     "done": true
   },
@@ -4601,6 +4637,13 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-06-25 19:21:59 +0000",
+      "blocked_false": "2024-06-25 19:21:59 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-05-19 18:33:54 +0000"
@@ -5016,6 +5059,12 @@
   "ars_nouveau:recipes/ars_nouveau/runic_chalk": {
     "criteria": {
       "has_journal": "2024-05-19 18:02:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-25 19:22:04 +0000"
     },
     "done": true
   },
@@ -7006,6 +7055,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-25 19:22:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-05-21 18:23:32 +0000"
@@ -7385,6 +7440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-25 19:22:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2024-05-21 18:28:27 +0000"
@@ -7712,6 +7773,12 @@
   "create:recipes/create.palettes/polished_cut_limestone_slab_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2024-06-22 13:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-25 19:22:04 +0000"
     },
     "done": true
   },
