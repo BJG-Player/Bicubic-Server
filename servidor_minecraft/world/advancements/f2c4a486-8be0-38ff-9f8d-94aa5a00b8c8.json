@@ -2097,24 +2097,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "not_projectile": "2024-06-25 20:10:52 +0000",
-      "bit_8_1": "2024-06-25 20:10:52 +0000",
-      "bit_6_1": "2024-06-25 20:10:52 +0000",
-      "bit_7_1": "2024-06-25 20:10:52 +0000",
-      "bit_5_1": "2024-06-25 20:10:52 +0000",
-      "bit_4_2": "2024-06-25 20:10:52 +0000",
-      "bit_3_0": "2024-06-25 20:10:52 +0000",
-      "bit_1_2": "2024-06-25 20:10:52 +0000",
-      "bit_0_1": "2024-06-25 20:10:52 +0000",
-      "bit_1_0": "2024-06-25 20:10:53 +0000",
-      "bit_1_1": "2024-06-25 20:10:55 +0000",
-      "bit_2_0": "2024-06-25 20:10:52 +0000",
-      "bit_0_2": "2024-06-25 20:10:53 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-22 22:42:45 +0000"
@@ -4458,6 +4440,13 @@
       "has_diamond_tier_upgrade": "2024-06-19 19:21:16 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-06-25 23:26:16 +0000",
+      "blocked_false": "2024-06-25 23:26:16 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
@@ -9711,6 +9700,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-20 16:22:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2024-06-25 23:16:59 +0000"
     },
     "done": true
   },

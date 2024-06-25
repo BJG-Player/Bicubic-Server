@@ -975,3 +975,96 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [25Jun2024 23:05:22.019] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
 [25Jun2024 23:05:22.115] [Thread-0/FATAL] [mcjty.theoneprobe.TheOneProbe/CORE]: theoneprobe config just got changed on the file system!
 [25Jun2024 23:05:22.125] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
+[25Jun2024 23:09:42.396] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[25Jun2024 23:09:42.566] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@39ebc42f
+[25Jun2024 23:09:42.631] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Braulio_JG[/127.229.14.7:35167] logged in with entity id 259 at (313.84851895861794, 86.0, 131.93550709327627)
+[25Jun2024 23:09:42.654] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Braulio_JG
+[25Jun2024 23:09:42.661] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Braulio_JG
+[25Jun2024 23:09:42.665] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Braulio_JG
+[25Jun2024 23:09:42.666] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Braulio_JG
+[25Jun2024 23:09:42.672] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Braulio_JG
+[25Jun2024 23:09:42.695] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Braulio_JG
+[25Jun2024 23:09:42.695] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Braulio_JG
+[25Jun2024 23:09:42.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Braulio_JG joined the game
+[25Jun2024 23:09:44.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[25Jun2024 23:09:45.637] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3ec54571
+[25Jun2024 23:09:46.334] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity cfm:mail_box @ BlockPos{x=260, y=64, z=144} state Block{cfm:crimson_mail_box}[facing=east] invalid for ticking:
+[25Jun2024 23:10:12.218] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@efc8afa
+[25Jun2024 23:10:52.280] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@43ee1fb
+[25Jun2024 23:10:52.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JackSparrago[/127.115.220.219:59385] logged in with entity id 770 at (2277.2183621435283, 124.20000004768372, -534.0694379854154)
+[25Jun2024 23:10:52.295] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JackSparrago
+[25Jun2024 23:10:52.296] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JackSparrago
+[25Jun2024 23:10:52.296] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JackSparrago
+[25Jun2024 23:10:52.296] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JackSparrago
+[25Jun2024 23:10:52.299] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JackSparrago
+[25Jun2024 23:10:52.301] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JackSparrago
+[25Jun2024 23:10:52.301] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JackSparrago
+[25Jun2024 23:10:52.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago joined the game
+[25Jun2024 23:10:54.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2176ms or 43 ticks behind
+[25Jun2024 23:11:15.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6109ms or 122 ticks behind
+[25Jun2024 23:12:24.766] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@11281e99
+[25Jun2024 23:15:16.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -6.647377886720733,5.984793386129468,6.330602011747374
+[25Jun2024 23:15:16.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4024ms or 80 ticks behind
+[25Jun2024 23:15:51.749] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/408, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.13, y=64.04, z=160.30] died, message: 'Villager was squished too much'
+[25Jun2024 23:16:59.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago has made the advancement [Hunt and Gather]
+[25Jun2024 23:18:49.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Braulio_JG: Teleported JackSparrago to Braulio_JG]
+[25Jun2024 23:20:15.383] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@71650e29
+[25Jun2024 23:20:15.405] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xabio[/127.11.221.89:36523] logged in with entity id 4114 at (-773.8164933845987, 184.44632064860988, 4827.798892935051)
+[25Jun2024 23:20:15.406] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Xabio
+[25Jun2024 23:20:15.406] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Xabio
+[25Jun2024 23:20:15.406] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Xabio
+[25Jun2024 23:20:15.407] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Xabio
+[25Jun2024 23:20:15.410] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Xabio
+[25Jun2024 23:20:15.412] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Xabio
+[25Jun2024 23:20:15.413] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Xabio
+[25Jun2024 23:20:15.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xabio joined the game
+[25Jun2024 23:22:02.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Braulio_JG: Teleported Xabio to Braulio_JG]
+[25Jun2024 23:22:02.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xabio has completed the challenge [Great View From Up Here]
+[25Jun2024 23:22:48.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Braulio_JG: Set Xabio's game mode to Creative Mode]
+[25Jun2024 23:23:46.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Braulio_JG: Made Xabio a server operator]
+[25Jun2024 23:23:58.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xabio: Set own game mode to Survival Mode]
+[25Jun2024 23:25:37.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Braulio_JG: Gamerule keepInventory is now set to: true]
+[25Jun2024 23:25:50.032] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xabio lost connection: Disconnected
+[25Jun2024 23:25:50.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xabio left the game
+[25Jun2024 23:25:57.289] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@24f21299
+[25Jun2024 23:25:57.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NanoLeche33[/127.20.16.204:35533] logged in with entity id 7981 at (-1427.6150880743708, 60.0, -297.49348634449143)
+[25Jun2024 23:25:57.307] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to NanoLeche33
+[25Jun2024 23:25:57.307] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to NanoLeche33
+[25Jun2024 23:25:57.307] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to NanoLeche33
+[25Jun2024 23:25:57.307] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to NanoLeche33
+[25Jun2024 23:25:57.310] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to NanoLeche33
+[25Jun2024 23:25:57.312] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to NanoLeche33
+[25Jun2024 23:25:57.312] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to NanoLeche33
+[25Jun2024 23:25:57.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 joined the game
+[25Jun2024 23:26:00.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Braulio_JG moved too quickly! 0.18646563955252304,-4.0,-9.394801764147644
+[25Jun2024 23:26:00.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3185ms or 63 ticks behind
+[25Jun2024 23:26:16.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago fell out of the world
+[25Jun2024 23:26:16.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Braulio_JG: Killed JackSparrago]
+[25Jun2024 23:26:59.102] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7476d3e3
+[25Jun2024 23:26:59.113] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xabio[/127.11.221.89:34645] logged in with entity id 9393 at (361.42202039377054, 63.0, 396.91412520437717)
+[25Jun2024 23:26:59.114] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Xabio
+[25Jun2024 23:26:59.114] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Xabio
+[25Jun2024 23:26:59.114] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Xabio
+[25Jun2024 23:26:59.115] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Xabio
+[25Jun2024 23:26:59.117] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Xabio
+[25Jun2024 23:26:59.118] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Xabio
+[25Jun2024 23:26:59.118] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Xabio
+[25Jun2024 23:26:59.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xabio joined the game
+[25Jun2024 23:27:15.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[25Jun2024 23:28:07.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[25Jun2024 23:28:37.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 has made the advancement [The City at the End of the Game]
+[25Jun2024 23:29:00.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 has reached the goal [Sky's the Limit]
+[25Jun2024 23:29:03.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xabio moved too quickly! -1.199727473571329,3.8769534494800695,-14.261827094740454
+[25Jun2024 23:29:37.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[25Jun2024 23:30:01.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[25Jun2024 23:30:19.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2643ms or 52 ticks behind
+[25Jun2024 23:33:10.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[25Jun2024 23:33:45.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! -178.59299643578936,31.5,-1433.381699832768
+[25Jun2024 23:34:01.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[25Jun2024 23:34:30.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xabio moved too quickly! 0.02907958287892143,-10.61202295686212,0.9239309098136346
+[25Jun2024 23:35:19.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[25Jun2024 23:35:53.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xabio moved too quickly! -177.22155782306623,31.464159374955443,-1434.3416552995945
+[25Jun2024 23:36:10.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xabio has reached the goal [The Next Generation]
+[25Jun2024 23:37:00.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NanoLeche33: Teleported Xabio to NanoLeche33]
+[25Jun2024 23:37:23.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xabio moved too quickly! -177.3147353751982,31.464159374955443,-1434.8245930072485
+[25Jun2024 23:37:57.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NanoLeche33: Teleported Xabio to NanoLeche33]
