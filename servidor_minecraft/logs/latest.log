@@ -1080,3 +1080,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [25Jun2024 15:45:14.750] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
 [25Jun2024 15:46:04.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Braulio_JG has made the advancement [Into Fire]
 [25Jun2024 15:48:35.567] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 below top-6 above bottom]
+[25Jun2024 15:55:24.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 has made the advancement [Those Were the Days]
+[25Jun2024 15:56:30.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! -9.297693931181584,5.0,0.27947285552590984
+[25Jun2024 15:56:48.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 has made the advancement [War Pigs]
+[25Jun2024 16:01:04.722] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/41544, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.18, y=64.04, z=160.30] died, message: 'Villager was squished too much'
+[25Jun2024 16:04:27.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 lost connection: Disconnected
+[25Jun2024 16:04:27.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 left the game
+[25Jun2024 16:04:40.423] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@58cb4ea5
+[25Jun2024 16:04:40.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NanoLeche33[/127.20.16.204:40285] logged in with entity id 48474 at (990.077511484837, 74.875, 3461.7381306358875)
+[25Jun2024 16:04:40.440] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to NanoLeche33
+[25Jun2024 16:04:40.440] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to NanoLeche33
+[25Jun2024 16:04:40.441] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to NanoLeche33
+[25Jun2024 16:04:40.441] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to NanoLeche33
+[25Jun2024 16:04:40.443] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to NanoLeche33
+[25Jun2024 16:04:40.446] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to NanoLeche33
+[25Jun2024 16:04:40.446] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to NanoLeche33
+[25Jun2024 16:04:40.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 joined the game
