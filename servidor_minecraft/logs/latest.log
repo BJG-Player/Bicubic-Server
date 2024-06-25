@@ -1096,3 +1096,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [25Jun2024 16:04:40.446] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to NanoLeche33
 [25Jun2024 16:04:40.446] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to NanoLeche33
 [25Jun2024 16:04:40.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 joined the game
+[25Jun2024 16:05:11.023] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/41542, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.10, y=64.05, z=160.59] died, message: 'Villager was squished too much'
+[25Jun2024 16:07:41.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! 0.6771881479086233,-10.951590096554995,-0.48267065058280423
+[25Jun2024 16:07:47.468] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/41547, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.23, y=64.05, z=160.46] died, message: 'Villager was squished too much'
+[25Jun2024 16:14:29.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! -8.938778067469002,-3.1126383763689205,-4.2575952735137435
+[25Jun2024 16:21:46.567] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/57785, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.20, y=64.05, z=160.51] died, message: 'Villager was squished too much'
+[25Jun2024 16:23:19.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Braulio_JG lost connection: Disconnected
+[25Jun2024 16:23:19.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Braulio_JG left the game

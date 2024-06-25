@@ -4665,6 +4665,13 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-06-25 16:15:43 +0000",
+      "blocked_false": "2024-06-25 16:15:43 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-05-22 22:13:12 +0000"
@@ -5028,6 +5035,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2024-05-28 17:09:43 +0000",
+      "onion": "2024-06-25 16:20:48 +0000",
       "tomato": "2024-05-28 17:13:47 +0000",
       "kelp": "2024-06-22 18:26:26 +0000",
       "rice": "2024-06-22 16:52:03 +0000",
@@ -5453,6 +5461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-06-25 16:18:47 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_blocks/trough": {
     "criteria": {
       "has_item": "2024-05-20 17:36:03 +0000"
@@ -5534,6 +5548,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-05-23 21:54:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/onion_crate": {
+    "criteria": {
+      "has_onion": "2024-06-25 16:18:47 +0000"
     },
     "done": true
   },
@@ -10020,6 +10040,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-06-25 16:09:30 +0000",
       "cooked_mutton": "2024-05-28 18:12:27 +0000",
       "baked_potato": "2024-06-22 17:32:53 +0000",
       "cooked_cod": "2024-06-22 00:00:48 +0000",
