@@ -2371,14 +2371,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "not_projectile": "2024-06-26 00:10:09 +0000",
-      "is_projectile": "2024-06-26 00:11:27 +0000",
-      "not_magic": "2024-06-26 00:11:27 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 18:23:30 +0000"
@@ -2988,6 +2980,12 @@
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "soul_campfire": "2024-06-21 19:52:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/spark_upgrade_isolated": {
+    "criteria": {
+      "has_alt_item": "2024-06-26 00:43:45 +0000"
     },
     "done": true
   },
@@ -5931,6 +5929,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/spark_upgrade_recessive": {
+    "criteria": {
+      "has_alt_item": "2024-06-26 00:43:45 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/willow_chest_boat": {
     "criteria": {
       "has_boat": "2024-05-19 18:33:54 +0000"
@@ -8200,6 +8204,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/spark_upgrade_dispersive": {
+    "criteria": {
+      "has_alt_item": "2024-06-26 00:43:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_ochrum_bricks_from_ochrum_stonecutting": {
     "criteria": {
       "has_ochrum": "2024-06-19 18:36:30 +0000"
@@ -9526,6 +9536,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-06-21 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/spark_upgrade_dominant": {
+    "criteria": {
+      "has_alt_item": "2024-06-26 00:43:45 +0000"
     },
     "done": true
   },
@@ -12682,6 +12698,12 @@
   "minecraft:recipes/travelersbackpack/horse_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2024-06-25 23:53:16 +0000"
+    },
+    "done": true
+  },
+  "botania:main/spark_craft": {
+    "criteria": {
+      "spark": "2024-06-26 00:43:45 +0000"
     },
     "done": true
   },
