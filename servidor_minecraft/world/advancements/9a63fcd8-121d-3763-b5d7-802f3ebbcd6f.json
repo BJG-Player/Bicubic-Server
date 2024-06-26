@@ -2185,8 +2185,9 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-26 01:00:40 +0000",
-      "not_magic": "2024-06-26 01:00:40 +0000"
+      "bit_4_1": "2024-06-26 01:08:15 +0000",
+      "bit_1_2": "2024-06-26 01:08:15 +0000",
+      "bit_2_2": "2024-06-26 01:08:15 +0000"
     },
     "done": false
   },
@@ -4703,8 +4704,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-26 01:00:39 +0000",
-      "blocked_false": "2024-06-26 01:00:39 +0000"
+      "not_projectile": "2024-06-26 01:08:39 +0000",
+      "blocked_false": "2024-06-26 01:08:39 +0000"
     },
     "done": false
   },
@@ -7371,7 +7372,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:sheep": "2024-05-28 15:58:13 +0000"
+      "minecraft:sheep": "2024-05-28 15:58:13 +0000",
+      "minecraft:bee": "2024-06-26 01:05:18 +0000"
     },
     "done": false
   },

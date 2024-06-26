@@ -140,3 +140,69 @@
 [26Jun2024 01:03:35.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xabio moved too quickly! 0.0,10.392959293611,0.0
 [26Jun2024 01:03:38.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xabio moved too quickly! 0.0,-10.529193645291315,0.0
 [26Jun2024 01:04:39.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Braulio_JG moved too quickly! 0.6681231968592556,-6.180947325696195,-7.970162048293346
+[26Jun2024 01:06:39.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Skeletal Steed (vehicle of Xabio) moved too quickly! 10.04329778151299,0.0,0.3436621380172511
+[26Jun2024 01:06:39.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Skeletal Steed (vehicle of Xabio) moved too quickly! 10.692500625620767,0.0,0.3436621380172511
+[26Jun2024 01:06:39.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Skeletal Steed (vehicle of Xabio) moved too quickly! 11.347490530176572,0.0,0.3694989947106109
+[26Jun2024 01:06:39.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Skeletal Steed (vehicle of Xabio) moved too quickly! 12.005576975396593,0.0,0.40916063828925076
+[26Jun2024 01:06:39.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Skeletal Steed (vehicle of Xabio) moved too quickly! 12.665320317787689,0.0,0.45621964969367923
+[26Jun2024 01:06:39.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Skeletal Steed (vehicle of Xabio) moved too quickly! 13.325982230340173,0.0,0.5068534222913854
+[26Jun2024 01:06:39.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Skeletal Steed (vehicle of Xabio) moved too quickly! 13.987265757546822,0.0,0.5577773829816692
+[26Jun2024 01:06:39.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Skeletal Steed (vehicle of Xabio) moved too quickly! 14.649242463861071,0.0,0.6036305337824928
+[26Jun2024 01:06:39.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Skeletal Steed (vehicle of Xabio) moved too quickly! 15.312152857490219,0.0,0.6278696781822077
+[26Jun2024 01:06:39.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Skeletal Steed (vehicle of Xabio) moved too quickly! 15.971078724581275,1.0,0.5884135885655155
+[26Jun2024 01:12:45.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xabio moved too quickly! 0.5531388137346198,1.5269159904036655,-10.213092080709828
+[26Jun2024 01:13:24.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xabio lost connection: Disconnected
+[26Jun2024 01:13:24.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xabio left the game
+[26Jun2024 01:16:21.442] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Braulio_JG lost connection: Disconnected
+[26Jun2024 01:16:21.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Braulio_JG left the game
+[26Jun2024 01:16:56.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Jun2024 01:16:56.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Jun2024 01:16:56.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Jun2024 01:16:56.713] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
+java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:54) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:650) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.19.2-43.3.0-universal.jar%23272!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:85) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
+Caused by: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.ExecPty.doSetAttr(ExecPty.java:93) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	... 4 more
+[26Jun2024 01:17:00.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bicubic 2: Astral Inventions]'/minecraft:overworld
+[26Jun2024 01:17:02.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bicubic 2: Astral Inventions]'/ad_astra:mercury_orbit
+[26Jun2024 01:17:02.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bicubic 2: Astral Inventions]'/ad_astra:moon
+[26Jun2024 01:17:02.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bicubic 2: Astral Inventions]'/minecraft:the_nether
+[26Jun2024 01:17:03.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bicubic 2: Astral Inventions]'/ad_astra:moon_orbit
+[26Jun2024 01:17:03.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bicubic 2: Astral Inventions]'/ad_astra:mercury
+[26Jun2024 01:17:03.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bicubic 2: Astral Inventions]'/ad_astra:mars
+[26Jun2024 01:17:03.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bicubic 2: Astral Inventions]'/blue_skies:everdawn
+[26Jun2024 01:17:03.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bicubic 2: Astral Inventions]'/minecraft:the_end
+[26Jun2024 01:17:03.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bicubic 2: Astral Inventions]'/ad_astra:venus_orbit
+[26Jun2024 01:17:03.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bicubic 2: Astral Inventions]'/ad_astra:mars_orbit
+[26Jun2024 01:17:03.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bicubic 2: Astral Inventions]'/blue_skies:everbright
+[26Jun2024 01:17:03.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bicubic 2: Astral Inventions]'/ad_astra:venus
+[26Jun2024 01:17:03.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bicubic 2: Astral Inventions]'/ad_astra:earth_orbit
+[26Jun2024 01:17:03.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bicubic 2: Astral Inventions]'/ad_astra:glacio
+[26Jun2024 01:17:03.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bicubic 2: Astral Inventions]'/ad_astra:glacio_orbit
+[26Jun2024 01:17:03.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Jun2024 01:17:03.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[26Jun2024 01:17:03.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[26Jun2024 01:17:03.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Jun2024 01:17:03.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[26Jun2024 01:17:03.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[26Jun2024 01:17:03.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[26Jun2024 01:17:03.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[26Jun2024 01:17:03.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Jun2024 01:17:03.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[26Jun2024 01:17:03.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[26Jun2024 01:17:03.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[26Jun2024 01:17:03.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[26Jun2024 01:17:03.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[26Jun2024 01:17:03.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[26Jun2024 01:17:03.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[26Jun2024 01:17:03.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
