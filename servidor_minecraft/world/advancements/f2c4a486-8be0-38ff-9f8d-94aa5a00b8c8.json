@@ -1211,6 +1211,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2024-06-26 00:01:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/black_grill": {
     "criteria": {
       "has_iron": "2024-05-20 16:15:56 +0000"
@@ -2096,6 +2102,13 @@
       "has_gold_ore": "2024-05-26 18:24:37 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-06-26 00:04:29 +0000",
+      "not_magic": "2024-06-26 00:04:29 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {

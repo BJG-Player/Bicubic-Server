@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diving_board": {
+    "criteria": {
+      "has_wheat": "2024-06-25 23:57:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-05-20 19:00:32 +0000"
@@ -4155,6 +4161,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-06-25 23:57:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_asurine_stairs_from_asurine_stonecutting": {
     "criteria": {
       "has_asurine": "2024-05-28 17:55:32 +0000"
@@ -4224,6 +4236,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2024-06-20 17:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-06-25 23:57:21 +0000"
     },
     "done": true
   },
@@ -4404,6 +4422,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-05-20 19:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-06-25 23:57:21 +0000"
     },
     "done": true
   },
@@ -5236,6 +5260,12 @@
   "cfm:recipes/cfm/spruce_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-05-21 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/door_mat": {
+    "criteria": {
+      "has_wheat": "2024-06-25 23:57:21 +0000"
     },
     "done": true
   },
@@ -7190,6 +7220,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-06-25 23:57:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/speedometer": {
     "criteria": {
       "has_item": "2024-06-19 21:45:28 +0000"
@@ -8056,6 +8092,12 @@
   "create:recipes/create.palettes/polished_cut_dripstone_slab_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2024-06-22 17:07:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-06-25 23:57:21 +0000"
     },
     "done": true
   },
@@ -9150,6 +9192,7 @@
       "minecraft:flower_forest": "2024-05-22 19:24:46 +0000",
       "minecraft:old_growth_birch_forest": "2024-06-25 18:13:56 +0000",
       "minecraft:deep_dark": "2024-05-22 19:21:26 +0000",
+      "minecraft:meadow": "2024-06-25 23:55:12 +0000",
       "minecraft:savanna": "2024-05-20 17:10:23 +0000",
       "minecraft:plains": "2024-05-20 16:46:28 +0000"
     },
@@ -10595,6 +10638,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_harvester": {
     "criteria": {
       "has_item": "2024-06-19 21:45:43 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:drygmy_charm": {
+    "criteria": {
+      "has_drygmy_charm": "2024-06-26 00:00:16 +0000"
     },
     "done": true
   },

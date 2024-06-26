@@ -1301,6 +1301,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2024-06-26 00:00:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_blue_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-19 13:09:17 +0000"
@@ -2179,26 +2185,7 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-25 19:48:19 +0000",
-      "is_projectile": "2024-06-25 19:47:47 +0000",
-      "bit_8_1": "2024-06-25 19:48:19 +0000",
-      "bit_7_2": "2024-06-25 19:48:19 +0000",
-      "bit_8_2": "2024-06-25 19:55:51 +0000",
-      "bit_6_1": "2024-06-25 19:48:19 +0000",
-      "bit_6_2": "2024-06-25 23:30:40 +0000",
-      "bit_5_0": "2024-06-25 19:48:19 +0000",
-      "bit_3_2": "2024-06-25 19:48:19 +0000",
-      "bit_4_1": "2024-06-25 23:30:40 +0000",
-      "bit_5_1": "2024-06-25 19:55:51 +0000",
-      "bit_1_2": "2024-06-25 19:55:51 +0000",
-      "bit_2_1": "2024-06-25 23:30:40 +0000",
-      "bit_4_0": "2024-06-25 19:48:19 +0000",
-      "bit_3_1": "2024-06-25 19:55:51 +0000",
-      "bit_2_2": "2024-06-25 19:55:51 +0000",
-      "bit_1_0": "2024-06-25 19:48:19 +0000",
-      "bit_2_0": "2024-06-25 19:48:19 +0000",
-      "bit_0_2": "2024-06-25 19:55:51 +0000",
-      "bit_0_0": "2024-06-25 19:48:19 +0000"
+      "not_projectile": "2024-06-26 00:06:12 +0000"
     },
     "done": false
   },
@@ -3040,6 +3027,12 @@
   "cfm:recipes/cfm/green_grill": {
     "criteria": {
       "has_iron": "2024-05-20 16:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-06-25 23:41:29 +0000"
     },
     "done": true
   },
@@ -4709,8 +4702,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-25 23:30:44 +0000",
-      "blocked_false": "2024-06-25 23:30:44 +0000"
+      "not_projectile": "2024-06-25 23:50:31 +0000",
+      "blocked_false": "2024-06-25 23:50:31 +0000"
     },
     "done": false
   },
@@ -11019,6 +11012,12 @@
   "create:recipes/create.base/crafting/kinetics/windmill_bearing": {
     "criteria": {
       "has_item": "2024-05-22 22:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-06-25 23:41:29 +0000"
     },
     "done": true
   },
