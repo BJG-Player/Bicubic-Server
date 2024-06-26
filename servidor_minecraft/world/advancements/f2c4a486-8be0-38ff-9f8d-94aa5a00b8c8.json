@@ -755,6 +755,12 @@
     },
     "done": true
   },
+  "ars_nouveau:enchanting_apparatus": {
+    "criteria": {
+      "has_enchanting_apparatus": "2024-06-26 00:39:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/lapis_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-06-19 19:21:05 +0000"
@@ -1294,6 +1300,12 @@
   "create:recipes/create.base/crafting/kinetics/hand_crank": {
     "criteria": {
       "has_item": "2024-06-19 22:25:15 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2024-06-26 00:38:18 +0000"
     },
     "done": true
   },

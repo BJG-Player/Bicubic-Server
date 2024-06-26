@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/placeholder": {
+    "criteria": {
+      "has_dreamwood": "2024-06-26 00:30:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/brown_cooler": {
     "criteria": {
       "has_chest": "2024-05-21 18:55:23 +0000"
@@ -482,6 +488,12 @@
   "create:recipes/create.palettes/cut_limestone_bricks_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2024-06-22 13:59:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/horn_grass": {
+    "criteria": {
+      "has_item": "2024-06-26 00:30:17 +0000"
     },
     "done": true
   },
@@ -2925,6 +2937,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/dreamwood_planks": {
+    "criteria": {
+      "has_item": "2024-06-26 00:30:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2024-05-21 18:25:11 +0000"
@@ -2940,6 +2958,12 @@
   "create:recipes/create.palettes/small_limestone_brick_slab_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2024-06-22 13:59:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/drum_gathering": {
+    "criteria": {
+      "has_alt_item": "2024-06-26 00:30:23 +0000"
     },
     "done": true
   },
@@ -3271,6 +3295,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-05-19 18:20:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/turntable": {
+    "criteria": {
+      "has_item": "2024-06-26 00:30:17 +0000"
     },
     "done": true
   },
@@ -4822,6 +4852,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/dreamwood_twig": {
+    "criteria": {
+      "has_item": "2024-06-26 00:30:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-05-25 21:51:56 +0000"
@@ -4897,6 +4933,12 @@
   "ars_nouveau:recipes/ars_nouveau/green_sbed": {
     "criteria": {
       "has_journal": "2024-05-19 18:02:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/dreamwood": {
+    "criteria": {
+      "has_log": "2024-06-26 00:30:23 +0000"
     },
     "done": true
   },
@@ -6597,9 +6639,21 @@
     },
     "done": true
   },
+  "botania:recipes/botania/clip": {
+    "criteria": {
+      "has_item": "2024-06-26 00:30:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/lime_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-21 18:55:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/livingwood": {
+    "criteria": {
+      "has_log": "2024-06-26 00:30:17 +0000"
     },
     "done": true
   },
@@ -7453,6 +7507,18 @@
   "cfm:recipes/cfm/stripped_acacia_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-05-21 10:13:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/glimmering_dreamwood_log": {
+    "criteria": {
+      "has_item": "2024-06-26 00:30:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/incense_plate": {
+    "criteria": {
+      "has_item": "2024-06-26 00:30:17 +0000"
     },
     "done": true
   },
@@ -8525,6 +8591,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/livingwood_planks": {
+    "criteria": {
+      "has_item": "2024-06-26 00:30:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-05-20 16:27:19 +0000"
@@ -9466,6 +9538,12 @@
   "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stonebrick_from_glowstone": {
     "criteria": {
       "has_item": "2024-05-21 18:30:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_spreader": {
+    "criteria": {
+      "has_item": "2024-06-26 00:30:17 +0000"
     },
     "done": true
   },
@@ -10573,6 +10651,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/livingwood_twig": {
+    "criteria": {
+      "has_item": "2024-06-26 00:30:17 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/relay": {
     "criteria": {
       "has_journal": "2024-05-19 18:02:45 +0000"
@@ -11650,6 +11734,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/elven_spreader": {
+    "criteria": {
+      "has_alt_item": "2024-06-26 00:30:23 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/flower_bag": {
     "criteria": {
       "has_item": "2024-06-22 15:41:39 +0000"
@@ -11827,6 +11917,12 @@
   "create:recipes/create.palettes/scorchia_pillar_from_scorchia_stonecutting": {
     "criteria": {
       "has_scorchia": "2024-06-21 18:08:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/glimmering_livingwood_log": {
+    "criteria": {
+      "has_item": "2024-06-26 00:30:17 +0000"
     },
     "done": true
   },
