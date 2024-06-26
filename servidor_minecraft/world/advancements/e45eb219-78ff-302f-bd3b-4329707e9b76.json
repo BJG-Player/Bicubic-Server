@@ -107,15 +107,15 @@
     },
     "done": true
   },
-  "botania:recipes/botania/invisibility_cloak": {
-    "criteria": {
-      "has_item": "2024-06-26 00:10:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/travelersbackpack/cake_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2024-06-25 23:53:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/invisibility_cloak": {
+    "criteria": {
+      "has_item": "2024-06-26 00:10:12 +0000"
     },
     "done": true
   },
@@ -2601,15 +2601,15 @@
     },
     "done": true
   },
-  "botania:recipes/botania/terrasteel_boots": {
-    "criteria": {
-      "has_item": "2024-06-26 00:10:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/travelersbackpack/snow_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2024-06-25 23:53:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terrasteel_boots": {
+    "criteria": {
+      "has_item": "2024-06-26 00:10:45 +0000"
     },
     "done": true
   },
@@ -2703,15 +2703,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2024-06-26 00:13:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/travelersbackpack/ocelot_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-06-25 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-06-26 00:13:42 +0000"
     },
     "done": true
   },
@@ -10333,15 +10333,15 @@
     },
     "done": true
   },
-  "botania:recipes/botania/mana_mirror": {
-    "criteria": {
-      "has_alt_item": "2024-06-26 00:10:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/travelersbackpack/iron_golem_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-06-25 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_mirror": {
+    "criteria": {
+      "has_alt_item": "2024-06-26 00:10:45 +0000"
     },
     "done": true
   },
