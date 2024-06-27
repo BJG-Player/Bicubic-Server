@@ -1106,3 +1106,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [27Jun2024 21:23:30.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago joined the game
 [27Jun2024 21:25:00.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
 [27Jun2024 21:26:20.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[27Jun2024 21:30:02.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xabio lost connection: Disconnected
+[27Jun2024 21:30:02.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xabio left the game
+[27Jun2024 21:31:28.763] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@103df127
+[27Jun2024 21:31:28.774] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xabio[/127.11.221.89:47551] logged in with entity id 141169 at (278.6874438691577, 64.6625000178814, 141.6989034682634)
+[27Jun2024 21:31:28.775] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Xabio
+[27Jun2024 21:31:28.775] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Xabio
+[27Jun2024 21:31:28.776] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Xabio
+[27Jun2024 21:31:28.776] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Xabio
+[27Jun2024 21:31:28.778] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Xabio
+[27Jun2024 21:31:28.780] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Xabio
+[27Jun2024 21:31:28.780] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Xabio
+[27Jun2024 21:31:28.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xabio joined the game
+[27Jun2024 21:31:28.881] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Jun2024 21:38:05.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
