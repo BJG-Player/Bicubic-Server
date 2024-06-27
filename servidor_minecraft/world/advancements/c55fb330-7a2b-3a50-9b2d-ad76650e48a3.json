@@ -534,6 +534,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/dirt_rod": {
+    "criteria": {
+      "has_item": "2024-06-27 21:51:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/creeper_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-05-20 21:08:55 +0000"
@@ -1120,6 +1126,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-05-20 17:47:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/speed_up_belt": {
+    "criteria": {
+      "has_alt_item": "2024-06-27 21:52:00 +0000"
     },
     "done": true
   },
@@ -2156,13 +2168,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "not_projectile": "2024-06-27 21:21:37 +0000",
-      "not_magic": "2024-06-27 21:21:37 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 17:48:30 +0000"
@@ -2370,6 +2375,12 @@
   "minecraft:recipes/decorations/purple_candle": {
     "criteria": {
       "has_purple_dye": "2024-05-20 21:15:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-06-27 21:47:36 +0000"
     },
     "done": true
   },
@@ -3480,6 +3491,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/golden_seeds": {
+    "criteria": {
+      "has_item": "2024-06-27 21:52:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_crimson_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-05-20 19:48:39 +0000"
@@ -4380,6 +4397,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/temperance_stone": {
+    "criteria": {
+      "has_item": "2024-06-27 21:51:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2024-05-26 20:30:43 +0000"
@@ -4391,13 +4414,6 @@
       "has_diamond_tier_upgrade": "2024-05-20 21:08:55 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-25 20:07:56 +0000",
-      "blocked_false": "2024-06-25 20:07:56 +0000"
-    },
-    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
@@ -6777,6 +6793,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/scorched_seeds": {
+    "criteria": {
+      "has_item": "2024-06-27 21:52:58 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/water_essence_to_bucket": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
@@ -9151,6 +9173,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/vivid_seeds": {
+    "criteria": {
+      "has_item": "2024-06-27 21:52:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-05-20 18:04:04 +0000"
@@ -9775,6 +9803,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mutated_seeds": {
+    "criteria": {
+      "has_item": "2024-06-27 21:52:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-05-22 18:11:11 +0000"
@@ -10292,6 +10326,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/infused_seeds": {
+    "criteria": {
+      "has_item": "2024-06-27 21:52:58 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/void_prism": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
@@ -10307,6 +10347,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-05-19 18:47:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/dry_seeds": {
+    "criteria": {
+      "has_item": "2024-06-27 21:52:58 +0000"
     },
     "done": true
   },

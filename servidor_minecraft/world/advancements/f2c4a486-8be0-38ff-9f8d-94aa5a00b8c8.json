@@ -3113,6 +3113,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2024-06-27 21:50:32 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:iammusicplayer/root": {
     "criteria": {
       "iammusicplayer": "2024-05-20 20:58:15 +0000"
@@ -4243,6 +4249,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/smelting/glass_from_framed_glass": {
+    "criteria": {
+      "has_item": "2024-06-27 21:50:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/pumpkin_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-06-19 19:21:16 +0000"
@@ -4464,13 +4476,6 @@
       "has_diamond_tier_upgrade": "2024-06-19 19:21:16 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-27 21:35:39 +0000",
-      "blocked_false": "2024-06-27 21:35:39 +0000"
-    },
-    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
@@ -10075,6 +10080,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/framed_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2024-06-27 21:50:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-05-20 19:24:43 +0000"
@@ -10772,6 +10783,12 @@
   "botania:recipes/botania/quartz_dark": {
     "criteria": {
       "has_item": "2024-06-16 17:58:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/framed_glass_door": {
+    "criteria": {
+      "has_item": "2024-06-27 21:50:32 +0000"
     },
     "done": true
   },
