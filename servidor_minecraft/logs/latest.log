@@ -1069,3 +1069,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [27Jun2024 20:24:30.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Braulio_JG lost connection: Disconnected
 [27Jun2024 20:24:30.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Braulio_JG left the game
 [27Jun2024 20:36:24.084] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25742, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.26, y=64.04, z=160.30] died, message: 'Villager was squished too much'
+[27Jun2024 21:10:23.206] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@a66f9bc
+[27Jun2024 21:10:23.223] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Braulio_JG[/127.229.14.7:33943] logged in with entity id 128723 at (313.64290704466725, 86.0, 131.63356571917404)
+[27Jun2024 21:10:23.224] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Braulio_JG
+[27Jun2024 21:10:23.224] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Braulio_JG
+[27Jun2024 21:10:23.224] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Braulio_JG
+[27Jun2024 21:10:23.224] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Braulio_JG
+[27Jun2024 21:10:23.226] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Braulio_JG
+[27Jun2024 21:10:23.228] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Braulio_JG
+[27Jun2024 21:10:23.228] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Braulio_JG
+[27Jun2024 21:10:23.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Braulio_JG joined the game
+[27Jun2024 21:15:35.038] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/128751, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.17, y=64.05, z=160.30] died, message: 'Villager was squished too much'
