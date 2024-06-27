@@ -1080,3 +1080,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [27Jun2024 21:10:23.228] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Braulio_JG
 [27Jun2024 21:10:23.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Braulio_JG joined the game
 [27Jun2024 21:15:35.038] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/128751, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.17, y=64.05, z=160.30] died, message: 'Villager was squished too much'
+[27Jun2024 21:20:53.265] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6b9f2589
+[27Jun2024 21:20:53.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xabio[/127.11.221.89:35029] logged in with entity id 134583 at (292.5171140613761, 71.9375, 112.48256631936657)
+[27Jun2024 21:20:53.279] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Xabio
+[27Jun2024 21:20:53.279] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Xabio
+[27Jun2024 21:20:53.280] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Xabio
+[27Jun2024 21:20:53.280] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Xabio
+[27Jun2024 21:20:53.282] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Xabio
+[27Jun2024 21:20:53.284] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Xabio
+[27Jun2024 21:20:53.284] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Xabio
+[27Jun2024 21:20:53.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xabio joined the game
+[27Jun2024 21:21:06.682] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/128750, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.11, y=64.05, z=160.33] died, message: 'Villager was squished too much'
+[27Jun2024 21:21:19.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SurpriseAttack03 has made the advancement [Remote Paranoia]
+[27Jun2024 21:22:20.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xabio moved too quickly! 4.078168914892615,2.8068586039396024,15.356407489424328
+[27Jun2024 21:22:25.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xabio moved wrongly!
+[27Jun2024 21:23:30.317] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@755d2dbd
+[27Jun2024 21:23:30.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JackSparrago[/127.115.220.219:50693] logged in with entity id 136223 at (65.91710682296859, 32.5, 1735.6176917828975)
+[27Jun2024 21:23:30.330] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JackSparrago
+[27Jun2024 21:23:30.330] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JackSparrago
+[27Jun2024 21:23:30.331] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JackSparrago
+[27Jun2024 21:23:30.331] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JackSparrago
+[27Jun2024 21:23:30.333] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JackSparrago
+[27Jun2024 21:23:30.334] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JackSparrago
+[27Jun2024 21:23:30.334] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JackSparrago
+[27Jun2024 21:23:30.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago joined the game
+[27Jun2024 21:25:00.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
+[27Jun2024 21:26:20.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
