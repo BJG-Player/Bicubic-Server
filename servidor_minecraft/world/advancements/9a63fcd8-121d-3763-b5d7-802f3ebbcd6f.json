@@ -533,6 +533,12 @@
     },
     "done": true
   },
+  "iammusicplayer:iammusicplayer/add_music": {
+    "criteria": {
+      "add_music": "2024-06-27 22:20:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/track_observer_from_other_plates": {
     "criteria": {
       "has_item": "2024-05-21 18:06:45 +0000"
@@ -2087,15 +2093,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-06-27 22:27:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/crimson_kitchen_counter": {
     "criteria": {
       "has_log": "2024-06-16 16:31:13 +0000"
     },
     "done": true
   },
+  "botania:recipes/botania/mushroom_14": {
+    "criteria": {
+      "has_alt_item": "2024-06-27 22:27:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_13": {
+    "criteria": {
+      "has_alt_item": "2024-06-27 22:27:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/calcite_pillar_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-05-20 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_15": {
+    "criteria": {
+      "has_alt_item": "2024-06-27 22:27:20 +0000"
     },
     "done": true
   },
@@ -2135,9 +2165,27 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mushroom_10": {
+    "criteria": {
+      "has_alt_item": "2024-06-27 22:27:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_crimsite_brick_stairs_from_crimsite_stonecutting": {
     "criteria": {
       "has_crimsite": "2024-06-22 17:55:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_12": {
+    "criteria": {
+      "has_alt_item": "2024-06-27 22:27:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_11": {
+    "criteria": {
+      "has_alt_item": "2024-06-27 22:27:20 +0000"
     },
     "done": true
   },
@@ -5891,6 +5939,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-05-21 18:12:01 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/write_cassette_tape": {
+    "criteria": {
+      "write_cassette_tape": "2024-06-27 22:26:46 +0000"
     },
     "done": true
   },
@@ -9954,9 +10008,45 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mushroom_5": {
+    "criteria": {
+      "has_alt_item": "2024-06-27 22:27:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_4": {
+    "criteria": {
+      "has_alt_item": "2024-06-27 22:27:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2024-06-22 01:38:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_3": {
+    "criteria": {
+      "has_alt_item": "2024-06-27 22:27:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_2": {
+    "criteria": {
+      "has_alt_item": "2024-06-27 22:27:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_1": {
+    "criteria": {
+      "has_alt_item": "2024-06-27 22:27:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_0": {
+    "criteria": {
+      "has_alt_item": "2024-06-27 22:27:20 +0000"
     },
     "done": true
   },
@@ -9996,15 +10086,39 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mushroom_9": {
+    "criteria": {
+      "has_alt_item": "2024-06-27 22:27:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_8": {
+    "criteria": {
+      "has_alt_item": "2024-06-27 22:27:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2024-05-22 22:13:12 +0000"
     },
     "done": true
   },
+  "botania:recipes/botania/mushroom_7": {
+    "criteria": {
+      "has_alt_item": "2024-06-27 22:27:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-05-20 17:11:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_6": {
+    "criteria": {
+      "has_alt_item": "2024-06-27 22:27:20 +0000"
     },
     "done": true
   },
@@ -10846,6 +10960,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-06-16 15:58:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-06-27 22:27:20 +0000"
     },
     "done": true
   },
