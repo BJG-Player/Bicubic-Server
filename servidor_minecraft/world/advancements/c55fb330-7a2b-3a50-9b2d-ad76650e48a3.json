@@ -6206,6 +6206,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/blaze_quartz": {
+    "criteria": {
+      "has_item": "2024-06-27 20:53:35 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/stripped_green_archwood_wood": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
@@ -6617,6 +6623,12 @@
   "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
       "location0": "2024-06-22 18:36:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/red_quartz": {
+    "criteria": {
+      "has_item": "2024-06-27 20:54:34 +0000"
     },
     "done": true
   },
