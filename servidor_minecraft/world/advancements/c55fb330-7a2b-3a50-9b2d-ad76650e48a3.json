@@ -2420,6 +2420,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2024-06-27 22:12:07 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-05-20 19:48:39 +0000"
@@ -3401,6 +3407,12 @@
     },
     "done": true
   },
+  "ars_nouveau:wixie_charm": {
+    "criteria": {
+      "has_wixie_charm": "2024-06-27 22:12:50 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/purple_petal_block": {
     "criteria": {
       "has_item": "2024-05-22 18:44:02 +0000"
@@ -3614,6 +3626,12 @@
   "ars_nouveau:archmage_spell_book": {
     "criteria": {
       "has_archmage_spell_book": "2024-05-19 18:22:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/brewery": {
+    "criteria": {
+      "has_alt_item": "2024-06-27 22:11:59 +0000"
     },
     "done": true
   },
@@ -10744,6 +10762,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-06-22 19:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-06-27 22:12:07 +0000"
     },
     "done": true
   },
