@@ -2117,8 +2117,16 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-27 19:48:06 +0000",
-      "not_magic": "2024-06-27 19:48:06 +0000"
+      "not_projectile": "2024-06-27 20:03:19 +0000",
+      "bit_7_0": "2024-06-27 20:03:19 +0000",
+      "bit_6_1": "2024-06-27 20:03:19 +0000",
+      "bit_5_2": "2024-06-27 20:03:19 +0000",
+      "bit_8_0": "2024-06-27 20:03:19 +0000",
+      "bit_4_1": "2024-06-27 20:03:19 +0000",
+      "bit_3_0": "2024-06-27 20:03:19 +0000",
+      "bit_2_2": "2024-06-27 20:03:19 +0000",
+      "bit_1_0": "2024-06-27 20:03:19 +0000",
+      "bit_0_2": "2024-06-27 20:03:19 +0000"
     },
     "done": false
   },
@@ -2161,6 +2169,12 @@
   "minecraft:recipes/travelersbackpack/sheep_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-06-19 19:20:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-06-27 19:54:38 +0000"
     },
     "done": true
   },
@@ -4468,8 +4482,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-27 19:47:50 +0000",
-      "blocked_false": "2024-06-27 19:47:50 +0000"
+      "not_projectile": "2024-06-27 20:03:31 +0000",
+      "blocked_false": "2024-06-27 20:03:31 +0000"
     },
     "done": false
   },
