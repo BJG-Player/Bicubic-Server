@@ -725,6 +725,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2024-06-27 19:45:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/nether_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-05-20 16:12:39 +0000"
@@ -2183,12 +2189,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "bit_4_0": "2024-06-27 19:29:12 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-21 16:50:39 +0000"
@@ -2883,6 +2883,12 @@
   "create:mechanical_mixer": {
     "criteria": {
       "0": "2024-06-19 22:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-06-27 19:45:57 +0000"
     },
     "done": true
   },
@@ -4700,13 +4706,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-06-26 01:08:39 +0000",
-      "blocked_false": "2024-06-26 01:08:39 +0000"
-    },
-    "done": false
-  },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-05-22 22:13:12 +0000"
@@ -5604,6 +5603,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-06-27 19:45:57 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/quartz_blaze": {
     "criteria": {
       "has_item": "2024-05-21 18:12:01 +0000"
@@ -5871,6 +5876,12 @@
   "botania:recipes/botania/apothecary_default": {
     "criteria": {
       "has_item": "2024-05-23 20:53:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-06-27 19:48:35 +0000"
     },
     "done": true
   },
@@ -8983,6 +8994,12 @@
   "create:recipes/create.palettes/small_asurine_brick_stairs": {
     "criteria": {
       "has_small_asurine_bricks": "2024-06-22 18:53:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/fel_pumpkin": {
+    "criteria": {
+      "has_item": "2024-06-27 19:45:57 +0000"
     },
     "done": true
   },

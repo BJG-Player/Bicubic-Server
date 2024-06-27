@@ -2117,8 +2117,8 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-06-26 00:04:29 +0000",
-      "not_magic": "2024-06-26 00:04:29 +0000"
+      "not_projectile": "2024-06-27 19:48:06 +0000",
+      "not_magic": "2024-06-27 19:48:06 +0000"
     },
     "done": false
   },
@@ -4468,8 +4468,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-25 23:26:16 +0000",
-      "blocked_false": "2024-06-25 23:26:16 +0000"
+      "not_projectile": "2024-06-27 19:47:50 +0000",
+      "blocked_false": "2024-06-27 19:47:50 +0000"
     },
     "done": false
   },
@@ -6046,6 +6046,12 @@
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2024-06-24 21:29:29 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2024-06-27 19:41:21 +0000"
     },
     "done": true
   },

@@ -1007,3 +1007,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [27Jun2024 19:31:22.530] [Thread-0/FATAL] [mcjty.theoneprobe.TheOneProbe/CORE]: theoneprobe config just got changed on the file system!
 [27Jun2024 19:31:22.598] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
 [27Jun2024 19:31:26.652] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@78534fde
+[27Jun2024 19:38:56.287] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@24638504
+[27Jun2024 19:38:56.313] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JackSparrago[/127.115.220.219:41965] logged in with entity id 4127 at (33.670260588544004, 30.0, 1712.3696788072602)
+[27Jun2024 19:38:56.316] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JackSparrago
+[27Jun2024 19:38:56.316] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JackSparrago
+[27Jun2024 19:38:56.317] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JackSparrago
+[27Jun2024 19:38:56.317] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JackSparrago
+[27Jun2024 19:38:56.320] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JackSparrago
+[27Jun2024 19:38:56.324] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JackSparrago
+[27Jun2024 19:38:56.324] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JackSparrago
+[27Jun2024 19:38:56.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago joined the game
+[27Jun2024 19:40:13.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackSparrago> [name:"barco con withers skeletons", x:-3020, y:198, z:-8719, dim:minecraft:overworld]
+[27Jun2024 19:41:04.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JackSparrago> [name:"otro barquillo", x:-798, y:195, z:-8682, dim:minecraft:overworld]
+[27Jun2024 19:41:24.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Braulio_JG moved too quickly! -2.71296132751786,15.120917378978561,-10.269177117127583
+[27Jun2024 19:42:23.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! 5.425041779767298,-8.69877402073385,8.618008066787297
+[27Jun2024 19:42:56.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Braulio_JG was slain by Wither Skeleton
+[27Jun2024 19:43:13.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -2.1764676720343914,-10.556602614620118,0.9466841725898121
+[27Jun2024 19:45:55.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! 0.2543572413090942,-11.531967244409287,-0.35913422023077146
+[27Jun2024 19:46:11.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! 0.0,-11.264319268135694,0.0
+[27Jun2024 19:46:23.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Braulio_JG: Teleported Braulio_JG to JackSparrago]
+[27Jun2024 19:46:44.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago lost connection: Disconnected
+[27Jun2024 19:46:44.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago left the game
+[27Jun2024 19:47:06.014] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3df55880
+[27Jun2024 19:47:06.027] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JackSparrago[/127.115.220.219:54457] logged in with entity id 11457 at (-807.2286269676947, 173.0, -8658.573546657173)
+[27Jun2024 19:47:06.028] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JackSparrago
+[27Jun2024 19:47:06.028] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JackSparrago
+[27Jun2024 19:47:06.028] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JackSparrago
+[27Jun2024 19:47:06.028] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JackSparrago
+[27Jun2024 19:47:06.031] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JackSparrago
+[27Jun2024 19:47:06.034] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JackSparrago
+[27Jun2024 19:47:06.034] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JackSparrago
+[27Jun2024 19:47:06.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago joined the game
+[27Jun2024 19:49:37.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -10.112886171830041,-2.870605921916507,-0.1421215811096772
+[27Jun2024 19:50:02.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -10.507909021408523,1.145489011373627,0.03762438958801795
+[27Jun2024 19:50:29.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -10.166797940543347,1.9727836684365059,-0.08929237020129221
+[27Jun2024 19:52:20.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved wrongly!
