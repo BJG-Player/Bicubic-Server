@@ -2504,6 +2504,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/conversions/brown_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-06-27 22:28:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_limestone_brick_slab_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2024-06-22 17:55:27 +0000"
@@ -2931,6 +2937,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_brown": {
+    "criteria": {
+      "has_item": "2024-06-27 22:28:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-05-20 17:11:21 +0000"
@@ -3246,6 +3258,12 @@
   "cfm:recipes/cfm/gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-19 13:09:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_brown_picket_gate": {
+    "criteria": {
+      "has_dye": "2024-06-27 22:28:31 +0000"
     },
     "done": true
   },
@@ -4490,6 +4508,12 @@
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2024-05-26 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2024-06-27 22:28:31 +0000"
     },
     "done": true
   },
@@ -9636,6 +9660,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_brown_picket_fence": {
+    "criteria": {
+      "has_dye": "2024-06-27 22:28:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-06-16 17:18:02 +0000"
@@ -10693,6 +10723,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/brown_petal_block": {
+    "criteria": {
+      "has_item": "2024-06-27 22:28:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/pig_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-05-20 16:15:10 +0000"
@@ -10870,6 +10906,12 @@
   "create:recipes/create.palettes/layered_limestone_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2024-06-22 17:55:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/petal_brown_double": {
+    "criteria": {
+      "has_alt_item": "2024-06-27 22:28:29 +0000"
     },
     "done": true
   },

@@ -4497,6 +4497,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/prism": {
+    "criteria": {
+      "has_item": "2024-06-27 22:31:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2024-06-22 18:04:26 +0000"
@@ -9005,6 +9011,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2024-05-23 20:11:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-06-27 22:31:52 +0000"
     },
     "done": true
   },
