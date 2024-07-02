@@ -1004,3 +1004,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [02Jul2024 17:59:08.348] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8353, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.16, y=64.04, z=160.46] died, message: 'Villager was squished too much'
 [02Jul2024 18:01:29.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SurpriseAttack03 moved wrongly!
 [02Jul2024 18:01:45.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
+[02Jul2024 18:03:06.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SurpriseAttack03 has made the advancement [Electric Magic]
+[02Jul2024 18:15:47.000] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SurpriseAttack03 lost connection: Timed out
+[02Jul2024 18:15:47.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SurpriseAttack03 left the game
+[02Jul2024 18:15:47.066] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Jul2024 18:15:56.239] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1936e81e[id=<null>,name=JackSparrago,properties={},legacy=false] (/127.115.220.219:56395) lost connection: Disconnected
+[02Jul2024 18:16:09.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago lost connection: Timed out
+[02Jul2024 18:16:09.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago left the game
+[02Jul2024 18:17:10.707] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@50e1df34
+[02Jul2024 18:17:10.723] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SurpriseAttack03[/127.146.101.19:34035] logged in with entity id 24350 at (360.841379446976, 64.0, 436.08920752739147)
+[02Jul2024 18:17:10.724] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to SurpriseAttack03
+[02Jul2024 18:17:10.724] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to SurpriseAttack03
+[02Jul2024 18:17:10.725] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to SurpriseAttack03
+[02Jul2024 18:17:10.725] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to SurpriseAttack03
+[02Jul2024 18:17:10.727] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to SurpriseAttack03
+[02Jul2024 18:17:10.730] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to SurpriseAttack03
+[02Jul2024 18:17:10.730] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to SurpriseAttack03
+[02Jul2024 18:17:10.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SurpriseAttack03 joined the game
+[02Jul2024 18:17:17.905] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4118669f
+[02Jul2024 18:17:17.917] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JackSparrago[/127.115.220.219:56501] logged in with entity id 24483 at (194.4915522763086, 41.8047250317374, 1716.2275276928044)
+[02Jul2024 18:17:17.918] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JackSparrago
+[02Jul2024 18:17:17.918] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JackSparrago
+[02Jul2024 18:17:17.918] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JackSparrago
+[02Jul2024 18:17:17.918] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JackSparrago
+[02Jul2024 18:17:17.921] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JackSparrago
+[02Jul2024 18:17:17.923] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JackSparrago
+[02Jul2024 18:17:17.923] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JackSparrago
+[02Jul2024 18:17:17.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago joined the game
+[02Jul2024 18:18:21.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! 6.91078579944616,1.6348856320642327,-7.347961335909758
+[02Jul2024 18:19:02.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago lost connection: Disconnected
+[02Jul2024 18:19:02.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago left the game
+[02Jul2024 18:19:10.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SurpriseAttack03 lost connection: Timed out
+[02Jul2024 18:19:10.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SurpriseAttack03 left the game

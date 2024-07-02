@@ -2168,6 +2168,13 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-07-02 18:00:07 +0000",
+      "not_magic": "2024-07-02 18:00:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 17:48:30 +0000"
@@ -4435,8 +4442,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-27 22:26:25 +0000",
-      "blocked_false": "2024-06-27 22:26:25 +0000"
+      "not_projectile": "2024-07-02 18:00:07 +0000",
+      "blocked_false": "2024-07-02 18:00:07 +0000"
     },
     "done": false
   },
@@ -7884,6 +7891,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/floating_munchdew": {
+    "criteria": {
+      "has_item": "2024-07-02 18:03:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2024-06-24 20:12:56 +0000"
@@ -8103,6 +8116,12 @@
   "botania:recipes/botania/petal_purple_double": {
     "criteria": {
       "has_alt_item": "2024-05-22 18:44:02 +0000"
+    },
+    "done": true
+  },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "flower": "2024-07-02 18:03:06 +0000"
     },
     "done": true
   },

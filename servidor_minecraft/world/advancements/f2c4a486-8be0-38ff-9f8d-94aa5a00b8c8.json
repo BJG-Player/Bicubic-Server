@@ -455,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-07-02 18:14:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/gold_ingot_from_crushed": {
     "criteria": {
       "has_item": "2024-05-26 19:25:21 +0000"
@@ -1244,6 +1250,12 @@
   "cfm:recipes/cfm/warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-05-27 20:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-07-02 18:14:18 +0000"
     },
     "done": true
   },
@@ -2120,6 +2132,13 @@
       "has_gold_ore": "2024-05-26 18:24:37 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-07-02 18:17:56 +0000",
+      "not_magic": "2024-07-02 18:17:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -4485,8 +4504,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-27 22:23:26 +0000",
-      "blocked_false": "2024-06-27 22:23:26 +0000"
+      "not_projectile": "2024-07-02 18:14:00 +0000",
+      "blocked_false": "2024-07-02 18:14:00 +0000"
     },
     "done": false
   },
@@ -5847,6 +5866,12 @@
   "create:recipes/create.palettes/cut_deepslate_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-05-26 21:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-07-02 18:14:18 +0000"
     },
     "done": true
   },
@@ -8112,6 +8137,12 @@
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2024-06-16 18:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2024-07-02 18:14:18 +0000"
     },
     "done": true
   },
