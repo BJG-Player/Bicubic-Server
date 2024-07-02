@@ -2407,6 +2407,21 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-07-02 19:21:11 +0000",
+      "bit_7_2": "2024-07-02 19:21:11 +0000",
+      "bit_8_2": "2024-07-02 19:21:11 +0000",
+      "bit_6_1": "2024-07-02 19:21:11 +0000",
+      "bit_5_0": "2024-07-02 19:21:11 +0000",
+      "bit_4_2": "2024-07-02 19:21:11 +0000",
+      "bit_3_0": "2024-07-02 19:21:11 +0000",
+      "bit_1_2": "2024-07-02 19:21:11 +0000",
+      "bit_2_2": "2024-07-02 19:21:11 +0000",
+      "bit_0_2": "2024-07-02 19:21:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-20 18:23:30 +0000"
@@ -4586,6 +4601,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everbright_blocks/snowcap_mushroom_block": {
+    "criteria": {
+      "has_item": "2024-07-02 19:14:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/diving_boots": {
     "criteria": {
       "has_item": "2024-05-21 09:10:17 +0000"
@@ -5323,13 +5344,6 @@
       "has_diamond_tier_upgrade": "2024-06-25 23:53:03 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-07-02 18:50:57 +0000",
-      "blocked_false": "2024-07-02 18:50:57 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
@@ -9210,6 +9224,7 @@
       "byg:quartz_desert": "2024-05-21 18:23:33 +0000",
       "byg:warped_desert": "2024-06-25 15:48:51 +0000",
       "byg:firecracker_shrubland": "2024-05-19 18:32:48 +0000",
+      "byg:weeping_witch_forest": "2024-07-02 19:15:46 +0000",
       "byg:magma_wastes": "2024-05-26 21:41:03 +0000",
       "byg:embur_bog": "2024-06-24 19:09:11 +0000",
       "byg:tropical_rainforest": "2024-06-24 11:42:19 +0000",
@@ -9221,6 +9236,7 @@
       "byg:ethereal_islands": "2024-06-25 19:45:06 +0000",
       "byg:aspen_forest": "2024-06-22 15:56:17 +0000",
       "byg:skyris_vale": "2024-06-24 16:23:38 +0000",
+      "byg:twilight_meadow": "2024-07-02 19:16:39 +0000",
       "byg:cherry_blossom_forest": "2024-05-19 18:04:24 +0000",
       "byg:imparius_grove": "2024-06-25 23:27:15 +0000",
       "byg:crimson_gardens": "2024-05-21 18:24:48 +0000",
@@ -11093,6 +11109,7 @@
       "minecraft:flower_forest": "2024-06-19 22:49:54 +0000",
       "minecraft:old_growth_birch_forest": "2024-06-17 16:27:53 +0000",
       "minecraft:deep_dark": "2024-06-22 17:08:14 +0000",
+      "minecraft:meadow": "2024-07-02 19:14:59 +0000",
       "minecraft:savanna": "2024-05-19 18:04:21 +0000",
       "minecraft:plains": "2024-05-19 18:38:45 +0000"
     },
