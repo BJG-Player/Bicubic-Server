@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/spawner_mover": {
+    "criteria": {
+      "has_item": "2024-07-02 20:18:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/enderman_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-06-19 19:21:16 +0000"
@@ -236,6 +242,12 @@
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2024-06-19 22:46:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/black_hole_talisman": {
+    "criteria": {
+      "has_item": "2024-07-02 20:18:58 +0000"
     },
     "done": true
   },
@@ -587,6 +599,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/laputa_shard": {
+    "criteria": {
+      "has_item": "2024-07-02 20:18:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/creeper_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-06-19 19:21:16 +0000"
@@ -686,6 +704,12 @@
   "minecraft:recipes/travelersbackpack/cake_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-06-19 19:20:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/gaia_ingot": {
+    "criteria": {
+      "has_item": "2024-07-02 20:18:58 +0000"
     },
     "done": true
   },
@@ -2211,6 +2235,22 @@
     },
     "done": true
   },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-07-02 20:20:18 +0000",
+      "bit_7_2": "2024-07-02 20:20:18 +0000",
+      "bit_8_0": "2024-07-02 20:20:18 +0000",
+      "bit_5_0": "2024-07-02 20:20:18 +0000",
+      "bit_3_2": "2024-07-02 20:20:18 +0000",
+      "bit_6_0": "2024-07-02 20:20:18 +0000",
+      "bit_4_2": "2024-07-02 20:20:18 +0000",
+      "bit_2_2": "2024-07-02 20:20:18 +0000",
+      "bit_0_1": "2024-07-02 20:20:18 +0000",
+      "bit_1_1": "2024-07-02 20:20:18 +0000",
+      "bit_0_2": "2024-07-02 20:20:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-22 22:42:45 +0000"
@@ -2803,6 +2843,12 @@
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2024-05-27 21:33:25 +0000"
+    },
+    "done": true
+  },
+  "botania:main/terrasteel_pickup_lexicon": {
+    "criteria": {
+      "elven_lexicon": "2024-07-02 20:19:33 +0000"
     },
     "done": true
   },
@@ -3805,6 +3851,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/unholy_cloak": {
+    "criteria": {
+      "has_item": "2024-07-02 20:18:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/sponge_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-06-19 19:21:05 +0000"
@@ -4127,6 +4179,12 @@
   "create:recipes/create.palettes/layered_scoria_from_scoria_stonecutting": {
     "criteria": {
       "has_scoria": "2024-06-19 19:54:42 +0000"
+    },
+    "done": true
+  },
+  "botania:main/pure_daisy_pickup": {
+    "criteria": {
+      "elven_lexicon": "2024-07-02 20:19:33 +0000"
     },
     "done": true
   },
@@ -4627,13 +4685,6 @@
       "has_diamond_tier_upgrade": "2024-06-19 19:21:16 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-07-02 20:16:35 +0000",
-      "blocked_false": "2024-07-02 20:16:35 +0000"
-    },
-    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
@@ -5667,6 +5718,12 @@
     },
     "done": true
   },
+  "botania:main/apothecary_pickup": {
+    "criteria": {
+      "elven_lexicon": "2024-07-02 20:19:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2024-06-18 16:32:22 +0000"
@@ -6316,6 +6373,12 @@
   "create:recipes/create.base/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2024-06-19 22:25:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/super_travel_belt": {
+    "criteria": {
+      "has_item": "2024-07-02 20:18:58 +0000"
     },
     "done": true
   },
@@ -6997,6 +7060,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/gaia_spreader": {
+    "criteria": {
+      "has_item": "2024-07-02 20:18:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-05-20 16:22:58 +0000"
@@ -7183,6 +7252,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/balance_cloak": {
+    "criteria": {
+      "has_item": "2024-07-02 20:18:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-22 22:42:45 +0000"
@@ -7363,6 +7438,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/super_lava_pendant": {
+    "criteria": {
+      "has_item": "2024-07-02 20:18:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_dripstone_bricks_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2024-06-22 17:07:31 +0000"
@@ -7474,6 +7555,12 @@
   "byg:recipes/byg.byg/pine_fence": {
     "criteria": {
       "has_planks": "2024-06-16 17:14:26 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "elven_lexicon": "2024-07-02 20:19:33 +0000"
     },
     "done": true
   },
@@ -7837,6 +7924,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/missile_rod": {
+    "criteria": {
+      "has_item": "2024-07-02 20:18:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/gray_picket_fence": {
     "criteria": {
       "has_concrete": "2024-06-24 15:18:51 +0000"
@@ -7846,6 +7939,12 @@
   "cfm:recipes/cfm/light_gray_grill": {
     "criteria": {
       "has_iron": "2024-05-20 16:15:56 +0000"
+    },
+    "done": true
+  },
+  "botania:main/elf_lexicon_pickup": {
+    "criteria": {
+      "lexicon": "2024-07-02 20:19:33 +0000"
     },
     "done": true
   },
@@ -8716,6 +8815,12 @@
     },
     "done": true
   },
+  "botania:main/mana_pool_pickup_lexicon": {
+    "criteria": {
+      "elven_lexicon": "2024-07-02 20:19:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-06-22 17:07:09 +0000"
@@ -8830,6 +8935,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/astrolabe": {
+    "criteria": {
+      "has_item": "2024-07-02 20:18:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2024-06-22 17:15:21 +0000"
@@ -8905,6 +9016,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2024-05-26 18:21:28 +0000"
+    },
+    "done": true
+  },
+  "botania:main/tiara_wings": {
+    "criteria": {
+      "tiara_2": "2024-07-02 20:26:37 +0000"
     },
     "done": true
   },
@@ -9220,9 +9337,63 @@
     },
     "done": true
   },
+  "botania:recipes/botania/flighttiara_0": {
+    "criteria": {
+      "has_item": "2024-07-02 20:18:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-07-02 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/flighttiara_4": {
+    "criteria": {
+      "has_item": "2024-07-02 20:26:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/flighttiara_3": {
+    "criteria": {
+      "has_item": "2024-07-02 20:26:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/flighttiara_2": {
+    "criteria": {
+      "has_item": "2024-07-02 20:26:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/flighttiara_1": {
+    "criteria": {
+      "has_item": "2024-07-02 20:26:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/flighttiara_8": {
+    "criteria": {
+      "has_item": "2024-07-02 20:26:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/flighttiara_7": {
+    "criteria": {
+      "has_item": "2024-07-02 20:26:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/flighttiara_6": {
+    "criteria": {
+      "has_item": "2024-07-02 20:26:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/flighttiara_5": {
+    "criteria": {
+      "has_item": "2024-07-02 20:26:37 +0000"
     },
     "done": true
   },
@@ -9271,6 +9442,12 @@
   "ars_nouveau:mob_jar": {
     "criteria": {
       "has_mob_jar": "2024-06-25 17:12:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/diva_charm": {
+    "criteria": {
+      "has_item": "2024-07-02 20:18:58 +0000"
     },
     "done": true
   },
@@ -10549,6 +10726,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/holy_cloak": {
+    "criteria": {
+      "has_item": "2024-07-02 20:18:58 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/orange_sbed": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
@@ -10870,6 +11053,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_bomb": {
+    "criteria": {
+      "has_item": "2024-07-02 20:18:58 +0000"
     },
     "done": true
   },
@@ -11622,6 +11811,12 @@
   "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2024-05-26 19:27:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/super_cloud_pendant": {
+    "criteria": {
+      "has_alt_item": "2024-07-02 20:18:58 +0000"
     },
     "done": true
   },
