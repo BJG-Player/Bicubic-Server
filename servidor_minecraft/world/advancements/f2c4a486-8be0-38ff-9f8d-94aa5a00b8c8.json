@@ -557,6 +557,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/black_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-07-02 21:09:23 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/slab_recombine/livingrock": {
     "criteria": {
       "has_item": "2024-07-02 20:36:52 +0000"
@@ -1019,6 +1025,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_light_gray": {
+    "criteria": {
+      "has_item": "2024-07-02 21:04:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2024-05-20 17:29:05 +0000"
@@ -1232,6 +1244,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/chiseled_lunar_stonebrick_stonecutting_lunar_stonebrick": {
     "criteria": {
       "has_item": "2024-06-19 18:15:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-07-02 21:05:23 +0000"
     },
     "done": true
   },
@@ -1752,6 +1770,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2024-05-26 19:50:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/petal_gray": {
+    "criteria": {
+      "has_item": "2024-07-02 21:05:23 +0000"
     },
     "done": true
   },
@@ -2752,6 +2776,12 @@
   "cfm:recipes/cfm/brown_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-05-27 20:46:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/light_gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-07-02 21:04:16 +0000"
     },
     "done": true
   },
@@ -4325,6 +4355,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everbright_blocks/snowcap_mushroom_block": {
+    "criteria": {
+      "has_item": "2024-07-02 21:11:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/diving_boots": {
     "criteria": {
       "has_item": "2024-05-26 19:27:40 +0000"
@@ -5136,6 +5172,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_cyan_double": {
+    "criteria": {
+      "has_item": "2024-07-02 21:05:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-05-22 22:41:45 +0000"
@@ -5355,6 +5397,12 @@
   "create:recipes/create.base/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2024-05-26 19:27:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cyan_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-07-02 21:04:59 +0000"
     },
     "done": true
   },
@@ -6325,6 +6373,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-22 22:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-07-02 21:05:12 +0000"
     },
     "done": true
   },
@@ -8614,6 +8668,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_cyan": {
+    "criteria": {
+      "has_item": "2024-07-02 21:04:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-06-16 16:14:50 +0000"
@@ -10400,6 +10460,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_black": {
+    "criteria": {
+      "has_item": "2024-07-02 21:09:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-05-26 19:33:38 +0000"
@@ -10844,6 +10910,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2024-06-22 17:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-07-02 21:05:12 +0000"
     },
     "done": true
   },

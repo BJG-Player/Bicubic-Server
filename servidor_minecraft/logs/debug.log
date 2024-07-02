@@ -10883,3 +10883,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [02Jul2024 20:59:20.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago has made the advancement [A Little Hot Rod Red]
 [02Jul2024 21:02:37.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bicubic 2: Astral Inventions
 [02Jul2024 21:02:37.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bicubic 2: Astral Inventions
+[02Jul2024 21:03:04.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! -7.7624208648056765,0.005354486356253574,6.842338653599228
+[02Jul2024 21:07:37.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bicubic 2: Astral Inventions
+[02Jul2024 21:07:37.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bicubic 2: Astral Inventions
+[02Jul2024 21:09:09.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! 5.068774797401375,1.0688987049797447,-8.987090219461606
+[02Jul2024 21:09:11.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3104ms or 62 ticks behind
+[02Jul2024 21:09:11.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! 4.157182154440534,-6.589635649044126,-7.453079223607347
+[02Jul2024 21:11:29.760] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/100220, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.14, y=64.05, z=160.51] died, message: 'Villager was squished too much'
+[02Jul2024 21:12:40.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bicubic 2: Astral Inventions
+[02Jul2024 21:12:40.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bicubic 2: Astral Inventions
