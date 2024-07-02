@@ -77,9 +77,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-07-02 18:45:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-06-16 17:03:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-07-02 18:45:05 +0000"
     },
     "done": true
   },
@@ -131,6 +143,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2024-07-02 18:53:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_dripstone_slab_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2024-06-22 17:07:31 +0000"
@@ -140,6 +158,12 @@
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_black_dye": "2024-06-25 17:58:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-07-02 18:45:05 +0000"
     },
     "done": true
   },
@@ -188,6 +212,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-05-20 16:12:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/train_door": {
+    "criteria": {
+      "has_item": "2024-07-02 18:53:12 +0000"
     },
     "done": true
   },
@@ -716,6 +746,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-05-27 21:33:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2024-07-02 18:53:12 +0000"
     },
     "done": true
   },
@@ -1419,6 +1455,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_ochrum_brick_stairs": {
+    "criteria": {
+      "has_cut_ochrum_bricks": "2024-07-02 18:45:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2024-05-26 19:27:40 +0000"
@@ -1560,6 +1602,12 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-05-27 21:33:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-07-02 18:53:12 +0000"
     },
     "done": true
   },
@@ -1863,6 +1911,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/brass_ladder_from_plates_brass_stonecutting": {
+    "criteria": {
+      "has_plates_brass": "2024-07-02 18:55:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-05-20 17:25:27 +0000"
@@ -2127,18 +2181,17 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-07-02 18:45:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2024-05-26 18:24:37 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "not_projectile": "2024-07-02 18:17:56 +0000",
-      "not_magic": "2024-07-02 18:17:56 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -2705,6 +2758,18 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2024-07-02 18:53:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-07-02 18:45:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-05-27 21:31:08 +0000"
@@ -3138,6 +3203,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-07-02 18:45:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/framed_glass_pane": {
     "criteria": {
       "has_ingredient": "2024-06-27 21:50:32 +0000"
@@ -3267,6 +3338,12 @@
   "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2024-05-20 19:47:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_brick_wall": {
+    "criteria": {
+      "has_cut_ochrum_bricks": "2024-07-02 18:45:05 +0000"
     },
     "done": true
   },
@@ -3878,9 +3955,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-07-02 18:45:05 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/swap_ring": {
     "criteria": {
       "has_item": "2024-06-22 12:01:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2024-07-02 18:53:12 +0000"
     },
     "done": true
   },
@@ -4504,8 +4593,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-07-02 18:14:00 +0000",
-      "blocked_false": "2024-07-02 18:14:00 +0000"
+      "not_projectile": "2024-07-02 18:45:16 +0000",
+      "blocked_false": "2024-07-02 18:45:16 +0000"
     },
     "done": false
   },
@@ -5151,6 +5240,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-07-02 18:45:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/magenta_cooler": {
     "criteria": {
       "has_chest": "2024-05-20 16:22:58 +0000"
@@ -5190,6 +5285,12 @@
   "byg:recipes/byg.byg/cherry_wood": {
     "criteria": {
       "has_log": "2024-05-20 16:05:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2024-07-02 18:53:12 +0000"
     },
     "done": true
   },
@@ -5683,6 +5784,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2024-07-02 18:53:12 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/lava_lily": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
@@ -5863,6 +5970,12 @@
     },
     "done": true
   },
+  "create:brass": {
+    "criteria": {
+      "0": "2024-07-02 18:53:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_deepslate_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-05-26 21:22:13 +0000"
@@ -5926,6 +6039,12 @@
   "botania:recipes/botania/manasteel_sword": {
     "criteria": {
       "has_item": "2024-06-22 12:01:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-07-02 18:45:05 +0000"
     },
     "done": true
   },
@@ -6046,6 +6165,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-05-22 23:14:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-07-02 18:45:05 +0000"
     },
     "done": true
   },
@@ -6277,9 +6402,21 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/train_trapdoor": {
+    "criteria": {
+      "has_item": "2024-07-02 18:53:12 +0000"
+    },
+    "done": true
+  },
   "landmines:recipes/landmines/teleport_landmine": {
     "criteria": {
       "recipe_condition": "2024-06-16 18:08:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2024-07-02 18:53:12 +0000"
     },
     "done": true
   },
@@ -6568,6 +6705,12 @@
   "create:recipes/create.base/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2024-05-26 19:50:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-07-02 18:45:05 +0000"
     },
     "done": true
   },
@@ -7519,6 +7662,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-07-02 18:45:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-05-20 17:25:27 +0000"
@@ -8233,6 +8382,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2024-06-18 15:59:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-07-02 18:45:05 +0000"
     },
     "done": true
   },
@@ -8986,6 +9141,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-07-02 18:45:05 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
@@ -9362,6 +9523,12 @@
   "minecraft:recipes/travelersbackpack/skeleton_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2024-06-19 19:22:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-07-02 18:45:05 +0000"
     },
     "done": true
   },
@@ -9836,6 +10003,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-07-02 18:45:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/skeleton_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-06-19 19:21:16 +0000"
@@ -10242,6 +10415,12 @@
     },
     "done": true
   },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2024-07-02 18:36:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-05-20 17:51:09 +0000"
@@ -10395,6 +10574,12 @@
   "ars_nouveau:recipes/ars_nouveau/deny_scroll": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_brick_slab": {
+    "criteria": {
+      "has_cut_ochrum_bricks": "2024-07-02 18:45:05 +0000"
     },
     "done": true
   },
@@ -10794,6 +10979,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-07-02 18:45:05 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/archwood_slab": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
@@ -10863,6 +11054,12 @@
   "create:recipes/create.palettes/cut_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-06-22 17:07:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2024-07-02 18:53:12 +0000"
     },
     "done": true
   },
@@ -11153,6 +11350,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-05-20 16:04:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-07-02 18:45:05 +0000"
     },
     "done": true
   },

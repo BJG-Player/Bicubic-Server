@@ -1036,3 +1036,71 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [02Jul2024 18:19:02.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago left the game
 [02Jul2024 18:19:10.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SurpriseAttack03 lost connection: Timed out
 [02Jul2024 18:19:10.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SurpriseAttack03 left the game
+[02Jul2024 18:23:20.896] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2b03e818
+[02Jul2024 18:23:20.909] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SurpriseAttack03[/127.146.101.19:44221] logged in with entity id 25104 at (355.63377860494643, 64.0, 428.51307750479765)
+[02Jul2024 18:23:20.910] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to SurpriseAttack03
+[02Jul2024 18:23:20.914] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to SurpriseAttack03
+[02Jul2024 18:23:20.914] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to SurpriseAttack03
+[02Jul2024 18:23:20.914] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to SurpriseAttack03
+[02Jul2024 18:23:20.917] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to SurpriseAttack03
+[02Jul2024 18:23:20.918] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to SurpriseAttack03
+[02Jul2024 18:23:20.918] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to SurpriseAttack03
+[02Jul2024 18:23:20.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SurpriseAttack03 joined the game
+[02Jul2024 18:23:30.010] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@43b1e789
+[02Jul2024 18:23:30.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JackSparrago[/127.115.220.219:55925] logged in with entity id 25153 at (193.60326932593406, 63.04651420505398, 1746.0239352584224)
+[02Jul2024 18:23:30.025] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JackSparrago
+[02Jul2024 18:23:30.025] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JackSparrago
+[02Jul2024 18:23:30.026] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JackSparrago
+[02Jul2024 18:23:30.026] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JackSparrago
+[02Jul2024 18:23:30.028] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JackSparrago
+[02Jul2024 18:23:30.029] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JackSparrago
+[02Jul2024 18:23:30.029] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JackSparrago
+[02Jul2024 18:23:30.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago joined the game
+[02Jul2024 18:24:34.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved wrongly!
+[02Jul2024 18:24:47.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved wrongly!
+[02Jul2024 18:24:49.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved wrongly!
+[02Jul2024 18:24:59.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved wrongly!
+[02Jul2024 18:24:59.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved wrongly!
+[02Jul2024 18:24:59.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved wrongly!
+[02Jul2024 18:25:00.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved wrongly!
+[02Jul2024 18:25:00.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved wrongly!
+[02Jul2024 18:25:00.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved wrongly!
+[02Jul2024 18:31:10.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SurpriseAttack03 has made the advancement [Dead and Seek]
+[02Jul2024 18:36:41.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago has completed the challenge [Subspace Bubble]
+[02Jul2024 18:37:10.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved wrongly!
+[02Jul2024 18:40:37.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SurpriseAttack03: Set the time to 13000]
+[02Jul2024 18:42:03.922] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@76d942b9
+[02Jul2024 18:42:03.936] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Braulio_JG[/127.234.228.156:47429] logged in with entity id 55323 at (313.9635056231834, 85.92159999847412, 127.078473363333)
+[02Jul2024 18:42:03.937] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Braulio_JG
+[02Jul2024 18:42:03.938] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Braulio_JG
+[02Jul2024 18:42:03.938] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Braulio_JG
+[02Jul2024 18:42:03.939] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Braulio_JG
+[02Jul2024 18:42:03.941] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Braulio_JG
+[02Jul2024 18:42:03.943] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Braulio_JG
+[02Jul2024 18:42:03.945] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Braulio_JG
+[02Jul2024 18:42:03.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Braulio_JG joined the game
+[02Jul2024 18:42:14.346] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1b7325a9
+[02Jul2024 18:42:14.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NanoLeche33[/127.20.16.204:43771] logged in with entity id 55399 at (630.7032310992971, 74.0, 178.9535153247931)
+[02Jul2024 18:42:14.363] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to NanoLeche33
+[02Jul2024 18:42:14.363] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to NanoLeche33
+[02Jul2024 18:42:14.364] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to NanoLeche33
+[02Jul2024 18:42:14.364] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to NanoLeche33
+[02Jul2024 18:42:14.366] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to NanoLeche33
+[02Jul2024 18:42:14.368] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to NanoLeche33
+[02Jul2024 18:42:14.368] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to NanoLeche33
+[02Jul2024 18:42:14.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 joined the game
+[02Jul2024 18:42:17.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! 1.6887266419907405,0.0,10.462227214661688
+[02Jul2024 18:42:17.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3082ms or 61 ticks behind
+[02Jul2024 18:43:49.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved wrongly!
+[02Jul2024 18:43:49.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved wrongly!
+[02Jul2024 18:45:54.444] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51617, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.18, y=64.04, z=160.51] died, message: 'Villager was squished too much'
+[02Jul2024 18:51:03.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved wrongly!
+[02Jul2024 18:51:04.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved wrongly!
+[02Jul2024 18:51:54.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved wrongly!
+[02Jul2024 18:52:53.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! 8.978177286927632,3.0842592834373335,9.572796589033373
+[02Jul2024 19:00:20.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! -13.325072407198377,4.506955215427155,3.1031397230653965
+[02Jul2024 19:01:04.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[02Jul2024 19:01:07.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! -15.914672624990544,6.3766338872788,1.221530331015856
+[02Jul2024 19:01:23.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3348ms or 66 ticks behind
+[02Jul2024 19:02:38.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! -3.8396543310868765,-10.196473566494141,-2.8579355155452504
+[02Jul2024 19:02:39.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind

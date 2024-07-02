@@ -857,6 +857,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2024-07-02 18:57:20 +0000"
+    },
+    "done": true
+  },
   "create:andesite_alloy": {
     "criteria": {
       "0": "2024-06-19 22:04:07 +0000"
@@ -2101,6 +2107,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2024-07-02 18:57:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-05-21 09:10:17 +0000"
@@ -2200,6 +2212,12 @@
   "botania:recipes/botania/mana_pylon": {
     "criteria": {
       "has_item": "2024-06-26 00:10:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_black": {
+    "criteria": {
+      "has_item": "2024-07-02 18:57:20 +0000"
     },
     "done": true
   },
@@ -3452,6 +3470,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/horn_leaves": {
+    "criteria": {
+      "has_item": "2024-07-02 18:57:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-05-20 18:23:30 +0000"
@@ -3479,6 +3503,12 @@
   "create:recipes/create.palettes/small_granite_brick_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-05-26 18:57:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/drum_wild": {
+    "criteria": {
+      "has_item": "2024-07-02 18:57:40 +0000"
     },
     "done": true
   },
@@ -4012,6 +4042,12 @@
   "create:recipes/create.palettes/small_scorchia_brick_stairs_from_scorchia_stonecutting": {
     "criteria": {
       "has_scorchia": "2024-06-21 18:08:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/twig_wand": {
+    "criteria": {
+      "has_item": "2024-07-02 18:57:20 +0000"
     },
     "done": true
   },
@@ -4682,6 +4718,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_black_double": {
+    "criteria": {
+      "has_alt_item": "2024-07-02 18:57:20 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_infested_temple_map": {
     "criteria": {
       "find_map": "2024-06-24 15:47:41 +0000"
@@ -5260,8 +5302,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-06-26 00:01:59 +0000",
-      "blocked_false": "2024-06-26 00:01:59 +0000"
+      "not_projectile": "2024-07-02 18:50:57 +0000",
+      "blocked_false": "2024-07-02 18:50:57 +0000"
     },
     "done": false
   },
@@ -6613,6 +6655,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/apothecary_default": {
+    "criteria": {
+      "has_item": "2024-07-02 18:57:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2024-06-17 15:20:26 +0000"
@@ -7037,6 +7085,12 @@
   "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-05-20 16:08:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2024-07-02 18:57:20 +0000"
     },
     "done": true
   },
@@ -7556,6 +7610,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/conversions/black_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-07-02 18:57:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_granite_brick_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-05-26 18:57:29 +0000"
@@ -7787,6 +7847,12 @@
   "minecraft:recipes/travelersbackpack/sponge_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-06-25 23:52:47 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/black_petal_block": {
+    "criteria": {
+      "has_item": "2024-07-02 18:57:20 +0000"
     },
     "done": true
   },
@@ -10757,6 +10823,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_black": {
+    "criteria": {
+      "has_alt_item": "2024-07-02 18:57:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-05-25 21:34:37 +0000"
@@ -10962,6 +11034,7 @@
       "minecraft:ocean": "2024-05-28 17:50:06 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-06-24 15:28:38 +0000",
       "minecraft:snowy_beach": "2024-06-24 16:36:38 +0000",
+      "minecraft:windswept_savanna": "2024-07-02 19:00:59 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-05-19 18:34:52 +0000",
       "minecraft:flower_forest": "2024-06-19 22:49:54 +0000",
       "minecraft:old_growth_birch_forest": "2024-06-17 16:27:53 +0000",
@@ -12041,6 +12114,12 @@
   "cfm:recipes/cfm/pink_picket_gate": {
     "criteria": {
       "has_gate": "2024-06-16 16:43:47 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/horn_snow": {
+    "criteria": {
+      "has_item": "2024-07-02 18:57:40 +0000"
     },
     "done": true
   },

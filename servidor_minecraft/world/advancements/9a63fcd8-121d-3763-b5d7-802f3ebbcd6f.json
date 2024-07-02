@@ -611,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2024-07-02 18:58:22 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:recipes/iammusicplayer.iammusicplayer/music_manager": {
     "criteria": {
       "has_diamond": "2024-05-20 16:12:14 +0000"
@@ -5180,6 +5186,12 @@
   "minecraft:recipes/travelersbackpack/sheep_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-05-20 16:15:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_orange_picket_fence": {
+    "criteria": {
+      "has_dye": "2024-07-02 18:58:22 +0000"
     },
     "done": true
   },
@@ -10359,6 +10371,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-05-20 16:15:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_orange_picket_gate": {
+    "criteria": {
+      "has_dye": "2024-07-02 18:58:22 +0000"
     },
     "done": true
   },
