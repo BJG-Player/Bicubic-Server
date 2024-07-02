@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-07-02 19:02:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-05-21 20:27:33 +0000"
@@ -791,6 +797,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_light_blue_double": {
+    "criteria": {
+      "has_item": "2024-07-02 19:04:44 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/palm_chest_boat": {
     "criteria": {
       "has_boat": "2024-05-19 18:33:54 +0000"
@@ -1402,6 +1414,12 @@
   "create:recipes/create.palettes/small_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-05-20 18:23:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/light_blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-07-02 19:04:39 +0000"
     },
     "done": true
   },
@@ -3626,6 +3644,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_magenta": {
+    "criteria": {
+      "has_item": "2024-07-02 19:04:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2024-05-21 18:28:27 +0000"
@@ -5718,6 +5742,12 @@
       "carrot": "2024-05-22 20:06:45 +0000"
     },
     "done": false
+  },
+  "botania:recipes/botania/cyan_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-07-02 19:10:40 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/cfm/warped_mail_box": {
     "criteria": {
@@ -8853,6 +8883,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/magenta_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-07-02 19:04:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2024-06-22 16:02:56 +0000"
@@ -9060,6 +9096,12 @@
   "ars_nouveau:recipes/ars_nouveau/ritual_conjure_island_desert": {
     "criteria": {
       "has_journal": "2024-05-19 18:02:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/petal_cyan": {
+    "criteria": {
+      "has_item": "2024-07-02 19:10:40 +0000"
     },
     "done": true
   },
@@ -9722,6 +9764,12 @@
   "minecraft:recipes/travelersbackpack/villager_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-06-25 23:52:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/petal_blue": {
+    "criteria": {
+      "has_item": "2024-07-02 19:02:56 +0000"
     },
     "done": true
   },
@@ -10490,6 +10538,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-06-19 18:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-07-02 19:10:33 +0000"
     },
     "done": true
   },
@@ -12855,6 +12909,12 @@
   "create:recipes/create.base/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2024-05-21 15:53:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/petal_light_blue": {
+    "criteria": {
+      "has_item": "2024-07-02 19:04:39 +0000"
     },
     "done": true
   },

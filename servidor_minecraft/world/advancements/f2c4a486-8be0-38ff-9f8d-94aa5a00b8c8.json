@@ -809,6 +809,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2024-07-02 19:03:48 +0000"
+    },
+    "done": true
+  },
   "create:andesite_alloy": {
     "criteria": {
       "0": "2024-06-19 22:25:15 +0000"
@@ -1998,6 +2004,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-05-22 22:41:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2024-07-02 19:03:48 +0000"
     },
     "done": true
   },
@@ -3534,6 +3546,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/twig_wand": {
+    "criteria": {
+      "has_item": "2024-07-02 19:03:48 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:recipes/iammusicplayer.iammusicplayer/cassette_tape_glass": {
     "criteria": {
       "has_dried_kelp": "2024-05-27 20:10:33 +0000"
@@ -4593,8 +4611,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-07-02 18:45:16 +0000",
-      "blocked_false": "2024-07-02 18:45:16 +0000"
+      "not_projectile": "2024-07-02 19:06:32 +0000",
+      "blocked_false": "2024-07-02 19:06:32 +0000"
     },
     "done": false
   },
@@ -5862,6 +5880,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/apothecary_default": {
+    "criteria": {
+      "has_item": "2024-07-02 19:03:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2024-06-16 16:57:39 +0000"
@@ -6207,6 +6231,12 @@
   "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-05-23 21:50:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2024-07-02 19:03:48 +0000"
     },
     "done": true
   },
