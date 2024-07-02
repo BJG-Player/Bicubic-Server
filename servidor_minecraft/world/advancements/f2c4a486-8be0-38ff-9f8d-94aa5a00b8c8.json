@@ -2387,16 +2387,10 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-07-02 20:59:05 +0000",
-      "bit_8_2": "2024-07-02 20:59:05 +0000",
-      "bit_7_0": "2024-07-02 20:59:05 +0000",
-      "bit_6_1": "2024-07-02 20:59:05 +0000",
-      "bit_5_1": "2024-07-02 20:59:05 +0000",
-      "bit_3_0": "2024-07-02 20:59:05 +0000",
-      "bit_2_1": "2024-07-02 20:59:05 +0000",
-      "bit_4_0": "2024-07-02 20:59:05 +0000",
-      "bit_0_1": "2024-07-02 20:59:05 +0000",
-      "bit_1_1": "2024-07-02 20:59:05 +0000"
+      "bit_8_2": "2024-07-02 21:21:28 +0000",
+      "bit_6_0": "2024-07-02 21:21:28 +0000",
+      "bit_5_1": "2024-07-02 21:21:28 +0000",
+      "bit_2_1": "2024-07-02 21:21:28 +0000"
     },
     "done": false
   },
@@ -4517,6 +4511,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_black_double": {
+    "criteria": {
+      "has_item": "2024-07-02 21:18:57 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_infested_temple_map": {
     "criteria": {
       "find_map": "2024-06-22 00:39:55 +0000"
@@ -5005,8 +5005,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-07-02 20:59:06 +0000",
-      "blocked_false": "2024-07-02 20:59:06 +0000"
+      "not_projectile": "2024-07-02 21:16:14 +0000",
+      "blocked_false": "2024-07-02 21:16:14 +0000"
     },
     "done": false
   },
@@ -9727,6 +9727,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_yellow": {
+    "criteria": {
+      "has_item": "2024-07-02 21:19:35 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/lens_tripwire": {
     "criteria": {
       "has_item": "2024-07-02 20:44:13 +0000"
@@ -10577,6 +10583,12 @@
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2024-06-18 16:32:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/yellow_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-07-02 21:19:35 +0000"
     },
     "done": true
   },
