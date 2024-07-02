@@ -793,6 +793,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-07-02 19:23:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
     "criteria": {
       "has_chicken": "2024-06-16 15:43:30 +0000"
@@ -2369,6 +2375,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-07-02 19:23:12 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/terrasteel_boots": {
     "criteria": {
       "has_item": "2024-06-27 20:03:28 +0000"
@@ -2558,6 +2570,12 @@
   "naturesaura:infused_materials": {
     "criteria": {
       "materials": "2024-06-24 21:47:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/floating_gourmaryllis": {
+    "criteria": {
+      "has_item": "2024-07-02 19:21:50 +0000"
     },
     "done": true
   },
@@ -8701,6 +8719,12 @@
   "cfm:recipes/cfm/oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-06-22 13:06:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-07-02 19:23:12 +0000"
     },
     "done": true
   },

@@ -1188,3 +1188,42 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [02Jul2024 19:23:46.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [02Jul2024 19:24:04.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2933ms or 58 ticks behind
 [02Jul2024 19:24:27.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02Jul2024 19:24:45.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02Jul2024 19:24:59.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago has completed the challenge [Serious Dedication]
+[02Jul2024 19:25:04.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3307ms or 66 ticks behind
+[02Jul2024 19:27:45.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! -9.519508380657385,-1.0,-2.9513764087377297
+[02Jul2024 19:28:32.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02Jul2024 19:28:47.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! 10.030556398600538,-0.23244853308321467,-0.6626277127272999
+[02Jul2024 19:28:51.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3820ms or 76 ticks behind
+[02Jul2024 19:29:13.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago moved too quickly! 0.4179062694470943,-15.6262077078799,1.7385624456214828
+[02Jul2024 19:29:26.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! -7.006735719897165,0.9375,7.204649564953797
+[02Jul2024 19:30:11.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! -8.692962788192176,1.0,-5.530731296542825
+[02Jul2024 19:30:37.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! 10.047924312665941,1.5167939832141428,-2.0237543371432594
+[02Jul2024 19:31:41.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago has completed the challenge [Sniper Duel]
+[02Jul2024 19:32:06.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Braulio_JG lost connection: Disconnected
+[02Jul2024 19:32:06.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Braulio_JG left the game
+[02Jul2024 19:32:08.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago lost connection: Disconnected
+[02Jul2024 19:32:08.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago left the game
+[02Jul2024 19:32:09.347] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 lost connection: Disconnected
+[02Jul2024 19:32:09.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 left the game
+[02Jul2024 19:32:09.559] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SurpriseAttack03 lost connection: Disconnected
+[02Jul2024 19:32:09.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SurpriseAttack03 left the game
+[02Jul2024 19:32:19.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Jul2024 19:32:19.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Jul2024 19:32:19.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Jul2024 19:32:19.281] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
+java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:54) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:650) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.19.2-43.3.0-universal.jar%23272!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:85) ~[server-1.19.2-20220805.130853-srg.jar%23267!/:?]
+Caused by: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.ExecPty.doSetAttr(ExecPty.java:93) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	... 4 more
+[02Jul2024 19:32:24.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bicubic 2: Astral Inventions]'/minecraft:overworld
