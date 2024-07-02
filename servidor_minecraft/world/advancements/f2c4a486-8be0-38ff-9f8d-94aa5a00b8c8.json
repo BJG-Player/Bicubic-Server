@@ -449,6 +449,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2024-07-02 20:57:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2024-05-20 16:16:32 +0000"
@@ -1043,6 +1049,12 @@
     },
     "done": true
   },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2024-07-02 20:57:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-05-22 22:58:35 +0000"
@@ -1563,9 +1575,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2024-07-02 20:59:20 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_blocks/cherry_wood": {
     "criteria": {
       "has_item": "2024-05-20 18:47:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/purple_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-07-02 20:57:06 +0000"
     },
     "done": true
   },
@@ -2339,16 +2363,16 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-07-02 20:34:47 +0000",
-      "bit_8_1": "2024-07-02 20:34:47 +0000",
-      "bit_7_0": "2024-07-02 20:34:47 +0000",
-      "bit_6_1": "2024-07-02 20:34:47 +0000",
-      "bit_3_2": "2024-07-02 20:34:47 +0000",
-      "bit_5_1": "2024-07-02 20:34:47 +0000",
-      "bit_2_1": "2024-07-02 20:34:47 +0000",
-      "bit_4_0": "2024-07-02 20:34:47 +0000",
-      "bit_1_1": "2024-07-02 20:34:47 +0000",
-      "bit_0_0": "2024-07-02 20:34:47 +0000"
+      "not_projectile": "2024-07-02 20:59:05 +0000",
+      "bit_8_2": "2024-07-02 20:59:05 +0000",
+      "bit_7_0": "2024-07-02 20:59:05 +0000",
+      "bit_6_1": "2024-07-02 20:59:05 +0000",
+      "bit_5_1": "2024-07-02 20:59:05 +0000",
+      "bit_3_0": "2024-07-02 20:59:05 +0000",
+      "bit_2_1": "2024-07-02 20:59:05 +0000",
+      "bit_4_0": "2024-07-02 20:59:05 +0000",
+      "bit_0_1": "2024-07-02 20:59:05 +0000",
+      "bit_1_1": "2024-07-02 20:59:05 +0000"
     },
     "done": false
   },
@@ -2683,6 +2707,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/pink_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-07-02 20:57:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2024-05-22 22:40:01 +0000"
@@ -2740,6 +2770,12 @@
   "ars_nouveau:recipes/ars_nouveau/spell_prism": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2024-07-02 20:59:20 +0000"
     },
     "done": true
   },
@@ -3410,6 +3446,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_magenta": {
+    "criteria": {
+      "has_item": "2024-07-02 20:57:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2024-06-18 16:32:22 +0000"
@@ -3437,6 +3479,12 @@
   "create:recipes/create.palettes/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-07-02 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2024-07-02 20:59:20 +0000"
     },
     "done": true
   },
@@ -3823,6 +3871,12 @@
   "cfm:recipes/cfm/stripped_crimson_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-05-27 20:46:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/petal_purple": {
+    "criteria": {
+      "has_item": "2024-07-02 20:57:06 +0000"
     },
     "done": true
   },
@@ -4912,6 +4966,13 @@
       "has_diamond_tier_upgrade": "2024-06-19 19:21:16 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-07-02 20:59:06 +0000",
+      "blocked_false": "2024-07-02 20:59:06 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
@@ -7455,6 +7516,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_lime_double": {
+    "criteria": {
+      "has_item": "2024-07-02 20:58:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2024-06-16 18:29:25 +0000"
@@ -8349,6 +8416,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/magenta_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-07-02 20:57:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2024-05-20 16:22:59 +0000"
@@ -8388,6 +8461,12 @@
   "iammusicplayer:recipes/iammusicplayer.iammusicplayer/cassette_deck": {
     "criteria": {
       "has_jukebox": "2024-05-22 22:42:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2024-07-02 20:59:20 +0000"
     },
     "done": true
   },
@@ -9057,6 +9136,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-05-27 21:33:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/petal_purple_double": {
+    "criteria": {
+      "has_item": "2024-07-02 20:57:04 +0000"
     },
     "done": true
   },
@@ -10122,6 +10207,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2024-07-02 20:59:20 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/ars_elemental/spore_blossom_up": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
@@ -10708,6 +10799,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_pink": {
+    "criteria": {
+      "has_item": "2024-07-02 20:57:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-06-24 15:23:26 +0000"
@@ -11193,6 +11290,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/flower_bag": {
+    "criteria": {
+      "has_item": "2024-07-02 20:57:06 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/holy_cloak": {
     "criteria": {
       "has_item": "2024-07-02 20:18:58 +0000"
@@ -11595,6 +11698,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/decorations/anvil_compat": {
+    "criteria": {
+      "has_item": "2024-07-02 20:59:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
@@ -11721,6 +11830,12 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2024-07-02 20:57:06 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_upgraded_fence": {
     "criteria": {
       "has_log": "2024-05-26 18:20:13 +0000"
@@ -11796,6 +11911,12 @@
   "botania:recipes/botania/quartz_dark": {
     "criteria": {
       "has_item": "2024-06-16 17:58:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2024-07-02 20:59:20 +0000"
     },
     "done": true
   },
@@ -12131,6 +12252,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_lime": {
+    "criteria": {
+      "has_item": "2024-07-02 20:57:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-05-20 16:04:14 +0000"
@@ -12152,6 +12279,12 @@
   "create:recipes/create.base/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2024-05-20 17:29:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lime_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-07-02 20:57:58 +0000"
     },
     "done": true
   },

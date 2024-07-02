@@ -270,6 +270,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/lens_weight": {
+    "criteria": {
+      "has_item": "2024-07-02 20:49:33 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/archwood_planks": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
@@ -465,6 +471,12 @@
   "botania:recipes/botania/black_shiny_flower": {
     "criteria": {
       "has_item": "2024-06-25 17:58:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lens_time": {
+    "criteria": {
+      "has_item": "2024-07-02 20:49:33 +0000"
     },
     "done": true
   },
@@ -1147,6 +1159,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/lens_influence": {
+    "criteria": {
+      "has_item": "2024-07-02 20:49:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2024-06-17 18:08:25 +0000"
@@ -1210,6 +1228,12 @@
   "botania:main/bauble_wear": {
     "criteria": {
       "code_triggered": "2024-05-19 18:23:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lens_light_alt": {
+    "criteria": {
+      "has_item": "2024-07-02 20:49:33 +0000"
     },
     "done": true
   },
@@ -1481,6 +1505,12 @@
   "cfm:recipes/cfm/acacia_hedge": {
     "criteria": {
       "has_leaves": "2024-06-24 18:40:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lens_mine": {
+    "criteria": {
+      "has_item": "2024-07-02 20:49:33 +0000"
     },
     "done": true
   },
@@ -2156,6 +2186,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/lens_gravity": {
+    "criteria": {
+      "has_item": "2024-07-02 20:49:33 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_binding": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
@@ -2209,23 +2245,6 @@
       "has_stick": "2024-05-22 18:16:33 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "not_projectile": "2024-07-02 20:34:05 +0000",
-      "bit_8_1": "2024-07-02 20:34:05 +0000",
-      "bit_7_0": "2024-07-02 20:34:05 +0000",
-      "bit_6_1": "2024-07-02 20:34:05 +0000",
-      "bit_3_2": "2024-07-02 20:34:05 +0000",
-      "bit_5_1": "2024-07-02 20:34:05 +0000",
-      "bit_2_1": "2024-07-02 20:34:05 +0000",
-      "bit_4_0": "2024-07-02 20:34:05 +0000",
-      "bit_0_1": "2024-07-02 20:34:05 +0000",
-      "bit_1_0": "2024-07-02 20:34:05 +0000",
-      "bit_1_1": "2024-07-02 20:34:10 +0000",
-      "bit_0_0": "2024-07-02 20:34:10 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -2365,6 +2384,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/lens_speed": {
+    "criteria": {
+      "has_item": "2024-07-02 20:49:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/cactus_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-05-20 21:08:49 +0000"
@@ -2434,6 +2459,12 @@
   "ars_nouveau:amethyst_golem_charm": {
     "criteria": {
       "has_amethyst_golem_charm": "2024-05-22 17:09:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lens_efficiency": {
+    "criteria": {
+      "has_item": "2024-07-02 20:49:33 +0000"
     },
     "done": true
   },
@@ -2542,6 +2573,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-05-21 18:01:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lens_magnet": {
+    "criteria": {
+      "has_item": "2024-07-02 20:49:33 +0000"
     },
     "done": true
   },
@@ -2830,6 +2867,12 @@
   "botania:recipes/misc/dye_brown": {
     "criteria": {
       "has_item": "2024-07-02 18:55:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lens_fire": {
+    "criteria": {
+      "has_item": "2024-07-02 20:49:33 +0000"
     },
     "done": true
   },
@@ -4151,6 +4194,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/water_rod": {
+    "criteria": {
+      "has_item": "2024-07-02 20:59:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-05-20 19:48:39 +0000"
@@ -4457,6 +4506,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/lens_explosive": {
+    "criteria": {
+      "has_item": "2024-07-02 20:49:33 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/cherry_fence": {
     "criteria": {
       "has_planks": "2024-05-26 19:42:21 +0000"
@@ -4552,6 +4607,13 @@
       "has_diamond_tier_upgrade": "2024-05-20 21:08:55 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2024-07-02 20:50:06 +0000",
+      "blocked_false": "2024-07-02 20:50:06 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
@@ -5070,6 +5132,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/lens_messenger": {
+    "criteria": {
+      "has_item": "2024-07-02 20:49:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_candle": {
     "criteria": {
       "has_green_dye": "2024-06-17 19:41:23 +0000"
@@ -5187,6 +5255,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-06-24 21:52:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lens_light": {
+    "criteria": {
+      "has_item": "2024-07-02 20:49:33 +0000"
     },
     "done": true
   },
@@ -5953,6 +6027,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/lens_phantom": {
+    "criteria": {
+      "has_item": "2024-07-02 20:49:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2024-05-19 18:37:09 +0000"
@@ -5965,6 +6045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-07-02 20:50:58 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/light_gray_petal_block": {
     "criteria": {
       "has_item": "2024-07-02 18:56:04 +0000"
@@ -5974,6 +6060,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2024-05-22 18:11:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lens_bounce": {
+    "criteria": {
+      "has_item": "2024-07-02 20:49:33 +0000"
     },
     "done": true
   },
@@ -6202,6 +6294,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-05-22 17:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-07-02 20:50:58 +0000"
     },
     "done": true
   },
@@ -7129,6 +7227,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/lens_paint": {
+    "criteria": {
+      "has_item": "2024-07-02 20:49:33 +0000"
+    },
+    "done": true
+  },
   "botania:main/flower_pickup_lexicon": {
     "criteria": {
       "elven_lexicon": "2024-05-20 19:45:54 +0000"
@@ -7567,6 +7671,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/lens_piston": {
+    "criteria": {
+      "has_item": "2024-07-02 20:49:33 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/purple_sbed": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
@@ -7819,6 +7929,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cobble_rod": {
+    "criteria": {
+      "has_alt_item": "2024-07-02 20:59:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-06-22 13:06:01 +0000"
@@ -8018,6 +8134,12 @@
   "create:recipes/create.palettes/cut_andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-06-24 20:47:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lens_power": {
+    "criteria": {
+      "has_item": "2024-07-02 20:49:33 +0000"
     },
     "done": true
   },
@@ -10175,6 +10297,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/lens_damage": {
+    "criteria": {
+      "has_item": "2024-07-02 20:49:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-05-22 17:41:11 +0000"
@@ -11127,6 +11255,12 @@
   "minecraft:recipes/travelersbackpack/dragon_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-05-20 21:08:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-07-02 20:50:58 +0000"
     },
     "done": true
   },

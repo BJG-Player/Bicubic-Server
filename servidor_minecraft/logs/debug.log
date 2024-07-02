@@ -10868,3 +10868,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [02Jul2024 20:48:43.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SurpriseAttack03: Teleported SurpriseAttack03 to JackSparrago]
 [02Jul2024 20:49:14.593] [Server thread/DEBUG] [botania/]: Instantiating vazkii.botania.common.impl.mana.ManaItemHandlerImpl for service vazkii.botania.api.mana.ManaItemHandler
 [02Jul2024 20:49:43.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SurpriseAttack03: Teleported SurpriseAttack03 to JackSparrago]
+[02Jul2024 20:52:35.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bicubic 2: Astral Inventions
+[02Jul2024 20:52:35.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bicubic 2: Astral Inventions
+[02Jul2024 20:53:42.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JackSparrago: Set own game mode to Creative Mode]
+[02Jul2024 20:55:29.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JackSparrago: Set own game mode to Survival Mode]
+[02Jul2024 20:57:06.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago has made the advancement [Sky of Beginning]
+[02Jul2024 20:57:35.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bicubic 2: Astral Inventions
+[02Jul2024 20:57:35.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bicubic 2: Astral Inventions
+[02Jul2024 20:58:16.640] [Worker-Main-3/DEBUG] [mixin/]: Mixing NoiseChunkAccessor from botania_xplat.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[02Jul2024 20:58:16.649] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[02Jul2024 20:58:16.662] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[02Jul2024 20:58:17.369] [Worker-Main-1/DEBUG] [mixin/]: Mixing access.SurfaceRuleContextAccess from byg.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[02Jul2024 20:58:21.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[02Jul2024 20:59:20.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago has made the advancement [A Little Hot Rod Red]
+[02Jul2024 21:02:37.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bicubic 2: Astral Inventions
+[02Jul2024 21:02:37.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bicubic 2: Astral Inventions
