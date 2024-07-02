@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/floating_pure_daisy": {
+    "criteria": {
+      "has_item": "2024-07-02 20:37:03 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/spawner_mover": {
     "criteria": {
       "has_item": "2024-05-19 18:37:10 +0000"
@@ -1628,6 +1634,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/floating_entropinnyum": {
+    "criteria": {
+      "has_item": "2024-07-02 20:33:44 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/arcane_core": {
     "criteria": {
       "has_journal": "2024-05-19 12:59:46 +0000"
@@ -2197,6 +2209,23 @@
       "has_stick": "2024-05-22 18:16:33 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-07-02 20:34:05 +0000",
+      "bit_8_1": "2024-07-02 20:34:05 +0000",
+      "bit_7_0": "2024-07-02 20:34:05 +0000",
+      "bit_6_1": "2024-07-02 20:34:05 +0000",
+      "bit_3_2": "2024-07-02 20:34:05 +0000",
+      "bit_5_1": "2024-07-02 20:34:05 +0000",
+      "bit_2_1": "2024-07-02 20:34:05 +0000",
+      "bit_4_0": "2024-07-02 20:34:05 +0000",
+      "bit_0_1": "2024-07-02 20:34:05 +0000",
+      "bit_1_0": "2024-07-02 20:34:05 +0000",
+      "bit_1_1": "2024-07-02 20:34:10 +0000",
+      "bit_0_0": "2024-07-02 20:34:10 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
