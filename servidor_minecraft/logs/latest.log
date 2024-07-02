@@ -987,3 +987,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [02Jul2024 17:36:08.829] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JackSparrago
 [02Jul2024 17:36:08.829] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JackSparrago
 [02Jul2024 17:36:08.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago joined the game
+[02Jul2024 17:48:30.294] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b32dcc[id=<null>,name=SurpriseAttack03,properties={},legacy=false] (/127.146.101.19:52937) lost connection: Disconnected
