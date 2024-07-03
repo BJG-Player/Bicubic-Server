@@ -2261,12 +2261,6 @@
     },
     "done": true
   },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "is_projectile": "2024-07-02 19:24:32 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-21 16:50:39 +0000"
@@ -4864,8 +4858,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "not_projectile": "2024-07-02 19:24:31 +0000",
-      "blocked_false": "2024-07-02 19:24:31 +0000"
+      "not_projectile": "2024-07-03 19:46:35 +0000",
+      "blocked_false": "2024-07-03 19:46:35 +0000"
     },
     "done": false
   },
@@ -8315,6 +8309,7 @@
       "byg:weeping_witch_forest": "2024-06-22 17:59:03 +0000",
       "byg:zelkova_forest": "2024-06-22 11:51:03 +0000",
       "byg:araucaria_savanna": "2024-05-19 18:19:31 +0000",
+      "byg:jacaranda_forest": "2024-07-03 19:10:46 +0000",
       "byg:crag_gardens": "2024-06-22 12:48:31 +0000",
       "byg:ethereal_islands": "2024-06-25 19:49:51 +0000",
       "byg:aspen_forest": "2024-06-22 11:57:20 +0000",

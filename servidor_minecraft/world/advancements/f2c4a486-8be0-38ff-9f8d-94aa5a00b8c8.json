@@ -557,15 +557,15 @@
     },
     "done": true
   },
-  "botania:recipes/botania/black_shiny_flower": {
-    "criteria": {
-      "has_item": "2024-07-02 21:09:23 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/botania/slab_recombine/livingrock": {
     "criteria": {
       "has_item": "2024-07-02 20:36:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/black_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-07-02 21:09:23 +0000"
     },
     "done": true
   },
@@ -2211,6 +2211,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_keep_kayra": {
+    "criteria": {
+      "location0": "2024-07-03 19:15:25 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/decorations/manipulation_essence_to_moss_block": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
@@ -2384,15 +2390,6 @@
       "has_gold_ore": "2024-05-26 18:24:37 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hit": {
-    "criteria": {
-      "bit_8_2": "2024-07-02 21:21:28 +0000",
-      "bit_6_0": "2024-07-02 21:21:28 +0000",
-      "bit_5_1": "2024-07-02 21:21:28 +0000",
-      "bit_2_1": "2024-07-02 21:21:28 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -4307,15 +4304,15 @@
     },
     "done": true
   },
-  "botania:recipes/botania/conversions/dragonstone_block_deconstruct": {
-    "criteria": {
-      "has_item": "2024-07-02 20:42:53 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/botania/diluted_pool": {
     "criteria": {
       "has_item": "2024-07-02 20:36:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/conversions/dragonstone_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-07-02 20:42:53 +0000"
     },
     "done": true
   },
@@ -5002,13 +4999,6 @@
       "has_diamond_tier_upgrade": "2024-06-19 19:21:16 +0000"
     },
     "done": true
-  },
-  "dnl:util/entity_hit_matching/on_hurt": {
-    "criteria": {
-      "not_projectile": "2024-07-02 21:16:14 +0000",
-      "blocked_false": "2024-07-02 21:16:14 +0000"
-    },
-    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
@@ -6229,6 +6219,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-05-20 16:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2024-07-03 19:43:24 +0000"
     },
     "done": true
   },
