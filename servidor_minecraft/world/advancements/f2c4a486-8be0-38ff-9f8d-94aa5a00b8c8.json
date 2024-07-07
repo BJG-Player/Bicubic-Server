@@ -653,6 +653,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2024-07-07 18:38:16 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/fire_essence_to_charge": {
     "criteria": {
       "has_journal": "2024-05-20 15:59:03 +0000"
@@ -1689,6 +1695,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2024-07-07 18:38:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_hedge": {
     "criteria": {
       "has_leaves": "2024-06-21 19:50:03 +0000"
@@ -2169,6 +2181,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2024-07-07 18:38:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-06-22 17:07:09 +0000"
@@ -2435,8 +2453,8 @@
   },
   "dnl:util/entity_hit_matching/on_hit": {
     "criteria": {
-      "not_projectile": "2024-07-04 20:33:33 +0000",
-      "not_magic": "2024-07-04 20:33:33 +0000"
+      "not_projectile": "2024-07-07 18:43:18 +0000",
+      "not_magic": "2024-07-07 18:43:18 +0000"
     },
     "done": false
   },
@@ -5100,8 +5118,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "is_projectile": "2024-07-04 20:33:33 +0000",
-      "blocked_false": "2024-07-04 20:33:33 +0000"
+      "not_projectile": "2024-07-07 18:43:11 +0000",
+      "blocked_false": "2024-07-07 18:43:11 +0000"
     },
     "done": false
   },
@@ -8943,7 +8961,8 @@
       "byg:temperate_rainforest": "2024-06-22 12:24:05 +0000",
       "byg:maple_taiga": "2024-06-22 16:48:36 +0000",
       "byg:dacite_shore": "2024-06-16 16:43:57 +0000",
-      "byg:borealis_grove": "2024-06-24 16:23:38 +0000"
+      "byg:borealis_grove": "2024-06-24 16:23:38 +0000",
+      "byg:guiana_shield": "2024-07-07 18:27:30 +0000"
     },
     "done": false
   },
@@ -12688,6 +12707,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-06-24 22:18:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-07-07 18:38:16 +0000"
     },
     "done": true
   },
