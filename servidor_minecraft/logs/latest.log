@@ -1089,3 +1089,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [24Sep2024 19:48:03.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NanoLeche33: Killed 75 entities]
 [24Sep2024 19:48:45.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! -0.6668655917625301,10.805802295081506,0.9684746719656232
 [24Sep2024 19:48:57.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JackSparrago: Teleported JackSparrago to NanoLeche33]
+[24Sep2024 19:56:36.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NanoLeche33: Set own game mode to Creative Mode]
+[24Sep2024 19:57:07.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NanoLeche33: Killed 36 entities]
+[24Sep2024 19:57:37.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NanoLeche33: Set own game mode to Spectator Mode]
+[24Sep2024 19:57:44.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NanoLeche33: Set own game mode to Survival Mode]
+[24Sep2024 19:58:13.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NanoLeche33: Set own game mode to Spectator Mode]
+[24Sep2024 19:58:53.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NanoLeche33: Set own game mode to Survival Mode]
+[24Sep2024 19:59:07.776] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23382, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.11, y=64.04, z=160.57] died, message: 'Villager was squished too much'
+[24Sep2024 19:59:15.386] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 lost connection: Disconnected
+[24Sep2024 19:59:15.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 left the game
