@@ -1024,3 +1024,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [24Sep2024 18:41:12.030] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6f988f77
 [24Sep2024 18:41:40.520] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2360, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.12, y=64.05, z=160.50] died, message: 'Villager was squished too much'
 [24Sep2024 18:47:31.068] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2358, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.14, y=64.04, z=160.43] died, message: 'Villager was squished too much'
+[24Sep2024 19:03:58.655] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@11a0b402
+[24Sep2024 19:03:58.677] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NanoLeche33[/127.20.16.204:52487] logged in with entity id 8583 at (-346.4929690801972, 64.0, 2059.5168597528773)
+[24Sep2024 19:03:58.678] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to NanoLeche33
+[24Sep2024 19:03:58.679] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to NanoLeche33
+[24Sep2024 19:03:58.679] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to NanoLeche33
+[24Sep2024 19:03:58.679] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to NanoLeche33
+[24Sep2024 19:03:58.683] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to NanoLeche33
+[24Sep2024 19:03:58.689] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to NanoLeche33
+[24Sep2024 19:03:58.690] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to NanoLeche33
+[24Sep2024 19:03:58.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 joined the game
+[24Sep2024 19:04:02.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Braulio_JG moved too quickly! -10.026829514179383,-0.757002463247801,-1.7915257397572049
+[24Sep2024 19:04:02.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3828ms or 76 ticks behind
+[24Sep2024 19:06:31.224] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8248, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.16, y=64.04, z=160.46] died, message: 'Villager was squished too much'
