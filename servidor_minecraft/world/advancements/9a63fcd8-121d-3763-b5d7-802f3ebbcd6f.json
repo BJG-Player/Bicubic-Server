@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-09-24 18:50:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-05-19 18:33:51 +0000"
@@ -4929,6 +4935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-09-24 18:50:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/spider_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-05-20 16:12:39 +0000"
@@ -5325,6 +5337,12 @@
   "byg:recipes/byg.byg/witch_hazel_door": {
     "criteria": {
       "has_planks": "2024-06-22 18:32:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-09-24 18:50:36 +0000"
     },
     "done": true
   },
