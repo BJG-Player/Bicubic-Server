@@ -1659,6 +1659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2024-09-24 20:20:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-05-27 20:46:37 +0000"
@@ -3297,6 +3303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2024-09-24 20:20:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2024-05-26 19:24:19 +0000"
@@ -3660,6 +3672,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-05-20 17:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2024-09-24 20:20:42 +0000"
     },
     "done": true
   },
@@ -6941,6 +6959,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2024-09-24 20:20:42 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/apothecary_deepslate": {
     "criteria": {
       "has_item": "2024-07-02 19:03:48 +0000"
@@ -7550,6 +7574,12 @@
   "create:recipes/create.palettes/crafting/palettes/scorchia": {
     "criteria": {
       "has_item": "2024-06-19 19:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2024-09-24 20:20:42 +0000"
     },
     "done": true
   },
@@ -10081,6 +10111,12 @@
   "cfm:recipes/cfm/stripped_spruce_blinds": {
     "criteria": {
       "has_log": "2024-06-20 14:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2024-09-24 20:20:42 +0000"
     },
     "done": true
   },

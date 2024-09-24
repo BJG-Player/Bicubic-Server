@@ -1098,3 +1098,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [24Sep2024 19:59:07.776] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23382, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.11, y=64.04, z=160.57] died, message: 'Villager was squished too much'
 [24Sep2024 19:59:15.386] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 lost connection: Disconnected
 [24Sep2024 19:59:15.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 left the game
+[24Sep2024 20:08:02.070] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23380, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.15, y=64.04, z=160.30] died, message: 'Villager was squished too much'
+[24Sep2024 20:19:51.098] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Rabbit['bicho'/56862, l='ServerLevel[Bicubic 2: Astral Inventions]', x=284.79, y=74.00, z=99.54] died: bicho blew up
+[24Sep2024 20:19:51.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Rigoberto'/56881, l='ServerLevel[Bicubic 2: Astral Inventions]', x=284.06, y=74.00, z=105.57] died: Rigoberto blew up
