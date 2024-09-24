@@ -1085,3 +1085,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [24Sep2024 19:42:24.536] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to NanoLeche33
 [24Sep2024 19:42:24.536] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to NanoLeche33
 [24Sep2024 19:42:24.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 joined the game
+[24Sep2024 19:48:02.172] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23383, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.10, y=64.02, z=160.45] died, message: 'Villager was squished too much'
+[24Sep2024 19:48:03.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NanoLeche33: Killed 75 entities]
+[24Sep2024 19:48:45.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! -0.6668655917625301,10.805802295081506,0.9684746719656232
+[24Sep2024 19:48:57.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JackSparrago: Teleported JackSparrago to NanoLeche33]

@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-09-24 19:47:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-05-22 22:41:45 +0000"
@@ -1331,6 +1337,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/ebony_fence": {
+    "criteria": {
+      "has_planks": "2024-09-24 19:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2024-06-25 19:42:17 +0000"
@@ -1364,6 +1376,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2024-06-16 16:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-09-24 19:47:46 +0000"
     },
     "done": true
   },
@@ -2127,6 +2145,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/ebony_slab": {
+    "criteria": {
+      "has_planks": "2024-09-24 19:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-05-20 17:25:27 +0000"
@@ -2819,6 +2843,12 @@
   "cfm:recipes/cfm/light_gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-05-27 20:46:37 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/ebony_boat": {
+    "criteria": {
+      "has_planks": "2024-09-24 19:51:13 +0000"
     },
     "done": true
   },
@@ -4002,6 +4032,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/ebony_door": {
+    "criteria": {
+      "has_planks": "2024-09-24 19:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-05-26 19:29:41 +0000"
@@ -4267,6 +4303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-09-24 19:47:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_deepslate_brick_slab_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-05-26 21:22:13 +0000"
@@ -4525,6 +4567,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/ebony_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-09-24 19:51:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/gray_picket_gate": {
     "criteria": {
       "has_concrete": "2024-06-24 15:18:51 +0000"
@@ -4534,6 +4582,12 @@
   "farmersdelight:recipes/farmersdelight/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2024-05-20 17:26:36 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/ebony_bookshelf": {
+    "criteria": {
+      "has_planks": "2024-09-24 19:51:13 +0000"
     },
     "done": true
   },
@@ -6049,6 +6103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-09-24 19:47:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2024-05-20 17:41:41 +0000"
@@ -6872,6 +6932,12 @@
   "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-05-23 21:50:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-09-24 19:47:46 +0000"
     },
     "done": true
   },
@@ -7712,6 +7778,12 @@
   "botania:recipes/botania/petal_lime_double": {
     "criteria": {
       "has_item": "2024-07-02 20:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-09-24 19:47:46 +0000"
     },
     "done": true
   },
@@ -9736,6 +9808,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/ebony_button": {
+    "criteria": {
+      "has_planks": "2024-09-24 19:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/gold_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-06-19 19:20:39 +0000"
@@ -10715,6 +10793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-09-24 19:47:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-06-24 15:23:26 +0000"
@@ -10736,6 +10820,12 @@
   "botania:recipes/botania/pump": {
     "criteria": {
       "has_item": "2024-06-22 12:01:13 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/ebony_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-09-24 19:51:13 +0000"
     },
     "done": true
   },
@@ -11051,6 +11141,12 @@
   "minecraft:recipes/travelersbackpack/spider_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-06-19 19:20:39 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/ebony_crafting_table": {
+    "criteria": {
+      "has_planks": "2024-09-24 19:51:13 +0000"
     },
     "done": true
   },
@@ -11822,6 +11918,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/ebony_stairs": {
+    "criteria": {
+      "has_planks": "2024-09-24 19:51:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2024-05-20 17:26:15 +0000"
@@ -12257,6 +12359,12 @@
   "create:recipes/create.palettes/small_dripstone_brick_wall_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2024-06-22 17:07:31 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/ebony_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-09-24 19:51:13 +0000"
     },
     "done": true
   },

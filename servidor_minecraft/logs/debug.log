@@ -12729,3 +12729,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [24Sep2024 19:42:24.720] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: e45eb219-78ff-302f-bd3b-4329707e9b76 data: NetData{purpose=CONFIG, threshold=8.0, stopEmoteID=null, emoteData=null, startingAt=0, player=null}
 [24Sep2024 19:43:06.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bicubic 2: Astral Inventions
 [24Sep2024 19:43:06.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bicubic 2: Astral Inventions
+[24Sep2024 19:48:02.172] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23383, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.10, y=64.02, z=160.45] died, message: 'Villager was squished too much'
+[24Sep2024 19:48:03.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NanoLeche33: Killed 75 entities]
+[24Sep2024 19:48:06.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bicubic 2: Astral Inventions
+[24Sep2024 19:48:06.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bicubic 2: Astral Inventions
+[24Sep2024 19:48:45.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! -0.6668655917625301,10.805802295081506,0.9684746719656232
+[24Sep2024 19:48:57.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JackSparrago: Teleported JackSparrago to NanoLeche33]
+[24Sep2024 19:53:06.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bicubic 2: Astral Inventions
+[24Sep2024 19:53:06.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bicubic 2: Astral Inventions
