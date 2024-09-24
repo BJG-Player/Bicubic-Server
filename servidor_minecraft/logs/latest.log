@@ -1057,3 +1057,31 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:stripped_mangrove_wood'
 [24Sep2024 19:30:51.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 moved too quickly! -8.864724069727231,0.41981386075181604,4.788948968128338
 [24Sep2024 19:32:05.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [24Sep2024 19:32:21.913] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23381, l='ServerLevel[Bicubic 2: Astral Inventions]', x=353.16, y=64.04, z=160.30] died, message: 'Villager was squished too much'
+[24Sep2024 19:32:46.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[24Sep2024 19:32:54.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackSparrago lost connection: Disconnected
+[24Sep2024 19:32:54.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago left the game
+[24Sep2024 19:34:06.116] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@9b16a64
+[24Sep2024 19:34:06.133] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JackSparrago[/127.79.108.2:43839] logged in with entity id 36923 at (273.5, 61.0, 119.5)
+[24Sep2024 19:34:06.134] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JackSparrago
+[24Sep2024 19:34:06.135] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JackSparrago
+[24Sep2024 19:34:06.135] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JackSparrago
+[24Sep2024 19:34:06.135] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JackSparrago
+[24Sep2024 19:34:06.137] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JackSparrago
+[24Sep2024 19:34:06.139] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JackSparrago
+[24Sep2024 19:34:06.139] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JackSparrago
+[24Sep2024 19:34:06.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackSparrago joined the game
+[24Sep2024 19:36:16.146] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Braulio_JG lost connection: Disconnected
+[24Sep2024 19:36:16.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Braulio_JG left the game
+[24Sep2024 19:42:11.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NanoLeche33 lost connection: Disconnected
+[24Sep2024 19:42:11.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 left the game
+[24Sep2024 19:42:17.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JackSparrago: Set own game mode to Creative Mode]
+[24Sep2024 19:42:24.511] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@75860529
+[24Sep2024 19:42:24.531] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NanoLeche33[/127.20.16.204:39543] logged in with entity id 41960 at (-313.47731715192316, 65.5, 2069.5411038209795)
+[24Sep2024 19:42:24.532] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to NanoLeche33
+[24Sep2024 19:42:24.532] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to NanoLeche33
+[24Sep2024 19:42:24.532] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to NanoLeche33
+[24Sep2024 19:42:24.532] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to NanoLeche33
+[24Sep2024 19:42:24.534] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to NanoLeche33
+[24Sep2024 19:42:24.536] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to NanoLeche33
+[24Sep2024 19:42:24.536] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to NanoLeche33
+[24Sep2024 19:42:24.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NanoLeche33 joined the game
