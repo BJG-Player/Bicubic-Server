@@ -707,6 +707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-09-24 19:22:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2024-05-19 18:19:13 +0000"
@@ -2296,6 +2302,21 @@
       "has_gold_ore": "2024-06-19 22:50:26 +0000"
     },
     "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hit": {
+    "criteria": {
+      "not_projectile": "2024-09-24 19:25:48 +0000",
+      "bit_8_2": "2024-09-24 19:25:48 +0000",
+      "bit_6_1": "2024-09-24 19:25:48 +0000",
+      "bit_7_1": "2024-09-24 19:25:48 +0000",
+      "bit_5_0": "2024-09-24 19:25:48 +0000",
+      "bit_4_1": "2024-09-24 19:25:48 +0000",
+      "bit_3_1": "2024-09-24 19:25:48 +0000",
+      "bit_1_0": "2024-09-24 19:25:48 +0000",
+      "bit_0_1": "2024-09-24 19:25:48 +0000",
+      "bit_2_0": "2024-09-24 19:25:48 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -4955,10 +4976,8 @@
   },
   "dnl:util/entity_hit_matching/on_hurt": {
     "criteria": {
-      "blocked_true": "2024-07-04 17:15:42 +0000",
-      "not_projectile": "2024-07-03 19:46:35 +0000",
-      "is_projectile": "2024-07-04 17:08:07 +0000",
-      "blocked_false": "2024-07-03 19:46:35 +0000"
+      "not_projectile": "2024-09-24 19:25:57 +0000",
+      "blocked_false": "2024-09-24 19:25:57 +0000"
     },
     "done": false
   },
@@ -10789,6 +10808,12 @@
   "byg:recipes/byg.byg/maple_bookshelf": {
     "criteria": {
       "has_planks": "2024-05-23 18:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-09-24 19:22:55 +0000"
     },
     "done": true
   },
